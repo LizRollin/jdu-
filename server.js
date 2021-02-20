@@ -65,6 +65,7 @@ app.post('/v3/profiles/sessions', (req, res) => {
     xhr.setRequestHeader('Ubi-AppId', appid);
     xhr.setRequestHeader('Authorization', ticket);
     xhr.send();
+    res.send(xhr.responseText);
 });
 
 app.get(
