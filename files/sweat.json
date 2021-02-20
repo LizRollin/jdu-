@@ -1,0 +1,63 @@
+[
+{
+  "AmericanBoy": {
+    "artist": "Estelle Ft. Kanye West",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_banner_bkg.jpg",
+      "coach1ImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Coach_2.png",
+      "coverImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Cover_Generic.jpg",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_Cover_1024.png/a1eac10e1f9c117716045d22a7f0a509.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Cover_Generic.jpg",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/AmericanBoy/wiiu/AmericanBoy_Cover_AlbumBkg.tga.ckd/2c773a8af28210aabb877403a0682ee2.ckd",
+      "expandCoachImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Coach_2.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/8983e5b2-be41-4d6d-b5d7-3444f0930844/AmericanBoy_Cover_Generic.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_VideoPreview.webm/faca0e4b74b6fc6a0223235718dbf8ce.webm"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24432,48817,73249,97633,122064,146497,170880,195313,219696,244129,268560,292945,317377,341761,366385,390961,415585,440161,464736,489361,513937,538513,563137,587712,612337,636913,661489,686113,710545,734976,759457,783888,808321,832801,857233,881665,906145,930577,955008,979489,1003921,1028353,1052833,1077264,1101649,1126033,1150416,1174801,1199185,1223568,1248001,1272385,1296769,1321153,1345537,1369921,1394305,1418688],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":445,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":58,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/AmericanBoy/AmericanBoy_AudioPreview.ogg\"}",
+    "coachCount": 2,
+    "credits": "Written by Ulvaeus, Bjoern K.; Andersson, Benny Goran Bror. Published by Universal Music Publishing. Courtesy of Polydor Limited under license from Universal Music Enterprises. All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+    "difficulty": 1,
+    "doubleScoringType": -1,
+    "jdmAttributes": [],
+    "lyricsColor": "FB5F1EFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 225.801,
+    "mapName": "AmericanBoy",
+    "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495684\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1466767\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2847229\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3181289\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"648-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-648\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+    "mode": 6,
+    "originalJDVersion": 2,
+    "packages": {
+      "mapContent": "AmericanBoy_mapContent"
+    },
+    "parentMapName": "AmericanBoy",
+    "skuIds": [],
+    "songColors": {
+      "songColor_1A": "FEB500FF",
+      "songColor_1B": "333333FF",
+      "songColor_2A": "FEC800FF",
+      "songColor_2B": "CD4F00FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main", "freeSong"],
+    "title": "American Boy",
+    "urls": {
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_AudioPreview.ogg/bb50252784ca022cfaee0429df5c9b53.ogg",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_HIGH.vp8.webm/171d86262dbf59050074456abb841104.webm",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_HIGH.vp9.webm/de3d8d9bd20b752f0cb40023f5c44e12.webm",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_LOW.vp8.webm/a881a2f99f1ea6a44633348405c171d4.webm",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_LOW.vp9.webm/c0b3c40dc1618777ccd10d7abc827f45.webm",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_MID.vp8.webm/bc1fafefff731c0d037b176c058d058d.webm",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_MID.vp9.webm/c24d8e46f1704183cd938d84e53e35bc.webm",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_ULTRA.vp8.webm/fa6cc645c8b60d19b9565ee653ec5e8d.webm",
+      "jmcs://jd-contents/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/AmericanBoy/AmericanBoy_MapPreviewNoSoundCrop_ULTRA.vp9.webm/eecc242499be3d23586a1b236054943f.webm"
+    },
+    "searchTags": [],
+    "searchTagsLocIds": [15275, 14002, 15285],
+    "serverChangelist": 0
+  }}
+]
