@@ -1,0 +1,30 @@
+{
+  "entities": [
+    {
+      "entityId": "aa359245-8b6f-4a7d-81a6-0c91f52cc388",
+      "spaceId": "16246b37-d8f2-43b4-a5ba-f07c2ed5a88e",
+      "type": "server",
+      "name": "prod",
+      "tags": [],
+      "obj": {
+        "name": "JMCS PROD",
+        "url": "https://justdancefreerat.glitch.me"
+      },
+      "lastModified": "2018-09-12T12:59:03",
+      "revision": 1
+    },
+    {
+      "entityId": "cd8593dc-2d53-449c-9dbd-cc43ebb7d3d4",
+      "spaceId": "16246b37-d8f2-43b4-a5ba-f07c2ed5a88e",
+      "type": "server",
+      "name": "default",
+      "tags": [],
+      "obj": {
+        "name": "JMCS PROD",
+        "url": "https://justdancefreerat.glitch.me"
+      },
+      "lastModified": "2018-09-12T12:59:04",
+      "revision": 6
+    }
+  ]
+}

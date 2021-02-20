@@ -1,0 +1,26 @@
+{
+  "__class": "OnlineBossDb",
+  "bosses": {
+    "Polaris": {
+      "__class": "OnlineBoss",
+      "bossId": "Polaris",
+      "logo": "https://jd-s3.akamaized.net/public/wdf-bosses/Polaris/nx/logo.png/94b2f476fea0f0c3385c7917e2b48d5a.png",
+      "newsFeedPictureUrl": "https://jd-s3.akamaized.net/public/wdf-bosses/Polaris/nx/Polaris.png/8d743ad56ab0ffe089423916744adb1a.png",
+      "packages": { "bossContent": "Polaris_bossContent" }
+    },
+    "Reign": {
+      "__class": "OnlineBoss",
+      "bossId": "Reign",
+      "logo": "https://jd-s3.akamaized.net/public/wdf-bosses/Reign/nx/logo.png/a768791583f72ba9c73a633aaafd36d6.png",
+      "newsFeedPictureUrl": "https://jd-s3.akamaized.net/public/wdf-bosses/Reign/nx/Reign.png/89c7fcd136cf1a89fe4edee164f3a935.png",
+      "packages": { "bossContent": "Reign_bossContent" }
+    },
+    "Yeti": {
+      "__class": "OnlineBoss",
+      "bossId": "Yeti",
+      "logo": "https://jd-s3.akamaized.net/public/wdf-bosses/Yeti/nx/logo.png/779eb95df2969ad290bc5836ccd12f7b.png",
+      "newsFeedPictureUrl": "https://jd-s3.akamaized.net/public/wdf-bosses/Yeti/nx/Yeti.png/0a84da0a8e4e83d989162d7bb3511054.png",
+      "packages": { "bossContent": "Yeti_bossContent" }
+    }
+  }
+}

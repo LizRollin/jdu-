@@ -1,0 +1,1553 @@
+{
+  "__class": "JD_CarouselContent",
+  "categories": [
+    {
+      "__class": "Category",
+      "title": "Just Dance 2016",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "CircusALT"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        },
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Alternate"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "da6c3954-d778-475d-a9a9-b52005b983d8"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "MASHUP",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["MASHUP"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 1",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "HotNCold"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Firework"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "HotStuff"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 3",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "CaliforniaGurls"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ET"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "TeenageDream"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 4",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "PartOfMeDLC"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2014",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "IKissed"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "KiloPapaDLC"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "RichGirlALT"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "WakingUP"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2015",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "BadRomanceALT"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Burn"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "DarkHorse"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ItsMyBirthday"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "LoveMeAgain"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2016 Unlimited",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "AmIWrong"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "BetterWhen"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Cheerleader"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "GetUgly"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "HoldMyHand"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ShutUp"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "StadiumFlowFAN"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "TasteTheFeeling"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ThisIsHowFAN"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Ulibayssia"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2017",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "HowDeep"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2018",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "SwishSwish"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Thumbs"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2019",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "LittleParty"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Boys"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Mayores"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "NewRules"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "NewRulesALT"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "OMGALT"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "WaterMe"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "WaterMeALT"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2020",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "365"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "BoysALT"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2021",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "AllTheGoodGirls"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "DanceMonkey"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "KDance"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "GirlsLike"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Georgia"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "PacaDance"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "RainOnMe"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Runaway"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "StupidLove"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "TillTheWorldEnds"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Tusa"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "USA"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "WithoutMe"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance Asia",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "JDC4Walls"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "BigBowlThickNoodle"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "KDance"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Princess"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Katy Perry Experience",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "HotNCold"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Firework"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "CaliforniaGurls"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ET"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "TeenageDream"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "PartOfMeDLC"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "IKissed"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "KiloPapaDLC"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "WakingUp"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "DarkHorse"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ThisIsHow"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "SwishSwish"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "365"
+            }
+          ],
+          "actionList": "partyMap"
+        }
+      ]
+    }
+  ],
+  "actionLists": {
+    "search": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "SEARCH",
+          "title": "Новый поиск",
+          "type": "open-keyboard"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "default",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "SEARCH",
+          "title": "Предыдущий запрос",
+          "type": "previous-search"
+        }
+      ],
+      "itemType": "search"
+    },
+    "searchPreset": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "SEARCH",
+          "title": "Сохраненный поиск",
+          "type": "search-preset"
+        }
+      ],
+      "itemType": "search"
+    },
+    "NonStop": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "SHUFFLE",
+          "title": "Dance!",
+          "type": "start-rowPlaylist"
+        }
+      ],
+      "itemType": "map"
+    },
+    "partyMap": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Dance!",
+          "type": "play-song"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_leaderboard",
+          "title": "Leaderboard",
+          "type": "leaderboard"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_licensing",
+          "title": "Credits",
+          "type": "credits"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rival": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBADancingQueen": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAFernando": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAGimmeGimme": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAHoneyHoney": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAKnowingMe": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBALayAllYourLove": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAMammaMia": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAMoneyMoney": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBASOS": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBASuperTrooper": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBATakeAChance": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBATheWinner": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAVoulezVous": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalABBAWaterloo": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "abba_2017",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSPirateYouShallBe": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSAccidentallyInLove": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Подписаться",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSABC": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSDayO": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSFiveLittleMonkeys": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSFraggleRock": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSHickoryDickoryDock": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSILikeToMoveIt": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSWorkingOnTheRailroad": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSIfYoureHappy": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSJingleBells": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSMaryHadALittleLamb": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSTheLionSleepsTonight": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSWeGoWellTogether": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalKIDSWheelsOnTheBus": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "kids3",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell_rivalThisIsHow": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "KP",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "partyMapCMUSR": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Dance!",
+          "type": "play-song"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_leaderboard",
+          "title": "Leaderboard",
+          "type": "leaderboard"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_licensing",
+          "title": "Credits",
+          "type": "credits"
+        }
+      ],
+      "itemType": "map"
+    }
+  },
+  "songItemLists": {}
+}

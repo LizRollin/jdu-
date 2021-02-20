@@ -1,0 +1,17 @@
+{
+  "__class": "LeaderboardList",
+  "entries": [
+    {
+      "__class": "LeaderboardEntry_Online",
+      "profileId": "eba33f49-64e3-468a-9d15-d34ffe68e8ff",
+      "rank": 58,
+      "score": 764,
+      "name": "Mur7",
+      "avatar": 376,
+      "country": 8501,
+      "platformId": "",
+      "jdPoints": 53889
+    }
+  ],
+  "playerCount": 14327
+}

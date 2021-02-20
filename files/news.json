@@ -1,0 +1,45 @@
+{
+  "__class": "NewsfeedList",
+  "entries": [
+    {
+      "activationTime": 1467050400,
+      "active": true,
+      "defaultLanguage": "ru",
+      "displayDuration": 3,
+      "locId": 13502,
+      "pool": "Priority2_Stats",
+      "textLocId": 13505,
+      "themeType": "boss",
+      "type": "automatic",
+      "variables": {
+        "pictureUrl": ["boss-boss1PictureUrl"],
+        "text": ["boss-boss1BeatenCount"],
+        "title": ["boss-boss1Name"]
+      },
+      "pictureUrl": "https://just-dance-prod.s3.amazonaws.com/ugc/1d01ac4b-8b86-4969-a1ea-e8bd4bafbbec/andreipetrov.png",
+      "text": "Выиграл больше всего турниров!.",
+      "title": "Андрей Петров",
+      "__class": "NewsfeedEntry"
+    },
+    {
+      "activationTime": 1467050400,
+      "active": true,
+      "defaultLanguage": "ru",
+      "displayDuration": 3,
+      "locId": 13504,
+      "pool": "Priority2_Stats",
+      "textLocId": 13601,
+      "themeType": "boss",
+      "type": "automatic",
+      "variables": {
+        "pictureUrl": ["boss-boss3PictureUrl"],
+        "text": ["boss-boss3BeatenCount"],
+        "title": ["boss-boss3Name"]
+      },
+      "pictureUrl": "https://just-dance-prod.s3.amazonaws.com/ugc/11383f4f-b21e-49f1-be4f-953860b7c735/burgerking.png",
+      "text": "просто тест.",
+      "title": "Тест",
+      "__class": "NewsfeedEntry"
+    }
+  ]
+}

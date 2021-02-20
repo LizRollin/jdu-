@@ -1,0 +1,21 @@
+{
+    "token": null,
+    "ticket": "ew0KICAidmVyIjogIjEiLA0KICAiYWlkIjogIjQ2ZjQ0YmIyLTc2ZjAtNDUwYi04MTE0LTI4MGU4YjEyYjAxMyIsDQogICJlbnYiOiAiUHJvZCIsDQogICJzaWQiOiAiN2IxODdiODItYTJhMy00ZTBkLWI1YjMtNWUyNzliM2QzZDc2IiwNCiAgInR5cCI6ICJKV0UiLA0KICAiZW5jIjogIkExMjhDQkMiLA0KICAiaXYiOiAiSGkxbFl6TGY1d3RtVHVwWlE1TnUwZyIsDQogICJpbnQiOiAiSFMyNTYiDQp9.SDYcEd1J2OjzxUoAic4Jq42UHy_fe1sOrMHqwbbDpkK13SNel07YqgUsruM5YltSrQAMVKePG3EYwi9SAY5w4KGRl-mH8EDpy7fxEjTTVor6HkO5gKCwbC2VhvTSEePCxTZdBJWEaQPDaJl6E1mFVG2noijUrZX9eD-CFasC0k6APPbOkFXcjYtWGOfxqZpkjQyYqyjKxmDReZecpjHa19MaKyznK8MHYZZG9nrT3peZE9BLljlCu9SDFkJMDiit5YGACMsMfZrPYKgGv026pDjOPAfaBWPTXe1AfQwA79cwpIoSQANCXjQXswTWyjT6MK2lZ7h4Yv60NAMZBwN1TmJFYFLklN_ZevoXwnyB7kQ4q6XJ3_16xFbEjSq9EGiZbwuf5aVsze5wnkwgur-4xgO2ASq6OPbazXVLPw0uMT1pSsoHdPI5FJ_D6DOaW0RO1WfyQHiW0sRkUVoP6Qz7_m6lf90XggxKnd_gqVRvGJ05ISFYkYdQ_HEfrp6s65yFmEd9g0acbjT4uK8zKWugqCR41npkSQwB6AKt2BsrXese_lbblWCfKN0Vt2SOrEjwQQJywyccfuwyTQ_DFzgItqF8gKZeMGs8fKJb7-7KlFqewMLA7NyjFUVo9ge6FUQ-w8As2FeBw-Gry11mragKcUul-rjYzABcLEiYIg0nTQohG6Oz3-hVJQfy6iFLZe-PJ9puXU45maf_QXTfoclhuUSDOP4iuvnrtFFECUeqJPYz0Sm9UeahmOAs3Wpf-6I7y3-u0Hw6yLvBoFe7NScSf0hctbYcVIvOaREJ2lwu_uv3rMKgt9ZhTGn3dp-grppRuIM8crR-4ICzG9rTu4LmrRiaoQfXFG1fiznOadxpkBzdpRT1uRhbpPT5qDV8QWDb0cLghBkzjOEmnxFcsyHnFdxLxKekwzFYS7JtODWQGhwAyMWp2N-uRt8O7Xva-iscxW2trqCnSRCilB2KwU1CnGCcRHm9SdSgj2cdfYE3heMHzqWUn6-DVodN488E8gvkfbAoDNSMIFaeKk6tTEGkVhRlqKtxwcUmchk_2tY7a9WLQaogpDf6Gs5OUOGibgHqiTcPM7b3tTl3LRr25HrdoA.xYahHXt2lkGSXUmQokopiXckWTu4RfmhvzOG4Fpi-hM",
+    "twoFactorAuthenticationTicket": null,
+    "expiration": "2019-09-30T17:06:39.7488046Z",
+    "platformType": "uplay",
+    "profileId": "eba79f49-64e7-468a-9d15-d34ffe68e1ff",
+    "userId": "eba79f49-64e7-468a-9d15-d34ffe68e1ff",
+    "username": "jd4-rob_JD2016",
+    "nameOnPlatform": "jd4-rob_JD2016",
+    "initializeUser": true,
+    "spaceId": "f1ae5b84-db7c-481e-9867-861cf1852dc8",
+    "environment": "Prod",
+    "hasAcceptedLegalOptins": true,
+    "accountIssues": null,
+    "sessionId": "f2e3826e-63fb-4d26-859d-fe4064726f46",
+    "clientIp": "5.16.119.57",
+    "clientIpCountry": "RU",
+    "serverTime": "2019-09-30T14:06:39.7800539Z",
+    "rememberMeTicket": null
+}
