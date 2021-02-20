@@ -1,0 +1,20 @@
+{
+  "LittleParty_mapContent": {
+    "md5": "8907891020613db7559517d423fb9648",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Flittleparty_main_scene_pc.zip?v=1613853676813",
+    "version": 1
+  },
+  "PlaceHolder_mapContent": {
+    "md5": "",
+    "storageType": 0,
+    "url": "",
+    "version": 1
+  },
+  "Alexandrie_mapContent": {
+		"md5": "cd2e3f8828d6b1657571ea2aac467269",
+		"storageType": 0,
+		"url": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_MAIN_SCENE_ORBIS.zip/cd2e3f8828d6b1657571ea2aac467269.zip",
+		"version": 1
+	}
+}
