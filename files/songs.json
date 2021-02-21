@@ -1,4 +1,65 @@
 {
+  "BlindingLights": {
+    "artist": "The Weeknd",
+    "assets": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_banner_bkg.tga.ckd/3342a089417d2db59c469220b9d52eec.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_Coach_1.tga.ckd/9d1ec521b40402146440ed328f948b8c.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_Cover_Generic.tga.ckd/4da7babfa1a9086ac8ffe6b1361b4edb.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_Cover_Online.tga.ckd/93cfc990f359b6dd4e87ce7456f75cc7.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_Cover_AlbumBkg.tga.ckd/5fce961be523863da9a251f50b66983c.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_Cover_AlbumCoach.tga.ckd/ef6c75d0f5bd895c979e4f2a1af49f8e.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_Coach_1_Phone.png/91996cc801d81cd10446214c11c4c4c6.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_Cover_Phone.jpg/7ce73f311c577d3908880e93c562edfb.jpg",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/ps4/BlindingLights_map_bkg.tga.ckd/6d386a814344d89fe95f0566acfd052e.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,33684,67368,101052,134736,168421,202105,235789,269473,303157,336842,370526,404210,437894,471578,505263,538947,572631,606315,640000,673684,707368,741052,774736,808421,842105,875789,909473,943157,976842,1010526,1044210,1077894,1111578,1145263,1178947,1212631,1246315,1280000,1313684,1347368,1381052,1414736],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-15,\"endBeat\":283,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":42,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/blindinglights/blindinglights_AudioPreview.ogg\"}",
+    "cnlyrics": "我一直在寻找你 我已独自一人太久太久 或许你能告诉我 该如何点燃这火焰 我正在经受 快乐之后的苦痛 你也不必做得太多 你一次触碰 就会直接将我俘获 这罪恶的城 空寂冰冷 无人在我身旁 评头论足 你若离开 我的视线便开始模糊 我说 这道强光 已将我双眼蒙住 我不能安睡 除非感受到你的碰触 我说 我即将深陷于夜幕当中 若果真如此 我便只有你可托付 我的时间 已经所剩不多 我看到太阳 正将这暗夜划破 我只能选择上路 加快我的速度 这罪恶的城 空寂冰冷 无人在我身旁 评头论足 你若离开 我的视线便开始模糊 我说 这道强光 已将我双眼蒙住 我不能安睡 除非感受到你的碰触 我说 我即将深陷于夜幕当中 若果真如此 我便只有你可托付 我朝你身边走过 只为让你知道 这些事情 电话里难以说得清楚 这一次 我再也不愿让你远走 我说 这道强光 已将我双眼蒙住 我不能安睡 除非感受到你的碰触 嗨嗨 嗨嗨 我说 这道强光 已将我双眼蒙住 我不能安睡 除非感受到你的",
+    "coachCount": 1,
+    "credits": "Written by Abel Tesfaye, Ahmad Balshe, Max Martin, Oscar Thomas Holter and Jason Quenneville. Published By Universal Music Publishing Canada on behalf of Universal Music Corp. and Sal And Co LP. / Sal and Co LP (SOCAN), Songs of Wolf Cousins (STIM) and WC Music Corp. (ASCAP). All rights on behalf of itself and Sal and Co LP and Songs of Wolf Cousins administered by WC Music Corp. / MXM Music AB (ASCAP). Administered by Kobalt Music Publishing America, Inc. Courtesy of The Weeknd XO & Republic Records under license from Universal Music Enterprises.",
+    "difficulty": 1,
+    "jdmAttributes": [],
+    "lyricsColor": "4BF3DAFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 209.12199999999999,
+    "mapName": "BlindingLights",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495719\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1466180\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2530513\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2951879\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648276\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493287\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2979476\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5926180\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1152\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": {
+      "mapContent": "BlindingLights_mapContent"
+    },
+    "parentMapName": "BlindingLights",
+    "songColors": {
+      "songColor_1A": "444444FF",
+      "songColor_1B": "111111FF",
+      "songColor_2A": "AAAAAAFF",
+      "songColor_2B": "777777FF"
+    },
+    "status": 3,
+    "subcredits": "Abel Tesfaye、Ahmad Balshe、Max Martin、Oscar Thomas Holter 和 Jason Quenneville 创作。Universal Music Publishing Canada 代表 Universal Music Corp. 和 Sal And Co LP. / Sal and Co LP (SOCAN)、Songs of Wolf Cousins (STIM) 和 WC Music Corp. (ASCAP) 出版发行。代表其自身和 Sal and Co LP 以及 Songs of Wolf Cousins 的所有权利由 WC Music Corp. / MXM Music AB (ASCAP) 进行管理。由 Kobalt Music Publishing America, Inc. 进行管理。承蒙 The Weeknd XO & Republic Records 经 Universal Music Enterprises 许可后提供。",
+    "subtitle": "炫光",
+    "sweatDifficulty": 1,
+    "tags": ["Main", "subscribedSong"],
+    "title": "Blinding Lights",
+    "urls": {
+      "jmcs://jd-contents/BlindingLights/BlindingLights_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_AudioPreview.ogg/d7370af4d668a429e1bdfda558230734.ogg",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp8.webm/a1c1e680f4f8f160eb0cbfcbafc1813f.webm",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_HIGH.vp9.webm/f542350cf8ab37eb2e7ab8b8d8722c68.webm",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp8.webm/6c1e55a2132cd56e1078509ce7342e2f.webm",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_LOW.vp9.webm/f6b820940080921a847ecc20c768dc8d.webm",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp8.webm/a9bf7ae3ded96edc66d876750fec2ff7.webm",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_MID.vp9.webm/681d2741404cf9fab503626effe983fe.webm",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp8.webm/8b45869a08233323b912479d4ed867dd.webm",
+      "jmcs://jd-contents/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/BlindingLights/BlindingLights_MapPreviewNoSoundCrop_ULTRA.vp9.webm/1bf3138894164f1960993f2dcf1bd0af.webm"
+    },
+    "serverChangelist": 556288
+  },
   "Bailando1997": {
     "artist": "Paradisio Ft. Dj Patrick Samoy",
     "assets": {
@@ -327,5 +388,212 @@
       "jmcs://jd-contents/LittleParty/LittleParty_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/LittleParty/LittleParty_MapPreviewNoSoundCrop_ULTRA.vp9.webm/8f19ad49d64132513858db283ff16803.webm"
     },
     "serverChangelist": 547906
+  },
+  "JDCChickChick": {
+    "artist": "王蓉",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/70d790ece40480b22f995d9767011e75.ckd",
+      "coverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/456d10078d50246b4672fda49899ee56.ckd",
+      "cover_smallImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/363279ac16f1cbb8088bfd707b763522.ckd",
+      "expandBkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/6244b43f05038445019088c973aede4a.ckd",
+      "expandCoachImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/edde8df6a53bc97a74d18bd4b1bbb06a.ckd",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/cf7ff5dcb30e9991ad5eafd1163e1642.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/f6550ae53473a70948f42f705befac55.jpg",
+      "map_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/54997bf4c40590d2a078ec7f67597d83.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22512,45024,67488,90000,112512,135024,157488,180000,202511,225023,247488,270000,292511,315023,337487,360000,382511,405023,427488,450000,472511,495024,517488,540000,562511,585024,607488,630000,652511,675024,697488,720000,742512,765024,787487,810000,832512,855024,877487,900000,922512,945024,967487,989999,1012512,1035024,1057487,1080000,1102512,1125024,1147487,1170000,1192511,1215024,1237487,1260000,1282511,1305024,1327487,1350000,1372511,1395024,1417488],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":460,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jdcchickchick/jdcchickchick_AudioPreview.ogg\"}",
+    "cnlyrics": "母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 小鸡小鸡小鸡小鸡小鸡小鸡 咕咕day 母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 公鸡公鸡公鸡公鸡 喔喔 喔喔喔 母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 小鸡小鸡小鸡小鸡小鸡小鸡 咕咕day 母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 公鸡公鸡公鸡公鸡 谁偷了我的Chua米 咕咕day 咕咕咕咕day 咕咕咕咕咕咕day 咕咕咕咕day 咕咕day 咕咕咕咕day 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕 咕咕day 喔喔啊 喔喔啊 喔喔喔喔 喔喔啊 叽 叽叽 叽叽 叽叽叽叽 叽叽 喔喔喔喔 喔喔哎 喔喔喔喔 喔喔哎 汪 汪汪 汪汪 么么咩 么么咩 么咩么咩 么么咩 呱 呱呱 呱呱 呱 呱呱 哞 喔喔喔喔 喔喔哎 喔喔喔喔 喔喔哎 咩 哞 咩 哞 谁偷了我的 Chua米 咕咕day 咕咕咕咕day 咕咕咕咕咕咕day 咕咕咕咕day 咕咕day 咕咕咕咕day 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕 咕咕day 母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 小鸡小鸡小鸡小鸡小鸡小鸡 咕咕day 母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 公鸡公鸡公鸡公鸡 喔喔 喔喔喔 母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 小鸡小鸡小鸡小鸡小鸡小鸡 咕咕day 母鸡母鸡母鸡母鸡母鸡母鸡 咕咕day 公鸡公鸡公鸡公鸡 谁偷了我的Chua米 咕咕day 咕咕咕咕day 咕咕咕咕咕咕day 咕咕咕咕day 咕咕day 咕咕咕咕day 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕 咕咕day 咕咕day 咕咕咕咕day 咕咕咕咕咕咕day 咕咕咕咕day 咕咕day 咕咕咕咕day 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕咕 咕咕咕 咕咕咕 咕咕day 谁偷了我的 Chua米",
+    "coachCount": 1,
+    "credits": "王蓉创作。由杭州回声文化艺术策划有限公司出版发行，承蒙杭州回声文化艺术策划有限公司提供。",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "02BFF8FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 217.969,
+    "mapName": "JDCChickChick",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496239\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"606-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-606\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476445\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2565707\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3742397\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648270\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493154\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2986079\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5884486\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCChickChick/JDCChickChick_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"607-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-607\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2016,
+    "packages": {
+      "mapContent": "JDCChickChick_mapContent"
+    },
+    "parentMapName": "JDCChickChick",
+    "songColors": {
+      "songColor_1A": "600857FF",
+      "songColor_1B": "17002AFF",
+      "songColor_2A": "C71007FF",
+      "songColor_2B": "180128FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 3,
+    "tags": ["Main", "subscribedSong"],
+    "title": "小鸡小鸡",
+    "urls": {
+      "jmcs://jd-contents/JDCChickChick/JDCChickChick_AudioPreview.ogg": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/e5933c527d81b094658b15de802e2559.ogg"
+    },
+    "serverChangelist": 1
+  },
+  "JDCCoolestEthnic": {
+    "artist": "凤凰传奇",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/73bbd24f922bf699344c1081a3dede07.ckd",
+      "coverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/0c0145c51495563efe218784d47283c9.ckd",
+      "cover_smallImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/8da13b4602f1e83384175c83621c9aad.jpg",
+      "expandBkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/a84d4fbcb900cdd23af7cdaa8cc490e0.ckd",
+      "expandCoachImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/c7b7e398ab9f514552d86204319de9fd.ckd",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/8738fa82201dfdebd9dbe80f340fb498.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/8da13b4602f1e83384175c83621c9aad.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22704,45360,68064,90720,113424,136080,158736,181440,204096,226800,249456,272160,294816,317520,340176,362832,385536,408192,430896,453552,476256,498912,521568,544272,566928,589632,612288,634992,657648,680352,703008,725664,748368,771024,793728,816384,839088,861744,884448,907104,929760,952464,975120,997824,1020480,1043183,1065839,1088543,1111199,1133855,1156559,1179215,1201919,1224575,1247279,1269935,1292591,1315295,1337951,1360655,1383311,1406015,1428671],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":500,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jdccoolestethnic/jdccoolestethnic_AudioPreview.ogg\"}",
+    "coachCount": 1,
+    "credits": "张超创作。由广东孔雀廊文化发展公司出版发行，承蒙广东孔雀廊文化发展公司提供。",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "3CB0D4FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 236.22,
+    "mapName": "JDCCoolestEthnic",
+    "mode": 6,
+    "originalJDVersion": 2016,
+    "packages": {
+      "mapContent": "JDCCoolestEthnic_mapContent"
+    },
+    "parentMapName": "JDCCoolestEthnic",
+    "songColors": {
+      "songColor_1A": "600857FF",
+      "songColor_1B": "17002AFF",
+      "songColor_2A": "C71007FF",
+      "songColor_2B": "180128FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["subscribedSong"],
+    "title": "最炫民族风",
+    "urls": {
+      "jmcs://jd-contents/JDCCoolestEthnic/JDCCoolestEthnic_AudioPreview.ogg": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/afc9b6afdb2c8c05e56f8c58d1f03186.ogg"
+    },
+    "serverChangelist": 1
+  },
+  "JDCHotPot": {
+    "artist": "Aya (阿雅)",
+    "assets": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_Coach_1.tga.ckd/466bd50bfba324b5e87b27a1d34bac13.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_Coach_2.tga.ckd/b8cb5af7843d20a90a09a018f92813c3.ckd",
+      "coach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_Coach_3.tga.ckd/bcb95b5f6bb7e85590a3494343b44fef.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_Cover_Generic.tga.ckd/f29fb5504706480a6318851a0c73d569.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_Cover_Online.tga.ckd/51bdf3b6d87a720c1e85f9bfad02ff4c.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_Cover_AlbumBkg.tga.ckd/1bfa5c7c9ca2bab84c9baf2af0e0cb27.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_Cover_AlbumCoach.tga.ckd/84a43e2fd38f25473c29bd318d2d241d.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_Coach_1_Phone.png/c71f7ef2e7c826e5ed455aa9743ecf5c.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_Coach_2_Phone.png/344e822ff1611edff032526e87f496c1.png",
+      "phoneCoach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_Coach_3_Phone.png/cce6dea5deffdb4c3f3ca7269f5bdf8e.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_Cover_Phone.jpg/35ef70caa8e486a5685fba8dcc875b67.jpg",
+      "videoPreviewVideoURL": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_VideoPreview.webm/c23552daede9c179acc04586a70f4884.webm",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/ps4/JDCHotPot_map_bkg.tga.ckd/df2a360bbb8d3ba537b5cf6e833e24e3.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,19200,38400,57600,76800,96000,115201,134401,153601,172801,192001,211201,230401,249601,268801,288001,307201,326401,345601,364801,384001,403201,422401,441601,460801,480001,499201,518401,537601,556801,576001,595201,614401,633601,652801,672001,691201,710401,729601,748801,768001,787201,806401,825602,844802,864002,883202,902402,921602,940802,960002,979202,998402,1017602,1036802,1056002,1075202,1094402,1113602,1132802,1152002,1171202,1190402,1209602,1228802,1248002,1267202,1286402,1305602,1324802,1344002,1363202,1382402,1401602,1420802],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":487,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jdchotpot/jdchotpot_AudioPreview.ogg\"}",
+    "cnlyrics": "喂 今晚吃啥呀 不知道耶 你觉得咧 那咱们去吃烤肉呗 烤肉啊嗯 吃饭干嘛吃烤肉 烤个肉等那么久 肉喜欢跟你装熟 还没吃到额头就出油 木炭有时不热情 蛤蛎爱耍自闭 弄火锅多么容易 喜欢吃什么都加进去 冬天吃火锅爽 可以暖暖心房 夏天吃火锅爽 可以流汗又减脂肪 春秋天吃更爽 可以赏花赏月赏秋香 废话别那么多 料快往锅里 下 下下下下下 下下下下下 下下下下下 全往火锅里 下 下下下下下 下下下下下 下下下下下 火锅我最爱 麻辣辣辣辣辣辣 就是就是要 麻辣辣辣辣辣辣 再加一点汁 麻辣辣辣辣辣辣 然后捞面条 麻辣辣辣辣辣辣 很爽 吃火锅崇尚自由 酱爱什么油就加什么油 醋酱油麻油 吃不下还有人帮你加油加油 花枝丸牛肉丸贡丸 所有的都来锅里玩 猪肉牛肉羊肉 妈妈说吃肉肉才会长肉肉 看着汤头表面汽泡 批哩啪拉 等不及拿筷子准备 给我消灭它 有时吃太辣肚子会 稀哩哗拉 回家后跑厕所 就 下 下下下下下 下下下下下 下下下下下 全往火锅里 下 下下下下下 下下下下下 下下下下下 火锅我最爱 麻辣辣辣辣辣辣 就是就是要 麻辣辣辣辣辣辣 再加一点汁 麻辣辣辣辣辣辣 然后捞面条 麻辣辣辣辣辣辣 很爽 虽然舌头麻麻 闲话还是要家常 不找你火锅都不会主动联络的啦 好久不见 朋友最近怎么样 笑声还是那么亮 食量还是无敌大 哇 下下下下下 下下下下下 下下下下下 全往火锅里 捞 捞捞捞捞捞 捞捞捞捞捞 捞捞捞捞捞 火锅我最爱 麻辣辣辣辣辣辣 就是就是要 麻辣辣辣辣辣辣 大家一起来 麻辣辣辣辣辣辣 麻辣辣辣辣辣辣 很爽",
+    "coachCount": 3,
+    "credits": "<< to be filled >>",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "4A600CFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 197.6,
+    "mapName": "JDCHotPot",
+    "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495719\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1128\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482113\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2928024\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1130\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4589374\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"640-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-640\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+    "mode": 6,
+    "originalJDVersion": 2017,
+    "packages": {
+      "mapContent": "JDCHotPot_mapContent"
+    },
+    "parentMapName": "JDCHotPot",
+    "songColors": {
+      "songColor_1A": "600857FF",
+      "songColor_1B": "17002AFF",
+      "songColor_2A": "C71007FF",
+      "songColor_2B": "180128FF"
+    },
+    "status": 3,
+    "subartist": "阿雅",
+    "subcredits": "林子钦创作。台湾大潮音乐经纪有限公司出版发行。承蒙美妙音乐股份有限公司提供。",
+    "subtitle": "火锅爽",
+    "sweatDifficulty": 1,
+    "tags": ["Main", "freeSong"],
+    "title": "Hot Pot Cool 《火锅爽》",
+    "urls": {
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_AudioPreview.ogg/53a4c4cd58682bb0ef0d68682397e1dd.ogg",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp8.webm/d9ae83ddea00ea07057119c2798a982b.webm",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp9.webm/8312a75f6ab146b0e811d2e1cc950891.webm",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp8.webm/10b5872e75e465dcc6da570d3737a365.webm",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp9.webm/270efe62d21801ec4d0cbb17d4669b40.webm",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp8.webm/ed64233632c811596b82fd273d57369b.webm",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp9.webm/36fc057305650a084be539d3d4921a43.webm",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e4f8214e100047e5b14f18d4546831c3.webm",
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ed710b9a2eb9c3ed16bd266bafd8bb07.webm"
+    },
+    "serverChangelist": 0
+  },
+  "JDCSoGood": {
+    "artist": "大张伟",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+      "coach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/b2264de1fbcef9e962d564fc7aca27e3.ckd",
+      "coach2ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/f4ff2bebc7c9d3f571661bcd8ac458b7.ckd",
+      "coverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/7926821bd685fc0e8cf18931b75c4fd0.ckd",
+      "cover_smallImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/a69136a5e419f52ce89cef57016508e9.ckd",
+      "expandBkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/1442f3e308e3cb9e0475822ca8f62845.ckd",
+      "expandCoachImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/e6c4e39dbea77789452fd3ce9806f28a.ckd",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/a9bc949f344066a0ebc4c1bb8d0f99b2.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/e0d295c8c22a03df42744c31e4cfee4e.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/80fa676aab8f3979f60c285cbdc03fa4.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22320,44640,65232,88752,110688,132672,154848,177024,199200,221376,243552,265728,287904,310080,332256,354432,376608,398784,420960,443136,465312,487488,509664,531792,553920,576048,598224,620352,642480,664656,686688,708768,730800,752880,774912,796992,819312,841632,863952,886272,908592,930912,952704,974880,997008,1018464,1040736,1063008,1085280,1107552,1129824,1151999,1174223,1196447,1218671,1240847,1263071,1285295,1307423,1329551,1351679,1373807,1395935,1418063],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":467,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jdcsogood/jdcsogood_AudioPreview.ogg\"}",
+    "coachCount": 2,
+    "credits": "大张伟创作。由北京新傲音乐有限公司出版发行，承蒙北京新傲音乐有限公司提供。",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "57E807FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 217.773,
+    "mapName": "JDCSoGood",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495944\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474917\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2879062\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3705033\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647459\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1489652\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2960907\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5873566\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2016,
+    "packages": {
+      "mapContent": "JDCSoGood_mapContent"
+    },
+    "parentMapName": "JDCSoGood",
+    "songColors": {
+      "songColor_1A": "600857FF",
+      "songColor_1B": "17002AFF",
+      "songColor_2A": "C71007FF",
+      "songColor_2B": "180128FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 3,
+    "tags": ["Main", "subscribedSong"],
+    "title": "倍儿爽",
+    "urls": {
+      "jmcs://jd-contents/JDCSoGood/JDCSoGood_AudioPreview.ogg": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/dc99efd735f13a4bf66af4c53718f6ff.ogg"
+    },
+    "serverChangelist": 1
   }
 }
