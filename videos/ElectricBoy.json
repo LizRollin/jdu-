@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FElectricBoy_ULTRA.webm?v=1609935175255",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FElectricBoy_HIGH.webm?v=1609935170984",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FElectricBoy_MID.webm?v=1609935168988m",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FElectricBoy_LOW.webm?v=1609935168803",
+    "jmcs://jd-contents/ElectricBoy/ElectricBoy.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FElectricBoy.ogg?v=1609935135801"
+  }
+}
