@@ -1,4 +1,81 @@
 {
+  "DansVanDeFarao": {
+    "artist": "K3",
+    "assets": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_banner_bkg.tga.ckd/4270291bacd098f18fcef73ab97ff36c.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_Coach_1.tga.ckd/4dc76a3d42f14ad520677c86f859328c.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_Coach_2.tga.ckd/0f924711bc0e597c2107432de3fb3795.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_Coach_3.tga.ckd/80a3e278512c7935dfee3ecd2c0f5d20.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_Cover_Generic.tga.ckd/e3177fa8690b40127a9180cb705b39fe.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_Cover_1024.png/756766dd44c586a01c44d945ba3996dc.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_Cover_Online.tga.ckd/8ad5cf3ddc9984cbde846045140b9cfa.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_Cover_AlbumBkg.tga.ckd/0ef77fae77ab55273f06f6c3c91e6b1c.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_Cover_AlbumCoach.tga.ckd/3a6cccc484547f554ee63349480c081f.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_Coach_1_Phone.png/d97bd3f3ae25e802f7f6ccf107a323f6.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_Coach_2_Phone.png/c8c474486a47311fb61a3d30a1db1e2a.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_Coach_3_Phone.png/8962d6eb13e72ce0227f31a5fed99d59.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_Cover_Phone.jpg/f9dc35eb85ea17e382b753ee5c02f5b1.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_VideoPreview.webm/520e10e52ff72d05609b6bfd39b8e553.webm",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/x1/DansVanDeFarao_map_bkg.tga.ckd/150d1d85889cbddae9be1bef0e0c1db9.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":341,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dansvandefarao/dansvandefarao_AudioPreview.ogg\"}",
+    "coachCount": 3,
+    "credits": "Written by Alain Vande Putte, Miguel Wiels and Peter Gillis. Published by Studio 100 nv and Studio Entertainment 2. Courtesy of Studio 100 nv.",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "D762F6FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 205.79999999999998,
+    "mapName": "DansVanDeFarao",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496910\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"666-1155\">\r\n\t\t\t\t\t<Initialization range=\"0-666\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1481666\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"667-1157\">\r\n\t\t\t\t\t<Initialization range=\"0-667\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947514\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"667-1157\">\r\n\t\t\t\t\t<Initialization range=\"0-667\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4431263\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"667-1157\">\r\n\t\t\t\t\t<Initialization range=\"0-667\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647799\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"667-1157\">\r\n\t\t\t\t\t<Initialization range=\"0-667\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493355\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"667-1157\">\r\n\t\t\t\t\t<Initialization range=\"0-667\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2985596\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"667-1157\">\r\n\t\t\t\t\t<Initialization range=\"0-667\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5956018\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"667-1164\">\r\n\t\t\t\t\t<Initialization range=\"0-667\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": {
+      "mapContent": "DansVanDeFarao_mapContent"
+    },
+    "parentMapName": "DansVanDeFarao",
+    "skuIds": [],
+    "songColors": {
+      "songColor_1A": "FFC27BFF",
+      "songColor_1B": "F7A539FF",
+      "songColor_2A": "FFF7E5FF",
+      "songColor_2B": "FF9600FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "ExcludedFromWDF",
+      "JustDance2021",
+      "Trio",
+      "Medium",
+      "Sweat Low",
+      "Girls",
+      "Historical",
+      "Princess",
+      "Wacky"
+    ],
+    "title": "Dans van de Farao",
+    "urls": {
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_AudioPreview.ogg/ca9cb505dfd97b4f1ed1e43469008f62.ogg",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_HIGH.vp8.webm/ee78b2f6f9cca8271e9c6b085fa51b4f.webm",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_HIGH.vp9.webm/d53f4e8d7ce6e2b9c6d7a285e77ece05.webm",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_LOW.vp8.webm/82ed641b94ba99ce5362ec15ec529689.webm",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_LOW.vp9.webm/83050dc55a85dae0edc1976b9a3aa390.webm",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_MID.vp8.webm/280cd03bfd2dade8e867baeea84d1ca4.webm",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_MID.vp9.webm/859a8a78249070ee3858e1a835ca41e7.webm",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_ULTRA.vp8.webm/4713b10470428912465536eb19dcfc92.webm",
+      "jmcs://jd-contents/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/DansVanDeFarao/DansVanDeFarao_MapPreviewNoSoundCrop_ULTRA.vp9.webm/4994783250d8eab4f65598eab41e7a6b.webm"
+    },
+    "serverChangelist": 563314
+  },
   "Everybody": {
     "artist": "Millennium Alert",
     "assets": {
@@ -952,17 +1029,9 @@
     "tags": ["Main", "freeSong"],
     "title": "Hot Pot Cool",
     "urls": {
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_AudioPreview.ogg/53a4c4cd58682bb0ef0d68682397e1dd.ogg",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp8.webm/d9ae83ddea00ea07057119c2798a982b.webm",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_HIGH.vp9.webm/8312a75f6ab146b0e811d2e1cc950891.webm",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp8.webm/10b5872e75e465dcc6da570d3737a365.webm",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_LOW.vp9.webm/270efe62d21801ec4d0cbb17d4669b40.webm",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp8.webm/ed64233632c811596b82fd273d57369b.webm",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_MID.vp9.webm/36fc057305650a084be539d3d4921a43.webm",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp8.webm/e4f8214e100047e5b14f18d4546831c3.webm",
-      "jmcs://jd-contents/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ed710b9a2eb9c3ed16bd266bafd8bb07.webm"
+      "jmcs://jd-contents/JDCHotPot/JDCHotPot_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCHotPot/JDCHotPot_AudioPreview.ogg/53a4c4cd58682bb0ef0d68682397e1dd.ogg"
     },
-    "serverChangelist": 0
+    "serverChangelist": 4
   },
   "JDCSoGood": {
     "artist": "Da Zhang Wei",

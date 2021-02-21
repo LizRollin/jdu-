@@ -65,6 +65,12 @@
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/dancemonkey_main_scene_pc.zip",
     "version": 2
   },
+  "DansVanDeFarao_mapContent": {
+    "md5": "f4c5117b3b5d422127415e51789405bc",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/dansvandefarao_main_scene_pc.zip",
+    "version": 2
+  },
   "JDCChickChick_mapContent": {
     "md5": "d4f14f5e609c2d1cc8a4eb0aaf5594ba",
     "storageType": 0,
@@ -132,9 +138,9 @@
     "version": 5
   },
   "Everybody_mapContent": {
-    "md5": "4da3c3883a6d9a3fb65ad54c8d373648",
+    "md5": "787a09a66d0bacd438a77b4c589fa294",
     "storageType": 0,
-    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/everybody_main_scene_pc.zip",
-    "version": 5
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2FEverybody_Main_Scene_PC.zip?v=1613940545870",
+    "version": 7
   }
 }
