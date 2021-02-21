@@ -59,6 +59,12 @@
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/buscandoalt_main_scene_pc.zip",
     "version": 2
   },
+  "DanceMonkey_mapContent": {
+    "md5": "7f4dc6ebc9cde5604ade263b954a2a01",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/dancemonkey_main_scene_pc.zip",
+    "version": 2
+  },
   "JDCChickChick_mapContent": {
     "md5": "d4f14f5e609c2d1cc8a4eb0aaf5594ba",
     "storageType": 0,
@@ -100,5 +106,17 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/46a149ad-ef56-48b7-8d3a-22ca8ec6c6be%2FJDCSoGood_MAIN_SCENE_PC.zip?v=1613126548332",
     "version": 2
+  },
+  "ConAltura_mapContent": {
+    "md5": "a04dfbe257fc807c6edaf107dddfaebb",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FConAltura_Main_Scene_PC.zip?v=1611143264183",
+    "version": 1
+  },
+  "365_mapContent": {
+    "md5": "b34f1a09d741525069ee766dce4ed04b",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2F365_main_scene_pc.zip?v=1613938718683",
+    "version": 1
   }
 }
