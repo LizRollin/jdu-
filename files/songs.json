@@ -1,4 +1,63 @@
 {
+  "AdoreYou": {
+    "artist": "Harry Styles",
+    "assets": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_banner_bkg.tga.ckd/c02d6dec8a24531a0248599acd9b5f1b.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_Coach_1.tga.ckd/e93a224da1ac19a0c3b14a32c2d6fc2d.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_Cover_Generic.tga.ckd/00f99759a9e3269735fdc27c330ec257.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_Cover_Online.tga.ckd/fdfde4bbed88a2c16e8e4529579b6398.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_Cover_AlbumBkg.tga.ckd/5ec926db1d6e8088f0a40be03e71a2bb.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_Cover_AlbumCoach.tga.ckd/824ff74c9484955499a0f257924e2b55.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_Coach_1_Phone.png/131e255581356b22b80d78f23727bbc2.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_Cover_Phone.jpg/77ed3d788151996c0056494e794f3521.jpg",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/ps4/AdoreYou_map_bkg.tga.ckd/cc31efbdee72850c4a8c416f34c0a3f6.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29091,58182,87272,116363,145454,174545,203636,232727,261818,290909,320000,349091,378182,407272,436363,465454,494545,523636,552727,581818,610909,640000,669091,698182,727272,756363,785454,814545,843636,872727,901818,930909,960000,989091,1018182,1047272,1076363,1105454,1134545,1163636,1192727,1221818,1250909,1280000,1309091,1338182,1367272,1396363,1425454],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":344,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/adoreyou/adoreyou_AudioPreview.ogg\"}",
+    "cnlyrics": "我的心情就像草莓味的唇膏 我已迷失你的双眸 你能够相信吗 你不需要说你爱我 你什么也不需要说 你不需要告诉我你属于我 亲爱的 我愿意为你赴汤蹈火 请让我就这样将你仰慕 亲爱的 我愿意为你赴汤蹈火 请让我就这样将你仰慕 这是我唯一能够对你的付出 这是我唯一能够对你的付出 你在那夏日的晴空下 棕色的肌肤 还有冰镇的柠檬 你能够相信吗 你不需要说你爱我 我只想要告诉你 最近你一直在我脑海挥之不去 亲爱的 我愿意为你赴汤蹈火 请让我就这样将你仰慕 亲爱的 我愿意为你赴汤蹈火 请让我就这样将你仰慕 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 这是我唯一能够对你的付出 请让我就这样将你仰慕 亲爱的 我愿意为你赴汤蹈火 请让我就这样将你仰慕 这是我唯一能够对你的付出 这就是我唯一能够做的 这是我唯一能够对你的付出 我愿意为你赴汤蹈火 请让我就这样将你仰慕 亲爱的 亲爱的 这就是我唯一能够做的 这是我唯一能够对你的付出 我愿意为你赴汤蹈火 请让我就这样将你仰慕 亲爱的 请让我就这样将你仰慕 这是我唯一能够对你的付出",
+    "coachCount": 1,
+    "credits": "Written by Harry Edward Styles, Thomas Edward Percy Hull, Amy Allen and Tyler Sam Johnson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Ltd. and HSA Publishing Ltd. / LiveMadLove (ASCAP) / Artist Publishing Group West (ASCAP). Administered by Kobalt Music Publishing America, Inc. / One Year Yesterday Publishing / Pulse. Administered by Concord. Courtesy of Columbia Records. By arrangement with Sony Music Entertainment.",
+    "difficulty": 1,
+    "jdmAttributes": [],
+    "lyricsColor": "8A0BCDFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 210.303,
+    "mapName": "AdoreYou",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493977\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"642-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-642\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1444752\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2684917\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2810176\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"745225\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1636226\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"3098269\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1133\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5933173\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"643-1140\">\r\n\t\t\t\t\t<Initialization range=\"0-643\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": { "mapContent": "AdoreYou_mapContent" },
+    "parentMapName": "AdoreYou",
+    "songColors": {
+      "songColor_1A": "444444FF",
+      "songColor_1B": "111111FF",
+      "songColor_2A": "AAAAAAFF",
+      "songColor_2B": "777777FF"
+    },
+    "status": 3,
+    "subcredits": "Harry Edward Styles、Thomas Edward Percy Hull、Amy Allen 和 Tyler Sam Johnson 创作。Universal Music Publishing Canada 代表 Universal Music Publishing Ltd. 以及 HSA Publishing Ltd. / LiveMadLove (ASCAP) / Artist Publishing Group West (ASCAP). Administered by Kobalt Music Publishing America, Inc. / One Year Yesterday Publishing / Pulse 出版发行。由 Concord 进行管理。承蒙 Columbia Records 提供。Sony Music Entertainment 编曲。",
+    "subtitle": "崇拜你",
+    "sweatDifficulty": 1,
+    "tags": ["Main", "subscribedSong"],
+    "title": "Adore You",
+    "urls": {
+      "jmcs://jd-contents/AdoreYou/AdoreYou_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_AudioPreview.ogg/2401ae5991cddf17f28afded3d8f88ee.ogg",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp8.webm/2c88d82ec749cc22d4b5763595c76e41.webm",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_HIGH.vp9.webm/f3ec33898c552277814a510cd2df00cc.webm",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp8.webm/27a0039094185bb53022b3e8384e931a.webm",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_LOW.vp9.webm/eb374e7af87e6c656be54f5f9788e887.webm",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp8.webm/74eda5bd3514d6b9f7c4539db94ac640.webm",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_MID.vp9.webm/04d82e978bc25514833ea6a42c79b7c8.webm",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp8.webm/99030e59fcd5b7152ecaac16972c0825.webm",
+      "jmcs://jd-contents/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AdoreYou/AdoreYou_MapPreviewNoSoundCrop_ULTRA.vp9.webm/71e2ed959390fb839f46480119d6a2a2.webm"
+    },
+    "serverChangelist": 556284
+  },
   "Alexandrie": {
     "artist": "Jérôme Francis",
     "assets": {
