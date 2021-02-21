@@ -1,4 +1,67 @@
 {
+  "Alexandrie": {
+    "artist": "Jérôme Francis",
+    "assets": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_banner_bkg.tga.ckd/788cfb37b139b9de11138ca16bedbf1d.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_Coach_1.tga.ckd/e52cad30922755835108a1f5beefe4dd.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_Coach_2.tga.ckd/a0a91b97b0d3a6c131c04f62bc1fecaf.ckd",
+      "coach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_Coach_3.tga.ckd/0f277cf11879e16b048bf6f7b411393f.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_Cover_Generic.tga.ckd/a31a4d6f9d15a356265c44dab0eca3db.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_Cover_Online.tga.ckd/eedcefdf04bc8ca858d6b7fb5ca45385.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_Cover_AlbumBkg.tga.ckd/5df06282afdb84bd9bf6ad451cdd15ad.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_Cover_AlbumCoach.tga.ckd/907f3796e69d78d6bc350b0b8dd60d9d.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_Coach_1_Phone.png/eb448852c4dda0733659eaa503a0b266.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_Coach_2_Phone.png/27276701e551ecc30c1aff5c73719c01.png",
+      "phoneCoach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_Coach_3_Phone.png/179bd26b0bd1a2dda338d4263e82375b.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_Cover_Phone.jpg/16e3272df3d4157554644dea308b371e.jpg",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/ps4/Alexandrie_map_bkg.tga.ckd/c75c3b1281391e4220de20b928193d21.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22836,45671,68506,91342,114177,137013,159848,182683,205519,228354,251190,274025,296860,319696,342531,365367,388202,411037,433873,456708,479544,502379,525214,548050,570885,593721,616556,639391,662227,685062,707898,730733,753568,776404,799239,822075,844910,867745,890581,913416,936251,959087,981922,1004758,1027593,1050428,1073264,1096099,1118935,1141770,1164605,1187441,1210276,1233112,1255947,1278782,1301618,1324453,1347289,1370124,1392959,1415795,1438630],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":481,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/alexandrie/alexandrie_AudioPreview.ogg\"}",
+    "cnlyrics": "啊！哈！ 啊！哈！ 戴着面纱的女孩 在尼罗河的船上 你在我的生活中 出现在我的面前 亚历山德拉·亚历山大 亚历山大 我们在此相爱 让我们与夜共舞 我的胃口非常好 吃掉了梭子鱼 我会喝尽尼罗河的水 如果你不回到我这里 我会喝尽尼罗河的水 如果你不挽留我 亚历山德拉·亚历山大 亚历山大 我们在此相爱 让我们在船上跳舞 今晚我热力四射 你开心快乐 亚历山大的眼神 照进了我的心里 再唱一次 相同的旋律 亚历山大 你的眼神 就像那灯塔一样闪耀 我的心里 小鹿乱撞 啊！哈！ 啊！哈！ 戴着面纱的女孩 在尼罗河的船上 我在你的生活中 出现在你的船上 亚历山德拉·亚历山大 你是一切的原因 也是一切的结果 我的胃口非常好 吃掉了梭子鱼 我会伤心欲绝 如果你不回到我这里 我会伤心欲绝 如果你不挽留我 亚历山大·亚历山德拉 亚历山大 今晚 让我们在船上跳舞 我会伤心欲绝 如果你不挽留我 亚历山大的眼神 照进了我的心里 再唱一次 相同的旋律 亚历山大 你的眼神 就像那灯塔一样闪耀 我的心里 小鹿乱撞 啊！哈！ 啊！哈！",
+    "coachCount": 3,
+    "credits": "Written by J. P Bourtayre, C. François and E.Roda Gil. Published by Jeune Musique. Produced, engineered and mixed by Steve Ouimette. Lead vocals - Bastien Remy Background vocals - Virginie and Laurent Comtat. Strings - Pete Whitfield. Drums - Anthony Mora. Bass, guitar, programming & synths – Steve Ouimette. Additional programming and sounds – Cat Gray. Courtesy of Ubisoft Music.",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "08FFCEFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 230.73299999999998,
+    "mapName": "Alexandrie",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497674\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1483937\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2948287\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3898382\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647140\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1491194\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2979737\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932983\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": { "mapContent": "Alexandrie_mapContent" },
+    "parentMapName": "Alexandrie",
+    "songColors": {
+      "songColor_1A": "444444FF",
+      "songColor_1B": "111111FF",
+      "songColor_2A": "AAAAAAFF",
+      "songColor_2B": "777777FF"
+    },
+    "status": 3,
+    "subcredits": "J. P Bourtayre、C. François 和 E.Roda Gil 创作。Jeune Musique 出版发行。Steve Ouimette 制作、设计、混录。主唱：Bastien Remy，和声：Virginie 和 Laurent Comtat。弦乐：Pete Whitfield。鼓：Anthony Mora。贝斯、吉他、音乐编程及合成：Steve Ouimette。附加音乐编程和录音：Cat Gray。承蒙Ubisoft Music提供。",
+    "subtitle": "亚历山大·亚历山德拉",
+    "sweatDifficulty": 2,
+    "tags": ["Main", "subscribedSong"],
+    "title": "Alexandrie Alexandra",
+    "urls": {
+      "jmcs://jd-contents/Alexandrie/Alexandrie_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_AudioPreview.ogg/f93d96d4daa7e41c3491955d59a7cf95.ogg",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_HIGH.vp8.webm/6e3bef6ad0bd232f9de88727aae981f2.webm",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_HIGH.vp9.webm/4be052ef2f2a7c82e39ea811540fdec6.webm",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_LOW.vp8.webm/4b03c8437236223b7312d082889fb490.webm",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_LOW.vp9.webm/ab4e02fbabdfc46e7000245a6e589896.webm",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_MID.vp8.webm/fe04acb5cbafae65465ef7c64a62f73a.webm",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_MID.vp9.webm/9501ed98a97e338b4c9a6b70c84a2a64.webm",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_ULTRA.vp8.webm/94d9fc97824d441618833119859ee988.webm",
+      "jmcs://jd-contents/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/Alexandrie/Alexandrie_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f27c101178ab3c1731975cae06657782.webm"
+    },
+    "serverChangelist": 564832
+  },
   "LittleParty": {
     "artist": "Fergie Ft. Q-Tip, GoonRock",
     "assets": {
