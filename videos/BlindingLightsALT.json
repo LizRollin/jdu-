@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/BlindingLightsALT/BlindingLightsALT_ULTRA.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/BlindingLightsALT_ULTRA.webm",
+    "jmcs://jd-contents/BlindingLightsALT/BlindingLightsALT_HIGH.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/BlindingLightsALT_HIGH.webm",
+    "jmcs://jd-contents/BlindingLightsALT/BlindingLightsALT_MID.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/BlindingLightsALT_MID.webm",
+    "jmcs://jd-contents/BlindingLightsALT/BlindingLightsALT_LOW.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/BlindingLightsALT_LOW.webm",
+    "jmcs://jd-contents/BlindingLightsALT/BlindingLightsALT.ogg": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/BlindingLightsALT.ogg"
+  }
+}
