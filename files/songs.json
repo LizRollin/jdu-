@@ -452,7 +452,7 @@
     "serverChangelist": 547906
   },
   "JDCChickChick": {
-    "artist": "王蓉",
+    "artist": "Wang Rong Rollin",
     "assets": {
       "banner_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
       "coach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/70d790ece40480b22f995d9767011e75.ckd",
@@ -496,14 +496,14 @@
     "status": 3,
     "sweatDifficulty": 3,
     "tags": ["Main", "subscribedSong"],
-    "title": "小鸡小鸡",
+    "title": "Chick Chick",
     "urls": {
       "jmcs://jd-contents/JDCChickChick/JDCChickChick_AudioPreview.ogg": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/e5933c527d81b094658b15de802e2559.ogg"
     },
     "serverChangelist": 1
   },
   "JDCCoolestEthnic": {
-    "artist": "凤凰传奇",
+    "artist": "Phoenix Legend",
     "assets": {
       "banner_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
       "coach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/73bbd24f922bf699344c1081a3dede07.ckd",
@@ -539,7 +539,7 @@
     "status": 3,
     "sweatDifficulty": 1,
     "tags": ["subscribedSong"],
-    "title": "最炫民族风",
+    "title": "Coolest Ethnic",
     "urls": {
       "jmcs://jd-contents/JDCCoolestEthnic/JDCCoolestEthnic_AudioPreview.ogg": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/afc9b6afdb2c8c05e56f8c58d1f03186.ogg"
     },
@@ -608,7 +608,7 @@
     "serverChangelist": 0
   },
   "JDCSoGood": {
-    "artist": "大张伟",
+    "artist": "Da Zhang Wei",
     "assets": {
       "banner_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
       "coach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/b2264de1fbcef9e962d564fc7aca27e3.ckd",
@@ -652,7 +652,7 @@
     "status": 3,
     "sweatDifficulty": 3,
     "tags": ["Main", "subscribedSong"],
-    "title": "倍儿爽",
+    "title": "Cool Times (So Good)",
     "urls": {
       "jmcs://jd-contents/JDCSoGood/JDCSoGood_AudioPreview.ogg": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/dc99efd735f13a4bf66af4c53718f6ff.ogg"
     },
