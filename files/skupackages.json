@@ -110,13 +110,31 @@
   "ConAltura_mapContent": {
     "md5": "a04dfbe257fc807c6edaf107dddfaebb",
     "storageType": 0,
-    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FConAltura_Main_Scene_PC.zip?v=1611143264183",
+    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/ConAltura_Main_Scene_PC.zip",
     "version": 1
   },
   "365_mapContent": {
     "md5": "b34f1a09d741525069ee766dce4ed04b",
     "storageType": 0,
-    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2F365_main_scene_pc.zip?v=1613938718683",
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/365_main_scene_pc.zip",
     "version": 1
+  },
+  "Footwork_mapContent": {
+    "md5": "d45f3ac7f829cd6a2a82a219ba13254b",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/footwork_main_scene_pc.zip",
+    "version": 1
+  },
+  "ILikeIt_mapContent": {
+    "md5": "01fce44afa23e370db2a566f2125548b",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/ILikeIt_Main_Scene_PC.zip",
+    "version": 5
+  },
+  "Everybody_mapContent": {
+    "md5": "f2b6df57da34a44f3915db2781b873d5",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/everybody_main_scene_pc.zip",
+    "version": 5
   }
 }
