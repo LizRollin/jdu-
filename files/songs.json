@@ -1,4 +1,92 @@
 {
+  "Everybody": {
+    "artist": "Millennium Alert",
+    "assets": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_banner_bkg.tga.ckd/0a5ae558abd4cf20ca29231f70c96043.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Coach_1.tga.ckd/b2098b5deafff2e6cf253279b2aa3f38.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Coach_2.tga.ckd/df5ce5963dda48effe6c0a8257ef40e3.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Coach_3.tga.ckd/d6e791d63bce80f5c8bb0223e2c67d3f.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Coach_4.tga.ckd/1b4f2448851eb32a59af7860654d8e40.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Cover_Generic.tga.ckd/35115f3bd71ef7526f04d6056d37f3d0.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Cover_1024.png/aaaceb0e3b5fd8d014ff5e4a0824bcc1.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Cover_Online.tga.ckd/0249b3669b6eb80ca1faa67bb927476b.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Cover_AlbumBkg.tga.ckd/6df175ea4510581f8620ce4197276773.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_Cover_AlbumCoach.tga.ckd/ea60f211e862644b718816bbf1349751.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_1_Phone.png/152d9d87169be30391d93b752a2dae16.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_2_Phone.png/1bedd5b5ce685c8c0d26d3bee022049c.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_3_Phone.png/5f9c1dc1eeac026cdc70ba261a9acb41.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Coach_4_Phone.png/9e5607bfe15dae382e4970ffa202b103.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_Cover_Phone.jpg/e44954de9f4034dcef20d1cda5b2daad.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Everybody/x1/Everybody_map_bkg.tga.ckd/aec133a60e7eace4b505f622d20433b0.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,26656,53313,79970,106627,133284,159940,186597,213254,239911,266568,293224,319881,346538,373195,399852,426508,453165,479822,506479,533136,559792,586449,613106,639763,666420,693076,719733,746390,773047,799704,826360,853017,879674,906331,932987,959644,986301,1012958,1039615,1066271,1092928,1119585,1146242,1172899,1199555,1226212,1252869,1279526,1306183,1332839,1359496,1386153,1412810,1439467],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":405,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":54,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/everybody/everybody_AudioPreview.ogg\"}",
+    "coachCount": 4,
+    "credits": "Written by Max Martin and Dag Volle. Published by Kobalt Songs Music Publishing obo GV-MSM / GV-Maratone. Performed by Steve Ouimette, Carl Söderqvist, Kasper Tornqvist and Alexander Ostman. Vocals by Brian Chapman, David Loucks, Luke Edgemon, Tim Davis, Steve Ouimette. Music Supervision: Manu Bachet. Courtesy of Ubisoft Music.",
+    "difficulty": 1,
+    "jdmAttributes": [],
+    "lyricsColor": "22E9FEFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 226.583,
+    "mapName": "Everybody",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496602\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479012\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2884611\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3728384\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647254\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1491462\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2978040\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5926290\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2020,
+    "packages": {
+      "mapContent": "Everybody_mapContent"
+    },
+    "parentMapName": "Everybody",
+    "skuIds": [
+      "jd2020-nx-all",
+      "jd2020-xone-all",
+      "jd2020-ps4-scea",
+      "jd2020-ps4-scee",
+      "jd2020-ggp-all",
+      "jd2020-demo-nx-all",
+      "jd2020-demo-ps4-scea",
+      "jd2020-demo-ps4-scee",
+      "jd2020-demo-xone-all"
+    ],
+    "songColors": {
+      "songColor_1A": "2E0015FF",
+      "songColor_1B": "A60B5BFF",
+      "songColor_2A": "7552FFFF",
+      "songColor_2B": "6C0087FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 2,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2020",
+      "Quartet",
+      "Easy",
+      "Sweat Medium",
+      "90s",
+      "Boys",
+      "Party",
+      "Romantic",
+      "Sing Along"
+    ],
+    "title": "Everybody (Backstreet's Back)",
+    "urls": {
+      "jmcs://jd-contents/Everybody/Everybody_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_AudioPreview.ogg/6350d2f3f6898f20c1c217017a4da209.ogg",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp8.webm/32510ecac6ffbef9b91cdd26ee903b7a.webm",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_HIGH.vp9.webm/355671bec62f11109bece676c7bc2a3d.webm",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp8.webm/a384eac5d824f313b48a20c2069b48ca.webm",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_LOW.vp9.webm/5cd179a596bf06f2b1cae994e751472a.webm",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp8.webm/cacc71b2794270215f38edc9379a08e0.webm",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_MID.vp9.webm/9f738e8b6a9cf6620fa244823520c34d.webm",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp8.webm/c733d09ed0c409a66ac6b74d965ac682.webm",
+      "jmcs://jd-contents/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/Everybody/Everybody_MapPreviewNoSoundCrop_ULTRA.vp9.webm/65f6b5319817a64476c693bc04d7ff0a.webm"
+    },
+    "serverChangelist": 540229
+  },
   "DanceMonkey": {
     "artist": "Tones And I",
     "assets": {
@@ -879,16 +967,16 @@
   "JDCSoGood": {
     "artist": "Da Zhang Wei",
     "assets": {
-      "banner_bkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
-      "coach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/b2264de1fbcef9e962d564fc7aca27e3.ckd",
-      "coach2ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/f4ff2bebc7c9d3f571661bcd8ac458b7.ckd",
-      "coverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/7926821bd685fc0e8cf18931b75c4fd0.ckd",
-      "cover_smallImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/a69136a5e419f52ce89cef57016508e9.ckd",
-      "expandBkgImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/1442f3e308e3cb9e0475822ca8f62845.ckd",
-      "expandCoachImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/e6c4e39dbea77789452fd3ce9806f28a.ckd",
-      "phoneCoach1ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/a9bc949f344066a0ebc4c1bb8d0f99b2.png",
-      "phoneCoach2ImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/e0d295c8c22a03df42744c31e4cfee4e.png",
-      "phoneCoverImageUrl": "https://cdn.glitch.com/409eb501-c172-49b7-a432-95af69d3863f/80fa676aab8f3979f60c285cbdc03fa4.jpg"
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/x1/KDance_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/ps4/JDCSoGood_Coach_1.tga.ckd/af7f4d138c6d6ac7f737cee8d27af827.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/ps4/JDCSoGood_Coach_2.tga.ckd/8f5c0d30bb39a1c76b920fc19d815811.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/ps4/JDCSoGood_Cover_Generic.tga.ckd/3dfb81818f8918555469376c24f719de.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/ps4/JDCSoGood_Cover_Online.tga.ckd/b67b18315f7a07c7e3d337736ad46d2e.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/ps4/JDCSoGood_Cover_AlbumBkg.tga.ckd/c9c5d9112847011d55daa12a332f0240.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/ps4/JDCSoGood_Cover_AlbumCoach.tga.ckd/3374c95ed41fdca0879ce99ed516e97f.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/JDCSoGood_Coach_1_Phone.png/a9bc949f344066a0ebc4c1bb8d0f99b2.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/JDCSoGood_Coach_2_Phone.png/e0d295c8c22a03df42744c31e4cfee4e.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/JDCSoGood/JDCSoGood_Cover_Phone.jpg/80fa676aab8f3979f60c285cbdc03fa4.jpg"
     },
     "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22320,44640,65232,88752,110688,132672,154848,177024,199200,221376,243552,265728,287904,310080,332256,354432,376608,398784,420960,443136,465312,487488,509664,531792,553920,576048,598224,620352,642480,664656,686688,708768,730800,752880,774912,796992,819312,841632,863952,886272,908592,930912,952704,974880,997008,1018464,1040736,1063008,1085280,1107552,1129824,1151999,1174223,1196447,1218671,1240847,1263071,1285295,1307423,1329551,1351679,1373807,1395935,1418063],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":467,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jdcsogood/jdcsogood_AudioPreview.ogg\"}",
     "coachCount": 2,
@@ -900,12 +988,6 @@
     "mainCoach": -1,
     "mapLength": 217.773,
     "mapName": "JDCSoGood",
-    "mapPreviewMpd": {
-      "videoEncoding": {
-        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"495944\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1092\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1474917\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2879062\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3705033\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
-        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647459\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1489652\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2960907\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5873566\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCSoGood/JDCSoGood_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1101\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
-      }
-    },
     "mode": 6,
     "originalJDVersion": 2016,
     "packages": {
