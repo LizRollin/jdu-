@@ -621,6 +621,18 @@
             }
           ],
           "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "Footwork"
+            }
+          ],
+          "actionList": "partyMap"
         }
       ]
     },
@@ -758,6 +770,18 @@
             {
               "__class": "JD_CarouselContentComponent_Song",
               "mapName": "DansVanDeFarao"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "KDance"
             }
           ],
           "actionList": "partyMap"
@@ -938,14 +962,14 @@
           ],
           "actionList": "partyMap"
         },
-                {
+        {
           "__class": "Item",
           "isc": "grp_cover",
           "act": "ui_component_base",
           "components": [
             {
               "__class": "JD_CarouselContentComponent_Song",
-              "mapName": "ElectricBoy"
+              "mapName": "KaitoShojo"
             }
           ],
           "actionList": "partyMap"
