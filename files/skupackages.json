@@ -14,7 +14,13 @@
   "Alexandrie_mapContent": {
 		"md5": "286b84070b355e65a91ebd4457205868",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Falexandrie_main_scene_pc.zip?v=1613927489094",
+		"url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/alexandrie_main_scene_pc.zip",
+		"version": 2
+	},
+"AllTheGoodGirls_mapContent": {
+		"md5": "2b41eb96e50995b6e6c104182558c337",
+		"storageType": 0,
+		"url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/allthegoodgirls_main_scene_pc.zip",
 		"version": 2
 	}
 }

@@ -1,4 +1,65 @@
 {
+"AllTheGoodGirls": {
+        "artist": "Billie Eilish",
+        "assets": {
+            "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_banner_bkg.tga.ckd/7a220b7020fc751cd2ef47349f91fb54.ckd",
+            "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_Coach_1.tga.ckd/6ed5bec5ac90544875018c6cc2e21c9e.ckd",
+            "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_Cover_Generic.tga.ckd/156c51223ef329cb578b4417284d2946.ckd",
+            "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_Cover_Online.tga.ckd/2ce51ca49ac36d1cfeb4e86181c971fe.ckd",
+            "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_Cover_AlbumBkg.tga.ckd/ee18de996e3b963c663f0ee73d6ba08c.ckd",
+            "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_Cover_AlbumCoach.tga.ckd/1808f2af412167e14cee73d315da4f51.ckd",
+            "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_Coach_1_Phone.png/f5ab1e2dabb89e85f09589885187af50.png",
+            "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_Cover_Phone.jpg/40e1a9cef0c2560070b43fa795dced3a.jpg",
+            "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/ps4/AllTheGoodGirls_map_bkg.tga.ckd/ec5a73c23edede97b022e4c61b8b4e75.ckd"
+        },
+        "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,31135,62270,93406,124541,155676,186811,217946,249081,280216,311352,342487,373622,404757,435892,467027,498162,529297,560433,591568,622703,653838,684973,716108,747243,778379,809514,840649,871784,902919,934054,965189,996325,1027460,1058595,1089730,1120865,1152000,1183135,1214270,1245406,1276541,1307676,1338811,1369946,1401081,1432216],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-1,\"endBeat\":255,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":46,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/allthegoodgirls/allthegoodgirls_AudioPreview.ogg\"}",
+        "cnlyrics": "我的路西法如此孤单 站在那儿 一个人打发着时间 除了罪恶 他什么也无法向我承认 圣皮特逍遥着假期 天堂的大门邀请每一个人进入 野兽 证据 珠宝镶饰的大门 看上去就像是尖篱的栅栏 只要你进去过一次 你的朋友就不能再能受邀在列 加州的希尔山大火 是时候让我忽视你 别说我没有警告过你 好女孩不一定会幸福 即使上帝也会树敌无数 当水位开始上涨 天堂早已淡出视野 上帝会让恶魔做她的下属 我的路西法如此孤单 看着你 你需要我 你知道我不是你那些温室里长大的朋友 带着锁链四处行走 圣人皮特或许更清楚这感受 你的面具早已碎裂 如此愚顽不灵的男人啊 我们为什么还要拯救他 让他们自己毒害自己吧 让他们祈求我们的帮助 加州的希尔山大火 是时候让我忽视你 别说我没有警告过你 好女孩不一定会幸福 即使上帝也会树敌无数 当水位开始上涨 天堂早已淡出视野 上帝会让恶魔做她的下属 我的路西法如此孤单 已经没有什么值得去拯救 我的上帝会欠我的 已经没有什么值得去拯救 哈哈 我不想做一片雪",
+        "coachCount": 1,
+        "credits": "Written by Billie Eilish O'Connell and Finneas O’Connell. Published by Last Frontier (ASCAP). Administered by Kobalt Music Publishing America, Inc. / Universal Music Publishing Canada on behalf of DRUP and Universal Music Corp. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+        "difficulty": 2,
+        "jdmAttributes": [],
+        "lyricsColor": "38C4FDFF",
+        "lyricsType": 0,
+        "mainCoach": -1,
+        "mapLength": 166.054,
+        "mapName": "AllTheGoodGirls",
+        "mapPreviewMpd": {
+            "videoEncoding": {
+                "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494835\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"656-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-656\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1476192\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2594682\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2885560\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+                "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"645987\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1146\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1485611\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2953976\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1147\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5867508\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"657-1154\">\r\n\t\t\t\t\t<Initialization range=\"0-657\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+            }
+        },
+        "mode": 6,
+        "originalJDVersion": 2021,
+        "packages": {
+            "mapContent": "AllTheGoodGirls_mapContent"
+        },
+        "parentMapName": "AllTheGoodGirls",
+        "songColors": {
+            "songColor_1A": "0095EAFF",
+            "songColor_1B": "1F2499FF",
+            "songColor_2A": "E90042FF",
+            "songColor_2B": "311670FF"
+        },
+        "status": 3,
+        "subcredits": "Billie Eilish O'Connell 和 Finneas O'Connell 创作。Last Frontier (ASCAP) 出版发行。由 Kobalt Music Publishing America, Inc. / Universal Music Publishing Canada 代表 DRUP 和 Universal Music Corp 管理。承蒙 Interscope Records 经 Universal Music Enterprises 许可后提供。",
+        "subtitle": "好女孩不一定会幸福",
+        "sweatDifficulty": 2,
+        "tags": ["Main", "subscribedSong"],
+        "title": "all the good girls go to hell",
+        "urls": {
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_AudioPreview.ogg/8561313c4ef61b340752e3012df7b9d7.ogg",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp8.webm/54af2bfc20485d5f567ce6fbad55ad79.webm",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_HIGH.vp9.webm/bdf74cdb2881d6f69584a1869dcb9b8f.webm",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp8.webm/2bf081b71f9390b283235b11824f765a.webm",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_LOW.vp9.webm/ef73e663d088bf86336644611065c5d4.webm",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp8.webm/ff6d5ab603e7bad29e418a561c5d796f.webm",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_MID.vp9.webm/5f5e0310a34c524e9e1dd30b1ddef5b9.webm",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp8.webm/7b79692dfe978831db6537d3d9baa57d.webm",
+            "jmcs://jd-contents/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/AllTheGoodGirls/AllTheGoodGirls_MapPreviewNoSoundCrop_ULTRA.vp9.webm/a589579a4064c6af72081d82b1a5e679.webm"
+        },
+        "serverChangelist": 556286
+    },
   "AdoreYou": {
     "artist": "Harry Styles",
     "assets": {
