@@ -637,7 +637,7 @@
           "components": [
             {
               "__class": "JD_CarouselContentComponent_Song",
-              "mapName": "Alexandrie"
+              "mapName": "AdoreYou"
             }
           ],
           "actionList": "partyMap"
@@ -649,7 +649,7 @@
           "components": [
             {
               "__class": "JD_CarouselContentComponent_Song",
-              "mapName": "DanceMonkey"
+              "mapName": "Alexandrie"
             }
           ],
           "actionList": "partyMap"
