@@ -1,4 +1,135 @@
 {
+      "BoyYouCan": {
+        "artist": "Alex Newell",
+        "assets": {
+            "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/ps4/BoyYouCan_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+            "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/ps4/BoyYouCan_Coach_1.tga.ckd/b4e53f7adb18881782251ae8933a3bd3.ckd",
+            "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/ps4/BoyYouCan_Cover_Generic.tga.ckd/6b982d01fe4cc6f0388b183f0bf5c033.ckd",
+            "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/ps4/BoyYouCan_Cover_Online.tga.ckd/cd50052cc77a9dca4800bb67fe129fca.ckd",
+            "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/ps4/BoyYouCan_Cover_AlbumBkg.tga.ckd/64944477b41499b50d6ca4863fc96234.ckd",
+            "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/ps4/BoyYouCan_Cover_AlbumCoach.tga.ckd/2edd154232454abc09d03dd0fc2182ad.ckd",
+            "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/BoyYouCan_Coach_1_Phone.png/aae43e099117a28c1ea3a09e4c9ddb97.png",
+            "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/BoyYouCan_Cover_Phone.jpg/5e564a3293589828233a13b7bdbb4ff6.jpg"
+        },
+        "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":297,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/boyyoucan/boyyoucan_AudioPreview.ogg\"}",
+        "coachCount": 1,
+        "credits": "Written by Autumn Rowe, Nikolai Patrick Prange and Adam Martin Novodor. Published by Fidoober (ASCAP) / Lyn Estates Worldwide (ASCAP) / Sony/ATV Tunes (ASCAP) / Rich Water (ASCAP) / BMG Rights Management Canada A (SOCAN) obo BMG Gold Songs (ASCAP) obo itself and Primary Wave Anthems (ASCAP) obo itself and NIKOTHEKID Publishing (ASCAP). All rights administered by BMG Rights Management (US) LLC. All rights reserved. Used with permission. Courtesy of Atlantic Recording Corporation. By arrangement with Warner Music Group Film & TV Licensing. ",
+        "difficulty": 2,
+        "jdmAttributes": [],
+        "lyricsColor": "E72673FF",
+        "lyricsType": 0,
+        "mainCoach": -1,
+        "mapLength": 150.5,
+        "mapName": "BoyYouCan",
+        "mode": 6,
+        "originalJDVersion": 2021,
+        "packages": {
+            "mapContent": "BoyYouCan_mapContent"
+        },
+        "parentMapName": "BoyYouCan",
+        "songColors": {
+            "songColor_1A": "444444FF",
+            "songColor_1B": "111111FF",
+            "songColor_2A": "AAAAAAFF",
+            "songColor_2B": "777777FF"
+        },
+        "status": 3,
+        "sweatDifficulty": 2,
+        "tags": ["Main", "subscribedSong"],
+        "title": "Boy, You Can Keep It",
+        "urls": {
+            "jmcs://jd-contents/BoyYouCan/BoyYouCan_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BoyYouCan/BoyYouCan_AudioPreview.ogg/474a385ca933a9acc2ee642acebb338c.ogg"
+        },
+        "serverChangelist": 556291
+    },
+  "BuscandoALT": {
+        "artist": "GTA & Jenn Morel",
+        "assets": {
+            "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/ps4/BuscandoALT_banner_bkg.tga.ckd/e0fe85bfe2f704fede396c893872352a.ckd",
+            "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/ps4/BuscandoALT_Coach_1.tga.ckd/be4e620e7babbcdc7c56d0182cbfb902.ckd",
+            "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/ps4/BuscandoALT_Cover_Generic.tga.ckd/fae165210a61946e68a1ad2c33f67fe1.ckd",
+            "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/ps4/BuscandoALT_Cover_Online.tga.ckd/4a2cf69116f0bf0469abbe922b94ede9.ckd",
+            "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/ps4/BuscandoALT_Cover_AlbumBkg.tga.ckd/8d52c29636c4c77842daf4e73764a14d.ckd",
+            "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/ps4/BuscandoALT_Cover_AlbumCoach.tga.ckd/196b83ec9c8d952d3798706abf75308f.ckd",
+            "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/BuscandoALT_Coach_1_Phone.png/34abbfbac3ed9f234487e5ea4f7d3cf6.png",
+            "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/BuscandoALT_Cover_Phone.jpg/6760be648f5c2edcaadac4b0b3096860.jpg"
+        },
+        "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":449,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/buscandoalt/buscandoalt_AudioPreview.ogg\"}",
+        "coachCount": 1,
+        "credits": "Written by Julio Alejandro Mejia, Gedrin Joely Morel, Jeniffer Morel and Matthew Toth Published by Buena Vaina Publishing / Joelii Music Publishing / Seven20 Songs (ASCAP) / 720 Publishing Worldwide (BMI). Courtesy of Mad Decent.",
+        "difficulty": 4,
+        "jdmAttributes": [],
+        "lyricsColor": "9E08F0FF",
+        "lyricsType": 0,
+        "mainCoach": -1,
+        "mapLength": 226.5,
+        "mapName": "BuscandoALT",
+        "mode": 6,
+        "originalJDVersion": 2021,
+        "packages": {
+            "mapContent": "BuscandoALT_mapContent"
+        },
+        "parentMapName": "Buscando",
+        "songColors": {
+            "songColor_1A": "444444FF",
+            "songColor_1B": "111111FF",
+            "songColor_2A": "AAAAAAFF",
+            "songColor_2B": "777777FF"
+        },
+        "status": 12,
+        "sweatDifficulty": 3,
+        "tags": ["Alternate", "subscribedSong"],
+        "title": "Buscando",
+        "urls": {
+            "jmcs://jd-contents/BuscandoALT/BuscandoALT_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/BuscandoALT/BuscandoALT_AudioPreview.ogg/f37106b2829e652cd08e957ec182f699.ogg"
+        },
+        "customTypeName": "Extreme Version",
+        "serverChangelist": 556293
+    },
+  "Buscando": {
+    "artist": "GTA & Jenn Morel",
+    "assets": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/ps4/Buscando_banner_bkg.tga.ckd/ded0150a9103afe81fe188f51b627bc6.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/ps4/Buscando_Coach_1.tga.ckd/9ef43a2a80d56118ffe64dcd9b584fe8.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/ps4/Buscando_Cover_Generic.tga.ckd/24a34fe72025ec89fe0ac4176a649218.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/ps4/Buscando_Cover_Online.tga.ckd/18d2253c1e9ba95ead7a7c68be2f6d72.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/ps4/Buscando_Cover_AlbumBkg.tga.ckd/18ba7497de2d111fd8c136d8c0c28f7c.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/ps4/Buscando_Cover_AlbumCoach.tga.ckd/f325af6a5a5ff3741f75c991025637db.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_Coach_1_Phone.png/7fab8ce1cd5f23f1835ce8076ed92e0d.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_Cover_Phone.jpg/8c9f91141cfa0f11fabe072cfdc2186e.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,120000,144000,168000,192000,216000,240000,264000,288000,312000,336000,360000,384000,408000,432000,456000,480000,504000,528000,552000,576000,600000,624000,648000,672000,696000,720000,744000,768000,792000,816000,840000,864000,888000,912000,936000,960000,984000,1008000,1032000,1056000,1080000,1104000,1128000,1152000,1176000,1200000,1224000,1248000,1272000,1296000,1320000,1344000,1368000,1392000,1416000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":448,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":59,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/buscando/buscando_AudioPreview.ogg\"}",
+    "coachCount": 1,
+    "credits": "Written by Julio Alejandro Mejia, Gedrin Joely Morel, Jeniffer Morel and Matthew Toth Published by Buena Vaina Publishing / Joelii Music Publishing / Seven20 Songs (ASCAP) / 720 Publishing Worldwide (BMI). Courtesy of Mad Decent.",
+    "difficulty": 3,
+    "jdmAttributes": [],
+    "lyricsColor": "EF25FBFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 226,
+    "mapName": "Buscando",
+    "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493488\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1470233\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2391642\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"2759088\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/Buscando/Buscando_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": {
+      "mapContent": "Buscando_mapContent"
+    },
+    "parentMapName": "Buscando",
+    "songColors": {
+      "songColor_1A": "9DAB00FF",
+      "songColor_1B": "436600FF",
+      "songColor_2A": "00D8FFFF",
+      "songColor_2B": "020040FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 2,
+    "tags": ["Main", "freeSong"],
+    "title": "Buscando",
+    "urls": {
+      "jmcs://jd-contents/Buscando/Buscando_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/Buscando/Buscando_AudioPreview.ogg/926dcd0f9a0a6c2efdf8651086288022.ogg"
+    },
+    "serverChangelist": 0
+  },
   "BlindingLightsALT": {
     "artist": "The Weeknd",
     "assets": {
