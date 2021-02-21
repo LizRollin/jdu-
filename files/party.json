@@ -925,6 +925,30 @@
             }
           ],
           "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ElectricBoy"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+                {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ElectricBoy"
+            }
+          ],
+          "actionList": "partyMap"
         }
       ]
     }

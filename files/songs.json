@@ -1,5 +1,51 @@
 {
-    "ElectricBoy": {
+    "KaitoShojo": {
+    "artist": "Momoiro Clover Z - [ももいろクローバーZ]",
+    "assets": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/x1/KDance_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+      "coach1ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_coach_2.png",
+      "coverImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_cover_generic.png",
+      "cover_1024ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_cover_generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_cover_generic.png",
+      "expandBkgImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_cover_generic.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/kaitoshojo_cover_albumcoach.tga.ckd",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_coach_1.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_coach_2.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Kaitoshojo_cover_generic.png"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,18000,36000,54000,72000,89999,108000,125999,144000,162000,179999,198000,216000,234000,251999,270000,288000,306000,324000,342000,359999,378000,396000,414000,432000,450000,468000,486000,503999,522000,540000,558000,576000,594000,612000,630000,648000,666000,684000,702000,719999,738000,756000,774000,792000,810000,828000,846000,864000,881999,900000,918000,936000,954000,972000,990000,1007999,1026000,1044000,1062000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/KaitoShojo/KaitoShojo_AudioPreview.ogg\"}",
+    "coachCount": 2,
+    "credits": "Written by Kevyn Mauricio Cruz Moreno, Juan Camilo Vargas Vasquez, Onika Tanya Maraj, Daniel Oviedo and Carolina Giraldo. Published by Girl Power Publishing (ASCAP) / On The Drums Publishing (ASCAP). Administered by Kobalt Music Publishing America, Inc. / JCVmusic (ASCAP) / Sony/ATV Discos Music Publishing LLC (ASCAP) / KCmusic (ASCAP) / Universal/MCA Music Ltd. All rights reserved. Used with permission. Courtesy of Universal/MCA Music Ltd.",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "FFD700FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 191.881,
+    "mapName": "KaitoShojo",
+    "mode": 6,
+    "originalJDVersion": 2014,
+    "packages": {
+      "mapContent": "KaitoShojo_mapContent"
+    },
+    "parentMapName": "KaitoShojo",
+    "songColors": {
+      "songColor_1A": "2DF55FFF",
+      "songColor_1B": "126026FF",
+      "songColor_2A": "D20042FF",
+      "songColor_2B": "BC003BFF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": ["Main", "freeSong"],
+    "title": "Ikuze! Kaitō Shōjo [行くぜっ！怪盗少女]",
+    "urls": {
+      "jmcs://jd-contents/KaitoShojo/KaitoShojo_AudioPreview.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/KaitoShojo_AudioPreview.ogg"
+    },
+    "serverChangelist": 1
+  },
+  "ElectricBoy": {
     "artist": "KARA",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/x1/KDance_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
@@ -20,7 +66,6 @@
     "mainCoach": -1,
     "mapLength": 166.054,
     "mapName": "ElectricBoy",
-    
     "mode": 6,
     "originalJDVersion": 2014,
     "packages": {
@@ -36,7 +81,7 @@
     "status": 3,
     "sweatDifficulty": 1,
     "tags": ["Main", "freeSong"],
-    "title": "Electric Boy - [エレクトリックボーイ]",
+    "title": "Electric Boy [エレクトリックボーイ]",
     "urls": {
       "jmcs://jd-contents/ElectricBoy/ElectricBoy_AudioPreview.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/ElectricBoy_AudioPreview.ogg"
     },

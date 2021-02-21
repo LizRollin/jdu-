@@ -71,6 +71,12 @@
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/dansvandefarao_main_scene_pc.zip",
     "version": 2
   },
+  "KDance_mapContent": {
+    "md5": "2e45403befde6d76735a95f5325676f6",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FKDance_Main_Scene_PC.zip?v=1610880220684",
+    "version": 2
+  },
   "JDCChickChick_mapContent": {
     "md5": "d4f14f5e609c2d1cc8a4eb0aaf5594ba",
     "storageType": 0,
@@ -81,6 +87,12 @@
     "md5": "780dac0bfb45608c845bd274530392f0",
     "storageType": 0,
     "url": "https://cdn.glitch.com/46a149ad-ef56-48b7-8d3a-22ca8ec6c6be%2FJDCCoolestEthnic_MAIN_SCENE_PC.zip?v=1613126545725",
+    "version": 2
+  },
+  "KaitoShojo_mapContent": {
+    "md5": "38748ee9fc4c4285509563d1d31d2efa",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FKaitoShojo_Main_Scene_PC.zip?v=1610835023150",
     "version": 2
   },
   "JDCGee_mapContent": {
@@ -100,6 +112,12 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/46a149ad-ef56-48b7-8d3a-22ca8ec6c6be%2FJDCKungFuPop_MAIN_SCENE_PC.zip?v=1613129213013",
     "version": 1
+  },
+  "ElectricBoy_mapContent": {
+    "md5": "8d09e5de9dbdfd7276f9ca47feb16c03",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/b9fb3ad8-253d-40be-a264-c1bb798b784b%2FElectricBoy_main_scene_PC.zip?v=1609946557981",
+    "version": 7
   },
   "JDCLostLoveAlliance_mapContent": {
     "md5": "82a478e6bef6b2c570703462cad432bd",
@@ -128,7 +146,7 @@
   "Footwork_mapContent": {
     "md5": "d45f3ac7f829cd6a2a82a219ba13254b",
     "storageType": 0,
-    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/footwork_main_scene_pc.zip",
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ffootwork_main_scene_pc.zip?v=1613941701096",
     "version": 1
   },
   "ILikeIt_mapContent": {
