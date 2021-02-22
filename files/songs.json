@@ -1,20 +1,19 @@
 {
-    "7RingsALT": {
-    "artist": "Ariana Grande",
+  "APunk": {
+    "artist": "Vampire Weekend",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/x1/7RingsALT_banner_bkg.tga.ckd/9cc5f851b0718b187f08ef911c3ce9ab.ckd",
-      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/x1/7RingsALT_Coach_1.tga.ckd/f007bbb4da4eb5f5ab8e150c886358a3.ckd",
-      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/x1/7RingsALT_Cover_Generic.tga.ckd/1c140a31b6025ce59988c20078417bcb.ckd",
-      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Cover_1024.png/d040e7304fb427e50e02d77141b12c3c.png",
-      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/x1/7RingsALT_Cover_Online.tga.ckd/019365bb46f48f97f8ec1d94ada68cf7.ckd",
-      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/x1/7RingsALT_Cover_AlbumBkg.tga.ckd/68816d223c2de4888deb56caaea5a013.ckd",
-      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/x1/7RingsALT_Cover_AlbumCoach.tga.ckd/f36ce1fc3639d63219186066f2a3dc3d.ckd",
-      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Coach_1_Phone.png/7effafcdde1ad758bec85d7e8400ff20.png",
-      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_Cover_Phone.jpg/41baa359d58c15fede58c9fced79c5b5.jpg",
-      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7RingsALT/x1/7RingsALT_map_bkg.tga.ckd/96a1cd7b3c8d4fee78a1e1521ddb1cca.ckd"
+      "coach1ImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Coach_1.png",
+      "coach2ImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Coach_2.png",
+      "coverImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Cover_Generic.png",
+      "cover_smallImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Cover_Online.png",
+      "expandCoachImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Cover_AlbumCoach.png",
+      "phoneCoach1ImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Coach_1_Phone.png",
+      "phoneCoach2ImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Coach_2_Phone.png",
+      "phoneCoverImageUrl": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/APunk_Logotype_Phone.jpg"
     },
-    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,41143,82286,123428,164571,205714,246857,288000,329143,370286,411428,452571,493714,534857,576000,617143,658286,699428,740571,781714,822857,864000,905143,946286,987428,1028571,1069714,1110857,1152000,1193143,1234286,1275428,1316571,1357714,1398857],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":204,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":34,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/7ringsalt/7ringsalt_AudioPreview.ogg\"}",
-    "coachCount": 1,
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,41143,82286,123428,164571,205714,246857,288000,329143,370286,411428,452571,493714,534857,576000,617143,658286,699428,740571,781714,822857,864000,905143,946286,987428,1028571,1069714,1110857,1152000,1193143,1234286,1275428,1316571,1357714,1398857],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":204,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/APunk/APunk_AudioPreview.ogg\"}",
+    "coachCount": 2,
     "credits": "Written by Ariana Grande, (Oscar Hammerstein II), (Richard Rodgers), Victoria Monet McCants, Charles Michael Anderson, Thomas Lee Brown, Michael David Foster, Tayla Parx, Kimberly Krysiuk, (Njomza Vitia). Published by Universal Music Publishing Canada on behalf of Universal Music Corp. / Taylor Monet Music (BMI) and Warner-Tamerlane Publising Corp. (BMI). All rights on behalf of itself and Taylor Monet Music administered by Warner-Tamerlane Publishing Corp. / BMG Gold Songs on behalf of itself and Victoria McCants Music; BMG Platinum Songs US. All rights administered by BMG Rights Management (US) LLC. / Songs of Avex (ASCAP) obo itself and The Hillstorian (ASCAP), TBHitsville (ASCAP) and The District 4 12 (BMI). / Williamson Music Company. Courtesy of Republic Records under license from Universal Music Enterprises.",
     "difficulty": 4,
     "jdmAttributes": [],
@@ -22,43 +21,21 @@
     "lyricsType": 0,
     "mainCoach": -1,
     "mapLength": 176.572,
-    "mapName": "7RingsALT",
-    "mapPreviewMpd": {
-      "videoEncoding": {
-        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"494994\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"596-1085\">\r\n\t\t\t\t\t<Initialization range=\"0-596\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1478999\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2897311\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3699270\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
-        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"655594\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1495240\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2980037\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5937616\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/7RingsALT/7RingsALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"597-1094\">\r\n\t\t\t\t\t<Initialization range=\"0-597\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
-      }
-    },
+    "mapName": "APunk",
     "mode": 6,
     "originalJDVersion": 2020,
     "packages": {
-      "mapContent": "7RingsALT_mapContent"
+      "mapContent": "APunk_mapContent"
     },
-    "parentMapName": "7Rings",
-    "skuIds": [
-      "jd2020-nx-all",
-      "jd2020-xone-all",
-      "jd2020-ps4-scea",
-      "jd2020-ps4-scee",
-      "jd2020-ggp-all",
-      "jd2020-demo-nx-all",
-      "jd2020-demo-ps4-scea",
-      "jd2020-demo-ps4-scee",
-      "jd2020-demo-xone-all"
-    ],
-    "songColors": {
-      "songColor_1A": "560098FF",
-      "songColor_1B": "28004AFF",
-      "songColor_2A": "FF07B0FF",
-      "songColor_2B": "000F6AFF"
-    },
+    "parentMapName": "APunk",
+    "skuIds": [],
+    "songColors": {},
     "status": 12,
     "sweatDifficulty": 3,
-    "tags": [
-    ],
-    "title": "7 rings",
+    "tags": [],
+    "title": "A-Punk",
     "urls": {
-      "jmcs://jd-contents/7RingsALT/7RingsALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/7RingsALT/7RingsALT_AudioPreview.ogg/e5662aa1c53dde30cd665a018305b0ce.ogg"
+      "jmcs://jd-contents/APunk/APunk_AudioPreview.ogg": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2FAPunk_AudioPreview.ogg?v=1613987683502"
     },
     "customTypeName": "Extreme Version",
     "serverChangelist": 540229
@@ -145,7 +122,93 @@
     "customTypeName": "Extreme Version",
     "serverChangelist": 540229
   },
-   "7Rings": {
+   "FancyTwice": {
+    "artist": "TWICE",
+    "assets": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_banner_bkg.tga.ckd/a042c86a370399ddfe2efc09d0a49375.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_Coach_1.tga.ckd/d75775d8d706f72c21fc5f74c83943c3.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_Coach_2.tga.ckd/c7cd9e3d529a09e3c8dd81380e3fa069.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_Coach_3.tga.ckd/6af000745704ace485d50eb093caf377.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_Cover_Generic.tga.ckd/b4e2d5a3c58ba8b0261b6d086dfc3188.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Cover_1024.png/44aa22ceb4327fa16c2b24c0b1097815.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_Cover_Online.tga.ckd/65beb9ab843abda6994992aa3fcd18a7.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_Cover_AlbumBkg.tga.ckd/b770cb13f222cb4a85ed45788cb11541.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_Cover_AlbumCoach.tga.ckd/ec9acde040ec10e52630d63cd0176f09.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_1_Phone.png/4ecdbdb0e0a2335b4928f9cdd63a0cb8.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_2_Phone.png/63eb74cf025f8b17220093f5000e1544.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Coach_3_Phone.png/1001af42e8890b70b1f3e08c6a1718fe.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_Cover_Phone.jpg/1b7b4870996f187a51397684e742be92.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_map_bkg.tga.ckd/cf3e64475e2c66b7bbbe3d8300130586.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65455,87273,109091,130909,152727,174546,196364,218182,240000,261818,283636,305455,327273,349091,370909,392727,414546,436364,458182,480000,501818,523636,545455,567273,589091,610909,632727,654546,676364,698182,720000,741818,763636,785455,807273,829091,850909,872727,894546,916364,938182,960000,981818,1003636,1025455,1047273,1069091,1090909,1112727,1134546,1156364,1178182,1200000,1221818,1243636,1265455,1287273,1309091,1330909,1352727,1374546,1396364,1418182],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":472,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/fancytwice/fancytwice_AudioPreview.ogg\"}",
+    "coachCount": 3,
+    "credits": "Written by Black Eyed Pilseung (Rado, Choi kyu-sung) and Seung Hyun Jeon. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Korea / MusicCube Inc. Courtesy of JYP Entertainment. / Warner Music Japan Inc. By arrangement with Warner Music Group Film & TV Licensing.",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "F87A00FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 217.72799999999998,
+    "mapName": "FancyTwice",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496918\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"598-1087\">\r\n\t\t\t\t\t<Initialization range=\"0-598\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1485286\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2937902\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"4585082\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647809\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1492647\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984878\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1089\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5943710\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"599-1096\">\r\n\t\t\t\t\t<Initialization range=\"0-599\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2020,
+    "packages": {
+      "mapContent": "FancyTwice_mapContent"
+    },
+    "parentMapName": "FancyTwice",
+    "skuIds": [
+      "jd2020-nx-all",
+      "jd2020-xone-all",
+      "jd2020-ps4-scea",
+      "jd2020-ps4-scee",
+      "jd2020-ggp-all",
+      "jd2020-demo-nx-all",
+      "jd2020-demo-ps4-scea",
+      "jd2020-demo-ps4-scee",
+      "jd2020-demo-xone-all"
+    ],
+    "songColors": {
+      "songColor_1A": "4CCA6FFF",
+      "songColor_1B": "CEFC85FF",
+      "songColor_2A": "E4B072FF",
+      "songColor_2B": "EA971CFF"
+    },
+    "status": 3,
+    "sweatDifficulty": 1,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2020",
+      "Trio",
+      "Medium",
+      "Sweat Low",
+      "Asian",
+      "Cute",
+      "Kpop",
+      "Party",
+      "Girls"
+    ],
+    "title": "FANCY",
+    "urls": {
+      "jmcs://jd-contents/FancyTwice/FancyTwice_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_AudioPreview.ogg/069182e443cfb0ce337a5e9c1777163f.ogg",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp8.webm/283729466e00e55d62fdaf30caaf1a17.webm",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_HIGH.vp9.webm/e6bc23bff67ea4aeb61f14716009c90b.webm",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp8.webm/a18de779319ff6c552da8931eb748faf.webm",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_LOW.vp9.webm/c56018636e695668b26e1b19b25954aa.webm",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp8.webm/f24ed08ae5d7794fdbe0c0f62ff2e965.webm",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_MID.vp9.webm/1e496f093cb99111ae59dc4a33d096dc.webm",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp8.webm/6b8d6590040945f6d29758277882902c.webm",
+      "jmcs://jd-contents/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/FancyTwice/FancyTwice_MapPreviewNoSoundCrop_ULTRA.vp9.webm/49ee66f1515b5491d78ee3d286bbfb32.webm"
+    },
+    "serverChangelist": 540229
+  },
+  "7Rings": {
     "artist": "Ariana Grande",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/7Rings/x1/7Rings_banner_bkg.tga.ckd/4878b2a50260e3d0abf229b6460e768e.ckd",
@@ -232,7 +295,7 @@
     },
     "serverChangelist": 543670
   },
-   "TelAviv": {
+  "TelAviv": {
     "artist": "Omer Adam Ft. Arisa",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TelAviv/x1/TelAviv_banner_bkg.tga.ckd/5b2994a58b55cb8eda258497389aaf49.ckd",
@@ -318,7 +381,7 @@
     },
     "serverChangelist": 540229
   },
-   "TalkALT": {
+  "TalkALT": {
     "artist": "Khalid",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/TalkALT/x1/TalkALT_banner_bkg.tga.ckd/87e91e8cf91dd69f26b2153b6f6f480c.ckd",
@@ -560,7 +623,7 @@
     },
     "serverChangelist": 540229
   },
-    "KaitoShojo": {
+  "KaitoShojo": {
     "artist": "Momoiro Clover Z - [ももいろクローバーZ]",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/x1/KDance_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
