@@ -1,4 +1,132 @@
 {
+  "KDance": {
+    "artist": "K/DA Ft. Aluna, Wolftyla, Bekuh BOOM",
+    "assets": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_map_bkg.tga.ckd/e45932582bbb89c8c17d6efb46c26f65.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_1.tga.ckd/0145b7b0d928b90389d350ce50ad1707.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_2.tga.ckd/1ed938cc80789761dd1ea66fe23f0cff.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_3.tga.ckd/173e5787261509a712a4613af0827d16.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Coach_4.tga.ckd/3e734f0e18bf3193664156f836a349a0.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_Generic.tga.ckd/462741ef50972cb502b74e8b8c96912e.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Cover_1024.png/e3c538728145ecc8fbc260f582192fd5.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_Online.tga.ckd/b92af2621b4393345eea270c3cef58dc.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_AlbumBkg.tga.ckd/db19004bb210f33d243a3db434f4dbcf.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_Cover_AlbumCoach.tga.ckd/9955d651ffe1d790b42e2df16c502c81.ckd",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/ps4/KDance_map_bkg.tga.ckd/e45932582bbb89c8c17d6efb46c26f65.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_1_Phone.png/63fcd1f4bd6c1f02dc4e5dee5798bac3.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_2_Phone.png/0418324ce73f0b24cacbf2be1d27b1c0.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_3_Phone.png/152897a2f5589f683c00ad5b030891d9.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Coach_4_Phone.png/a1e118743f78d0ac23687905e4fe55d3.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KDance/KDance_Cover_Phone.jpg/c817836fa91ea627506a9ff5e3729d59.jpg",
+      "videoPreviewVideoURL": "https://jd-s3.akamaized.net/public/map/KDance/KDance_VideoPreview.webm/a836e5d08204b06e1a07bd7b5463e9cb.webm"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,32914,65828,98743,131657,164571,197485,230400,263314,296228,329143,362057,394971,427885,460800,493714,526628,559543,592457,625371,658285,691200,724114,757028,789943,822857,855771,888685,921600,954514,987428,1020343,1053257,1086171,1119085,1152000,1184914,1217828,1250743,1283657,1316571,1349485,1382400,1415314],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":296,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":43,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/kdance/kdance_AudioPreview.ogg\"}",
+    "coachCount": 4,
+    "credits": "Written by: Sebastien Najand and Rebecca Johnson. Published by: Songs by Riot Games Music Publishing (BMI), Bekuh Boom Publishing administered by Warner-Tamerlane Publishing Corp. (BMI). Produced by: Sebastien Najand. Additional Vocal Production by: Oscar Free P/C: 2020 Riot Games. Courtesy of Riot Games Music",
+    "difficulty": 4,
+    "jdmAttributes": [],
+    "lyricsColor": "FF66E4FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 208.458,
+    "mapName": "KDance",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496162\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"650-1139\">\r\n\t\t\t\t\t<Initialization range=\"0-650\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1472994\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2877461\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3621227\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"650238\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1496794\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2983962\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1141\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5923290\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"651-1148\">\r\n\t\t\t\t\t<Initialization range=\"0-651\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": {
+      "mapContent": "KDance_mapContent"
+    },
+    "parentMapName": "KDance",
+    "serverChangelist": 564520,
+    "songColors": {
+      "songColor_1A": "300099FF",
+      "songColor_1B": "001299FF",
+      "songColor_2A": "300099FF",
+      "songColor_2B": "001299FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 3,
+    "tags": [
+      "Main",
+      "freeSong",
+      "Exclusive",
+      "ExcluJD21_Quickplay ",
+      "JustDance2021",
+      "Quartet",
+      "Medium",
+      "Sweat Low",
+      "Artsy",
+      "Asian",
+      "Futuristic",
+      "Geek",
+      "Girls",
+      "Kpop",
+      "Video Games"
+    ],
+    "title": "DRUM GO DUM",
+    "urls": {
+      "jmcs://jd-contents/KDance/KDance_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KDance/KDance_AudioPreview.ogg/2164514a5d964d062e1d8cabc0c70c8e.ogg",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp8.webm/0d9e47c2968f2900e01382574bb8670f.webm",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_HIGH.vp9.webm/c07bb47d434350ad62f7479159ced469.webm",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp8.webm/3fa3a42969200f393d22f7d55b529f98.webm",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_LOW.vp9.webm/dfd41129bd57000b3f35155b199c2076.webm",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_MID.vp8.webm/63bfa6deea0625bde9f3804c95d16a4e.webm",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_MID.vp9.webm/e97edb5e2873e117478a0fb6301bfafe.webm",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp8.webm/0344d7f7843f23d2c58153bdd2583e00.webm",
+      "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0f9a588e50f09cbb70545f6a66bf80f4.webm"
+    }
+  },
+    "FeelSpecial": {
+    "artist": "TWICE",
+    "assets": {
+      "banner_bkgImageUrl": "https://cdn.glitch.com/60832c6d-ba73-4acc-896f-52e96af3ad06/Feelspecial_banner_bkg.png",
+      "coach1ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/feelspecial_coach_1.tga.ckd",
+      "coach2ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/feelspecial_coach_2.tga.ckd",
+      "coach3ImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/feelspecial_coach_3.tga.ckd",
+      "coverImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/feelspecial_cover_generic.tga.ckd",
+      "cover_smallImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/feelspecial_cover_online.tga.ckd",
+      "expandCoachImageUrl": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/feelspecial_cover_albumcoach.tga.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_Coach_1_Phone.png/8a3cf34f8e4ef2ea5224a6705014b4db.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_Coach_2_Phone.png/7de72bcc7656276c5d710d04ca25b8a0.png",
+      "phoneCoach3ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_Coach_3_Phone.png/354de318cefc3a4a97a2afe7d06b3b82.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_Cover_Phone.jpg/0495fbe042747a3302968817a7087948.jpg"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22326,44652,66977,89303,111628,133954,156279,178605,200931,223256,245582,267907,290233,312559,334884,357210,379535,401861,424186,446512,468838,491163,513489,535814,558140,580466,602791,625117,647442,669768,692093,714419,736745,759070,781396,803721,826047,848372,870698,893024,915349,937675,960000,982326,1004652,1026977,1049303,1071628,1093954,1116279,1138605,1160931,1183256,1205582,1227907,1250233,1272559,1294884,1317210,1339535,1361861,1384186,1406512,1428838],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":443,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/feelspecial/feelspecial_AudioPreview.ogg\"}",
+    "coachCount": 3,
+    "credits": "Written by: Sebastien Najand and Rebecca Johnson. Published by: Songs by Riot Games Music Publishing (BMI), Bekuh Boom Publishing administered by Warner-Tamerlane Publishing Corp. (BMI). Produced by: Sebastien Najand. Additional Vocal Production by: Oscar Free P/C: 2020 Riot Games. Courtesy of Riot Games Music",
+    "difficulty": 4,
+    "jdmAttributes": [],
+    "lyricsColor": "FF66E4FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 208.458,
+    "mapName": "FeelSpecial",
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": {
+      "mapContent": "FeelSpecial_mapContent"
+    },
+    "parentMapName": "FeelSpecial",
+    "songColors": {
+      "songColor_1A": "05AAC2FF",
+      "songColor_1B": "0492A5FF",
+      "songColor_2A": "FFFC66FF",
+      "songColor_2B": "DE8F28FF"
+    },
+    "status": 3,
+    "sweatDifficulty": 3,
+    "tags": ["Main", "freeSong"],
+    "title": "Feel Special",
+    "urls": {
+      "jmcs://jd-contents/FeelSpecial/FeelSpecial_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecial/FeelSpecial_AudioPreview.ogg/d3996cba4e5b483f09678512ec0fea6f.ogg"
+    },
+    "serverChangelist": 564520
+  },
   "KillThisLoveALT": {
     "artist": "BLACKPINK",
     "assets": {

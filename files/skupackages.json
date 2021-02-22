@@ -1,4 +1,10 @@
 {
+  "KDance_mapContent": {
+    "md5": "fee9c0e9d46e4299aadc9ee39a8b0bb8",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/KDanceFromPS4.zip",
+    "version": 1
+  },
   "LittleParty_mapContent": {
     "md5": "8907891020613db7559517d423fb9648",
     "storageType": 0,
@@ -58,6 +64,12 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FBuscando_Main_Scene_PC.zip?v=1610103255780",
     "version": 2
+  },
+  "FeelSpecial_mapContent": {
+    "md5": "37941468bc26977cccf1d9ddf115ac92",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FFeelSpecial_Main_Scene_PC.zip?v=1612015214259",
+    "version": 1
   },
   "BuscandoALT_mapContent": {
     "md5": "5f17f96a9e56ca25d21dc0a94fab0eb3",
