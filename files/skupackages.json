@@ -5,6 +5,12 @@
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/littleparty_main_scene_pc.zip",
     "version": 1
   },
+  "MadLoveALT_mapContent": {
+    "md5": "ba747703bf48fadb8bbfb090a0af6152",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FMadLoveALT_Main_Scene_PC.zip?v=1611313659876",
+    "version": 3
+  },
   "AdoreYou_mapContent": {
     "md5": "316ba1595234e9b9501c3f4e36b05680",
     "storageType": 0,
@@ -131,7 +137,7 @@
     "url": "https://cdn.glitch.com/46a149ad-ef56-48b7-8d3a-22ca8ec6c6be%2FJDCSoGood_MAIN_SCENE_PC.zip?v=1613126548332",
     "version": 2
   },
- "APunk_mapContent": {
+  "APunk_mapContent": {
     "md5": "6a62dc37a9ae22f752c28db275d8ee4b",
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Fapunk_main_scene_pc.zip?v=1613988316765",
@@ -166,13 +172,13 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2FEverybody_Main_Scene_PC.zip?v=1613940545870",
     "version": 7
-   },
+  },
   "Talk_mapContent": {
     "md5": "7b655bdd55c261abb950e46b1961e3ba",
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ftalk_main_scene_pc.zip?v=1613981855243",
     "version": 7
-   },
+  },
   "TalkALT_mapContent": {
     "md5": "418a996d536cd6eeafd01b30e3fef5b6",
     "storageType": 0,
@@ -184,25 +190,25 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ftelaviv_main_scene_pc.zip?v=1613984642564",
     "version": 7
-   },
+  },
   "7Rings_mapContent": {
     "md5": "119035083c8670971570d5b85ae18eaf",
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2F7rings_main_scene_pc.zip?v=1613985740613",
     "version": 7
-   },
+  },
   "7RingsALT_mapContent": {
     "md5": "568270da0dab66cb4c68198a9957fa01",
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2F7ringsalt_main_scene_pc.zip?v=1613986698680",
     "version": 7
-   },
+  },
   "FancyTwice_mapContent": {
     "md5": "3a7b463168cc33f689952f36eafd87d5",
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ffancytwice_main_scene_pc.zip?v=1613987844579",
     "version": 7
-   },
+  },
   "KillThisLove_mapContent": {
     "md5": "6e0be87ceb25fab392326da173cb2bb0",
     "storageType": 0,
