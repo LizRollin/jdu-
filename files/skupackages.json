@@ -184,5 +184,11 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2F7rings_main_scene_pc.zip?v=1613985740613",
     "version": 7
+   },
+  "7RingsALT_mapContent": {
+    "md5": "568270da0dab66cb4c68198a9957fa01",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2F7ringsalt_main_scene_pc.zip?v=1613986698680",
+    "version": 7
   }
 }
