@@ -160,5 +160,11 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2FEverybody_Main_Scene_PC.zip?v=1613940545870",
     "version": 7
+   },
+  "Talk_mapContent": {
+    "md5": "7b655bdd55c261abb950e46b1961e3ba",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ftalk_main_scene_pc.zip?v=1613981855243",
+    "version": 7
   }
 }
