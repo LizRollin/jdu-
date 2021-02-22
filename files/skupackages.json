@@ -71,6 +71,12 @@
     "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FFeelSpecial_Main_Scene_PC.zip?v=1612015214259",
     "version": 1
   },
+  "FeelSpecialALT_mapContent": {
+    "md5": "15be6368982c825e0f33edaedd19842a",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ffeelspecialalt_main_scene_pc.zip?v=1613995803443",
+    "version": 1
+  },
   "BuscandoALT_mapContent": {
     "md5": "5f17f96a9e56ca25d21dc0a94fab0eb3",
     "storageType": 0,
@@ -107,7 +113,7 @@
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Fdontstart_main_scene_pc.zip?v=1613993506703",
     "version": 2
   },
-"DontStartALT_mapContent": {
+  "DontStartALT_mapContent": {
     "md5": "9a9160492d27b4915958f3071e6b3e10",
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Fdontstartalt_main_scene_pc.zip?v=1613994628233",

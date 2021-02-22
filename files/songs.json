@@ -1,4 +1,66 @@
 {
+"FeelSpecialALT": {
+        "artist": "TWICE",
+        "assets": {
+            "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_banner_bkg.tga.ckd/b285ff9e5fbe228f1392e322fa9ecc35.ckd",
+            "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_Coach_1.tga.ckd/b5b0ff877f378ad046737854561b2919.ckd",
+            "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_Cover_Generic.tga.ckd/fa4c8a213d02c7ce672cacf6eaf7f54b.ckd",
+            "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_Cover_Online.tga.ckd/8793d49ee4129d4a76ff1975b5bd9b04.ckd",
+            "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_Cover_AlbumBkg.tga.ckd/cf50227fee34991fb415f8b86c9e4c86.ckd",
+            "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_Cover_AlbumCoach.tga.ckd/ac5d82d45243da51bcdc12254e5b5ee5.ckd",
+            "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_Coach_1_Phone.png/14e91ed8543c30edf3fbfdd4d7642ba0.png",
+            "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_Cover_Phone.jpg/0561cdc38b42603c84d13af9a629c624.jpg",
+            "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/ps4/FeelSpecialALT_map_bkg.tga.ckd/fae69e1b1db8af4cc0a2c513e20679d3.ckd"
+        },
+        "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22326,44652,66977,89303,111628,133954,156279,178605,200931,223256,245582,267907,290233,312559,334884,357210,379535,401861,424186,446512,468838,491163,513489,535814,558140,580466,602791,625117,647442,669768,692093,714419,736745,759070,781396,803721,826047,848372,870698,893024,915349,937675,960000,982326,1004652,1026977,1049303,1071628,1093954,1116279,1138605,1160931,1183256,1205582,1227907,1250233,1272559,1294884,1317210,1339535,1361861,1384186,1406512,1428838],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":440,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":64,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/feelspecialalt/feelspecialalt_AudioPreview.ogg\"}",
+        "cnlyrics": "曾有过那么一天 突然间像是独自一人的日子 无论走到何处 都好像没有属于我的位置 垂下脑袋的日子 每当那样的时候 对于我自己而言 我还有多么珍贵呢 因为你告诉我的那句话 一切都好起来的 我会从“什么都不是” 再次变成自己想成为的那个人的 我因特别的自己而改变 你让我变得与众不同 无论这个世界再怎么放弃我 就算用如此痛苦的话语刺痛我 有你在 我再次绽放笑容 这便是你为我做的一切 我再一次感觉到自己焕然一新 即使是微不足道的存在 即使像不知不觉消失的人一样 在你呼唤着我的声音里 我感受到了爱 我感受到不一样的一切 我总是想要躲藏起来 不愿面对 像是一切都毫无意义 我好像失去了意义 当我就那样放弃的时候 那时 因为出现在我身边的你 那温暖的微笑和手 一切都好起来的 我会从“什么都不是” 再次变成自己想成为的那个人的 我因特别的自己而改变 你让我变得与众不同 无论这个世界再怎么放弃我 就算用如此痛苦的话语刺痛我 有你在 我再次绽放笑容 这便是你为我做的一切 我再一次感觉到自己焕然一新 即使是微不足道的存在 即使像不知不觉消失的人一样 在你呼唤着我的声音里 我感受到了爱 我感受到不一样的一切 你让一切都好了起来 云朵突然笼罩 一缕阳光都没有的日子 你就是属于我的阳光 这便是你为我做的一切 无论是多么漆黑的夜晚 再一次成为白天 这一切都是因为你 因为你让我感受到 你让我感受到不一样的一切 无论这个世界再怎么放弃我 就算用如此痛苦的话语刺痛我 有你在 我再次绽放笑容 这便是你为我做的一切 我再一次感觉到自己焕然一新 即使是微不足道的存在 即使像不知不觉消失的人一样 在你呼唤着我的声音里 我感受到了爱 我感受到不一样的一切",
+        "coachCount": 1,
+        "credits": "Written by J.Y. Park “The Asian Soul”, Woo Min Lee “collapsedone”, Ollipop and Hayley Michelle Aitken. Published by Universal Music Publishing Canada on behalf of Kennel AB, The and Universal Music Publishing AB / JYP Publishing (KOMCA), The Kennel AB. / JYP Publishing (KOMCA). All rights reserved. Used with permission. Courtesy of JYP Entertainment.",
+        "difficulty": 4,
+        "jdmAttributes": [],
+        "lyricsColor": "F41978FF",
+        "lyricsType": 0,
+        "mainCoach": -1,
+        "mapLength": 206.511,
+        "mapName": "FeelSpecialALT",
+        "mapPreviewMpd": {
+            "videoEncoding": {
+                "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496927\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"654-1143\">\r\n\t\t\t\t\t<Initialization range=\"0-654\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1479754\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2935345\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5396645\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1151\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+                "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"649323\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493906\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2986140\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1145\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5957658\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"655-1152\">\r\n\t\t\t\t\t<Initialization range=\"0-655\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+            }
+        },
+        "mode": 6,
+        "originalJDVersion": 2021,
+        "packages": {
+            "mapContent": "FeelSpecialALT_mapContent"
+        },
+        "parentMapName": "FeelSpecial",
+        "songColors": {
+            "songColor_1A": "444444FF",
+            "songColor_1B": "111111FF",
+            "songColor_2A": "AAAAAAFF",
+            "songColor_2B": "777777FF"
+        },
+        "status": 12,
+        "subcredits": "J.Y. Park “The Asian Soul”、Woo Min Lee “collapsedone”、Ollipop 和 Hayley Michelle Aitken 创作。Universal Music Publishing Canada 代表 Kennel AB、The and Universal Music Publishing AB / JYP Publishing (KOMCA)、The Kennel AB. / JYP Publishing (KOMCA) 出版发行。保留所有权利。经许可后使用。承蒙 JYP Entertainment 提供。",
+        "subtitle": "非同一般",
+        "sweatDifficulty": 3,
+        "tags": ["Alternate", "subscribedSong"],
+        "title": "Feel Special",
+        "urls": {
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_AudioPreview.ogg/f335fbac0d5aea2375e3cfd569c2b4be.ogg",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/9cfd05e6c42cd3c71d996efbf43b55d5.webm",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/0c75ab0fbdc5a276a1d2d0642a04220f.webm",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp8.webm/180e63e7393555f885914dce0e3353cd.webm",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_LOW.vp9.webm/296e13e278ac4f94061e9df31bfef65d.webm",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp8.webm/24618661f2232996c07c552beb20ad97.webm",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_MID.vp9.webm/9bdae0b5e0325af29277078b15a7a89d.webm",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/d47d534f7c92ce470cf75f6a9ac86681.webm",
+            "jmcs://jd-contents/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/FeelSpecialALT/FeelSpecialALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/f45e32edfbebd139ae7f7dcf8cd080ff.webm"
+        },
+        "customTypeName": "Extreme Version",
+        "serverChangelist": 556300
+    },
   "DontStartALT": {
     "artist": "Dua Lipa",
     "assets": {
@@ -59,7 +121,7 @@
       "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/673d940f09ced012985fc24f4472a010.webm",
       "jmcs://jd-contents/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DontStartALT/DontStartALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/dd5c252e07182991e8725baea8bf018d.webm"
     },
-    "customTypeName": "极限版本",
+    "customTypeName": "Extreme Version",
     "serverChangelist": 567443
   },
   "DontStart": {
