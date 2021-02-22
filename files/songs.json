@@ -1,5 +1,174 @@
 {
-    "MadLoveALT": {
+  "KillThisLoveALT": {
+    "artist": "BLACKPINK",
+    "assets": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/x1/KillThisLoveALT_banner_bkg.tga.ckd/8385f83462a4393141951a8118daa921.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/x1/KillThisLoveALT_Coach_1.tga.ckd/8a2af67df5ccaa5a696eb11df5cacce9.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/x1/KillThisLoveALT_Cover_Generic.tga.ckd/d4679b8025120c8a73c8a5af82dc22b7.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Cover_1024.png/5b490ead33846012d8930c698e3eb564.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/x1/KillThisLoveALT_Cover_Online.tga.ckd/6bc0f062e0e59e31028f362d115d17da.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/x1/KillThisLoveALT_Cover_AlbumBkg.tga.ckd/8fb94cf85f5c36fad20cb11e0e825ff2.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/x1/KillThisLoveALT_Cover_AlbumCoach.tga.ckd/6398a189397b640f1eff5776a165f90d.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Coach_1_Phone.png/3ed32a6ab417e6123b821b431487aef8.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_Cover_Phone.jpg/d9b212e3ab0eb6eb507f2a51dab795e3.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/x1/KillThisLoveALT_map_bkg.tga.ckd/f7a9e128c926324676e83c666c5f4fd8.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65454,87272,109090,130909,152727,174545,196363,218181,240000,261818,283636,305454,327272,349090,370909,392727,414545,436363,458181,480000,501818,523636,545454,567272,589090,610909,632727,654545,676363,698181,720000,741818,763636,785454,807272,829090,850909,872727,894545,916363,938181,960000,981818,1003636,1025454,1047272,1069090,1090909,1112727,1134545,1156363,1178181,1200000,1221818,1243636,1265454,1287272,1309090,1330909,1352727,1374545,1396363,1418181],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":415,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/killthislovealt/killthislovealt_AudioPreview.ogg\"}",
+    "coachCount": 1,
+    "credits": "Written by Hong Jun Park, Jeong Hun Seo, R.Tee and Rebecca Johnson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Korea. / Bekuh Boom Publishing (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Bekuh Boom Publishing administered by Warner-Tamerlane Publishing Corp. Courtesy of Interscope Records / YG Entertainment under license from Universal Music Enterprises.",
+    "difficulty": 4,
+    "jdmAttributes": [],
+    "lyricsColor": "11D2C0FF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 190,
+    "mapName": "KillThisLoveALT",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496589\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"608-1097\">\r\n\t\t\t\t\t<Initialization range=\"0-608\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482913\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947546\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5512656\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"609-1104\">\r\n\t\t\t\t\t<Initialization range=\"0-609\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648917\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1494543\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2982895\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1102\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5940120\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"612-1109\">\r\n\t\t\t\t\t<Initialization range=\"0-612\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2020,
+    "packages": {
+      "mapContent": "KillThisLoveALT_mapContent"
+    },
+    "parentMapName": "KillThisLove",
+    "skuIds": [
+      "jd2020-nx-all",
+      "jd2020-xone-all",
+      "jd2020-ps4-scea",
+      "jd2020-ps4-scee",
+      "jd2020-ggp-all",
+      "jd2020-demo-nx-all",
+      "jd2020-demo-ps4-scea",
+      "jd2020-demo-ps4-scee",
+      "jd2020-demo-xone-all"
+    ],
+    "songColors": {
+      "songColor_1A": "0D0012FF",
+      "songColor_1B": "310082FF",
+      "songColor_2A": "FF0026FF",
+      "songColor_2B": "290000FF"
+    },
+    "status": 12,
+    "sweatDifficulty": 3,
+    "tags": [
+      "Alternate",
+      "subscribedSong",
+      "JustDance2020",
+      "Solo",
+      "Extreme",
+      "Sweat Hard",
+      "Asian",
+      "Girls",
+      "Kpop"
+    ],
+    "title": "Kill This Love",
+    "urls": {
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_AudioPreview.ogg/bfe0abcb72a0e9321c49ec2da79fff0f.ogg",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp8.webm/1c02fb308ecfdfd824151f1ec655717c.webm",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_HIGH.vp9.webm/d445b1f65fffafcf903901c457c2adad.webm",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp8.webm/5f693f0dc37230dd603f284791d758ea.webm",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_LOW.vp9.webm/e440e2a6f96c89e5ddd35dcf1d431a76.webm",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp8.webm/d2bf1ee7bedd6d6511581a1ff1a42e7e.webm",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_MID.vp9.webm/58fca1ddbe9c1b6910441994fcf2820f.webm",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp8.webm/f094ceea3c2c700dd1714dabd99bce08.webm",
+      "jmcs://jd-contents/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLoveALT/KillThisLoveALT_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5230c15fe6883d9d68c07c7945fa1282.webm"
+    },
+    "customTypeName": "Extreme Version",
+    "serverChangelist": 540342
+  },
+  "KillThisLove": {
+    "artist": "BLACKPINK",
+    "assets": {
+      "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_banner_bkg.tga.ckd/f2196750cf8e4fb8224d621396f1a51a.ckd",
+      "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Coach_1.tga.ckd/b4c04089b37310a5b0010be8957c15fd.ckd",
+      "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Coach_2.tga.ckd/55d2247041a4437c6630ecf97d31c44d.ckd",
+      "coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Coach_3.tga.ckd/f723339666114554e5d5e4dcc76d9f16.ckd",
+      "coach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Coach_4.tga.ckd/853fbdae4b9662d8605c1898979aaf8e.ckd",
+      "coverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Cover_Generic.tga.ckd/49afde92f9de35c7715113fc5580be1f.ckd",
+      "cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Cover_1024.png/5a8880348d66b98055023fc245eb4358.png",
+      "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Cover_Online.tga.ckd/ab72c8b93b59a76693cfc92b0f82819f.ckd",
+      "expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Cover_AlbumBkg.tga.ckd/49f257c93f892c7e21edca9ce1ef7f14.ckd",
+      "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_Cover_AlbumCoach.tga.ckd/8667c8cebddfe291c9dfc66f497d6f3e.ckd",
+      "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_1_Phone.png/4fd267ba49a930ad9dc3626250f5c3a4.png",
+      "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_2_Phone.png/222057e69fa1445a0c1b4508e766924b.png",
+      "phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_3_Phone.png/5c5cfd068b48afc932fab116ceb0e4d5.png",
+      "phoneCoach4ImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Coach_4_Phone.png/176514304f9a58d3a9bf8a97f5b989f4.png",
+      "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_Cover_Phone.jpg/d930387376a08ebc09aa9d4b77cd5211.jpg",
+      "map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/KillThisLove/x1/KillThisLove_map_bkg.tga.ckd/1df74503487197f7e327e314c262ddf4.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21818,43636,65454,87272,109090,130909,152727,174545,196363,218181,240000,261818,283636,305454,327272,349090,370909,392727,414545,436363,458181,480000,501818,523636,545454,567272,589090,610909,632727,654545,676363,698181,720000,741818,763636,785454,807272,829090,850909,872727,894545,916363,938181,960000,981818,1003636,1025454,1047272,1069090,1090909,1112727,1134545,1156363,1178181,1200000,1221818,1243636,1265454,1287272,1309090,1330909,1352727,1374545,1396363,1418181],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":417,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/killthislove/killthislove_AudioPreview.ogg\"}",
+    "coachCount": 4,
+    "credits": "Written by Hong Jun Park, Jeong Hun Seo, R.Tee and Rebecca Johnson. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Korea. / Bekuh Boom Publishing (BMI) and Warner-Tamerlane Publishing Corp. (BMI). All rights on behalf of itself and Bekuh Boom Publishing administered by Warner-Tamerlane Publishing Corp. Courtesy of Interscope Records / YG Entertainment under license from Universal Music Enterprises.",
+    "difficulty": 3,
+    "jdmAttributes": [],
+    "lyricsColor": "01E4DDFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 194.54399999999998,
+    "mapName": "KillThisLove",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496838\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"602-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-602\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480672\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2934094\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5384452\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1099\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648304\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1492897\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2982981\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5947336\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"603-1100\">\r\n\t\t\t\t\t<Initialization range=\"0-603\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2020,
+    "packages": {
+      "mapContent": "KillThisLove_mapContent"
+    },
+    "parentMapName": "KillThisLove",
+    "skuIds": [
+      "jd2020-nx-all",
+      "jd2020-xone-all",
+      "jd2020-ps4-scea",
+      "jd2020-ps4-scee",
+      "jd2020-ggp-all",
+      "jd2020-demo-nx-all",
+      "jd2020-demo-ps4-scea",
+      "jd2020-demo-ps4-scee",
+      "jd2020-demo-xone-all"
+    ],
+    "songColors": {
+      "songColor_1A": "FF351FFF",
+      "songColor_1B": "5B0006FF",
+      "songColor_2A": "A93DDFFF",
+      "songColor_2B": "66247CFF"
+    },
+    "status": 3,
+    "sweatDifficulty": 2,
+    "tags": [
+      "Main",
+      "subscribedSong",
+      "JustDance2020",
+      "Quartet",
+      "Sweat Medium",
+      "Asian",
+      "Futuristic",
+      "Kpop",
+      "Video Games",
+      "Girls",
+      "Hard"
+    ],
+    "title": "Kill This Love",
+    "urls": {
+      "jmcs://jd-contents/KillThisLove/KillThisLove_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_AudioPreview.ogg/5624da37f1d5caf792bc998eb3506d7e.ogg",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp8.webm/623828995a6363086476701e05093250.webm",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_HIGH.vp9.webm/761deeaa45ea812ae939bdd8af75b32c.webm",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp8.webm/72c2adfd917a866a7eb825845639a698.webm",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_LOW.vp9.webm/2f0d9621d99ea48e3899373f0d85312e.webm",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp8.webm/be620dd0899d11d22cb258bfbd257daa.webm",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_MID.vp9.webm/eca6e6454be3a76e73d718d885bb54c7.webm",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp8.webm/bc36e641c7624bd0ef9e4f526e69bede.webm",
+      "jmcs://jd-contents/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KillThisLove/KillThisLove_MapPreviewNoSoundCrop_ULTRA.vp9.webm/ecef034c4186132aef543805ae92d29b.webm"
+    },
+    "serverChangelist": 540229
+  },
+  "MadLoveALT": {
     "artist": "Sean Paul and David Guetta ft. Becky G",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/MadLoveALT/x1/MadLoveALT_banner_bkg.tga.ckd/c957ec036fdb0099843cf727186720e7.ckd",
@@ -10,7 +179,7 @@
       "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/MadLoveALT/MadLoveALT_Coach_1_Phone.png/d2a7c05d59ee9aab9f7166f7f74c1179.png",
       "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/MadLoveALT/MadLoveALT_Cover_Phone.jpg/b84dc4ac186f243cc99e177555425f90.jpg"
     },
-    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29375,58751,88175,117551,146927,176303,205727,235103,264479,293855,323279,352655,382031,411407,440831,470207,499583,528959,558383,587759,617135,646511,675935,705311,734687,764063,793487,822863,852239,881615,911039,940415,969791,999167,1028591,1057967,1087343,1116719,1146143,1175519,1204895,1234271,1263695,1293071,1322447,1351823,1381198,1410622,1439998,1469374,1498750,1528174,1557550,1586926,1616302,1645726,1675102,1704478,1733854,1763278,1792654,1822030,1851406,1880830,1910206,1939582,1968958,1998382,2027758,2057134,2086510,2115934,2145310,2174686,2204062,2233486,2262862,2292238,2321614,2351038,2380414,2409790,2439166,2468590,2497966,2527342,2556718,2586142,2615518,2644894,2674270,2703694,2733070,2762445,2791821,2821245,2850621,2879997,2909373,2938749,2968173,2997549,3026925,3056301,3085725,3115101,3144477,3173853,3203277,3232653,3262029,3291405,3320829,3350205,3379581,3408957,3438381,3467757,3497133,3526509,3555933,3585309,3614685,3644061,3673485,3702861,3732237,3761613,3791037,3820413,3849789,3879165,3908589,3937965,3967341,3996717,4026141,4055517,4084893,4114268,4143692,4173068,4202444,4231820,4261244,4290620,4319996,4349372,4378748,4408172,4437548,4466924,4496300,4525724,4555100,4584476,4613852,4643276,4672652,4702028,4731404,4760828,4790204,4819580,4848956,4878380,4907756,4937132,4966508,4995932,5025308,5054684,5084060,5113484,5142860,5172236,5201612,5231036,5260412,5289788,5319164,5348588,5377964,5407340,5436716,5466140,5495515,5524891,5554267,5583691,5613067,5642443,5671819,5701243,5730619,5759995,5789371,5818747,5848171,5877547,5906923,5936299,5965723,5995099,6024475,6053851,6083275,6112651,6142027,6171403,6200827,6230203,6259579,6288955,6318379,6347755,6377131,6406507,6435931,6465307,6494683,6524059,6553483,6582859,6612235,6641611,6671035,6700411,6729787,6759163,6788587,6817963,6847338,6876714,6906138,6935514,6964890,6994266,7023690,7053066,7082442,7111818,7141242,7170618,7199994,7229370,7258746,7288170,7317546,7346922,7376298,7405722,7435098,7464474,7493850,7523274,7552650,7582026,7611402,7640826,7670202,7699578,7728954,7758378,7787754,7817130,7846506,7875930,7905306,7934682,7964058,7993482,8022858,8052234,8081610,8111034,8140410,8169786,8199162,8228585,8257961,8287337,8316713,8346137,8375513,8404889,8434265,8463689,8493065,8522441,8551817,8581241,8610617,8639993,8669369,8698745,8728169,8757545,8786921,8816297,8845721,8875097,8904473,8933849,8963273,8992649,9022025,9051401,9080825,9110201,9139577,9168953,9198377,9227753,9257129,9286505,9315929,9345305,9374681,9404057,9433481,9462857,9492233,9521609,9551033,9580409],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":161,\"previewLoopStart\":161,\"previewLoopEnd\":194,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/MadLove/MadLove_AudioPreview.ogg\"}",
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25728,51456,77184,102912,128640,154368,180096,205824,231552,257280,283008,308736,334464,360192,385920,411648,437376,463104,488832,514560,540288,566016,591744,617472,643200,668928,694656,720384,746112,771840,797568,823296,849024,874752,900480,926208,951936,977664,1003392,1029120,1054848,1080576,1106304,1132032,1157760,1183488,1209216,1234944,1260672,1286400,1312128,1337856,1363584,1389312,1415040,1440768,1466496,1492224,1517952,1543680,1569408,1595136,1620864,1646592,1672320,1698048,1723776,1749504,1775232,1800960,1826688,1852416,1878144,1903872,1929600,1955328,1981056,2006784,2032512,2058240,2083968,2109696,2135424,2161152,2186880,2212608,2238336,2264064,2289792,2315520,2341248,2366976,2392704],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":78,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/MadLoveALT/MadLoveALT_AudioPreview.ogg\"}",
     "coachCount": 1,
     "credits": "Written by Michael Tucker, Max Martin, Tchami, Stefani Germanotta and Ely Weisfeld. Published by BMG Platinum Songs US (BMI). All rights administered by BMG Rights Management (US) LLC/ MXM Music AB (ASCAP) / Michael Diamond Music (ASCAP). Administered by Kobalt Music Publishing America, Inc.  / SG Songs Worldwide (BMI) / Sony/ATV Songs LLC (BMI). These Are Songs of Pulse (ASCAP) obo itself and Love Tunnel Publishing (ASCAP) admin by Concord Sounds (ASCAP). All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
     "difficulty": 3,
@@ -26,12 +195,14 @@
       "mapContent": "MadLoveALT_mapContent"
     },
     "parentMapName": "MadLoveALT",
-    "songColors": {
-    },
+    "songColors": {},
     "status": 3,
     "sweatDifficulty": 3,
     "tags": [],
     "title": "Mad Love",
+    "urls": {
+      "jmcs://jd-contents/MadLoveALT/MadLoveALT_AudioPreview.ogg": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2FMadLove_AudioPreview.ogg?v=1613990436380"
+    },
     "serverChangelist": 568364,
     "customTypeName": "Extreme Version"
   },
@@ -73,7 +244,6 @@
     "urls": {
       "jmcs://jd-contents/APunk/APunk_AudioPreview.ogg": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2FAPunk_AudioPreview.ogg?v=1613987683502"
     },
-    "customTypeName": "Extreme Version",
     "serverChangelist": 540229
   },
   "7RingsALT": {
@@ -158,7 +328,7 @@
     "customTypeName": "Extreme Version",
     "serverChangelist": 540229
   },
-   "FancyTwice": {
+  "FancyTwice": {
     "artist": "TWICE",
     "assets": {
       "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/FancyTwice/x1/FancyTwice_banner_bkg.tga.ckd/a042c86a370399ddfe2efc09d0a49375.ckd",
