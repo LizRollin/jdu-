@@ -629,6 +629,30 @@
           "components": [
             {
               "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "7RingsALT"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ConAltura"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
               "mapName": "Everybody"
             }
           ],
@@ -642,6 +666,18 @@
             {
               "__class": "JD_CarouselContentComponent_Song",
               "mapName": "Footwork"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "ILikeIt"
             }
           ],
           "actionList": "partyMap"
