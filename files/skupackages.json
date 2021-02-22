@@ -172,5 +172,11 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ftalkalt_main_scene_pc.zip?v=1613982784648",
     "version": 7
+  },
+  "TelAviv_mapContent": {
+    "md5": "0c1bb154a8adb835c7b8393395fee66c",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48%2Ftelaviv_main_scene_pc.zip?v=1613984642564",
+    "version": 7
   }
 }
