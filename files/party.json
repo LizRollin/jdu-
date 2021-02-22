@@ -658,7 +658,7 @@
           ],
           "actionList": "partyMap"
         },
-         {
+        {
           "__class": "Item",
           "isc": "grp_cover",
           "act": "ui_component_base",
@@ -866,6 +866,18 @@
             {
               "__class": "JD_CarouselContentComponent_Song",
               "mapName": "DanceMonkey"
+            }
+          ],
+          "actionList": "partyMap"
+        },
+        {
+          "__class": "Item",
+          "isc": "grp_cover",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Song",
+              "mapName": "DansVanDeFarao"
             }
           ],
           "actionList": "partyMap"
@@ -1454,30 +1466,6 @@
             {
               "__class": "JD_CarouselContentComponent_Song",
               "mapName": "Zenit"
-            }
-          ],
-          "actionList": "partyMap"
-        },
-        {
-          "__class": "Item",
-          "isc": "grp_cover",
-          "act": "ui_component_base",
-          "components": [
-            {
-              "__class": "JD_CarouselContentComponent_Song",
-              "mapName": "DansVanDeFarao"
-            }
-          ],
-          "actionList": "partyMap"
-        },
-        {
-          "__class": "Item",
-          "isc": "grp_cover",
-          "act": "ui_component_base",
-          "components": [
-            {
-              "__class": "JD_CarouselContentComponent_Song",
-              "mapName": "KDance"
             }
           ],
           "actionList": "partyMap"
