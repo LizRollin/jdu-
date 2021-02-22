@@ -1,4 +1,67 @@
 {
+  "DibbyDibby": {
+    "artist": "DJ Fresh & Jay Fay Ft. Ms Dynamite",
+    "assets": {
+      "banner_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_banner_bkg.tga.ckd/0f84484ffb930ded89b1462fa7da926d.ckd",
+      "coach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_Coach_1.tga.ckd/cd85f50237513215c9fff27fce7a5dff.ckd",
+      "coach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_Coach_2.tga.ckd/90da6caeca4608a89aeac5bbc1d32fa8.ckd",
+      "coverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_Cover_Generic.tga.ckd/8d242cdb74297f2a7e01fd92a37fbadb.ckd",
+      "cover_smallImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_Cover_Online.tga.ckd/3ba7c2a63d6deb41ddf9639f109876e3.ckd",
+      "expandBkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_Cover_AlbumBkg.tga.ckd/5ec926db1d6e8088f0a40be03e71a2bb.ckd",
+      "expandCoachImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_Cover_AlbumCoach.tga.ckd/d84e6047d5e65400e3fb736f2bcc144e.ckd",
+      "phoneCoach1ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_Coach_1_Phone.png/8255e2a12f393477618070710e560b27.png",
+      "phoneCoach2ImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_Coach_2_Phone.png/7bee123f8dfbb4b701205f98219355fa.png",
+      "phoneCoverImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_Cover_Phone.jpg/a04c8fd18ded9ba7a707622b0d626494.jpg",
+      "map_bkgImageUrl": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/ps4/DibbyDibby_map_bkg.tga.ckd/eccea9f65878d0d1369e538e9f7eaaf9.ckd"
+    },
+    "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25714,51429,77143,102857,128572,154286,180000,205714,231429,257143,282857,308572,334286,360000,385714,411429,437143,462857,488572,514286,540000,565714,591429,617143,642857,668572,694286,720000,745714,771429,797143,822857,848572,874286,900000,925714,951429,977143,1002857,1028572,1054286,1080000,1105714,1131429,1157143,1182857,1208572,1234286,1260000,1285714,1311429,1337143,1362857,1388572,1414286],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":361,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":55,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/dibbydibby/dibbydibby_AudioPreview.ogg\"}",
+    "cnlyrics": "滴哔滴哔的声音 朋友们 你们好！ 原始的潮流声音 易燃易爆炸 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 你准备好了吗？ 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 看一下这个 喊出来 举起你的双手 锁定并点燃热情 准备战斗 我们告诉他们这种共鸣 再见 跟我来跟我来 马上 跳舞 现在开始跳起来扭 姑娘们 我们这样做 跳舞 太火热了，你无法抗拒 跟我走跟我走 我们变得如此开心 听我的声音 酷炫又热情 他们无法阻止我们 他们还没准备好 跟我来跟我来 马上 跳舞 不要停止，我们现在有了共鸣 低音这么响 我们和他们斗舞 你所有的炒作 不能让他们超过 跟我走跟我走 你的声音是最美的 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 现在放手，释放氛围， 靠近一点 和我一同起舞 高高举起 你的身体 跟我来跟我来 马上 跳舞 放松，你会更投入 跳舞 热力爆棚 直达顶峰 跳舞 氛围正浓 麦克风也在响 跟我走跟我走 我们变得如此开心 听我的声音 酷炫又热情 他们无法阻止我们 他们还没准备好 跟我来跟我来 马上 跳舞 不要停止，我们现在有了共鸣 低音这么响 我们和他们斗舞 你所有的炒作 不能让他们超过 跟我走跟我走 你的声音是最美的 他们说星期一不妙 他们想要一支新的舞蹈 所以王子说 在这里谁都是艺术大师 看到了吗 站起来！ 不再等待不再伪造 而且没有辩论 没有误会 只知道无法逃脱 暂停音乐 当我改变时间 你就无法逃避 没有藏身之处 感觉到力量 出来战斗吧 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 你的声音是 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 你的声音是 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔滴哔的声音 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 滴哔 现在跳起来 滴哔滴哔的声音 ",
+    "coachCount": 2,
+    "credits": "Written by Daniel Edward Stein, George Astasio, Jason Andrew Pebworth, Joshua Fagin, Niomi Daley and Jonathan Shave. Published by Tunefirst Limited (PRS) / Sony/ATV Music Publishing (UK) Limited (PRS) / Sony/ATV Music Publishing Allegro (UK) (PRS) / EMI Music Publishing Ltd. (PRS) / Universal Music Publishing Canada on behalf of Astasio Music Ltd., Universal Music Publishing Ltd. and Pebworth Music Ltd. All rights reserved. Used with permission. Courtesy of Sony Music Entertainment (UK) Ltd. By arrangement with Sony Music Entertainment.",
+    "difficulty": 2,
+    "jdmAttributes": [],
+    "lyricsColor": "3AF2BAFF",
+    "lyricsType": 0,
+    "mainCoach": -1,
+    "mapLength": 195,
+    "mapName": "DibbyDibby",
+    "mapPreviewMpd": {
+      "videoEncoding": {
+        "vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"497206\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"646-1135\">\r\n\t\t\t\t\t<Initialization range=\"0-646\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482367\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2947186\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3941604\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+        "vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647415\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1490778\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2979084\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1137\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5920968\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"647-1144\">\r\n\t\t\t\t\t<Initialization range=\"0-647\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+      }
+    },
+    "mode": 6,
+    "originalJDVersion": 2021,
+    "packages": {
+      "mapContent": "DibbyDibby_mapContent"
+    },
+    "parentMapName": "DibbyDibby",
+    "songColors": {
+      "songColor_1A": "444444FF",
+      "songColor_1B": "111111FF",
+      "songColor_2A": "AAAAAAFF",
+      "songColor_2B": "777777FF"
+    },
+    "status": 3,
+    "subcredits": "Daniel Edward Stein、George Astasio、Jason Andrew Pebworth、Joshua Fagin、Niomi Daley 和 Jonathan Shave 创作。Tunefirst Limited (PRS) / Sony/ATV Music Publishing (UK) Limited (PRS) / Sony/ATV Music Publishing Allegro (UK) (PRS) / EMI Music Publishing Ltd. (PRS) / Universal Music Publishing Canada 代表 Astasio Music Ltd.、Universal Music Publishing Ltd. 和 Pebworth Music Ltd. 出版发行。保留所有权利。经许可后使用。承蒙 Sony Music Entertainment (UK) Ltd. 提供。Sony Music Entertainment 编曲。",
+    "subtitle": "滴哔滴哔",
+    "sweatDifficulty": 3,
+    "tags": ["Main", "subscribedSong"],
+    "title": "Dibby Dibby Sound",
+    "urls": {
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_AudioPreview.ogg": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_AudioPreview.ogg/045e4ebfa839efc8bbb1552b0f95f2f9.ogg",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_HIGH.vp8.webm/f3f2ab852b1fb16e0c32f607706372d6.webm",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_HIGH.vp9.webm/35e3415edbed096fa7ac59acc728da94.webm",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_LOW.vp8.webm/0c02e2a70ac77139c5a2d4b13f320a69.webm",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_LOW.vp9.webm/0bb3c4799dce751e54c2369fd00f83cf.webm",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_MID.vp8.webm/dc662e4287449c84e32a961ecaff644d.webm",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_MID.vp9.webm/29ed57aeae19e01807668aaf124db8d3.webm",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_ULTRA.vp8.webm/26b9e0f9173ef913aee479fc7c42d54a.webm",
+      "jmcs://jd-contents/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-console.cdn.ubisoft.cn/public/map/DibbyDibby/DibbyDibby_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0ced6cccaec81d6f22c4a57b8842eb42.webm"
+    },
+    "serverChangelist": 556295
+  },
   "KDance": {
     "artist": "K/DA Ft. Aluna, Wolftyla, Bekuh BOOM",
     "assets": {
@@ -81,7 +144,7 @@
       "jmcs://jd-contents/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/KDance/KDance_MapPreviewNoSoundCrop_ULTRA.vp9.webm/0f9a588e50f09cbb70545f6a66bf80f4.webm"
     }
   },
-    "FeelSpecial": {
+  "FeelSpecial": {
     "artist": "TWICE",
     "assets": {
       "banner_bkgImageUrl": "https://cdn.glitch.com/60832c6d-ba73-4acc-896f-52e96af3ad06/Feelspecial_banner_bkg.png",
