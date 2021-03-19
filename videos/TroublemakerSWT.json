@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 550937,
+  "urls": {
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_ULTRA.webm": "",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_HIGH.webm": "",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_MID.webm": "",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_LOW.webm": "",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT.ogg": ""
+  }
+}
