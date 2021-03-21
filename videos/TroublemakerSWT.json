@@ -3,10 +3,10 @@
   "duration": 300,
   "changelist": 550937,
   "urls": {
-    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_ULTRA.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.output_ULTRA.webm",
-    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_HIGH.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.output_HIGH.webm",
-    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_MID.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.output_MID.webm",
-    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_LOW.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.output_LOW.webm",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_ULTRA.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.TroublemakerSWT_ULTRA.webm",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_HIGH.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.TroublemakerSWT_HIGH.webm",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_MID.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.TroublemakerSWT_MID.webm",
+    "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT_LOW.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/clean.TroublemakerSWT_LOW.webm",
     "jmcs://jd-contents/TroublemakerSWT/TroublemakerSWT.ogg": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/TroublemakerSWT1.ogg"
   }
 }
