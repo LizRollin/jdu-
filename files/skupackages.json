@@ -197,12 +197,6 @@
     "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d/sushii_main_scene_pc.zip",
     "version": 5
   },
-  "Sushii_mapContent": {
-    "md5": "cd92dc591c06735ad80e1d1daefc5db3",
-    "storageType": 0,
-    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d/sushii_main_scene_pc.zip",
-    "version": 5
-  },
   "DoCarnaval_mapContent": {
     "md5": "a93a5b69f6f8aa4e1903af69e9ec36d0",
     "storageType": 0,
@@ -244,6 +238,60 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fvodovorot_main_scene_pc.zip?v=1614197469403",
     "version": 1
+  },
+  "KillThisLoveALT_mapContent": {
+    "md5": "cd9c830bf600cbe3b1467819ec13f22b",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/killthislovealt_main_scene_pc.zip",
+    "version": 7
+  },
+  "TakiTakiALT_mapContent": {
+    "md5": "e4142e734b7d9cd5ad35d95553025ff0",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Ftakitakialt_main_scene_pc.zip?v=1614241044926",
+    "version": 1
+  },
+  "RainOverMeALT_mapContent": {
+    "md5": "c620bad8af3ee9fbde4a5fdb540732ae",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Frainovermealt_main_scene_pc.zip?v=1614236169771",
+    "version": 1
+  },
+  "GodIsAWomanALT_mapContent": {
+    "md5": "d86e2be1a406306da2e8c9e4979d61f1",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fgodisawomanalt_main_scene_pc.zip?v=1614152518263",
+    "version": 1
+  },
+  "IAmTheBestALT_mapContent": {
+    "md5": "18ede13a7f83408f20538853d3402d0a",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fiamthebestalt_main_scene_pc.zip?v=1614059555516",
+    "version": 5
+  },
+  "BangarangALT_mapContent": {
+    "md5": "95aceb37ec20c5335c86d354fa468007",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fbangarangalt_main_scene_pc.zip?v=1614145720908",
+    "version": 3
+  },
+  "SoyYoALT_mapContent": {
+    "md5": "0a1a651fd7b09c45adac234ca3c9ceb8",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fsoyyoalt_main_scene_pc.zip?v=1614238150704",
+    "version": 1
+  },
+  "TheTimeALT_mapContent": {
+    "md5": "f058d3c10b9c3d9bce138d309827c6df",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fthetimealt_main_scene_pc.zip?v=1614195499399",
+    "version": 1
+  },
+  "TalkALT_mapContent": {
+    "md5": "418a996d536cd6eeafd01b30e3fef5b6",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/talkalt_main_scene_pc.zip",
+    "version": 7
   },
   "Adeyyo_mapContent": {
     "md5": "745aac4da452708d803a6602e52b5762",
