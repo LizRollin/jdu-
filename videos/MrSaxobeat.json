@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/MrSaxobeat/MrSaxobeat_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMrSaxobeat_ULTRA.webm?v=1628907546081",
+		"jmcs://jd-contents/MrSaxobeat/MrSaxobeat_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMrSaxobeat_MID.webm?v=1628907491304",
+		"jmcs://jd-contents/MrSaxobeat/MrSaxobeat_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMrSaxobeat_LOW.webm?v=1628907444935",
+		"jmcs://jd-contents/MrSaxobeat/MrSaxobeat_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMrSaxobeat_HIGH.webm?v=1628907525795",
+		"jmcs://jd-contents/MrSaxobeat/MrSaxobeat.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMrSaxobeat.ogg?v=1628907448128"
+	}
+}

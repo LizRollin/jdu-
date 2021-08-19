@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Titanium/Titanium_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTitanium_ULTRA.webm?v=1628456775061",
+		"jmcs://jd-contents/Titanium/Titanium_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTitanium_MID.webm?v=1628456766071",
+		"jmcs://jd-contents/Titanium/Titanium_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTitanium_LOW.webm?v=1628456762279",
+		"jmcs://jd-contents/Titanium/Titanium_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTitanium_HIGH.webm?v=1628456764789",
+		"jmcs://jd-contents/Titanium/Titanium.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTitanium.ogg?v=1628456759359"
+	}
+}

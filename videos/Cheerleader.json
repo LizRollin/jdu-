@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Cheerleader/Cheerleader_ULTRA.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fchherleaderultra.webm?v=1612195324238",
+        "jmcs://jd-contents/Cheerleader/Cheerleader_MID.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fchealedermid.webm?v=1612194974518",
+        "jmcs://jd-contents/Cheerleader/Cheerleader_LOW.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fcharleaderlow.webm?v=1612194875863",
+        "jmcs://jd-contents/Cheerleader/Cheerleader_HIGH.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fchealerleaderhigh.webm?v=1612195103415",
+        "jmcs://jd-contents/Cheerleader/Cheerleader.ogg": "https://cdn.glitch.com/9f987805-51e9-400c-88d2-cba974ed2d57%2Fchealader.ogg?v=1612194735462"
+    }
+}

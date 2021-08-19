@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Narco/Narco_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNarco_ULTRA.webm?v=1628899631386",
+		"jmcs://jd-contents/Narco/Narco_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNarco_MID.webm?v=1628899617743",
+		"jmcs://jd-contents/Narco/Narco_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNarco_LOW.webm?v=1628899616259",
+		"jmcs://jd-contents/Narco/Narco_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNarco_HIGH.webm?v=1628899622623",
+		"jmcs://jd-contents/Narco/Narco.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNarco.ogg?v=1628899610805"
+	}
+}

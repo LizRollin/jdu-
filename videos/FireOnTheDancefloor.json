@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FFireOnTheDancefloor_ULTRA.webm?v=1628914194366",
+		"jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FFireOnTheDancefloor_MID.webm?v=1628914180943",
+		"jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FFireOnTheDancefloor_LOW.webm?v=1628914177559",
+		"jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FFireOnTheDancefloor_HIGH.webm?v=1628914176434",
+		"jmcs://jd-contents/FireOnTheDancefloor/FireOnTheDancefloor.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FFireOnTheDancefloor.ogg?v=1628914177783"
+	}
+}

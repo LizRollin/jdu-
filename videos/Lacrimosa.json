@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_ULTRA.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Lacrimosa_ULTRA.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_MID.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Lacrimosa_MID.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_LOW.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Lacrimosa_LOW.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa_HIGH.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Lacrimosa_HIGH.webm",
+    "jmcs://jd-contents/Lacrimosa/Lacrimosa.ogg": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Lacrimosa.ogg"
+  }
+}

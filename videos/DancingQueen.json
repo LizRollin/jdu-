@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/DancingQueen/DancingQueen_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDancingQueen_ULTRA.webm?v=1613227783292",
+		"jmcs://jd-contents/DancingQueen/DancingQueen_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDancingQueen_MID.webm?v=1613227367772",
+		"jmcs://jd-contents/DancingQueen/DancingQueen_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDancingQueen_LOW.webm?v=1613227123936",
+		"jmcs://jd-contents/DancingQueen/DancingQueen_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDancingQueen_HIGH.webm?v=1613227506970",
+		"jmcs://jd-contents/DancingQueen/DancingQueen.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDancingQueen.ogg?v=1613227050935"
+	}
+}

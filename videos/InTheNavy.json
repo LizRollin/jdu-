@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/InTheNavy/InTheNavy_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FInTheNavy_ULTRA.webm?v=1614008775638",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FInTheNavy_HIGH.webm?v=1614008591571",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FInTheNavy_MID.webm?v=1614008283499",
+    "jmcs://jd-contents/InTheNavy/InTheNavy_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FInTheNavy_LOW.webm?v=1614008173522",
+    "jmcs://jd-contents/InTheNavy/InTheNavy.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FInTheNavy.ogg?v=1614008156782"
+  }
+}

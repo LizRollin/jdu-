@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/RockNRoll/RockNRoll_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FRockNRoll_ULTRA.webm?v=1628909447026",
+		"jmcs://jd-contents/RockNRoll/RockNRoll_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FRockNRoll_MID.webm?v=1628909386461",
+		"jmcs://jd-contents/RockNRoll/RockNRoll_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FRockNRoll_LOW.webm?v=1628909347825",
+		"jmcs://jd-contents/RockNRoll/RockNRoll_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FRockNRoll_HIGH.webm?v=1628909407386",
+		"jmcs://jd-contents/RockNRoll/RockNRoll.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FRockNRoll.ogg?v=1628909354014"
+	}
+}

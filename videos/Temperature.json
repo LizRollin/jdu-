@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Temperature/Temperature_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTemperature_ULTRA.webm?v=1614092074315",
+    "jmcs://jd-contents/Temperature/Temperature_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTemperature_ULTRA.webm?v=1614092074315",
+    "jmcs://jd-contents/Temperature/Temperature_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTemperature_MID.webm?v=1614091907304",
+    "jmcs://jd-contents/Temperature/Temperature_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTemperature_LOW.webm?v=1614091691893",
+    "jmcs://jd-contents/Temperature/Temperature.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTemperature.ogg?v=1614091567299"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/IDontCare/IDontCare_ULTRA.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FIDontCare_ULTRA.webm?v=1629244510577",
+		"jmcs://jd-contents/IDontCare/IDontCare_MID.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FIDontCare_MID.webm?v=1629244474635",
+		"jmcs://jd-contents/IDontCare/IDontCare_LOW.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FIDontCare_LOW.webm?v=1629244471695",
+		"jmcs://jd-contents/IDontCare/IDontCare_HIGH.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FIDontCare_HIGH.webm?v=1629244472880",
+		"jmcs://jd-contents/IDontCare/IDontCare.ogg" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FIDontCare.ogg?v=1629244471897"
+	}
+}

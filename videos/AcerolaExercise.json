@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/AcerolaExercise/AcerolaExercise_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.acerolaexercise_ULTRA.webm?v=1629167540954",
+		"jmcs://jd-contents/AcerolaExercise/AcerolaExercise_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.acerolaexercise_MID.webm?v=1629167530867",
+		"jmcs://jd-contents/AcerolaExercise/AcerolaExercise_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.acerolaexercise_LOW.webm?v=1629167518802",
+		"jmcs://jd-contents/AcerolaExercise/AcerolaExercise_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.acerolaexercise_ULTRA.webm?v=1629167540954",
+		"jmcs://jd-contents/AcerolaExercise/AcerolaExercise.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FAcerolaExercise.ogg?v=1629168053483"
+	}
+}

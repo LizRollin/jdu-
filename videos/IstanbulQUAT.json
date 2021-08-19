@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FIstanbulQUAT_ULTRA.webm?v=1628908759927",
+		"jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FIstanbulQUAT_MID.webm?v=1628908714926",
+		"jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FIstanbulQUAT_LOW.webm?v=1628908676292",
+		"jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FIstanbulQUAT_HIGH.webm?v=1628908751931",
+		"jmcs://jd-contents/IstanbulQUAT/IstanbulQUAT.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FIstanbulQUAT.ogg?v=1628908681277"
+	}
+}

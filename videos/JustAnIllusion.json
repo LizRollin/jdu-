@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/JustAnIllusion/JustAnIllusion_ULTRA.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FJustAnIllusion_ULTRA.webm?v=1629245198094",
+		"jmcs://jd-contents/JustAnIllusion/JustAnIllusion_MID.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FJustAnIllusion_MID.webm?v=1629245194586",
+		"jmcs://jd-contents/JustAnIllusion/JustAnIllusion_LOW.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FJustAnIllusion_LOW.webm?v=1629245182925",
+		"jmcs://jd-contents/JustAnIllusion/JustAnIllusion_HIGH.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FJustAnIllusion_HIGH.webm?v=1629245198816",
+		"jmcs://jd-contents/JustAnIllusion/JustAnIllusion.ogg" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FJustAnIllusion.ogg?v=1629245180982"
+	}
+}

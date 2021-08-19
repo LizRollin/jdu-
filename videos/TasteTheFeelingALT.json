@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_ULTRA.webm": "https://cdn.discordapp.com/attachments/796548854395961344/796579447326900224/TasteTheFeelingALT_high.webm",
+        "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_MID.webm": "https://cdn.discordapp.com/attachments/796548854395961344/796579315281821696/TasteTheFeelingALT_mid.webm",
+        "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_LOW.webm": "https://cdn.discordapp.com/attachments/796548854395961344/796579084586450964/TasteTheFeelingALT_low.webm",
+        "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT_HIGH.webm": "https://cdn.discordapp.com/attachments/796548854395961344/796579447326900224/TasteTheFeelingALT_high.webm",
+        "jmcs://jd-contents/TasteTheFeelingALT/TasteTheFeelingALT.ogg": "https://cdn.discordapp.com/attachments/796548854395961344/796578993238966312/TasteTheFeelingALT.ogg"
+    }
+}

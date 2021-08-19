@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/TribalDance/TribalDance_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTribalDance_ULTRA.webm?v=1628904464942",
+		"jmcs://jd-contents/TribalDance/TribalDance_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTribalDance_MID.webm?v=1628904385379",
+		"jmcs://jd-contents/TribalDance/TribalDance_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTribalDance_LOW.webm?v=1628904346943",
+		"jmcs://jd-contents/TribalDance/TribalDance_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTribalDance_HIGH.webm?v=1628904409934",
+		"jmcs://jd-contents/TribalDance/TribalDance.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FTribalDance.ogg?v=1628904338454"
+	}
+}

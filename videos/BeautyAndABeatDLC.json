@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBeautyAndABeatDLC_ULTRA.webm?v=1628903796372",
+		"jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBeautyAndABeatDLC_MID.webm?v=1628903719935",
+		"jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBeautyAndABeatDLC_LOW.webm?v=1628903678939",
+		"jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBeautyAndABeatDLC_HIGH.webm?v=1628903766946",
+		"jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBeautyAndABeatDLC.ogg?v=1628903682211"
+	}
+}

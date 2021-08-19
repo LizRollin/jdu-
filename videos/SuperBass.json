@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/SuperBass/SuperBass_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperBassULTRA.webm?v=1628904112928",
+		"jmcs://jd-contents/SuperBass/SuperBass_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperBass_MID.webm?v=1628904056930",
+		"jmcs://jd-contents/SuperBass/SuperBass_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperBass_LOW.webm?v=1628904016936",
+		"jmcs://jd-contents/SuperBass/SuperBass_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperBass_HIGH.webm?v=1628904085929",
+		"jmcs://jd-contents/SuperBass/SuperBass.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperBass.ogg?v=1628904009951"
+	}
+}

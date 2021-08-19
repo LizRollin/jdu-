@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/ItsRainingMen/ItsRainingMen_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FItsRainingMen_ULTRA.webm?v=1613352598339",
+		"jmcs://jd-contents/ItsRainingMen/ItsRainingMen_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FItsRainingMen_MID.webm?v=1613352295223",
+		"jmcs://jd-contents/ItsRainingMen/ItsRainingMen_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FItsRainingMen_LOW.webm?v=1613352236025",
+		"jmcs://jd-contents/ItsRainingMen/ItsRainingMen_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FItsRainingMen_HIGH.webm?v=1613352364021",
+		"jmcs://jd-contents/ItsRainingMen/ItsRainingMen.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FItsRainingMen.ogg?v=1613352187355"
+	}
+}

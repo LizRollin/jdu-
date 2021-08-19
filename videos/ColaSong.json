@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/ColaSong/ColaSong_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FColaSong_ULTRA.webm?v=1628434768190",
+		"jmcs://jd-contents/ColaSong/ColaSong_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FColaSong_MID.webm?v=1628434798559",
+		"jmcs://jd-contents/ColaSong/ColaSong_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FColaSong_LOW.webm?v=1628434801147",
+		"jmcs://jd-contents/ColaSong/ColaSong_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FColaSong_HIGH.webm?v=1628434777666",
+		"jmcs://jd-contents/ColaSong/ColaSong.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FColaSong.ogg?v=1628434803258"
+	}
+}

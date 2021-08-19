@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/Senorita/Senorita_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSenorita_HIGH.webm?v=1614091738306",
+    "jmcs://jd-contents/Senorita/Senorita_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSenorita_HIGH.webm?v=1614091738306",
+    "jmcs://jd-contents/Senorita/Senorita_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSenorita_MID.webm?v=1614091731325",
+    "jmcs://jd-contents/Senorita/Senorita_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSenorita_LOW.webm?v=1614091549635",
+    "jmcs://jd-contents/Senorita/Senorita.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSenorita.ogg?v=1614091323744"
+  }
+}

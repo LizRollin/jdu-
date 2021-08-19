@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Cottonmouth/Cottonmouth_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCottonmouth_ULTRA.webm?v=1619750241160",
+		"jmcs://jd-contents/Cottonmouth/Cottonmouth_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCottonmouth_MID.webm?v=1619749967399",
+		"jmcs://jd-contents/Cottonmouth/Cottonmouth_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCottonmouth_LOW.webm?v=1619749910545",
+		"jmcs://jd-contents/Cottonmouth/Cottonmouth_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCottonmouth_HIGH.webm?v=1619750061849",
+		"jmcs://jd-contents/Cottonmouth/Cottonmouth.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCottonmouth.ogg?v=1619749898240"
+	}
+}

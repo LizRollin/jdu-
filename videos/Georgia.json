@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/Georgia/Georgia_ULTRA.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Georgia_ULTRA.webm",
+    "jmcs://jd-contents/Georgia/Georgia_MID.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Georgia_MID.webm",
+    "jmcs://jd-contents/Georgia/Georgia_LOW.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Georgia_LOW.webm",
+    "jmcs://jd-contents/Georgia/Georgia_HIGH.webm": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Georgia_HIGH.webm",
+    "jmcs://jd-contents/Georgia/Georgia.ogg": "https://cdn.glitch.com/f0e15141-9234-48c8-8bd7-1949686e85c3/Georgia.ogg"
+  }
+}

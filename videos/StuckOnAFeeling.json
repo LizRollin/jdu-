@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/StuckOnAFeeling/StuckOnAFeeling_ULTRA.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2FStuckOnAFeeling_HIGH.webm?v=1614927882147",
+		"jmcs://jd-contents/StuckOnAFeeling/StuckOnAFeeling_MID.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2FStuckOnAFeeling_MID.webm?v=1614922301512",
+		"jmcs://jd-contents/StuckOnAFeeling/StuckOnAFeeling_LOW.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2FStuckOnAFeeling_LOW.webm?v=1614927836909",
+		"jmcs://jd-contents/StuckOnAFeeling/StuckOnAFeeling_HIGH.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2FStuckOnAFeeling_HIGH.webm?v=1614927882147",
+		"jmcs://jd-contents/StuckOnAFeeling/StuckOnAFeeling.ogg" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2FWeDontTalkAUD.ogg?v=1614925898796"
+	}
+}

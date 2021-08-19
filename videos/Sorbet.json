@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/Sorbet/Sorbet_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSorbet_ULTRA.webm?v=1614008557594",
+    "jmcs://jd-contents/Sorbet/Sorbet_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSorbet_HIGH.webm?v=1614008347899",
+    "jmcs://jd-contents/Sorbet/Sorbet_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSorbet_MID.webm?v=1614008275228",
+    "jmcs://jd-contents/Sorbet/Sorbet_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSorbet_LOW.webm?v=1614008312276",
+    "jmcs://jd-contents/Sorbet/Sorbet.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSorbet.ogg?v=1614008173676"
+  }
+}

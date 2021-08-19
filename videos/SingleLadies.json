@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/SingleLadies/SingleLadies_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSingleLadies_ULTRA.webm?v=1628455570696",
+		"jmcs://jd-contents/SingleLadies/SingleLadies_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSingleLadies_MID.webm?v=1628455560435",
+		"jmcs://jd-contents/SingleLadies/SingleLadies_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSingleLadies_LOW.webm?v=1628455554074",
+		"jmcs://jd-contents/SingleLadies/SingleLadies_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSingleLadies_HIGH.webm?v=1628455558157",
+		"jmcs://jd-contents/SingleLadies/SingleLadies.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSingleLadies.ogg?v=1628455557988"
+	}
+}

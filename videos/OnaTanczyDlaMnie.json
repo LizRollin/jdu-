@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/OnaTanczyDlaMnie/OnaTanczyDlaMnie_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FOnaTanczyDlaMnie_ULTRA.webm?v=1628461392145",
+		"jmcs://jd-contents/OnaTanczyDlaMnie/OnaTanczyDlaMnie_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FOnaTanczyDlaMnie_MID.webm?v=1628461393420",
+		"jmcs://jd-contents/OnaTanczyDlaMnie/OnaTanczyDlaMnie_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FOnaTanczyDlaMnie_LOW.webm?v=1628461383737",
+		"jmcs://jd-contents/OnaTanczyDlaMnie/OnaTanczyDlaMnie_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FOnaTanczyDlaMnie_HIGH.webm?v=1628461385431",
+		"jmcs://jd-contents/OnaTanczyDlaMnie/OnaTanczyDlaMnie.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FOnaTanczyDlaMnie.ogg?v=1628461381314"
+	}
+}

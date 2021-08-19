@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 564656,
+  "urls": {
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/UptownFunkALT_ULTRA.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/UptownFunkALT_MID.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/UptownFunkALT_LOW.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/UptownFunkALT_HIGH.webm",
+    "jmcs://jd-contents/UptownFunkALT/UptownFunkALT.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/UptownFunkALT.ogg"
+  }
+}

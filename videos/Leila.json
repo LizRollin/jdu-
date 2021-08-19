@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Leila/Leila_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLeila_ULTRA.webm?v=1628453525409",
+		"jmcs://jd-contents/Leila/Leila_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLeila_MID.webm?v=1628453505956",
+		"jmcs://jd-contents/Leila/Leila_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLeila_LOW.webm?v=1628453513645",
+		"jmcs://jd-contents/Leila/Leila_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLeila_HIGH.webm?v=1628453523698",
+		"jmcs://jd-contents/Leila/Leila.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLeila.ogg?v=1628453503743"
+	}
+}

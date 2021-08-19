@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/DieYoungDLC/DieYoungDLC_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDieYoungDLC_ULTRA.webm?v=1628913890722",
+		"jmcs://jd-contents/DieYoungDLC/DieYoungDLC_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDieYoungDLC_MID.webm?v=1628913821615",
+		"jmcs://jd-contents/DieYoungDLC/DieYoungDLC_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDieYoungDLC_LOW.webm?v=1628913785653",
+		"jmcs://jd-contents/DieYoungDLC/DieYoungDLC_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDieYoungDLC_HIGH.webm?v=1628913861005",
+		"jmcs://jd-contents/DieYoungDLC/DieYoungDLC.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDieYoungDLC.ogg?v=1628913783459"
+	}
+}

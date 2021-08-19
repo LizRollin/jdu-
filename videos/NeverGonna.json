@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/NeverGonna/NeverGonna_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNeverGonna_ULTRA.webm?v=1628905294938",
+		"jmcs://jd-contents/NeverGonna/NeverGonna_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNeverGonna_MID.webm?v=1628905244500",
+		"jmcs://jd-contents/NeverGonna/NeverGonna_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNeverGonna_LOW.webm?v=1628905197939",
+		"jmcs://jd-contents/NeverGonna/NeverGonna_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNeverGonna_HIGH.webm?v=1628905253455",
+		"jmcs://jd-contents/NeverGonna/NeverGonna.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNeverGonna.ogg?v=1628905203939"
+	}
+}

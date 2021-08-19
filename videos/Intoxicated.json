@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Intoxicated/Intoxicated_ULTRA.webm" : "https://cdn.glitch.com/238b87ed-3be9-4979-b234-cf7cba62720e%2FIntoxicated_ULTRA.webm?v=1627959208825",
+		"jmcs://jd-contents/Intoxicated/Intoxicated_MID.webm" : "https://cdn.glitch.com/238b87ed-3be9-4979-b234-cf7cba62720e%2FIntoxicated_MID.webm?v=1627959226578",
+		"jmcs://jd-contents/Intoxicated/Intoxicated_LOW.webm" : "https://cdn.glitch.com/238b87ed-3be9-4979-b234-cf7cba62720e%2FIntoxicated_LOW.webm?v=1627959229482",
+		"jmcs://jd-contents/Intoxicated/Intoxicated_HIGH.webm" : "https://cdn.glitch.com/238b87ed-3be9-4979-b234-cf7cba62720e%2FIntoxicated_HIGH.webm?v=1627959220093",
+		"jmcs://jd-contents/Intoxicated/Intoxicated.ogg" : "https://cdn.glitch.com/238b87ed-3be9-4979-b234-cf7cba62720e%2FIntoxicated.ogg?v=1627959231934"
+	}
+}
