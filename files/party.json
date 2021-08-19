@@ -265,6 +265,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "DibbyDibby"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "DontStart"
 			}],
       "actionList": "partyMap"
@@ -490,15 +499,6 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
-				"mapName": "OtherSideSZA"
-			}],
-      "actionList": "partyMap"
-    },{
-        "__class": "Item",
-			"isc": "grp_cover",
-			"act": "ui_component_base",
-			"components": [{
-				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "PacaDance"
 			}],
       "actionList": "partyMap"
@@ -616,6 +616,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "OtherSideSZA"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "TheWayIAreRetake"
 			}],
       "actionList": "partyMap"
@@ -716,6 +725,24 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "HabibiYaeniALT"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "YoLeLlego"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "FriendInMe"
 			}],
       "actionList": "partyMap"
     },{
