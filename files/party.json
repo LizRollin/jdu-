@@ -811,6 +811,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BoysALT"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "ConAltura"
 			}],
       "actionList": "partyMap"
@@ -839,6 +848,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "DjaDja"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "DontCall"
 			}],
       "actionList": "partyMap"
     },{
@@ -920,6 +938,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "HighHopes"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Hype"
 			}],
       "actionList": "partyMap"
     },{
@@ -1018,6 +1045,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "LaRespuesta"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "BalMasque"
 			}],
       "actionList": "partyMap"
@@ -1055,6 +1091,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "OldTownRoadALT"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Panini"
 			}],
       "actionList": "partyMap"
     },{
@@ -1127,6 +1172,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "StopMovin"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Sucker"
 			}],
       "actionList": "partyMap"
     },{
@@ -1252,7 +1306,34 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "WhiteNoise"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "EQUIS"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "10000Lucht"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "1999"
 			}],
       "actionList": "partyMap"
     },{
