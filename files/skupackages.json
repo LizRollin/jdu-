@@ -299,6 +299,12 @@
     "url": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/feelspecialalt_main_scene_pc.zip",
     "version": 1
   },
+  "Burn_mapContent": {
+    "md5": "76997085c2939ebb95465fc4988e01e9",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fburn_main_scene_pc.zip?v=1616393332275",
+    "version": 3
+  },
   "DibbyDibby_mapContent": {
     "md5": "ad87b392ebf58f20606acbb1022a3634",
     "storageType": 0,
@@ -1073,6 +1079,12 @@
     "url": "https://jd-s3.akamaized.net/public/map/Balance/pc/Balance_MAIN_SCENE_PC.zip/bb0e16969737090f98e664d1538add16.zip",
     "version": 4
   },
+  "BestSongEver_mapContent": {
+    "md5": "dbbbe9fd56bc2712e7e2d8b0a233176e",
+    "storageType": 0,
+    "url": "https://jd-s3.akamaized.net/public/map/BestSongEver/pc/BestSongEver_MAIN_SCENE_PC.zip/dbbbe9fd56bc2712e7e2d8b0a233176e.zip",
+    "version": 1
+  },
   "Bang2019VIP_mapContent": {
     "md5": "90c101b9a37bacd186677201b8b2a697",
     "storageType": 0,
@@ -1156,6 +1168,12 @@
     "storageType": 0,
     "url": "https://jd-s3.akamaized.net/public/map/BlackMamba/pc/BlackMamba_MAIN_SCENE_PC.zip/a8326a8e8829a920216c26d4962d2638.zip",
     "version": 34
+  },
+  "BlackWidow_mapContent": {
+    "md5": "2b7a83026dad94cf4d500357344a94e8",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2Fblackwidow_main_scene_pc.zip?v=1619112282917",
+    "version": 1
   },
   "Blame_mapContent": {
     "md5": "06a9d0502d80c884ab35b66e2a3a4096",
@@ -3550,6 +3568,18 @@
     "storageType": 0,
     "url": "https://jd-s3.akamaized.net/public/map/PoundTheAlarm/pc/PoundTheAlarm_MAIN_SCENE_PC.zip/430d889cdbd41adee97311a52898b2de.zip",
     "version": 8
+  },
+  "Problem_mapContent": {
+    "md5": "f55e0c0325929eafbf3be930cf8c11bd",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0/problem_main_scene_pc.zip",
+    "version": 1
+  },
+  "TheFox_mapContent": {
+    "md5": "b3f7f2bef918615735832515f1596e40",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0/thefox_main_scene_pc.zip",
+    "version": 5
   },
   "PrimaDonna_mapContent": {
     "md5": "a7ef72cfb05e4ade75a4ec4a501957d1",

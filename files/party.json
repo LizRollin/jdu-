@@ -3849,7 +3849,7 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
-				"mapName": "BadRomanceALT"
+				"mapName": "BadRomance"
 			}],
       "actionList": "partyMap"
     },{
@@ -3858,7 +3858,70 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
-				"mapName": "Bailando"
+				"mapName": "Balance"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BestSongEver"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Birthday"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BlackWidow"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BoomClapDLC"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BreakFreeDLC"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BuiltForThis"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Burn"
 			}],
       "actionList": "partyMap"
     },{
@@ -3870,13 +3933,229 @@
 				"mapName": "DarkHorse"
 			}],
       "actionList": "partyMap"
-    }, {
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "DontWorry"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Sirtaki"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Happy"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "HappyALT"
+			}],
+      "actionList": "partyMap"
+    },{
         "__class": "Item",
 			"isc": "grp_cover",
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "HoldingOut"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "LetItGo"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "LetItGoCHN"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "LetItGoDLC"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "LoveIsAll"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Macarena"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Mad"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BrokenHeart"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "FindYourMove"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "NeverCanSay"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "OnlyYou"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Problem"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Summer"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "SummerALT"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Tetris"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "TheFox"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "FindYou"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "WalkThisWay"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "WalkThisWayALT"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BollywoodXmas"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "SpinMeRound"
 			}],
       "actionList": "partyMap"
     }]
