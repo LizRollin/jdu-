@@ -317,6 +317,186 @@
     "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fyolellego_main_scene_pc.zip?v=1614097780752",
     "version": 1
   },
+  "BadLiar_mapContent": {
+    "md5": "74801859d1c2a1dde002de9d9dd07b42",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fbadliar_main_scene_pc.zip?v=1615816586952",
+    "version": 1
+  },
+  "BeepBeep_mapContent": {
+    "md5": "a76ab5ae1a548a12cca050472f364958",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fbeepbeep_main_scene_pc.zip?v=1615817631050",
+    "version": 1
+  },
+  "BlowYourMind_mapContent": {
+    "md5": "f9888911508f33edea70c1a3d2a3724d",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fblowyourmind_main_scene_pc.zip?v=1615818492569",
+    "version": 1
+  },
+  "Blue_mapContent": {
+    "md5": "47bf8a472c3d24fe5dc2385a3557a391",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fblue_main_scene_pc.zip?v=1615823605696",
+    "version": 1
+  },
+  "Copperhead_mapContent": {
+    "md5": "f4602e082971487f0cf5dbf5d710eb07",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fcopperhead_main_scene_pc.zip?v=1615905739468",
+    "version": 1
+  },
+  "Carmen_mapContent": {
+    "md5": "967ea8d3225a7b53dd40d22991ecc9bf",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fcarmen_main_scene_pc.zip?v=1615908615356",
+    "version": 1
+  },
+  "Chantaje_mapContent": {
+    "md5": "1a983eadce1434d6705882fc8a6c3a1d",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fchantaje_main_scene_pc.zip?v=1616320550101",
+    "version": 1
+  },
+  "ChantajeALT_mapContent": {
+    "md5": "3cc6a7c882b22bd59c45f14cc454bf77",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fchantajealt_main_scene_pc.zip?v=1616320546956",
+    "version": 1
+  },
+  "DaddyCool_mapContent": {
+    "md5": "a574b3e28d2c54ab3f885ac77cd49fe7",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdaddycool_main_scene_pc.zip?v=1616395879566",
+    "version": 1
+  },
+  "Dharma_mapContent": {
+    "md5": "b79c6321f815b6aa2038dc2f4a5dd6ce",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdharma_main_scene_pc.zip?v=1617022019078",
+    "version": 1
+  },
+  "DharmaALT_mapContent": {
+    "md5": "463f1f871f09cf190c110c7692427825",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fdharmaalt_main_scene_pc.zip?v=1617022018896",
+    "version": 1
+  },
+  "Sidewinder_mapContent": {
+    "md5": "fde41aec21f45c6b900d62e50c370e39",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fsidewinder_main_scene_pc.zip?v=1617106607344",
+    "version": 1
+  },
+  "Footloose_mapContent": {
+    "md5": "bd8c8ee120f0ece9bc7b7f00e8b1fc68",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Ffootloose_main_scene_pc.zip?v=1617108090066",
+    "version": 1
+  },
+  "GotThat_mapContent": {
+    "md5": "5fce58e8b740eccf58a7c6856e839d59",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fgotthat_main_scene_pc.zip?v=1617108089836",
+    "version": 1
+  },
+  "8BitRetake_mapContent": {
+    "md5": "fdb504153d9fe5b0ce0ba756faeab225",
+    "storageType": 0,
+    "url": "https://jd-s3.akamaized.net/public/map/8BitRetake/pc/8BitRetake_MAIN_SCENE_PC.zip/fdb504153d9fe5b0ce0ba756faeab225.zip",
+    "version": 3
+  },
+  "Instruction_mapContent": {
+    "md5": "f41593621f742198a4639dedb12d79d2",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Finstruction_main_scene_pc.zip?v=1617113323744",
+    "version": 3
+  },
+  "ItsyBitsyRetake_mapContent": {
+    "md5": "b2ddb41c1c38b319b10f339487e896e0",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fitsybitsyretake_main_scene_pc.zip?v=1617113919568",
+    "version": 2
+  },
+  "JohnW_mapContent": {
+    "md5": "b4dcd8f9f1698e6f8704222c5ac93b71",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fjohnw_main_scene_pc.zip?v=1617118127054",
+    "version": 1
+  },
+  "JohnWALT_mapContent": {
+    "md5": "10f9afc4b501e5d006389056171cf1b6",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fjohnwalt_main_scene_pc.zip?v=1617118127549",
+    "version": 1
+  },
+  "KeepOn_mapContent": {
+    "md5": "6026ce1ba4c70e12f60ee093fac7ae93",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fkeepon_main_scene_pc.zip?v=1617118126883",
+    "version": 1
+  },
+  "KissingStrangers_mapContent": {
+    "md5": "a1d2dfc08a8ad06cca102fc8259f7d3e",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fkissingstrangers_main_scene_pc.zip?v=1617118134287",
+    "version": 1
+  },
+  "KissingStrangersALT_mapContent": {
+    "md5": "03d6203e142856aa30d22465a908030d",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fkissingstrangersalt_main_scene_pc.zip?v=1617118126413",
+    "version": 1
+  },
+  "LoveWard_mapContent": {
+    "md5": "9c9bec630cf1204468def149488aa703",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Floveward_main_scene_pc.zip?v=1617122367280",
+    "version": 2
+  },
+  "MakeItJingle_mapContent": {
+    "md5": "424bfd2bcab71000b6ae10807e8fec08",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fmakeitjingle_main_scene_pc.zip?v=1617122353232",
+    "version": 2
+  },
+  "NaughtyGirl_mapContent": {
+    "md5": "b159a9f8286e5ca39f61788d51391e5a",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fnaughtygirl_main_scene_pc.zip?v=1617123331989",
+    "version": 3
+  },
+  "NewFace_mapContent": {
+    "md5": "0cde8f19db37abb39f83e1eac7c1b7e4",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fnewface_main_scene_pc.zip?v=1617122359068",
+    "version": 2
+  },
+  "RiskyBusiness_mapContent": {
+    "md5": "f41d9d50d53331d2e23db00af4bec676",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Friskybusiness_main_scene_pc.zip?v=1617122358407",
+    "version": 2
+  },
+  "Rockabye_mapContent": {
+    "md5": "0e712e9a7044d1773d67a2b7dcdc02a1",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Frockabye_main_scene_pc.zip?v=1617125912666",
+    "version": 1
+  },
+  "SayonaraRetake_mapContent": {
+    "md5": "cc5033a4947bf17748e4d697bdc846ef",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fsayonararetake_main_scene_pc.zip?v=1617125904633",
+    "version": 1
+  },
+  "ShapeOfYou_mapContent": {
+    "md5": "90a7003d79d88c97bdaa48590978c7e6",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fshapeofyou_main_scene_pc.zip?v=1617125906258",
+    "version": 1
+  },
   "Adeyyo_mapContent": {
     "md5": "745aac4da452708d803a6602e52b5762",
     "storageType": 0,
@@ -623,6 +803,12 @@
     "url": "https://jd-s3.akamaized.net/public/map/24K/pc/24K_MAIN_SCENE_PC.zip/a7d2f00e6c737978e0f90ea52074dce4.zip",
     "version": 3
   },
+  "24KALT_mapContent": {
+    "md5": "6fbcc21ca693b1a04a005870ae2d27c7",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2F24kalt_main_scene_pc.zip?v=1615714404511",
+    "version": 1
+  },
   "7Rings_mapContent": {
     "md5": "a5491b61056f159c691eeb7f82ed87ee",
     "storageType": 0,
@@ -778,6 +964,12 @@
     "storageType": 0,
     "url": "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fanotheone_main_scene_pc.zip",
     "version": 7
+  },
+  "AnotherOneALT_mapContent": {
+    "md5": "dbc12b39190ddbc2c8e2ca3dc77a3458",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fanotheronealt_main_scene_pc.zip?v=1615726300984",
+    "version": 1
   },
   "Apache_mapContent": {
     "md5": "bed0cb9ee9d72bad9a13d3f15f31f1e8",
