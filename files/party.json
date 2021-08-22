@@ -5172,6 +5172,24 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Airplanes"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "Apache"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "CaliforniaGurls"
 			}],
       "actionList": "partyMap"
