@@ -5917,12 +5917,138 @@
 		"act": "ui_carousel",
 		"isc": "grp_row",
 		"items": [{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "Acceptable"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "Cotton"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "EyeOfTheTiger"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "Fame"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "GirlsJustWant"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "HeartOfGlass"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "HotNCold"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "GetAround"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "LeFreak"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "Lump"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "Potato"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "StepByStep"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "ThatsTheWay"
+				}],
+		  "actionList": "partyMap"
+		},{
+			"__class": "Item",
+				"isc": "grp_cover",
+				"act": "ui_component_base",
+				"components": [{
+					"__class": "JD_CarouselContentComponent_Song",
+					"mapName": "CantTouchThis"
+				}],
+		  "actionList": "partyMap"
+		},{
         "__class": "Item",
 			"isc": "grp_cover",
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
-				"mapName": "GirlsJustWant"
+				"mapName": "DogsOut"
 			}],
       "actionList": "partyMap"
     }]
