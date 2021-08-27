@@ -318,9 +318,9 @@
     "version": 2
   },
   "FriendInMe_mapContent": {
-    "md5": "78a45aad46cf3b9a92c1d802ecedd530",
+    "md5": "426d4281eaec9b6cd9e28bb4c523a274",
     "storageType": 0,
-    "url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fhabibiyaeni_main_scene_pc.zip?v=1614099124119",
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Ffriendinme_main_scene_pc.zip",
     "version": 2
   },
   "YoLeLlego_mapContent": {
@@ -3766,6 +3766,54 @@
     "storageType": 0,
     "url": "https://jd-s3.akamaized.net/public/wdf-bosses/Santa/pc/Santa_bosscontent_PC.zip/ce18412798a5b0f7afabe6571b83eadd.zip",
     "version": 2
+  },
+  "BalletKids_mapContent": {
+    "md5": "39bde01bc423ea927e6f6ab81f16cde9",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/BalletKids_MAIN_SCENE_PC.zip",
+    "version": 1
+  },
+  "CarpetKids_mapContent": {
+    "md5": "fa3291242cc51530944d40379c58b5f2",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/CarpetKids_MAIN_SCENE_PC.zip",
+    "version": 1
+  },
+  "FiremenKids_mapContent": {
+    "md5": "d41e8a4ffea145c96029774b64a52baa",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/FiremenKids_MAIN_SCENE_PC.zip",
+    "version": 1
+  },
+  "SpyKids_mapContent": {
+    "md5": "c216829ebda25445459d35e4de7f75a0",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/SpyKids_MAIN_SCENE_PC.zip",
+    "version": 1
+  },
+  "ChasmonauteKids_mapContent": {
+    "md5": "d4eafb7b1359c4708cb1038615e74c48",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/ChasmonauteKids_MAIN_SCENE_PC.zip",
+    "version": 1
+  },
+  "BubblesKids_mapContent": {
+    "md5": "a33cb702452546c840e7df8a1a7bc419",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/BubblesKids_MAIN_SCENE_PC.zip",
+    "version": 1
+  },
+  "BadAssPrincessKids_mapContent": {
+    "md5": "ef5a4136d74a0218258a7aab233ce751",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/BadAssPrincessKids_MAIN_SCENE_PC.zip",
+    "version": 1
+  },
+  "EcoloKids_mapContent": {
+    "md5": "75b65fff9d60a9b34d2f40cc2f370b9c",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/d18f6bf1-6b4a-4f15-b69d-d180ec4d4e48/EcoloKids_MAIN_SCENE_PC.zip",
+    "version": 1
   },
   "Satellite_mapContent": {
     "md5": "ad95ade12dc8a5547e067e48edecf797",

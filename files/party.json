@@ -256,6 +256,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BalletKids"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "DansVanDeFarao"
 			}],
       "actionList": "partyMap"
@@ -328,6 +337,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "CarpetKids"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "Georgia"
 			}],
       "actionList": "partyMap"
@@ -338,6 +356,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "GetGetDown"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "FiremenKids"
 			}],
       "actionList": "partyMap"
     },{
@@ -365,6 +392,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "HeatSeeker"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "SpyKids"
 			}],
       "actionList": "partyMap"
     },{
@@ -490,6 +526,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "EcoloKids"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "Magenta"
 			}],
       "actionList": "partyMap"
@@ -553,6 +598,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BadAssPrincessKids"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "Runaway"
 			}],
       "actionList": "partyMap"
@@ -598,6 +652,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "ChasmonauteKids"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "StupidLove"
 			}],
       "actionList": "partyMap"
@@ -617,6 +680,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "TemperatureALT"
+			}],
+      "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "BubblesKids"
 			}],
       "actionList": "partyMap"
     },{
