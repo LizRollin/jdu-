@@ -835,6 +835,15 @@
 				"mapName": "Zenit"
 			}],
       "actionList": "partyMap"
+    },{
+        "__class": "Item",
+			"isc": "grp_shuffle",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Shuffle"
+			}],
+	  "endPos": 3,
+      "actionList": "NonStop"
     }]
   },{
 "__class": "Category",
