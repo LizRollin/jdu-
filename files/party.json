@@ -1609,6 +1609,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "JurassicKids"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "Boys"
 			}],
       "actionList": "partyMap"
@@ -1646,6 +1655,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "Calypso"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "SpaceGirlKids"
 			}],
       "actionList": "partyMap"
     }, {
@@ -1726,6 +1744,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "GhostKids"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "HalaBel"
 			}],
       "actionList": "partyMap"
@@ -1762,7 +1789,25 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "SaintPatrickKids"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "ImStillStanding"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "MerryChristmasKids"
 			}],
       "actionList": "partyMap"
     }, {
@@ -1853,6 +1898,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "MiloscW"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "MonstersAcademyKids"
 			}],
       "actionList": "partyMap"
     }, {
@@ -2032,6 +2086,15 @@
 			"act": "ui_component_base",
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "NinjaKids"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "Sugar"
 			}],
       "actionList": "partyMap"
@@ -2051,6 +2114,15 @@
 			"components": [{
 				"__class": "JD_CarouselContentComponent_Song",
 				"mapName": "SweetSensation"
+			}],
+      "actionList": "partyMap"
+    }, {
+        "__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "TheExplorerKids"
 			}],
       "actionList": "partyMap"
     }, {
