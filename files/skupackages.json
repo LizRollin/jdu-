@@ -3821,6 +3821,48 @@
     "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Ffreezekids_main_scene_pc.zip",
     "version": 1
   },
+  "BirthdayKids_mapContent": {
+    "md5": "0bec0c8f698f3eea9a95f5dc398f58af",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fbrithdaykids_main_scene_pc.zip",
+    "version": 1
+  },
+  "AdventurerKids_mapContent": {
+    "md5": "9ee6ae5cbef6a03302d42b2ee166dd74",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fadventurerkids_main_scene_pc.zip",
+    "version": 1
+  },
+  "ChefKids_mapContent": {
+    "md5": "8617ea0973726178ba27aa42dd75dc14",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fchefkids_main_scene_pc.zip",
+    "version": 1
+  },
+  "WizardKids_mapContent": {
+    "md5": "0d52b106ab4de321b259da4c23829a03",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FWizardKids_main_scene_pc.zip",
+    "version": 1
+  },
+  "SchoolyardKids_mapContent": {
+    "md5": "d1ad833126ca3b7f22ef8edbadf98362",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FSchoolyardKids_main_scene_pc.zip",
+    "version": 1
+  },
+  "MedievalKids_mapContent": {
+    "md5": "c010de28bbf1ef6c47ba77e4809f13ef",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FMedievalKids_main_scene_pc.zip",
+    "version": 1
+  },
+  "BandmasterKids_mapContent": {
+    "md5": "62e7ff7cf995e51b35c18edcce204cb0",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FBandmasterKids_main_scene_pc.zip",
+    "version": 1
+  },
   "Satellite_mapContent": {
     "md5": "ad95ade12dc8a5547e067e48edecf797",
     "storageType": 0,
