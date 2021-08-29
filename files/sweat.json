@@ -8454,7 +8454,7 @@
 			"actions": [
 				{
 					"__class": "Action",
-					"bannerContext": "family_rival",
+					"bannerContext": "SWEAT",
 					"bannerTheme": "DEFAULT",
 					"bannerType": "song",
 					"title": "Dance",
@@ -8468,7 +8468,7 @@
 			"actions": [
 				{
 					"__class": "Action",
-					"bannerContext": "family_rival",
+					"bannerContext": "SWEAT",
 					"bannerTheme": "DEFAULT",
 					"bannerType": "song",
 					"title": "This song will be available soon!",
