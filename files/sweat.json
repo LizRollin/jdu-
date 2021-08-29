@@ -8455,7 +8455,7 @@
 				{
 					"__class": "Action",
 					"bannerContext": "SWEAT",
-					"bannerTheme": "DEFAULT",
+					"bannerTheme": "SWEAT",
 					"bannerType": "song",
 					"title": "Dance",
 					"type": "play-song"
@@ -8469,7 +8469,7 @@
 				{
 					"__class": "Action",
 					"bannerContext": "SWEAT",
-					"bannerTheme": "DEFAULT",
+					"bannerTheme": "SWEAT",
 					"bannerType": "song",
 					"title": "This song will be available soon!",
 					"type": ""
