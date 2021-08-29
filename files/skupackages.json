@@ -348,21 +348,15 @@
 		"version": 1
 	},
 	"Blue_mapContent": {
-		"md5": "47bf8a472c3d24fe5dc2385a3557a391",
+		"md5": "716a619ecd14f8a117e53ce7c0163d6c",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fblue_main_scene_pc.zip?v=1615823605696",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fblue_MAIN_SCENE_PC.zip",
 		"version": 1
 	},
 	"Copperhead_mapContent": {
 		"md5": "f4602e082971487f0cf5dbf5d710eb07",
 		"storageType": 0,
 		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fcopperhead_main_scene_pc.zip?v=1615905739468",
-		"version": 1
-	},
-	"Carmen_mapContent": {
-		"md5": "967ea8d3225a7b53dd40d22991ecc9bf",
-		"storageType": 0,
-		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fcarmen_main_scene_pc.zip?v=1615908615356",
 		"version": 1
 	},
 	"Chantaje_mapContent": {
@@ -474,9 +468,9 @@
 		"version": 2
 	},
 	"NaughtyGirl_mapContent": {
-		"md5": "b159a9f8286e5ca39f61788d51391e5a",
+		"md5": "7713db47d6da75fd23737406bdc65535",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fnaughtygirl_main_scene_pc.zip?v=1617123331989",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FNaughtyGirl_main_scene_pc.zip",
 		"version": 3
 	},
 	"NewFace_mapContent": {
@@ -492,9 +486,9 @@
 		"version": 2
 	},
 	"Rockabye_mapContent": {
-		"md5": "0e712e9a7044d1773d67a2b7dcdc02a1",
+		"md5": "c7b2405138c348266bbd7c66800fdf5f",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Frockabye_main_scene_pc.zip?v=1617125912666",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FRockabye_main_scene_pc.zip",
 		"version": 1
 	},
 	"SayonaraRetake_mapContent": {
@@ -504,9 +498,9 @@
 		"version": 1
 	},
 	"ShapeOfYou_mapContent": {
-		"md5": "90a7003d79d88c97bdaa48590978c7e6",
+		"md5": "706a9d0c104796288e1d6f283a8b9aaa",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fshapeofyou_main_scene_pc.zip?v=1617125906258",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FShapeOfYou_main_scene_pc.zip",
 		"version": 1
 	},
 	"Adeyyo_mapContent": {
@@ -816,11 +810,23 @@
 		"version": 3
 	},
 	"24KALT_mapContent": {
-		"md5": "6fbcc21ca693b1a04a005870ae2d27c7",
+		"md5": "5bfe1c163c339672ff9ee83d9dba308e",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2F24kalt_main_scene_pc.zip?v=1615714404511",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2F24KALT_main_scene_pc.zip",
 		"version": 1
 	},
+	"FearlessPirateKids_mapContent": {
+        "md5": "fb0b9956ea76abeae4775bb2f2407cb9",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4/fearlesspiratekids.zip",
+        "version": 1
+    },
+	"MissAmazingKids_mapContent": {
+        "md5": "4dff65bb47ad21b41b91318c60f6e259",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4/missamazingkids.zip",
+        "version": 1
+    },
 	"7Rings_mapContent": {
 		"md5": "a5491b61056f159c691eeb7f82ed87ee",
 		"storageType": 0,
@@ -978,9 +984,9 @@
 		"version": 7
 	},
 	"AnotherOneALT_mapContent": {
-		"md5": "dbc12b39190ddbc2c8e2ca3dc77a3458",
+		"md5": "b59de490394afb448393e2ccd0196179",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2Fanotheronealt_main_scene_pc.zip?v=1615726300984",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FAnotherOneALT_main_scene_pc.zip",
 		"version": 1
 	},
 	"Apache_mapContent": {
@@ -1104,11 +1110,23 @@
 		"version": 27
 	},
 	"Bang_mapContent": {
-		"md5": "a6e143fb510405f5844b3eba2004d537",
+		"md5": "7a55a92f975528f6eab2a4cadf616503",
 		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/Bang/pc/Bang_MAIN_SCENE_PC.zip/a6e143fb510405f5844b3eba2004d537.zip",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FBang_main_scene_pc.zip",
 		"version": 4
 	},
+	"DaddyALT_mapContent": {
+        "md5": "4e27f0e6a46113ca7527714ea8550d41",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/DaddyALT/pc/DaddyALT_MAIN_SCENE_PC.zip/4e27f0e6a46113ca7527714ea8550d41.zip",
+        "version": 6
+    },
+	"Daddy_mapContent": {
+        "md5": "d1e41573c68e6b6bd3e0b808dd161840",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/Daddy/pc/Daddy_MAIN_SCENE_PC.zip/d1e41573c68e6b6bd3e0b808dd161840.zip",
+        "version": 6
+    },
 	"BarbieGirl_mapContent": {
 		"md5": "2137066df608c414eae54710f8ea34c4",
 		"storageType": 0,
@@ -1362,9 +1380,9 @@
 		"version": 6
 	},
 	"Carmen_mapContent": {
-		"md5": "2523d95055775f513385a21f599a5b26",
+		"md5": "9e0ad4be56a9932dcac61a235a8c3d65",
 		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/Carmen/pc/Carmen_MAIN_SCENE_PC.zip/2523d95055775f513385a21f599a5b26.zip",
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fcarmen_MAIN_SCENE_PC.zip",
 		"version": 3
 	},
 	"CheapThrillsALT_mapContent": {
@@ -1872,11 +1890,35 @@
 		"version": 2
 	},
 	"FootlooseKids_mapContent": {
-		"md5": "654e3bb3e24cc8956ad3875710418201",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/FootlooseKids/pc/FootlooseKids_MAIN_SCENE_PC.zip/654e3bb3e24cc8956ad3875710418201.zip",
-		"version": 3
+        "md5": "a86a8c2c73d4d9c45f41bdce8d743d76",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4/footloosekids.zip",
+        "version": 1
 	},
+	"FunkyRobotKids_mapContent": {
+        "md5": "edb096ad9a46579360262f1b078e4870",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4/funkyrobotkids.zip",
+        "version": 1
+    },
+	"HappyFarmKids_mapContent": {
+        "md5": "717757d6fbed9a971965ef274531d816",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4/happyfarmkids.zip",
+        "version": 1
+    },
+	"MagicHalloweenKids_mapContent": {
+        "md5": "ea935344a26eee1ba0ad8f598de5f4b5",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4/magichalloweenkids.zip",
+        "version": 1
+    },
+	"PixieLandKids_mapContent": {
+        "md5": "82a820d5a08ab2610df6bd3893e27b8a",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4/pixielandkids.zip",
+        "version": 1
+    },
 	"ForgetYou_mapContent": {
 		"md5": "08849bfcb32470a1008a71f22c801cce",
 		"storageType": 0,

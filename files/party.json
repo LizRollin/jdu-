@@ -2424,6 +2424,18 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KaraokeForeverCHN"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "LegSongCHN"
 						}
 					],
@@ -3008,6 +3020,18 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "MissAmazingKids"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "AnotherOne"
 						}
 					],
@@ -3284,6 +3308,18 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "FearlessPirateKids"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "FeelIt"
 						}
 					],
@@ -3320,7 +3356,43 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "FootlooseKids"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "FunkyRobotKids"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "GotThat"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "HappyFarmKids"
 						}
 					],
 					"actionList": "partyMap"
@@ -3416,6 +3488,18 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "MarioNX"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "KeepOn"
 						}
 					],
@@ -3453,6 +3537,18 @@
 						{
 							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "LoveWard"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "MagicHalloweenKids"
 						}
 					],
 					"actionList": "partyMap"
@@ -3525,6 +3621,18 @@
 						{
 							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "NoLie"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "PixieLandKids"
 						}
 					],
 					"actionList": "partyMap"
@@ -3929,6 +4037,30 @@
 						{
 							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "ColaSongALT"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Daddy"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "DaddyALT"
 						}
 					],
 					"actionList": "partyMap"
