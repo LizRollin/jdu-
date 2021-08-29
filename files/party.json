@@ -8461,14 +8461,13 @@
 					"type": "play-song"
 				},
 				{
-          "__class": "Action",
-          "bannerContext": "family_rival",
-          "bannerTheme": "DEFAULT",
-          "bannerType": "song_leaderboard",
-          "title": "Leaderboard",
-          "type": "leaderboard"
-        },
-        
+					"__class": "Action",
+					"bannerContext": "family_rival",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song_leaderboard",
+					"title": "Leaderboard",
+					"type": "leaderboard"
+				}
 			],
 			"itemType": "leaderboard"
 		},
