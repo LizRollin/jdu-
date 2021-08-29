@@ -8459,9 +8459,30 @@
 					"bannerType": "song",
 					"title": "Dance",
 					"type": "play-song"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "CONTEXT_SWEAT",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song_leaderboard",
+					"title": "Leaderboard",
+					"type": "leaderboard"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "CONTEXT_SWEAT",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song_licensing",
+					"title": "Credits",
+					"type": "credits"
 				}
 			],
-			"itemType": "leaderboard"
+			"itemType": "map"
+		},
+		"create-challenge": {
+			"__class": "ActionList",
+			"actions": [],
+			"itemType": "challengeV2"
 		},
 		"create-playlist": {
 			"__class": "ActionList",
