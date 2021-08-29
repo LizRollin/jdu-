@@ -6298,7 +6298,7 @@
 				"act": "ui_component_base",
 				"components": [{
 					"__class": "JD_CarouselContentComponent_Song",
-					"mapName": "GeraGeraPooRi"
+					"mapName": "GeraGeraPoORI"
 				}],
 		  "actionList": "partyMap"
 		},
