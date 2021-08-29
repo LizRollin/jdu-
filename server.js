@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
 var prodwsurl = "https://jmcs-prod.just-dance.com"
-var room = "MainJD2016"
+var room = "MainJD2021"
 var sessions = require("./files/sessions.json");
 var entities = require("./files/entities.json");
 var entitiesphone = require("./files/entities-phone.json");
