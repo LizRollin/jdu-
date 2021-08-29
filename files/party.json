@@ -8447,7 +8447,9 @@
 				}
 			]
 		},
-		"actionLists": {
+		
+	],
+	"actionLists": {
 		"partyMap": {
 			"__class": "ActionList",
 			"actions": [
