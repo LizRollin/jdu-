@@ -8463,6 +8463,17 @@
 			],
 			"itemType": "leaderboard"
 		},
+		"create-playlist": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"title": "Add Song",
+					"type": "add-song"
+				}
+			],
+			"itemType": "map"
+		},
 		"wip": {
 			"__class": "ActionList",
 			"actions": [

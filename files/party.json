@@ -8459,9 +8459,29 @@
 					"bannerType": "song",
 					"title": "Dance",
 					"type": "play-song"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "family_rival",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song_leaderboard",
+					"title": "Leaderboard",
+					"type": "leaderboard"
 				}
 			],
 			"itemType": "leaderboard"
+		},
+		"NonStop": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerType": "SHUFFLE",
+					"title": "Dance!",
+					"type": "start-rowPlaylist"
+				}
+			],
+			"itemType": "map"
 		},
 		"wip": {
 			"__class": "ActionList",
