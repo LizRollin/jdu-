@@ -3605,6 +3605,12 @@
     "url": "https://jd-s3.akamaized.net/public/map/ProfesseurDLC/pc/ProfesseurDLC_MAIN_SCENE_PC.zip/b82e4a35942daadc1bed3c57833dd2c1.zip",
     "version": 5
   },
+  "GeraGeraPoORI_mapContent": {
+    "md5": "eb46e4e159aba3fed0ee4a8114756c09",
+    "storageType": 0,
+    "url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fgeragerapoori_main_scene_pc.zip",
+    "version": 1
+  },
   "Promiscuous_mapContent": {
     "md5": "8943280cafc58a078d1edc703320d913",
     "storageType": 0,
