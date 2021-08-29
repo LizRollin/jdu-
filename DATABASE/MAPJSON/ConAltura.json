@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/ConAltura/ConAltura_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FConAltura_ULTRA.webm?v=1611143109540",
+    "jmcs://jd-contents/ConAltura/ConAltura_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FConAltura_HIGH.webm?v=1611143111134",
+    "jmcs://jd-contents/ConAltura/ConAltura_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FConAltura_MID.webm?v=1611143108158",
+    "jmcs://jd-contents/ConAltura/ConAltura_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FConAltura_LOW.webm?v=1611143092307",
+    "jmcs://jd-contents/ConAltura/ConAltura.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FConAltura.ogg?v=1611143092569"
+  }
+}

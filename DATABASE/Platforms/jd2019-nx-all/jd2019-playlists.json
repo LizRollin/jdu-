@@ -1,0 +1,174 @@
+{
+	"__class": "JD_CarouselContent",
+	"categories": [{
+		"__class": "Category",
+		"title": "Recommended",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"categoryType": "playlist",
+		"items": [{
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "reco-for_you",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "reco-top_country",
+				"displayCode": 1,
+				"displayMethod": "manual"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_row",
+			"act": "ui_carousel",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "reco-top_replayed",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}]
+	}, {
+		"__class": "Category",
+		"title": "Themed Playlists",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"categoryType": "playlist",
+		"items": [{
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "00sGems",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BeastlyBeats",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BestOfJD_14",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "10sGems",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BestOfJD_3",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BestOfJD_2",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "70sGems",
+				"displayCode": 2,
+				"displayMethod": "recommended"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "UnidentifiedlivingObjects",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}, {
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"actionList": "_None",
+			"actionListUpsell": "_None",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Playlist",
+				"playlistID": "BestOfJD_1",
+				"displayCode": 3,
+				"displayMethod": "random"
+			}]
+		}]
+	}],
+	"actionLists": {
+		"_None": {
+			"__class": "ActionList",
+			"actions": [{
+				"__class": "Action",
+				"title": "None",
+				"type": "do-nothing"
+			}],
+			"itemType": "map"
+		}
+	},
+	"songItemLists": {}
+}

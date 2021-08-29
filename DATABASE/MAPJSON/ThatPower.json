@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/ThatPower/ThatPower_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/ThatPower/ThatPower_ULTRA.webm/f224b463a97ce9cb8ece809188393c9d.webm?auth=exp=16166988803600~acl=/private/map/ThatPower/*~hmac=e4326782ba9b549f5703979cb2462cb396397e732b9829c41361975724e00f8d",
+        "jmcs://jd-contents/ThatPower/ThatPower_MID.webm": "https://jd-s3.akamaized.net/private/map/ThatPower/ThatPower_MID.webm/4b0b43b78ad2f3bddf10f64187f6bb54.webm?auth=exp=16166988803600~acl=/private/map/ThatPower/*~hmac=e4326782ba9b549f5703979cb2462cb396397e732b9829c41361975724e00f8d",
+        "jmcs://jd-contents/ThatPower/ThatPower_LOW.webm": "https://jd-s3.akamaized.net/private/map/ThatPower/ThatPower_LOW.webm/e0992bd40b4f51a36b837cac4b24cd62.webm?auth=exp=16166988803600~acl=/private/map/ThatPower/*~hmac=e4326782ba9b549f5703979cb2462cb396397e732b9829c41361975724e00f8d",
+        "jmcs://jd-contents/ThatPower/ThatPower_HIGH.webm": "https://jd-s3.akamaized.net/private/map/ThatPower/ThatPower_HIGH.webm/5a93601425375e9dbf62c42543b466a5.webm?auth=exp=16166988803600~acl=/private/map/ThatPower/*~hmac=e4326782ba9b549f5703979cb2462cb396397e732b9829c41361975724e00f8d",
+        "jmcs://jd-contents/ThatPower/ThatPower.ogg": "https://jd-s3.akamaized.net/private/map/ThatPower/ThatPower.ogg/c102fa09425f31d38eebc2238e88a385.ogg?auth=exp=16166988803600~acl=/private/map/ThatPower/*~hmac=e4326782ba9b549f5703979cb2462cb396397e732b9829c41361975724e00f8d"
+    }
+}

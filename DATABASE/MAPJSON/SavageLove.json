@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 535312,
+    "urls": {
+        "jmcs://jd-contents/SavageLove/SavageLove_ULTRA.webm": "https://cdn.glitch.com/d08d0cb9-604b-4041-9e49-9d86badc48ad%2FSavageLove_ULTRA.webm?v=1614985868742",
+        "jmcs://jd-contents/SavageLove/SavageLove_MID.webm": "https://cdn.glitch.com/d08d0cb9-604b-4041-9e49-9d86badc48ad%2FSavageLove_MID.webm?v=1614985851500",
+        "jmcs://jd-contents/SavageLove/SavageLove_LOW.webm": "https://cdn.glitch.com/d08d0cb9-604b-4041-9e49-9d86badc48ad%2FSavageLove_LOW.webm?v=1614985836730",
+        "jmcs://jd-contents/SavageLove/SavageLove_HIGH.webm": "https://cdn.glitch.com/d08d0cb9-604b-4041-9e49-9d86badc48ad%2FSavageLove_HIGH.webm?v=1614985868742",
+        "jmcs://jd-contents/SavageLove/SavageLove.ogg": "https://cdn.glitch.com/d08d0cb9-604b-4041-9e49-9d86badc48ad%2Fsavagelove.ogg?v=1614985806124"
+    }
+}

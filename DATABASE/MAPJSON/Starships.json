@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/Starships/Starships_ULTRA.webm": "https://cdn.glitch.com/fe910314-f067-4de0-8de9-56108fb2c13e%2F416810d0bac65e33314a8702cbec220d.webm?v=1609350926838",
+    "jmcs://jd-contents/Starships/Starships_MID.webm": "https://cdn.glitch.com/fe910314-f067-4de0-8de9-56108fb2c13e%2F1be9027e59022f44a3e239b968869509.webm?v=1609350497748",
+    "jmcs://jd-contents/Starships/Starships_LOW.webm": "https://cdn.glitch.com/fe910314-f067-4de0-8de9-56108fb2c13e%2Fb86f7699b41b98e1fe72c2e4bf6d93fc.webm?v=1609350389777",
+    "jmcs://jd-contents/Starships/Starships_HIGH.webm": "https://cdn.glitch.com/fe910314-f067-4de0-8de9-56108fb2c13e%2F4bd0b8df16762624fd06e4d5930ca1bd.webm?v=1609350616031",
+    "jmcs://jd-contents/Starships/Starships.ogg": "https://cdn.glitch.com/fe910314-f067-4de0-8de9-56108fb2c13e%2F7a0cedaf51258795b56fcec76a9c3175.ogg?v=1609350486770"
+  }
+}

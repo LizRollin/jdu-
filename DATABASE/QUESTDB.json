@@ -1,0 +1,18 @@
+{
+	"__class": "OnlineQuestDb",
+	"quests": [
+  {
+		"__class": "OnlineQuest",
+		"assetUrls": {
+			"phoneImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FRingQuest.png?v=1612271527563",
+			"coverImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FRingQuest.tga.ckd?v=1612271548608",
+			"logoImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FRingQuest_Logo.tga.ckd?v=1612271550563",
+			"logoShadedImageURL": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FRingQuest_Logo.tga.ckd?v=1612271550563"
+		},
+		"id": "1",
+		"locked": 0,
+    "playlist": ["Mayores", "Flash", "DynamiteQUAT"],
+		"title": "RING"
+	}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BoogieWonderQUAT/BoogieWonderQUAT_ULTRA.webm/95dcd13497d7647aa3709d8c6e86ee6d.webm?auth=exp=16167202933600~acl=/private/map/BoogieWonderQUAT/*~hmac=16c0c5c1c0698dfafc8cb2e81442d0d2c57d9fc1a32f291d1012d798fc9f5007",
+        "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_MID.webm": "https://jd-s3.akamaized.net/private/map/BoogieWonderQUAT/BoogieWonderQUAT_MID.webm/74b17eff6338c66928cb6443adeed531.webm?auth=exp=16167202933600~acl=/private/map/BoogieWonderQUAT/*~hmac=16c0c5c1c0698dfafc8cb2e81442d0d2c57d9fc1a32f291d1012d798fc9f5007",
+        "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_LOW.webm": "https://jd-s3.akamaized.net/private/map/BoogieWonderQUAT/BoogieWonderQUAT_LOW.webm/e2386fcc15871da49cd064de762c7651.webm?auth=exp=16167202933600~acl=/private/map/BoogieWonderQUAT/*~hmac=16c0c5c1c0698dfafc8cb2e81442d0d2c57d9fc1a32f291d1012d798fc9f5007",
+        "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BoogieWonderQUAT/BoogieWonderQUAT_HIGH.webm/9e380106db49e9b1e4c29125a6377a4e.webm?auth=exp=16167202933600~acl=/private/map/BoogieWonderQUAT/*~hmac=16c0c5c1c0698dfafc8cb2e81442d0d2c57d9fc1a32f291d1012d798fc9f5007",
+        "jmcs://jd-contents/BoogieWonderQUAT/BoogieWonderQUAT.ogg": "https://jd-s3.akamaized.net/private/map/BoogieWonderQUAT/BoogieWonderQUAT.ogg/179a485752ce5396adb49104361ff1e9.ogg?auth=exp=16167202933600~acl=/private/map/BoogieWonderQUAT/*~hmac=16c0c5c1c0698dfafc8cb2e81442d0d2c57d9fc1a32f291d1012d798fc9f5007"
+    }
+}

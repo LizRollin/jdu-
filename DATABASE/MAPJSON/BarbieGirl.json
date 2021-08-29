@@ -1,0 +1,16 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 564520,
+  "urls": {
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_ULTRA.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlULTRA.webm?v=1571158951464",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MID.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlMID.webm?v=1571158567244",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_LOW.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlLOW.webm?v=1571158496909",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_HIGH.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlHIGH.webm?v=1571158688458",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_ULTRA.hd.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlULTRAhd.webm?v=1571158925315",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_MID.hd.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlMIDhd.webm?v=1571158616141",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_LOW.hd.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlLOWhd.webm?v=1571158483964",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl_HIGH.hd.webm": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirlHIGHhd.webm?v=1571158677244",
+    "jmcs://jd-contents/BarbieGirl/BarbieGirl.ogg": "https://cdn.glitch.com/893ffd73-8f25-4ec7-b986-102b8f0ac041%2FBarbieGirl.ogg?v=1571158464936"
+  }
+}

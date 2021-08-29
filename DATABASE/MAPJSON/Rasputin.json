@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 564656,
+  "urls": {
+    "jmcs://jd-contents/Rasputin/Rasputin_ULTRA.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRasputin_ULTRA.webm?v=1615573443702",
+    "jmcs://jd-contents/Rasputin/Rasputin_MID.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRasputin_MID.webm?v=1615573213148",
+    "jmcs://jd-contents/Rasputin/Rasputin_LOW.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRasputin_LOW.webm?v=1615573093023",
+    "jmcs://jd-contents/Rasputin/Rasputin_HIGH.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRasputin_HIGH.webm?v=1615573213148",
+    "jmcs://jd-contents/Rasputin/Rasputin.ogg": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRasputin_audio.ogg?v=1615572834859"
+  }
+}

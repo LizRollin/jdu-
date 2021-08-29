@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 544216,
+  "urls": {
+    "jmcs://jd-contents/RobotRock/RobotRock_ULTRA.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FRobotRock_ULTRA.webm?v=1608914382559",
+    "jmcs://jd-contents/RobotRock/RobotRock_MID.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FRobotRock_MID.webm?v=1608914223166",
+    "jmcs://jd-contents/RobotRock/RobotRock_LOW.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FRobotRock_LOW.webm?v=1608914147143",
+    "jmcs://jd-contents/RobotRock/RobotRock_HIGH.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FRobotRock_HIGH.webm?v=1608914320695",
+    "jmcs://jd-contents/RobotRock/RobotRock.ogg": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FRobotRock_audio.ogg?v=1608913156470"
+  }
+}

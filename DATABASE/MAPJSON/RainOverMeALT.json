@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/RainOverMeALT/RainOverMeALT_ULTRA.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRainOverMeALT_ULTRA.webm?v=1615647682899",
+        "jmcs://jd-contents/RainOverMeALT/RainOverMeALT_MID.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRainOverMeALT_MID.webm?v=1615647607914",
+        "jmcs://jd-contents/RainOverMeALT/RainOverMeALT_LOW.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRainOverMeALT_LOW.webm?v=1615647569432",
+        "jmcs://jd-contents/RainOverMeALT/RainOverMeALT_HIGH.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRainOverMeALT_HIGH.webm?v=1615647586339",
+        "jmcs://jd-contents/RainOverMeALT/RainOverMeALT.ogg": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FRainOverMeALT.ogg?v=1615647607914"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Animals/Animals_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/Animals/Animals_ULTRA.webm/368b87814c338e7166a3db9819b738f6.webm?auth=exp=16166984833600~acl=/private/map/Animals/*~hmac=fe9f3f16f306c2c96d5d8f1e5ea385d3bd935729b993230b48257e62c2b394ef",
+        "jmcs://jd-contents/Animals/Animals_MID.webm": "https://jd-s3.akamaized.net/private/map/Animals/Animals_MID.webm/e05ef68dcd5a9bf9a00e705e43aeed7f.webm?auth=exp=16166984833600~acl=/private/map/Animals/*~hmac=fe9f3f16f306c2c96d5d8f1e5ea385d3bd935729b993230b48257e62c2b394ef",
+        "jmcs://jd-contents/Animals/Animals_LOW.webm": "https://jd-s3.akamaized.net/private/map/Animals/Animals_LOW.webm/ae3ec48977b53c2f96fdaa5f5d3d3bf6.webm?auth=exp=16166984833600~acl=/private/map/Animals/*~hmac=fe9f3f16f306c2c96d5d8f1e5ea385d3bd935729b993230b48257e62c2b394ef",
+        "jmcs://jd-contents/Animals/Animals_HIGH.webm": "https://jd-s3.akamaized.net/private/map/Animals/Animals_HIGH.webm/f88e556631b3210ddea5142efe1b8188.webm?auth=exp=16166984833600~acl=/private/map/Animals/*~hmac=fe9f3f16f306c2c96d5d8f1e5ea385d3bd935729b993230b48257e62c2b394ef",
+        "jmcs://jd-contents/Animals/Animals.ogg": "https://jd-s3.akamaized.net/private/map/Animals/Animals.ogg/ea2d3f28b410f0aa2ea421364571a89e.ogg?auth=exp=16166984833600~acl=/private/map/Animals/*~hmac=fe9f3f16f306c2c96d5d8f1e5ea385d3bd935729b993230b48257e62c2b394ef"
+    }
+}

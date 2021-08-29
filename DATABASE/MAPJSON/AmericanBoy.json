@@ -1,0 +1,16 @@
+{ 
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919, 
+	"urls" : {
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_ULTRA.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_ULTRA.hd.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_MID.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_MID.hd.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_LOW.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_LOW.hd.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_HIGH.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy_HIGH.hd.webm" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/clean.garnetlag.webm?v=1568202661458",
+		"jmcs://jd-contents/AmericanBoy/AmericanBoy.ogg" : "https://cdn.glitch.com/75fa2297-83e8-475d-969d-6b4da64597fb/americanboy.ogg?v=1568029143777"
+	}
+}

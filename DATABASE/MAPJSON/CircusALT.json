@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/CircusALT/CircusALT_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/CircusALT/CircusALT_ULTRA.webm/9fdb3dc88a19627d423405199aa7e3b5.webm?auth=exp=16135496223600~acl=/private/map/CircusALT/*~hmac=7b52a0f818ca4b2b7673a8cd5eb9ca1aedb165f58d36c91b34402fe62bd886ab",
+        "jmcs://jd-contents/CircusALT/CircusALT_MID.webm": "https://jd-s3.akamaized.net/private/map/CircusALT/CircusALT_MID.webm/040da9964ef4b3d1286732afa5c2bf57.webm?auth=exp=16135496223600~acl=/private/map/CircusALT/*~hmac=7b52a0f818ca4b2b7673a8cd5eb9ca1aedb165f58d36c91b34402fe62bd886ab",
+        "jmcs://jd-contents/CircusALT/CircusALT_LOW.webm": "https://jd-s3.akamaized.net/private/map/CircusALT/CircusALT_LOW.webm/dda50d43a03606f1cd314040deb3c99b.webm?auth=exp=16135496223600~acl=/private/map/CircusALT/*~hmac=7b52a0f818ca4b2b7673a8cd5eb9ca1aedb165f58d36c91b34402fe62bd886ab",
+        "jmcs://jd-contents/CircusALT/CircusALT_HIGH.webm": "https://jd-s3.akamaized.net/private/map/CircusALT/CircusALT_HIGH.webm/02105f42a1c0ee949568069fd029f532.webm?auth=exp=16135496223600~acl=/private/map/CircusALT/*~hmac=7b52a0f818ca4b2b7673a8cd5eb9ca1aedb165f58d36c91b34402fe62bd886ab",
+        "jmcs://jd-contents/CircusALT/CircusALT.ogg": "https://jd-s3.akamaized.net/private/map/CircusALT/CircusALT.ogg/a14cb8bc2cd787bd600ea0f5db9f904f.ogg?auth=exp=16135496223600~acl=/private/map/CircusALT/*~hmac=7b52a0f818ca4b2b7673a8cd5eb9ca1aedb165f58d36c91b34402fe62bd886ab"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/DameTu/DameTu_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/DameTu/DameTu_ULTRA.webm/26ea086152e7e4e32aa6ffd87e18c710.webm?auth=exp=16140015533600~acl=/private/map/DameTu/*~hmac=23f9859337e7d10c437b12ccd0e08ed2a710232169c4fae5719bf86a0a64dfcc",
+        "jmcs://jd-contents/DameTu/DameTu_MID.webm": "https://jd-s3.akamaized.net/private/map/DameTu/DameTu_MID.webm/e0886faf6250e80b85aab17077673066.webm?auth=exp=16140015533600~acl=/private/map/DameTu/*~hmac=23f9859337e7d10c437b12ccd0e08ed2a710232169c4fae5719bf86a0a64dfcc",
+        "jmcs://jd-contents/DameTu/DameTu_LOW.webm": "https://jd-s3.akamaized.net/private/map/DameTu/DameTu_LOW.webm/05eb9ec46e1580d9f0959f7200f3af5c.webm?auth=exp=16140015533600~acl=/private/map/DameTu/*~hmac=23f9859337e7d10c437b12ccd0e08ed2a710232169c4fae5719bf86a0a64dfcc",
+        "jmcs://jd-contents/DameTu/DameTu_HIGH.webm": "https://jd-s3.akamaized.net/private/map/DameTu/DameTu_HIGH.webm/96f89528b5effd06c2bdcb9c0966988c.webm?auth=exp=16140015533600~acl=/private/map/DameTu/*~hmac=23f9859337e7d10c437b12ccd0e08ed2a710232169c4fae5719bf86a0a64dfcc",
+        "jmcs://jd-contents/DameTu/DameTu.ogg": "https://jd-s3.akamaized.net/private/map/DameTu/DameTu.ogg/f0bf7e2b6c7dd164d2cdc89708122c08.ogg?auth=exp=16140015533600~acl=/private/map/DameTu/*~hmac=23f9859337e7d10c437b12ccd0e08ed2a710232169c4fae5719bf86a0a64dfcc"
+    }
+}

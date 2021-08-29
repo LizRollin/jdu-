@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BornThisWayALT/BornThisWayALT_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BornThisWayALT/BornThisWayALT_ULTRA.webm/82d9fd8ff0a6547db1585e99e237aa0c.webm?auth=exp=16140952323600~acl=/private/map/BornThisWayALT/*~hmac=fb296062ad8cb6705852854123e7e3507d6e8661fa521850ac790ed875574adc",
+        "jmcs://jd-contents/BornThisWayALT/BornThisWayALT_MID.webm": "https://jd-s3.akamaized.net/private/map/BornThisWayALT/BornThisWayALT_MID.webm/23f29ede5e79b84494eaf2c8045c49f4.webm?auth=exp=16140952323600~acl=/private/map/BornThisWayALT/*~hmac=fb296062ad8cb6705852854123e7e3507d6e8661fa521850ac790ed875574adc",
+        "jmcs://jd-contents/BornThisWayALT/BornThisWayALT_LOW.webm": "https://jd-s3.akamaized.net/private/map/BornThisWayALT/BornThisWayALT_LOW.webm/25e579c1e74679b8f674bc3bd79127de.webm?auth=exp=16140952323600~acl=/private/map/BornThisWayALT/*~hmac=fb296062ad8cb6705852854123e7e3507d6e8661fa521850ac790ed875574adc",
+        "jmcs://jd-contents/BornThisWayALT/BornThisWayALT_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BornThisWayALT/BornThisWayALT_HIGH.webm/c947c125cfa926dc61d779f473eb93da.webm?auth=exp=16140952323600~acl=/private/map/BornThisWayALT/*~hmac=fb296062ad8cb6705852854123e7e3507d6e8661fa521850ac790ed875574adc",
+        "jmcs://jd-contents/BornThisWayALT/BornThisWayALT.ogg": "https://jd-s3.akamaized.net/private/map/BornThisWayALT/BornThisWayALT.ogg/f5d324aeb55f8c946916ba2247ad150e.ogg?auth=exp=16140952323600~acl=/private/map/BornThisWayALT/*~hmac=fb296062ad8cb6705852854123e7e3507d6e8661fa521850ac790ed875574adc"
+    }
+}

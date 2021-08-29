@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/AboutThatBass/AboutThatBass_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBass/AboutThatBass_ULTRA.webm/3eaead1cd5d2618f3ed8bf9d9748a891.webm?auth=exp=16169659303600~acl=/private/map/AboutThatBass/*~hmac=bde55b51a63660a89eb14fcff7b8ce1fbb12e4f815e3cfa1386bad04abcab5ac",
+        "jmcs://jd-contents/AboutThatBass/AboutThatBass_MID.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBass/AboutThatBass_MID.webm/1b0bc498677cc804666501418cc6b6ba.webm?auth=exp=16169659303600~acl=/private/map/AboutThatBass/*~hmac=bde55b51a63660a89eb14fcff7b8ce1fbb12e4f815e3cfa1386bad04abcab5ac",
+        "jmcs://jd-contents/AboutThatBass/AboutThatBass_LOW.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBass/AboutThatBass_LOW.webm/41679048e037a3c73da0cf534a3f4c21.webm?auth=exp=16169659303600~acl=/private/map/AboutThatBass/*~hmac=bde55b51a63660a89eb14fcff7b8ce1fbb12e4f815e3cfa1386bad04abcab5ac",
+        "jmcs://jd-contents/AboutThatBass/AboutThatBass_HIGH.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBass/AboutThatBass_HIGH.webm/5802247cfa4b751aa47011ba989dbff2.webm?auth=exp=16169659303600~acl=/private/map/AboutThatBass/*~hmac=bde55b51a63660a89eb14fcff7b8ce1fbb12e4f815e3cfa1386bad04abcab5ac",
+        "jmcs://jd-contents/AboutThatBass/AboutThatBass.ogg": "https://jd-s3.akamaized.net/private/map/AboutThatBass/AboutThatBass.ogg/366466a908aff3d58d5f05b6e8a6a118.ogg?auth=exp=16169659303600~acl=/private/map/AboutThatBass/*~hmac=bde55b51a63660a89eb14fcff7b8ce1fbb12e4f815e3cfa1386bad04abcab5ac"
+    }
+}

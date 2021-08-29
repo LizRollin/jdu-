@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 564656,
+  "urls": {
+    "jmcs://jd-contents/OtherSideSZA/OtherSideSZA_ULTRA.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Ftheothersidehigh.webm?v=1612204877369",
+    "jmcs://jd-contents/OtherSideSZA/OtherSideSZA_MID.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Ftheothersidemid.webm?v=1612204708772",
+    "jmcs://jd-contents/OtherSideSZA/OtherSideSZA_LOW.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Ftheothersidelow.webm?v=1612204656353",
+    "jmcs://jd-contents/OtherSideSZA/OtherSideSZA_HIGH.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Ftheothersidehigh.webm?v=1612204877369",
+    "jmcs://jd-contents/OtherSideSZA/OtherSideSZA.ogg": "https://cdn.glitch.com/9f987805-51e9-400c-88d2-cba974ed2d57%2Ftheotherside.ogg?v=1612204519351"
+  }
+}

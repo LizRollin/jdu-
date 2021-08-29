@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/DarkHorse/DarkHorse_ULTRA.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_ULTRA.webm?v=1608996160177",
+        "jmcs://jd-contents/DarkHorse/DarkHorse_ULTRA.hd.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_ULTRA.webm?v=1608996160177",
+        "jmcs://jd-contents/DarkHorse/DarkHorse_MID.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_MID.webm?v=1608995986898",
+        "jmcs://jd-contents/DarkHorse/DarkHorse_MID.hd.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_MID.webm?v=1608995986898",
+        "jmcs://jd-contents/DarkHorse/DarkHorse_LOW.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_LOW.webm?v=1608995919169",
+        "jmcs://jd-contents/DarkHorse/DarkHorse_LOW.hd.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_LOW.webm?v=1608995919169",
+        "jmcs://jd-contents/DarkHorse/DarkHorse_HIGH.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_HIGH.webm?v=1608996095163",
+        "jmcs://jd-contents/DarkHorse/DarkHorse_HIGH.hd.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_HIGH.webm?v=1608996095163",
+        "jmcs://jd-contents/DarkHorse/DarkHorse.ogg": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FDarkHorse_audio.ogg?v=1608995849236"
+    }
+}

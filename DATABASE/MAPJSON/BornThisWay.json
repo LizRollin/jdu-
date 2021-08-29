@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BornThisWay/BornThisWay_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BornThisWay/BornThisWay_ULTRA.webm/17f62ca0d86664d66022867081e95eac.webm?auth=exp=16151268603600~acl=/private/map/BornThisWay/*~hmac=32c9494de007b94907ae295695f0f2f2f4de9e573ae46c5bc9b21f22c095b3c5",
+        "jmcs://jd-contents/BornThisWay/BornThisWay_MID.webm": "https://jd-s3.akamaized.net/private/map/BornThisWay/BornThisWay_MID.webm/ca6cb4cf9f9ccf79acc8244a11372747.webm?auth=exp=16151268603600~acl=/private/map/BornThisWay/*~hmac=32c9494de007b94907ae295695f0f2f2f4de9e573ae46c5bc9b21f22c095b3c5",
+        "jmcs://jd-contents/BornThisWay/BornThisWay_LOW.webm": "https://jd-s3.akamaized.net/private/map/BornThisWay/BornThisWay_LOW.webm/1e780d30431a4c5918a55d7f724b4f55.webm?auth=exp=16151268603600~acl=/private/map/BornThisWay/*~hmac=32c9494de007b94907ae295695f0f2f2f4de9e573ae46c5bc9b21f22c095b3c5",
+        "jmcs://jd-contents/BornThisWay/BornThisWay_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BornThisWay/BornThisWay_HIGH.webm/db63828e0f8ba173b6e250780414fb61.webm?auth=exp=16151268603600~acl=/private/map/BornThisWay/*~hmac=32c9494de007b94907ae295695f0f2f2f4de9e573ae46c5bc9b21f22c095b3c5",
+        "jmcs://jd-contents/BornThisWay/BornThisWay.ogg": "https://jd-s3.akamaized.net/private/map/BornThisWay/BornThisWay.ogg/ec491951addd77aa92d78b31fc933cf9.ogg?auth=exp=16151268603600~acl=/private/map/BornThisWay/*~hmac=32c9494de007b94907ae295695f0f2f2f4de9e573ae46c5bc9b21f22c095b3c5"
+    }
+}

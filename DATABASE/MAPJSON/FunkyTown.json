@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/FunkyTown/FunkyTown_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/FunkyTown/FunkyTown_ULTRA.webm/c1452afdc1cd7ef721031d73dadbcfa6.webm?auth=exp=16156447863600~acl=/private/map/FunkyTown/*~hmac=7224f010676f2a7394fc9613021484cd31f93a05483daad6ecc70ca5f8ee7e8f",
+        "jmcs://jd-contents/FunkyTown/FunkyTown_MID.webm": "https://jd-s3.akamaized.net/private/map/FunkyTown/FunkyTown_MID.webm/58d863a1e4c68e02662e6b1752100ad8.webm?auth=exp=16156447863600~acl=/private/map/FunkyTown/*~hmac=7224f010676f2a7394fc9613021484cd31f93a05483daad6ecc70ca5f8ee7e8f",
+        "jmcs://jd-contents/FunkyTown/FunkyTown_LOW.webm": "https://jd-s3.akamaized.net/private/map/FunkyTown/FunkyTown_LOW.webm/324dff41abfa97f8af3325b0cf315f5b.webm?auth=exp=16156447863600~acl=/private/map/FunkyTown/*~hmac=7224f010676f2a7394fc9613021484cd31f93a05483daad6ecc70ca5f8ee7e8f",
+        "jmcs://jd-contents/FunkyTown/FunkyTown_HIGH.webm": "https://jd-s3.akamaized.net/private/map/FunkyTown/FunkyTown_HIGH.webm/02d85ce766d88d206e455784c5f94d4e.webm?auth=exp=16156447863600~acl=/private/map/FunkyTown/*~hmac=7224f010676f2a7394fc9613021484cd31f93a05483daad6ecc70ca5f8ee7e8f",
+        "jmcs://jd-contents/FunkyTown/FunkyTown.ogg": "https://jd-s3.akamaized.net/private/map/FunkyTown/FunkyTown.ogg/5854f2cc11cef086298376a8f1bb10c2.ogg?auth=exp=16156447863600~acl=/private/map/FunkyTown/*~hmac=7224f010676f2a7394fc9613021484cd31f93a05483daad6ecc70ca5f8ee7e8f"
+    }
+}

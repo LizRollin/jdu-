@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/GangnamStyleDLC/GangnamStyleDLC_ULTRA.webm/d6ed4cf902a8cda9db9208922cbcda2b.webm?auth=exp=16146189843600~acl=/private/map/GangnamStyleDLC/*~hmac=fdb4654194fa18013a87c1f9d109e9238c5a649f6cfc12dc6f691f607b955192",
+        "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_MID.webm": "https://jd-s3.akamaized.net/private/map/GangnamStyleDLC/GangnamStyleDLC_MID.webm/bd59d76920c061d3edcddcd869143f42.webm?auth=exp=16146189843600~acl=/private/map/GangnamStyleDLC/*~hmac=fdb4654194fa18013a87c1f9d109e9238c5a649f6cfc12dc6f691f607b955192",
+        "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_LOW.webm": "https://jd-s3.akamaized.net/private/map/GangnamStyleDLC/GangnamStyleDLC_LOW.webm/5522a02c29ba530e85972dd151429548.webm?auth=exp=16146189843600~acl=/private/map/GangnamStyleDLC/*~hmac=fdb4654194fa18013a87c1f9d109e9238c5a649f6cfc12dc6f691f607b955192",
+        "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC_HIGH.webm": "https://jd-s3.akamaized.net/private/map/GangnamStyleDLC/GangnamStyleDLC_HIGH.webm/41891b21ff5f3a79a2724880580a8cb4.webm?auth=exp=16146189843600~acl=/private/map/GangnamStyleDLC/*~hmac=fdb4654194fa18013a87c1f9d109e9238c5a649f6cfc12dc6f691f607b955192",
+        "jmcs://jd-contents/GangnamStyleDLC/GangnamStyleDLC.ogg": "https://jd-s3.akamaized.net/private/map/GangnamStyleDLC/GangnamStyleDLC.ogg/bf5cf832c6ff56e1c2fdf05d1aa3c47e.ogg?auth=exp=16146189843600~acl=/private/map/GangnamStyleDLC/*~hmac=fdb4654194fa18013a87c1f9d109e9238c5a649f6cfc12dc6f691f607b955192"
+    }
+}

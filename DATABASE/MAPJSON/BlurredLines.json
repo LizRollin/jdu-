@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BlurredLines/BlurredLines_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BlurredLines/BlurredLines_ULTRA.webm/cca34250694923b487c6deeeeb3a57e0.webm?auth=exp=16153473303600~acl=/private/map/BlurredLines/*~hmac=33b4b2db3f84c5226d8c964f5489b23c0e657bd3c7fc365fe9efa0aa3913f5d5",
+        "jmcs://jd-contents/BlurredLines/BlurredLines_MID.webm": "https://jd-s3.akamaized.net/private/map/BlurredLines/BlurredLines_MID.webm/91d0c9cfdcf65b5a2db13a7533e27f1d.webm?auth=exp=16153473303600~acl=/private/map/BlurredLines/*~hmac=33b4b2db3f84c5226d8c964f5489b23c0e657bd3c7fc365fe9efa0aa3913f5d5",
+        "jmcs://jd-contents/BlurredLines/BlurredLines_LOW.webm": "https://jd-s3.akamaized.net/private/map/BlurredLines/BlurredLines_LOW.webm/703636781f370675bf477acfb86190af.webm?auth=exp=16153473303600~acl=/private/map/BlurredLines/*~hmac=33b4b2db3f84c5226d8c964f5489b23c0e657bd3c7fc365fe9efa0aa3913f5d5",
+        "jmcs://jd-contents/BlurredLines/BlurredLines_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BlurredLines/BlurredLines_HIGH.webm/784a88ec03f4991206590618d8b8549a.webm?auth=exp=16153473303600~acl=/private/map/BlurredLines/*~hmac=33b4b2db3f84c5226d8c964f5489b23c0e657bd3c7fc365fe9efa0aa3913f5d5",
+        "jmcs://jd-contents/BlurredLines/BlurredLines.ogg": "https://jd-s3.akamaized.net/private/map/BlurredLines/BlurredLines.ogg/12e63a150a21218f01f93e9c49c21a7c.ogg?auth=exp=16153473303600~acl=/private/map/BlurredLines/*~hmac=33b4b2db3f84c5226d8c964f5489b23c0e657bd3c7fc365fe9efa0aa3913f5d5"
+    }
+}

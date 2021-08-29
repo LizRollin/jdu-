@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/NoLie/NoLie_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieHigh.webm?v=1609078678872",
+        "jmcs://jd-contents/NoLie/NoLie_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieHigh.webm?v=1609078678872",
+        "jmcs://jd-contents/NoLie/NoLie_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieMid.webm?v=1609078614389",
+        "jmcs://jd-contents/NoLie/NoLie_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieMid.webm?v=1609078614389",
+        "jmcs://jd-contents/NoLie/NoLie_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieLow.webm?v=1609078552334",
+        "jmcs://jd-contents/NoLie/NoLie_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieLow.webm?v=1609078552334",
+        "jmcs://jd-contents/NoLie/NoLie_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieHigh.webm?v=1609078678872",
+        "jmcs://jd-contents/NoLie/NoLie_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLieHigh.webm?v=1609078678872",
+        "jmcs://jd-contents/NoLie/NoLie.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FNoLie.ogg?v=1609078537399"
+    }
+}

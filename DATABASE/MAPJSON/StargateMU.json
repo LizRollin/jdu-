@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/StargateMU/StargateMU_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FStargateMU_ULTRA.webm?v=1612799821151",
+		"jmcs://jd-contents/StargateMU/StargateMU_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FStargateMU_MID.webm?v=1612799623610",
+		"jmcs://jd-contents/StargateMU/StargateMU_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FStargateMU_LOW.webm?v=1612799478631",
+		"jmcs://jd-contents/StargateMU/StargateMU_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FStargateMU_HIGH.webm?v=1612799849199",
+		"jmcs://jd-contents/StargateMU/StargateMU.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FStargateMU_audio.ogg?v=1612799517097"
+	}
+}

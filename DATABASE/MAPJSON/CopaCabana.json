@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/CopaCabana/CopaCabana_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/CopaCabana/CopaCabana_ULTRA.webm/a6b4b819824c3046befed904e397a82d.webm?auth=exp=16169828313600~acl=/private/map/CopaCabana/*~hmac=b596849298d41f06adf96ca1fdf7219e8482c3f990d693a1b376390aee7c049c",
+        "jmcs://jd-contents/CopaCabana/CopaCabana_MID.webm": "https://jd-s3.akamaized.net/private/map/CopaCabana/CopaCabana_MID.webm/ac0b6012098cd8451121800d9d749d4c.webm?auth=exp=16169828313600~acl=/private/map/CopaCabana/*~hmac=b596849298d41f06adf96ca1fdf7219e8482c3f990d693a1b376390aee7c049c",
+        "jmcs://jd-contents/CopaCabana/CopaCabana_LOW.webm": "https://jd-s3.akamaized.net/private/map/CopaCabana/CopaCabana_LOW.webm/7a4eab714bbeeb19ba95d00c14f0f106.webm?auth=exp=16169828313600~acl=/private/map/CopaCabana/*~hmac=b596849298d41f06adf96ca1fdf7219e8482c3f990d693a1b376390aee7c049c",
+        "jmcs://jd-contents/CopaCabana/CopaCabana_HIGH.webm": "https://jd-s3.akamaized.net/private/map/CopaCabana/CopaCabana_HIGH.webm/e8b94649d4a3571602650f23ffdce4d5.webm?auth=exp=16169828313600~acl=/private/map/CopaCabana/*~hmac=b596849298d41f06adf96ca1fdf7219e8482c3f990d693a1b376390aee7c049c",
+        "jmcs://jd-contents/CopaCabana/CopaCabana.ogg": "https://jd-s3.akamaized.net/private/map/CopaCabana/CopaCabana.ogg/25573e8a05eb69e78c4275296a341165.ogg?auth=exp=16169828313600~acl=/private/map/CopaCabana/*~hmac=b596849298d41f06adf96ca1fdf7219e8482c3f990d693a1b376390aee7c049c"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Futebol/Futebol_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/Futebol/Futebol_ULTRA.webm/2d2232e6d4a4a27ad7d15ee21378f6ef.webm?auth=exp=16131644823600~acl=/private/map/Futebol/*~hmac=cb2051d609ef1934769f384c07157a66dc6454ae9730f7932c76bb5880f742a9",
+        "jmcs://jd-contents/Futebol/Futebol_MID.webm": "https://jd-s3.akamaized.net/private/map/Futebol/Futebol_MID.webm/e237a25cf213db44e98a96e9f35af5f1.webm?auth=exp=16131644823600~acl=/private/map/Futebol/*~hmac=cb2051d609ef1934769f384c07157a66dc6454ae9730f7932c76bb5880f742a9",
+        "jmcs://jd-contents/Futebol/Futebol_LOW.webm": "https://jd-s3.akamaized.net/private/map/Futebol/Futebol_LOW.webm/9106b2edc23b42ac438a712ae4c4a970.webm?auth=exp=16131644823600~acl=/private/map/Futebol/*~hmac=cb2051d609ef1934769f384c07157a66dc6454ae9730f7932c76bb5880f742a9",
+        "jmcs://jd-contents/Futebol/Futebol_HIGH.webm": "https://jd-s3.akamaized.net/private/map/Futebol/Futebol_HIGH.webm/aa34080097a5adef3c78654c4cabd7e6.webm?auth=exp=16131644823600~acl=/private/map/Futebol/*~hmac=cb2051d609ef1934769f384c07157a66dc6454ae9730f7932c76bb5880f742a9",
+        "jmcs://jd-contents/Futebol/Futebol.ogg": "https://jd-s3.akamaized.net/private/map/Futebol/Futebol.ogg/a644a779f41d8015c2e0dae15393a1ae.ogg?auth=exp=16131644823600~acl=/private/map/Futebol/*~hmac=cb2051d609ef1934769f384c07157a66dc6454ae9730f7932c76bb5880f742a9"
+    }
+}

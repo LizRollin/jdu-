@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_high.webm?v=1609887464405",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_high.webm?v=1609887464405",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_Mid.webm?v=1609887438411",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_Mid.webm?v=1609887438411",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_Low.webm?v=1609887415524",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_Low.webm?v=1609887415524",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_high.webm?v=1609887464405",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys_high.webm?v=1609887464405",
+        "jmcs://jd-contents/KIDSFiveLittleMonkeys/KIDSFiveLittleMonkeys.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFiveLittleMonkeys.ogg?v=1609887407736"
+    }
+}

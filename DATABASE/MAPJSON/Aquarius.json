@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Aqaurius/Aqaurius_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/Aquarius/Aquarius_ULTRA.webm/65eb37c9c35c333bd745692d5405e18a.webm?auth=exp=16132311533600~acl=/private/map/Aquarius/*~hmac=c4dfeae6e22a4d58ac00c27fefdc696457067ca684b8a2a71b4440094e0e342d",
+        "jmcs://jd-contents/Aqaurius/Aqaurius_MID.webm": "https://jd-s3.akamaized.net/private/map/Aquarius/Aquarius_MID.webm/9410e0900380f8501563beaacfa76a19.webm?auth=exp=16132311533600~acl=/private/map/Aquarius/*~hmac=c4dfeae6e22a4d58ac00c27fefdc696457067ca684b8a2a71b4440094e0e342d",
+        "jmcs://jd-contents/Aqaurius/Aqaurius_LOW.webm": "https://jd-s3.akamaized.net/private/map/Aquarius/Aquarius_LOW.webm/9cf8b07d6a7c15114430fa83765db718.webm?auth=exp=16132311533600~acl=/private/map/Aquarius/*~hmac=c4dfeae6e22a4d58ac00c27fefdc696457067ca684b8a2a71b4440094e0e342d",
+        "jmcs://jd-contents/Aqaurius/Aqaurius_HIGH.webm": "https://jd-s3.akamaized.net/private/map/Aquarius/Aquarius_HIGH.webm/b11d4d044d23ccbe3dcb6d12e4372bac.webm?auth=exp=16132311533600~acl=/private/map/Aquarius/*~hmac=c4dfeae6e22a4d58ac00c27fefdc696457067ca684b8a2a71b4440094e0e342d",
+        "jmcs://jd-contents/Aqaurius/Aqaurius.ogg": "https://jd-s3.akamaized.net/private/map/Aquarius/Aquarius.ogg/ebdcf7a67fbccd7db110bcbfed4a3f0f.ogg?auth=exp=16132311533600~acl=/private/map/Aquarius/*~hmac=c4dfeae6e22a4d58ac00c27fefdc696457067ca684b8a2a71b4440094e0e342d"
+    }
+}

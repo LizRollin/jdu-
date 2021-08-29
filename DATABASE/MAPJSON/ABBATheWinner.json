@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_high.webm?v=1609950052831",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_high.webm?v=1609950052831",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_mid.webm?v=1609950031405",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_mid.webm?v=1609950031405",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_low.webm?v=1609950032999",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_low.webm?v=1609950032999",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_high.webm?v=1609950052831",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner_high.webm?v=1609950052831",
+        "jmcs://jd-contents/ABBATheWinner/ABBATheWinner.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBATheWinner.ogg?v=1609950015449"
+    }
+}

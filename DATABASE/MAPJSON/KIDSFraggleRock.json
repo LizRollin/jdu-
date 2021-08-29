@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_high.webm?v=1609888283014",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_high.webm?v=1609888283014",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_mid.webm?v=1609888277753",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_mid.webm?v=1609888277753",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_low.webm?v=1609888257248",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_low.webm?v=1609888257248",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_high.webm?v=1609888283014",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock_high.webm?v=1609888283014",
+        "jmcs://jd-contents/KIDSFraggleRock/KIDSFraggleRock.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSFraggleRock.ogg?v=1609888241986"
+    }
+}

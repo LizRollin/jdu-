@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BewareOf/BewareOf_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BewareOf/BewareOf_ULTRA.webm/63082cca87f9d8e4934a67d158812c24.webm?auth=exp=16169807093600~acl=/private/map/BewareOf/*~hmac=abe28e7e3427bc3e14b457533c481c827430bcf30922d789e6cca6f8ceaea474",
+        "jmcs://jd-contents/BewareOf/BewareOf_MID.webm": "https://jd-s3.akamaized.net/private/map/BewareOf/BewareOf_MID.webm/02df111c469a989c39da5295269ad230.webm?auth=exp=16169807093600~acl=/private/map/BewareOf/*~hmac=abe28e7e3427bc3e14b457533c481c827430bcf30922d789e6cca6f8ceaea474",
+        "jmcs://jd-contents/BewareOf/BewareOf_LOW.webm": "https://jd-s3.akamaized.net/private/map/BewareOf/BewareOf_LOW.webm/680f234be538e424fb70c7c44f0d875c.webm?auth=exp=16169807093600~acl=/private/map/BewareOf/*~hmac=abe28e7e3427bc3e14b457533c481c827430bcf30922d789e6cca6f8ceaea474",
+        "jmcs://jd-contents/BewareOf/BewareOf_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BewareOf/BewareOf_HIGH.webm/74bce22354f8bef8e5e9f2cbe4e48170.webm?auth=exp=16169807093600~acl=/private/map/BewareOf/*~hmac=abe28e7e3427bc3e14b457533c481c827430bcf30922d789e6cca6f8ceaea474",
+        "jmcs://jd-contents/BewareOf/BewareOf.ogg": "https://jd-s3.akamaized.net/private/map/BewareOf/BewareOf.ogg/2610d8282d17403141604eba410e5f10.ogg?auth=exp=16169807093600~acl=/private/map/BewareOf/*~hmac=abe28e7e3427bc3e14b457533c481c827430bcf30922d789e6cca6f8ceaea474"
+    }
+}

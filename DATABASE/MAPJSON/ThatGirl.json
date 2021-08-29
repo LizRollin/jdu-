@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/ThatGirl/ThatGirl_ULTRA.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.tamata_ULTRA.webm?v=1612254824689",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_MID.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.tamata_MID.webm?v=1612254776385",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_LOW.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.tamata_LOW.webm?v=1612254753432",
+    "jmcs://jd-contents/ThatGirl/ThatGirl_HIGH.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.tamata_HIGH.webm?v=1612254830974",
+    "jmcs://jd-contents/ThatGirl/ThatGirl.ogg": "https://cdn.glitch.com/9f987805-51e9-400c-88d2-cba974ed2d57%2Fthatgirl4.ogg?v=1612218493745"
+  }
+}

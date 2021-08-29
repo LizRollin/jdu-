@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSABC/KIDSABC_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/KIDSABC/KIDSABC_ULTRA.webm/6f5198539e8730b4c407a294953e61e0.webm?auth=exp=16169796403600~acl=/private/map/KIDSABC/*~hmac=781f05b4a653ab214aab53732d36740ff200d99ba945acd9b562c7b7cb57bce2",
+        "jmcs://jd-contents/KIDSABC/KIDSABC_MID.webm": "https://jd-s3.akamaized.net/private/map/KIDSABC/KIDSABC_MID.webm/7c11ed9eade4fe06944b98d78f0ef1a2.webm?auth=exp=16169796403600~acl=/private/map/KIDSABC/*~hmac=781f05b4a653ab214aab53732d36740ff200d99ba945acd9b562c7b7cb57bce2",
+        "jmcs://jd-contents/KIDSABC/KIDSABC_LOW.webm": "https://jd-s3.akamaized.net/private/map/KIDSABC/KIDSABC_LOW.webm/2faec485e0bbd924839f56fe1fe302db.webm?auth=exp=16169796403600~acl=/private/map/KIDSABC/*~hmac=781f05b4a653ab214aab53732d36740ff200d99ba945acd9b562c7b7cb57bce2",
+        "jmcs://jd-contents/KIDSABC/KIDSABC_HIGH.webm": "https://jd-s3.akamaized.net/private/map/KIDSABC/KIDSABC_HIGH.webm/bebab2d774428867f18ba2a9a8968ea7.webm?auth=exp=16169796403600~acl=/private/map/KIDSABC/*~hmac=781f05b4a653ab214aab53732d36740ff200d99ba945acd9b562c7b7cb57bce2",
+        "jmcs://jd-contents/KIDSABC/KIDSABC.ogg": "https://jd-s3.akamaized.net/private/map/KIDSABC/KIDSABC.ogg/4ada901ca8ae27a276feb59fb7f9ecb4.ogg?auth=exp=16169796403600~acl=/private/map/KIDSABC/*~hmac=781f05b4a653ab214aab53732d36740ff200d99ba945acd9b562c7b7cb57bce2"
+    }
+}

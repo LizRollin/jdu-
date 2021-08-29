@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 175384,
+  "urls": {
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_ULTRA.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FBornToBeWild_ULTRA.webm?v=1610646593328",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_MID.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FBornToBeWild_MID.webm?v=1610646816911",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_LOW.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FBornToBeWild_LOW.webm?v=1610646397686",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild_HIGH.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FBornToBeWild_HIGH.webm?v=1610646451508",
+    "jmcs://jd-contents/BornToBeWild/BornToBeWild.ogg": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FBornToBeWild.ogg?v=1610646433050"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Policeman/Policeman_ULTRA.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FPoliceman_ULTRA.webm?v=1615647344138",
+        "jmcs://jd-contents/Policeman/Policeman_MID.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FPoliceman_MID.webm?v=1615647325963",
+        "jmcs://jd-contents/Policeman/Policeman_LOW.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FPoliceman_LOW.webm?v=1615647308943",
+        "jmcs://jd-contents/Policeman/Policeman_HIGH.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FPoliceman_HIGH.webm?v=1615647333656",
+        "jmcs://jd-contents/Policeman/Policeman.ogg": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FPoliceman.ogg?v=1615647341490"
+    }
+}

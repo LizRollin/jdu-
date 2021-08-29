@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/JDCHotPot/JDCHotPot_ULTRA.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/5f453979235fe70dd98cb3491026e849.jdchotpot_ultra.webm?v=1601001772961",
+        "jmcs://jd-contents/JDCHotPot/JDCHotPot_MID.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/26e506c3578159dec5757890957a7189.jdchotpot_mid.webm?v=1601002282689",
+        "jmcs://jd-contents/JDCHotPot/JDCHotPot_LOW.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/0e4553c16afde204b72241afe0d3b1c3.jdchotpot_low.webm?v=1601002199438",
+        "jmcs://jd-contents/JDCHotPot/JDCHotPot_HIGH.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/b543332f472fd1c5dad80c0968598c22.jdchotpot_high.webm?v=1601002489875",
+        "jmcs://jd-contents/JDCHotPot/JDCHotPot.ogg": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/jdchotpot_audio.ogg?v=1601470873712"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Xmas/Xmas_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/Xmas/Xmas_ULTRA.webm/ce9cb35d1aec2c8f6608afc2cc0a2b19.webm?auth=exp=16134267363600~acl=/private/map/Xmas/*~hmac=937269aa62071de43a5fbefd63b5d47838bb0de9b5406e1c471e45c475fb1751",
+        "jmcs://jd-contents/Xmas/Xmas_MID.webm": "https://jd-s3.akamaized.net/private/map/Xmas/Xmas_MID.webm/22054028353111babd9cb65d79b74245.webm?auth=exp=16134267363600~acl=/private/map/Xmas/*~hmac=937269aa62071de43a5fbefd63b5d47838bb0de9b5406e1c471e45c475fb1751",
+        "jmcs://jd-contents/Xmas/Xmas_LOW.webm": "https://jd-s3.akamaized.net/private/map/Xmas/Xmas_LOW.webm/4358734611c854bae30ff1e0f7f25b78.webm?auth=exp=16134267363600~acl=/private/map/Xmas/*~hmac=937269aa62071de43a5fbefd63b5d47838bb0de9b5406e1c471e45c475fb1751",
+        "jmcs://jd-contents/Xmas/Xmas_HIGH.webm": "https://jd-s3.akamaized.net/private/map/Xmas/Xmas_HIGH.webm/76e18077c65cfb5e9b477b2afcd47d67.webm?auth=exp=16134267363600~acl=/private/map/Xmas/*~hmac=937269aa62071de43a5fbefd63b5d47838bb0de9b5406e1c471e45c475fb1751",
+        "jmcs://jd-contents/Xmas/Xmas.ogg": "https://jd-s3.akamaized.net/private/map/Xmas/Xmas.ogg/7b2c2ba3013c814a66ee30e03a81bc5c.ogg?auth=exp=16134267363600~acl=/private/map/Xmas/*~hmac=937269aa62071de43a5fbefd63b5d47838bb0de9b5406e1c471e45c475fb1751"
+    }
+}

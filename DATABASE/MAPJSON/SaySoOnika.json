@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 564656,
+    "urls": {
+        "jmcs://jd-contents/SaySoOnika/SaySoOnika_ULTRA.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.SaySo_ULTRA.webm",
+        "jmcs://jd-contents/SaySoOnika/SaySoOnika_MID.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.SaySo_MID.webm",
+        "jmcs://jd-contents/SaySoOnika/SaySoOnika_LOW.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.SaySo_LOW.webm",
+        "jmcs://jd-contents/SaySoOnika/SaySoOnika_HIGH.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.SaySo_HIGH.webm",
+        "jmcs://jd-contents/SaySoOnika/SaySoOnika.ogg": "https://cdn.glitch.com/ed8fe7ab-e7c6-41bf-8b7a-64095d955724%2FSaySoOnika.ogg"
+    }
+}

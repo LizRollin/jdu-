@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Luftballons/Luftballons_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/Luftballons/Luftballons_ULTRA.webm/0ebd74ff4f552e46378e8aad54392af7.webm?auth=exp=16153172893600~acl=/private/map/Luftballons/*~hmac=4cb84f1f5984b44c736e6223d0e53cc6bcfcbb59a68ecaef02348409467e51a6",
+        "jmcs://jd-contents/Luftballons/Luftballons_MID.webm": "https://jd-s3.akamaized.net/private/map/Luftballons/Luftballons_MID.webm/7d80a90adaff1081ea36324ac24a180e.webm?auth=exp=16153172893600~acl=/private/map/Luftballons/*~hmac=4cb84f1f5984b44c736e6223d0e53cc6bcfcbb59a68ecaef02348409467e51a6",
+        "jmcs://jd-contents/Luftballons/Luftballons_LOW.webm": "https://jd-s3.akamaized.net/private/map/Luftballons/Luftballons_LOW.webm/da03944e68fa34cee595cc265463a64c.webm?auth=exp=16153172893600~acl=/private/map/Luftballons/*~hmac=4cb84f1f5984b44c736e6223d0e53cc6bcfcbb59a68ecaef02348409467e51a6",
+        "jmcs://jd-contents/Luftballons/Luftballons_HIGH.webm": "https://jd-s3.akamaized.net/private/map/Luftballons/Luftballons_HIGH.webm/a6647cbba8f5b3eae17b64dcaa58bc06.webm?auth=exp=16153172893600~acl=/private/map/Luftballons/*~hmac=4cb84f1f5984b44c736e6223d0e53cc6bcfcbb59a68ecaef02348409467e51a6",
+        "jmcs://jd-contents/Luftballons/Luftballons.ogg": "https://jd-s3.akamaized.net/private/map/Luftballons/Luftballons.ogg/d26b6d2bedda9c72ca307ad4c70f5911.ogg?auth=exp=16153172893600~acl=/private/map/Luftballons/*~hmac=4cb84f1f5984b44c736e6223d0e53cc6bcfcbb59a68ecaef02348409467e51a6"
+    }
+}
