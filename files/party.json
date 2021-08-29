@@ -740,18 +740,6 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JDCYouth"
-						}
-					],
-					"actionList": "partyMap"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "QueTirePaLante"
 						}
 					],
@@ -8385,7 +8373,7 @@
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance Wii U",
+			"title": "[icon:GEN_UNLIMITED] Just Dance Japan",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -8429,7 +8417,7 @@
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance Vitality School",
+			"title": "[icon:GEN_UNLIMITED] Just Dance China",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -8441,6 +8429,42 @@
 						{
 							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "JDC4Walls"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "JDCSoGood"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "JDCYouth"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "AllYouGottaCHN"
 						}
 					],
 					"actionList": "partyMap"
