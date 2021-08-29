@@ -8454,8 +8454,8 @@
 			"actions": [
 				{
 					"__class": "Action",
-					"bannerContext": "COOP",
-					"bannerTheme": "COOP",
+					"bannerContext": "family_coop",
+					"bannerTheme": "DEFAULT",
 					"bannerType": "song",
 					"title": "Dance",
 					"type": "play-song"
@@ -8468,8 +8468,8 @@
 			"actions": [
 				{
 					"__class": "Action",
-					"bannerContext": "COOP",
-					"bannerTheme": "COOP",
+					"bannerContext": "family_coop",
+					"bannerTheme": "DEFAULT",
 					"bannerType": "song",
 					"title": "This song will be available soon!",
 					"type": ""
