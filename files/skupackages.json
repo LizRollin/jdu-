@@ -1091,6 +1091,12 @@
 		"url": "https://jd-s3.akamaized.net/public/map/Balance/pc/Balance_MAIN_SCENE_PC.zip/bb0e16969737090f98e664d1538add16.zip",
 		"version": 4
 	},
+	"Stargate_mapContent": {
+        "md5": "d0b192cca7c7626f99acf8666cd46881",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FStargate_Main_Scene_PC.zip?v=1610526948807",
+        "version": 4
+    },
 	"BestSongEver_mapContent": {
 		"md5": "dbbbe9fd56bc2712e7e2d8b0a233176e",
 		"storageType": 0,
@@ -4558,6 +4564,12 @@
 		"storageType": 0,
 		"url": "https://jd-s3.akamaized.net/public/map/UnderTheSea/pc/UnderTheSea_MAIN_SCENE_PC.zip/0ad8a04d7a3897d7f0dde08bd83c6dce.zip",
 		"version": 4
+	},
+	"LevanPolkka_mapContent": {
+		"md5": "bfc94f87b242e24f694071e948260850",
+		"storageType": 0,
+		"url": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Flevanpolkka_main_scene_pc.zip",
+		"version": 1
 	},
 	"UptownFunkALT_mapContent": {
 		"md5": "d45b7b144a435d5f0198cc244f414b5f",
