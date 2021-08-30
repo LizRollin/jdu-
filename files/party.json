@@ -680,18 +680,6 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "LetsParty"
-						}
-					],
-					"actionList": "partyMap"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "EcoloKids"
 						}
 					],
@@ -8573,6 +8561,18 @@
 						{
 							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "JDCSoGood"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "LetsParty"
 						}
 					],
 					"actionList": "partyMap"
