@@ -8517,6 +8517,194 @@
 		},
 		{
 			"__class": "Category",
+			"title": "[icon:GEN_UNLIMITED] Just Dance Kids",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": [
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSPirateYouShallBe"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSABC"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSAccidentallyInLove"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSDayO"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSFiveLittleMonkeys"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSFraggleRock"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSHickoryDickoryDock"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSILikeToMoveIt"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSIfYoureHappy"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSJingleBells"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSMaryHadALittleLamb"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSTheLionSleepsTonight"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSWeGoWellTogether"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSWorkingOnTheRailroad"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KIDSWheelsOnTheBus"
+						}
+					],
+					"actionList": "partyMap"
+				}
+			]
+		},
+		{
+			"__class": "Category",
 			"title": "[icon:GEN_UNLIMITED] Just Dance Japan",
 			"act": "ui_carousel",
 			"isc": "grp_row",
