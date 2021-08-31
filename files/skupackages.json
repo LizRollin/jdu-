@@ -3257,6 +3257,18 @@
 		"url": "https://jd-s3.akamaized.net/public/map/MainGirlDLC/pc/MainGirlDLC_MAIN_SCENE_PC.zip/c1899b83b3937edeb0486dc875c0abb3.zip",
 		"version": 6
 	},
+	"MadLove_mapContent": {
+        "md5": "33ab930ec1041cedfcc5be6876dc82ab",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FMadLove_Main_Scene_PC.zip?v=1611238716501",
+        "version": 1
+    },
+	"MadLoveALT_mapContent": {
+        "md5": "981cc6e5eaeaef55c3d84c051e62c081",
+        "storageType": 0,
+        "url": "https://cdn.glitch.com/24313bb0-56f3-4ba1-afb9-4e55b29720a9%2FmadlovealtPC.zip?v=1616334549265",
+        "version": 1
+    },
 	"MakeMeFeel_mapContent": {
 		"md5": "13c4099bbbe58cbfe213b1b14108a043",
 		"storageType": 0,
