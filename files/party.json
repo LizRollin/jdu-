@@ -49,6 +49,13 @@
 		},
 		{
 			"__class": "Category",
+			"title": "[icon:FAVORITE] Favorites",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": []
+		},
+		{
+			"__class": "Category",
 			"title": "[icon:GEN_UNLIMITED] Recomended",
 			"act": "ui_carousel",
 			"isc": "grp_row",
@@ -9015,6 +9022,14 @@
 					"bannerType": "song",
 					"title": "Dance",
 					"type": "play-song"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "family_rival",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song",
+					"title": "Add to favorites",
+					"type": "set-favorite"
 				},
 				{
 					"__class": "Action",
