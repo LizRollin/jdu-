@@ -56,7 +56,7 @@
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Recomended",
+			"title": "Recomended",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -191,12 +191,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2021",
+			"title": "Just Dance 2021",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -1116,7 +1128,7 @@
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2020",
+			"title": "Just Dance 2020",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -2055,12 +2067,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2019",
+			"title": "Just Dance 2019",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -2987,12 +3011,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2018",
+			"title": "Just Dance 2018",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -3883,12 +3919,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2017",
+			"title": "Just Dance 2017",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -4731,12 +4779,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2016",
+			"title": "Just Dance 2016",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -5567,12 +5627,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2015",
+			"title": "Just Dance 2015",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -5995,12 +6067,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2014",
+			"title": "Just Dance 2014",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -6759,12 +6843,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 4",
+			"title": "Just Dance 4",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -7331,12 +7427,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 3",
+			"title": "Just Dance 3",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -7795,12 +7903,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 2",
+			"title": "Just Dance 2",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -8331,12 +8451,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance 1",
+			"title": "Just Dance 1",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -8519,12 +8651,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance Kids",
+			"title": "Just Dance Kids",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -8707,12 +8851,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] ABBA: You Can Dance",
+			"title": "ABBA: You Can Dance",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -8883,12 +9039,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance Japan",
+			"title": "Just Dance Japan",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -8927,12 +9095,24 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:GEN_UNLIMITED] Just Dance China",
+			"title": "Just Dance China",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -9007,6 +9187,18 @@
 						}
 					],
 					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_shuffle",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Shuffle"
+						}
+					],
+					"endPos": 3,
+					"actionList": "NonStop"
 				}
 			]
 		}
