@@ -9047,8 +9047,10 @@
 			"actions": [
 				{
 					"__class": "Action",
-					"bannerType": "SHUFFLE",
-					"title": "Dance!",
+					"bannerContext": "default",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "shuffle",
+					"title": "Dance",
 					"type": "start-rowPlaylist"
 				}
 			],
