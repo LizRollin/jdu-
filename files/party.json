@@ -79,7 +79,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JDCYouth"
+							"mapName": "RecommendedForYou"
 						}
 					],
 					"actionList": "partyMap"
