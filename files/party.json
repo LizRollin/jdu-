@@ -62,7 +62,7 @@
 			"items": [
 				{
 					"__class": "Item",
-					"isc": "grp_welcome",
+					"isc": "grp_avatar",
 					"act": "ui_component_base",
 					"components": [
 						{
