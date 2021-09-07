@@ -79,7 +79,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RecommendedForYou"
+							"mapName": "JDCYouth"
 						}
 					],
 					"actionList": "partyMap"
@@ -127,6 +127,18 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "ComeBackHome"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "TheWayIAreRetake"
 						}
 					],
@@ -151,7 +163,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Gibberish"
+							"mapName": "GirlsLike"
 						}
 					],
 					"actionList": "partyMap"
@@ -163,19 +175,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "NoControl"
-						}
-					],
-					"actionList": "partyMap"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TheGreatest"
+							"mapName": "StupidLove"
 						}
 					],
 					"actionList": "partyMap"
@@ -199,7 +199,43 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "WomanLikeMe"
+							"mapName": "USA"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Flash"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "DansVanDeFarao"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "KDance"
 						}
 					],
 					"actionList": "partyMap"
