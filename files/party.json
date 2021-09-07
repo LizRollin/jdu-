@@ -56,10 +56,22 @@
 		},
 		{
 			"__class": "Category",
-			"title": "Recomended",
+			"title": "Home",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
+				{
+					"__class": "Item",
+					"isc": "grp_welcome",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "WelcomeMessage"
+						}
+					],
+					"actionList": "welcomeMap"
+				},
 				{
 					"__class": "Item",
 					"isc": "grp_cover",
@@ -9244,6 +9256,20 @@
 					"bannerType": "shuffle",
 					"title": "Dance",
 					"type": "start-rowPlaylist"
+				}
+			],
+			"itemType": "map"
+		},
+		"welcomeMap": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "welcome",
+					"title": "This song will be available soon!",
+					"type": ""
 				}
 			],
 			"itemType": "map"
