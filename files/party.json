@@ -14499,7 +14499,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "CallingAll"
+							"mapName": "CallingALL"
 						}
 					],
 					"actionList": "partyMap"
