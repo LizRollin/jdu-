@@ -14503,7 +14503,7 @@
 						}
 					],
 					"actionList": "partyMap"
-				}{
+				},{
 					"__class": "Item",
 					"isc": "grp_cover",
 					"act": "ui_component_base",
