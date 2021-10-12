@@ -5992,6 +5992,26 @@
 		},
 		{
 			"__class": "Category",
+			"title": "Just Dance 2022",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": [
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Boombayah"
+						}
+					],
+					"actionList": "partyMap"
+				}
+			]
+		},
+		{
+			"__class": "Category",
 			"title": "Just Dance 2021",
 			"act": "ui_carousel",
 			"isc": "grp_row",

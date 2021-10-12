@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Boombayah/Boombayah_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_ULTRA.webm?v=1629167540954",
+		"jmcs://jd-contents/Boombayah/Boombayah_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_MID.webm?v=1629167530867",
+		"jmcs://jd-contents/Boombayah/Boombayah_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_LOW.webm?v=1629167518802",
+		"jmcs://jd-contents/Boombayah/Boombayah_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_ULTRA.webm?v=1629167540954",
+		"jmcs://jd-contents/Boombayah/Boombayah.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBoombayah.ogg?v=1629168053483"
+	}
+}
