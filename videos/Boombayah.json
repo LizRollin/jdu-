@@ -3,10 +3,10 @@
 	"duration" : 300,
 	"changelist" : 466919,
 	"urls" : {
-		"jmcs://jd-contents/Boombayah/Boombayah_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_ULTRA.webm?v=1629167540954",
-		"jmcs://jd-contents/Boombayah/Boombayah_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_MID.webm?v=1629167530867",
-		"jmcs://jd-contents/Boombayah/Boombayah_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_LOW.webm?v=1629167518802",
-		"jmcs://jd-contents/Boombayah/Boombayah_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fclean.Boombayah_ULTRA.webm?v=1629167540954",
-		"jmcs://jd-contents/Boombayah/Boombayah.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBoombayah.ogg?v=1629168053483"
+		"jmcs://jd-contents/Boombayah/Boombayah_ULTRA.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fclean.Boombayah_ULTRA.webm?v=1634079672325",
+		"jmcs://jd-contents/Boombayah/Boombayah_MID.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fclean.Boombayah_MID.webm?v=1634079521212",
+		"jmcs://jd-contents/Boombayah/Boombayah_LOW.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fclean.Boombayah_LOW.webm?v=1634079362688",
+		"jmcs://jd-contents/Boombayah/Boombayah_HIGH.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4%2Fclean.Boombayah_ULTRA.webm?v=1634079672325",
+		"jmcs://jd-contents/Boombayah/Boombayah.ogg" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FBoombayah.ogg?v=1634080825738"
 	}
 }
