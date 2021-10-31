@@ -3,7 +3,7 @@
 	"categories": [
 		{
 			"class": "Category",
-			"title": "Just Dance 2015 Pc",
+			"title": "Just Dance Bright",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -79,7 +79,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RockYourBody"
+							"mapName": "Levitating"
 						}
 					],
 					"actionList": "partyMap"
@@ -91,7 +91,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JDCYouth"
+							"mapName": "RockYourBody"
 						}
 					],
 					"actionList": "partyMap"
@@ -6003,7 +6003,19 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Boombayah"
+							"mapName": "Levitating"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "RockYourBody"
 						}
 					],
 					"actionList": "partyMap"
