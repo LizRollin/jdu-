@@ -3,7 +3,7 @@
 	"categories": [
 		{
 			"class": "Category",
-			"title": "Just Dance Bright",
+			"title": "Just Dance 2015",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -6004,6 +6004,18 @@
 						{
 							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "Levitating"
+						}
+					],
+					"actionList": "partyMap"
+				},
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "LoveStory"
 						}
 					],
 					"actionList": "partyMap"
