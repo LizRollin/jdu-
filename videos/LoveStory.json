@@ -3,10 +3,10 @@
 	"duration": 300,
 	"changelist": 564656,
 	"urls": {
-		"jmcs://jd-contents/LoveStory/LoveStory_ULTRA.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_ULTRA.webm?v=1639763891335",
-		"jmcs://jd-contents/LoveStory/LoveStory_MID.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_MID.webm?v=1639763502392",
-		"jmcs://jd-contents/LoveStory/LoveStory_LOW.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_LOW.webm?v=1639763417347",
-		"jmcs://jd-contents/LoveStory/LoveStory_HIGH.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_HIGH.webm?v=1639763618381",
-		"jmcs://jd-contents/LoveStory/LoveStory.ogg": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_AUDIO.ogg?v=1639763399621"
+		"jmcs://jd-contents/LoveStory/LoveStory_ULTRA.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_ULTRA.webm",
+		"jmcs://jd-contents/LoveStory/LoveStory_MID.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_MID.webm",
+		"jmcs://jd-contents/LoveStory/LoveStory_LOW.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_LOW.webm",
+		"jmcs://jd-contents/LoveStory/LoveStory_HIGH.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_HIGH.webm",
+		"jmcs://jd-contents/LoveStory/LoveStory.ogg": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LoveStory_AUDIO.ogg"
 	}
 }
