@@ -15095,7 +15095,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ThattGirl"
+							"mapName": "ThatGirl"
 						}
 					],
 					"actionList": "partyMap"
