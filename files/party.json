@@ -49,13 +49,6 @@
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:FAVORITE] Favorites",
-			"act": "ui_carousel",
-			"isc": "grp_row",
-			"items": []
-		},
-		{
-			"__class": "Category",
 			"title": "Home",
 			"act": "ui_carousel",
 			"isc": "grp_row",
@@ -15086,6 +15079,26 @@
 					],
 					"endPos": 3,
 					"actionList": "NonStop"
+				}
+			]
+		},
+		{
+			"__class": "Category",
+			"title": "Just Dance Betas",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": [
+				{
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "ThattGirl"
+						}
+					],
+					"actionList": "partyMap"
 				}
 			]
 		}
