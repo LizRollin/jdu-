@@ -55,42 +55,6 @@
 			"items": [
 				{
 					"__class": "Item",
-					"isc": "grp_avatar",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "WelcomeMessage"
-						}
-					],
-					"actionList": "welcomeMap"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Levitating"
-						}
-					],
-					"actionList": "partyMap"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RockYourBody"
-						}
-					],
-					"actionList": "partyMap"
-				},
-				{
-					"__class": "Item",
 					"isc": "grp_cover",
 					"act": "ui_component_base",
 					"components": [
@@ -99,7 +63,7 @@
 							"mapName": "JohnCena"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				},
 				{
 					"__class": "Item",
@@ -111,7 +75,7 @@
 							"mapName": "Intoxicated"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				},
 				{
 					"__class": "Item",
@@ -123,7 +87,7 @@
 							"mapName": "HeadAndHeart"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				},
 				{
 					"__class": "Item",
@@ -135,7 +99,7 @@
 							"mapName": "ComeBackHome"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				},
 				{
 					"__class": "Item",
@@ -147,7 +111,7 @@
 							"mapName": "TheWayIAreRetake"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				},
 				{
 					"__class": "Item",
@@ -159,7 +123,7 @@
 							"mapName": "Monster"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				},
 				{
 					"__class": "Item",
@@ -171,7 +135,7 @@
 							"mapName": "GirlsLike"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				},
 				{
 					"__class": "Item",
@@ -183,7 +147,7 @@
 							"mapName": "StupidLove"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "default_easy"
 				}
 			]
 		},
@@ -15160,16 +15124,16 @@
 			],
 			"itemType": "map"
 		},
-		"welcomeMap": {
+		"default_easy": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "DEFAULT",
-					"bannerType": "avatar",
-					"title": "This song will be available soon!",
-					"type": ""
+					"bannerTheme": "default_easy",
+					"bannerType": "song",
+					"title": "Dance",
+					"type": "play-song"
 				}
 			],
 			"itemType": "map"
