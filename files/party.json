@@ -3,7 +3,7 @@
 	"categories": [
 		{
 			"class": "Category",
-			"title": "Just Dance 2022 Local",
+			"title": "Just Dance 2022",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -14,7 +14,7 @@
 						"actionListName": "partyMap",
 						"actionListNameUpsell": "_None",
 						"includedTags": [
-							"Main"
+							"main"
 						],
 						"offline": true,
 						"order": "title",
