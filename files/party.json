@@ -2,48 +2,34 @@
 	"__class": "JD_CarouselContent",
 	"categories": [
 		{
-			"class": "Category",
+			"__class": "Category",
 			"title": "Just Dance 2022",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
 				{
-					"class": "Item",
-					"offlineRequest": {
-						"__class": "JD_CarouselMapRequest",
-						"actionListName": "partyMap",
-						"actionListNameUpsell": "_None",
-						"includedTags": [
-							"main"
-						],
-						"offline": true,
-						"order": "title",
-						"JDVersion": 2017,
-						"uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
-					}
-				}
-			]
-		},
-		{
-			"class": "Category",
-			"title": "Alternates",
-			"act": "ui_carousel",
-			"isc": "grp_row",
-			"items": [
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "BossWitch"
+						}
+					],
+					"actionList": "medium"
+				},
 				{
-					"class": "Item",
-					"offlineRequest": {
-						"__class": "JD_CarouselMapRequest",
-						"actionListName": "partyMap",
-						"actionListNameUpsell": "_None",
-						"includedTags": [
-							"ALTERNATE"
-						],
-						"offline": true,
-						"order": "title",
-						"JDVersion": 2017,
-						"uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
-					}
+					"__class": "Item",
+					"isc": "grp_cover",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Siargo"
+						}
+					],
+					"actionList": "medium"
 				}
 			]
 		},
@@ -229,13 +215,55 @@
 			],
 			"itemType": "map"
 		},
-		"default_easy": {
+		"easy": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
 					"bannerTheme": "default_easy",
+					"bannerType": "song",
+					"title": "[icon:GEN-VALIDATE] Dance",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"medium": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_medium",
+					"bannerType": "song",
+					"title": "[icon:GEN-VALIDATE] Dance",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"hard": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_hard",
+					"bannerType": "song",
+					"title": "[icon:GEN-VALIDATE] Dance",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"extreme": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_extreme",
 					"bannerType": "song",
 					"title": "[icon:GEN-VALIDATE] Dance",
 					"type": "play-song"
