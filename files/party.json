@@ -3,7 +3,7 @@
 	"categories": [
 		{
 			"__class": "Category",
-			"title": "Just Dance 2022",
+			"title": "[icon:SONGS] Just Dance 2022",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
