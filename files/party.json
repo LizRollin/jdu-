@@ -737,7 +737,7 @@
 				},
 				{
 					"__class": "Item",
-					"isc": "article_default",
+					"isc": "grp_search",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -745,60 +745,32 @@
 							"mapName": "StupidLove"
 						}
 					],
-					"actionList": "article_default"
-				},
-				{
-					"__class": "Item",
-					"isc": "article_tip",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StupidLove"
-						}
-					],
-					"actionList": "article_default"
-				},
-				{
-					"__class": "Item",
-					"isc": "article_wdf",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StupidLove"
-						}
-					],
-					"actionList": "article_default"
-				},
-				{
-					"__class": "Item",
-					"isc": "article_jdu",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StupidLove"
-						}
-					],
-					"actionList": "article_imageonly"
-				},
-				{
-					"__class": "Item",
-					"isc": "article_discord",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StupidLove"
-						}
-					],
-					"actionList": "article_qrcode"
+					"actionList": "search"
 				}
 			]
 		}
 	],
 	"actionLists": {
+		"search": {
+			"__class": "ActionList",
+			"actions": [
+			  {
+				"__class": "Action",
+				"bannerType": "search",
+				"title": "New search",
+				"type": "open-keyboard"
+			  },
+			  {
+				"__class": "Action",
+				"bannerContext": "default",
+				"bannerTheme": "default",
+				"bannerType": "search",
+				"title": "Previous search",
+				"type": "previous-search"
+			  }
+			],
+			"itemType": "search"
+		},
 		"partyMap": {
 			"__class": "ActionList",
 			"actions": [
