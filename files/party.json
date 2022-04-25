@@ -3,7 +3,7 @@
 	"categories": [
 		{
 			"__class": "Category",
-			"title": "[icon:SONGS] Just Dance 2022",
+			"title": "[icon:SONGS]  Just Dance 2022",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -635,10 +635,22 @@
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:HOME] Home",
+			"title": "[icon:SONGS]  test-unlimited-s3",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Positions"
+						}
+					],
+					"actionList": "hard"
+				},
 				{
 					"__class": "Item",
 					"isc": "map_unlimited",
@@ -734,18 +746,6 @@
 						}
 					],
 					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_search",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StupidLove"
-						}
-					],
-					"actionList": "search"
 				}
 			]
 		}

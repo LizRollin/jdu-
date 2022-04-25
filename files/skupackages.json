@@ -5428,5 +5428,11 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2Fjdc4walls_main_scene_pc.zip?v=1629164076248",
 		"version": 1
+	},
+	"Positions_mapContent": {
+		"md5": "99f3e16ae1c924236c67ae9aae58b40a",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/fa44a54b-6e5b-46de-8760-0c98cdbe8b35/positions_main_scene_pc.zip",
+		"version": 1
 	}
 }
