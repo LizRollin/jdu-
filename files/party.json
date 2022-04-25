@@ -635,13 +635,13 @@
 		},
 		{
 			"__class": "Category",
-			"title": "Home",
+			"title": "[icon:HOME] Home",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -649,11 +649,11 @@
 							"mapName": "JohnCena"
 						}
 					],
-					"actionList": "default_easy"
+					"actionList": "hard"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -661,11 +661,11 @@
 							"mapName": "Intoxicated"
 						}
 					],
-					"actionList": "default_easy"
+					"actionList": "medium"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -673,11 +673,11 @@
 							"mapName": "HeadAndHeart"
 						}
 					],
-					"actionList": "default_easy"
+					"actionList": "easy"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -685,11 +685,11 @@
 							"mapName": "ComeBackHome"
 						}
 					],
-					"actionList": "default_easy"
+					"actionList": "hard"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -697,11 +697,11 @@
 							"mapName": "TheWayIAreRetake"
 						}
 					],
-					"actionList": "default_easy"
+					"actionList": "medium"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -709,11 +709,11 @@
 							"mapName": "Monster"
 						}
 					],
-					"actionList": "default_easy"
+					"actionList": "hard"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -721,11 +721,11 @@
 							"mapName": "GirlsLike"
 						}
 					],
-					"actionList": "default_easy"
+					"actionList": "medium"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_unlimited",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -733,39 +733,67 @@
 							"mapName": "StupidLove"
 						}
 					],
-					"actionList": "default_easy"
-				}
-			]
-		},
-		{
-			"__class": "Category",
-			"title": "Just Dance Betas",
-			"act": "ui_carousel",
-			"isc": "grp_row",
-			"items": [
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SweetEscape"
-						}
-					],
-					"actionList": "partyMap"
+					"actionList": "hard"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "article_default",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ThatGirl"
+							"mapName": "StupidLove"
 						}
 					],
-					"actionList": "partyMap"
+					"actionList": "article_default"
+				},
+				{
+					"__class": "Item",
+					"isc": "article_tip",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "StupidLove"
+						}
+					],
+					"actionList": "article_default"
+				},
+				{
+					"__class": "Item",
+					"isc": "article_wdf",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "StupidLove"
+						}
+					],
+					"actionList": "article_default"
+				},
+				{
+					"__class": "Item",
+					"isc": "article_jdu",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "StupidLove"
+						}
+					],
+					"actionList": "article_imageonly"
+				},
+				{
+					"__class": "Item",
+					"isc": "article_discord",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "StupidLove"
+						}
+					],
+					"actionList": "article_qrcode"
 				}
 			]
 		}
@@ -801,16 +829,44 @@
 			],
 			"itemType": "leaderboard"
 		},
-		"NonStop": {
+		"article_default": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "DEFAULT",
-					"bannerType": "shuffle",
+					"bannerTheme": "article_default",
+					"bannerType": "song",
 					"title": "Dance",
 					"type": "start-rowPlaylist"
+				}
+			],
+			"itemType": "map"
+		},
+		"article_imageonly": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "article_imageonly",
+					"bannerType": "song",
+					"title": "Dance",
+					"type": ""
+				}
+			],
+			"itemType": "map"
+		},
+		"article_qrcode": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "article_qrcode",
+					"bannerType": "song",
+					"title": "Dance",
+					"type": ""
 				}
 			],
 			"itemType": "map"
