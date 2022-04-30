@@ -682,6 +682,30 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Positions"
+						}
+					],
+					"actionList": "hard"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Princess"
+						}
+					],
+					"actionList": "medium"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
 							"mapName": "Langkawi"
 						}
 					],
@@ -694,7 +718,19 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FlyingStepVIP"
+							"mapName": "ALaFolie"
+						}
+					],
+					"actionList": "medium"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Koi"
 						}
 					],
 					"actionList": "hard"
@@ -718,7 +754,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Koi"
+							"mapName": "FlyingStepVIP"
 						}
 					],
 					"actionList": "hard"
