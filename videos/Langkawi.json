@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Langkawi/Langkawi_ULTRA.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/Langkawi_ULTRA.webm",
+		"jmcs://jd-contents/Langkawi/Langkawi_MID.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/Langkawi_MID.webm",
+		"jmcs://jd-contents/Langkawi/Langkawi_LOW.webm" : "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/Langkawi_LOW.webm",
+		"jmcs://jd-contents/Langkawi/Langkawi_HIGH.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/Langkawi_HIGH.webm",
+		"jmcs://jd-contents/Langkawi/Langkawi.ogg" : "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/Langkawi_AUDIO.ogg"
+	}
+}

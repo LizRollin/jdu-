@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 466919,
+  "urls": {
+    "jmcs://jd-contents/LevelUpVIP/LevelUpVIP_ULTRA.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LevelUpVIP_ULTRA.webm",
+    "jmcs://jd-contents/LevelUpVIP/LevelUpVIP_HIGH.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LevelUpVIP_HIGH.webm",
+    "jmcs://jd-contents/LevelUpVIP/LevelUpVIP_MID.webm": "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/LevelUpVIP_MID.webm",
+    "jmcs://jd-contents/LevelUpVIP/LevelUpVIP_LOW.webm": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/LevelUpVIP_LOW.webm",
+    "jmcs://jd-contents/LevelUpVIP/LevelUpVIP.ogg": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/LevelUpVIP_AUDIO.ogg"
+  }
+}

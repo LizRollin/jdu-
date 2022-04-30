@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/FollowTheWhiteRabbit/FollowTheWhiteRabbit_ULTRA.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/FollowTheWhiteRabbit_ULTRA.webm",
+		"jmcs://jd-contents/FollowTheWhiteRabbit/FollowTheWhiteRabbit_MID.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/FollowTheWhiteRabbit_MID.webm",
+		"jmcs://jd-contents/FollowTheWhiteRabbit/FollowTheWhiteRabbit_LOW.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/FollowTheWhiteRabbit_LOW.webm",
+		"jmcs://jd-contents/FollowTheWhiteRabbit/FollowTheWhiteRabbit_HIGH.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/FollowTheWhiteRabbit_HIGH.webm",
+		"jmcs://jd-contents/FollowTheWhiteRabbit/FollowTheWhiteRabbit.ogg" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/FollowTheWhiteRabbit_AUDIO.ogg"
+	}
+}

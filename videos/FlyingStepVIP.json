@@ -1,0 +1,12 @@
+{
+	"__class": "ContentAuthorizationEntry",
+	"duration": 300,
+	"changelist": 564656,
+	"urls": {
+		"jmcs://jd-contents/FlyingStepVIP/FlyingStepVIP_ULTRA.webm": "https://cdn.glitch.me/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFlyingStepVIP_ULTRA.webm",
+		"jmcs://jd-contents/FlyingStepVIP/FlyingStepVIP_MID.webm": "https://cdn.glitch.me/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFlyingStepVIP_MID.webm",
+		"jmcs://jd-contents/FlyingStepVIP/FlyingStepVIP_LOW.webm": "https://cdn.glitch.me/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFlyingStepVIP_LOW.webm",
+		"jmcs://jd-contents/FlyingStepVIP/FlyingStepVIP_HIGH.webm": "https://cdn.glitch.me/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFlyingStepVIP_HIGH.webm",
+		"jmcs://jd-contents/FlyingStepVIP/FlyingStepVIP.ogg": "https://cdn.glitch.me/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FFlyingStepVIP.ogg"
+	}
+}

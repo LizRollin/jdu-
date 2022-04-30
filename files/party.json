@@ -635,7 +635,7 @@
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:SONGS]  test-unlimited-s3",
+			"title": "[icon:SONGS]  New Songs",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
@@ -646,31 +646,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Positions"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JohnCena"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Intoxicated"
+							"mapName": "FollowTheWhiteRabbit"
 						}
 					],
 					"actionList": "medium"
@@ -682,31 +658,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "HeadAndHeart"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ComeBackHome"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TheWayIAreRetake"
+							"mapName": "KissMeMore"
 						}
 					],
 					"actionList": "medium"
@@ -718,19 +670,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Monster"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "GirlsLike"
+							"mapName": "MONTERO"
 						}
 					],
 					"actionList": "medium"
@@ -742,7 +682,43 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StupidLove"
+							"mapName": "Langkawi"
+						}
+					],
+					"actionList": "medium"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "FlyingStepVIP"
+						}
+					],
+					"actionList": "hard"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "LevelUpVIP"
+						}
+					],
+					"actionList": "medium"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Koi"
 						}
 					],
 					"actionList": "hard"
