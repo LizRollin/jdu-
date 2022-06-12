@@ -5442,9 +5442,9 @@
 		"version": 1
 	},
 	"Womanizer_mapContent": {
-		"md5": "9248be879a5c83758b9074a2ab60c459",
+		"md5": "6a1d6513f7a3ddb6689a9b4d39ffbaee",
 		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/Womanizer/pc/Womanizer_MAIN_SCENE_PC.zip/9248be879a5c83758b9074a2ab60c459.zip",
+		"url": "https://cdn.glitch.global/8720c57c-cdfe-4421-899a-7b90c697a521/womanizer_main_scene_pc.zip",
 		"version": 1
 	}
 }
