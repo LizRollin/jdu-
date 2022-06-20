@@ -706,19 +706,11 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Zenit"
+							"mapName": "KissMeMore"
 						}
 					],
-					"actionList": "easy"
-				}
-			]
-		},
-		{
-			"__class": "Category",
-			"title": "[icon:SONGS]  test s3 server",
-			"act": "ui_carousel",
-			"isc": "grp_row",
-			"items": [
+					"actionList": "medium"
+				},
 				{
 					"__class": "Item",
 					"isc": "map_unlimited",
@@ -726,7 +718,19 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Womanizer"
+							"mapName": "BadRomanceALT"
+						}
+					],
+					"actionList": "extreme"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Louie"
 						}
 					],
 					"actionList": "easy"
@@ -738,7 +742,7 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ComeOn"
+							"mapName": "MONTERO"
 						}
 					],
 					"actionList": "medium"

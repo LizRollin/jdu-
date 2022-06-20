@@ -5470,6 +5470,24 @@
 		"storageType": 0,
 		"url": "https://jd-s3.akamaized.net/public/map/KissMeMore/pc/KissMeMore_MAIN_SCENE_PC.zip/fd896588f6b015a4d079aa172d0ec31e.zip",
 		"version": 5
+	},
+	"BadRomanceALT_mapContent": {
+		"md5": "b95f4775d58bae05fb071cf217de9088",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/BadRomanceALT/pc/BadRomanceALT_MAIN_SCENE_PC.zip/b95f4775d58bae05fb071cf217de9088.zip",
+		"version": 1
+	},
+	"Louie_mapContent": {
+		"md5": "c51aabfbd577fc7137fc1751d6a0e855",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/louie_main_scene_pc.zip",
+		"version": 1
+	},
+	"MONTERO_mapContent": {
+		"md5": "8cde12b041eed22d30505f0d2819f336",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/montero_main_scene_pc.zip",
+		"version": 1
 	}
 	
 }
