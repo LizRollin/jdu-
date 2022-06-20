@@ -5458,5 +5458,11 @@
 		"storageType": 0,
 		"url": "https://jd-s3.akamaized.net/public/map/ILoveIt/pc/ILoveIt_MAIN_SCENE_PC.zip/f5557984412171570c2ea75ce987e9e7.zip",
 		"version": 1
+	},
+	"ComeOn_mapContent": {
+		"md5": "be964e27f2ed61b231a6ac6ac0fd5c9f",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/fa44a54b-6e5b-46de-8760-0c98cdbe8b35/comeon_main_scene_pc.zip",
+		"version": 1
 	}
 }
