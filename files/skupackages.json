@@ -5464,5 +5464,12 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/fa44a54b-6e5b-46de-8760-0c98cdbe8b35/comeon_main_scene_pc.zip",
 		"version": 1
+	},
+	"KissMeMore_mapContent": {
+		"md5": "fd896588f6b015a4d079aa172d0ec31e",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/KissMeMore/pc/KissMeMore_MAIN_SCENE_PC.zip/fd896588f6b015a4d079aa172d0ec31e.zip",
+		"version": 5
 	}
+	
 }
