@@ -715,6 +715,50 @@
 		},
 		{
 			"__class": "Category",
+			"title": "[icon:SONGS]  test s3 server",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": [
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Womanizer"
+						}
+					],
+					"actionList": "easy"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "ComeOn"
+						}
+					],
+					"actionList": "medium"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Zenit"
+						}
+					],
+					"actionList": "easy"
+				}
+			]
+		},
+		{
+			"__class": "Category",
 			"title": "[icon:SONGS]  Just Dance China",
 			"act": "ui_carousel",
 			"isc": "grp_row",
