@@ -120,7 +120,7 @@ app.post("/subscription/v1/refresh", (req, res) => {
 });
 });
 
-app.post("/carousel/v2/pages/party", (req, res) => {
+app.get("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
 });
 
