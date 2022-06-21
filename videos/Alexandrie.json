@@ -3,10 +3,10 @@
   "duration": 300,
   "changelist": 509807,
   "urls": {
-    "jmcs://jd-contents/Alexandrie/Alexandrie_ULTRA.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/Alexandrie_ULTRA.webm",
-    "jmcs://jd-contents/Alexandrie/Alexandrie_HIGH.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/Alexandrie_HIGH.webm",
-    "jmcs://jd-contents/Alexandrie/Alexandrie_MID.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/Alexandrie_MID.webm",
-    "jmcs://jd-contents/Alexandrie/Alexandrie_LOW.webm": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/Alexandrie_LOW.webm",
-    "jmcs://jd-contents/Alexandrie/Alexandrie.ogg": "https://cdn.glitch.com/63a28f3c-b9a0-4ff8-b65d-801a18189d48/Alexandrie.ogg"
+    "jmcs://jd-contents/Alexandrie/Alexandrie_ULTRA.webm": "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Alexandrie_ULTRA.webm",
+    "jmcs://jd-contents/Alexandrie/Alexandrie_HIGH.webm": "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Alexandrie_HIGH.webm",
+    "jmcs://jd-contents/Alexandrie/Alexandrie_MID.webm": "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Alexandrie_MID.webm",
+    "jmcs://jd-contents/Alexandrie/Alexandrie_LOW.webm": "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Alexandrie_LOW.webm",
+    "jmcs://jd-contents/Alexandrie/Alexandrie.ogg": "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Alexandrie_AUDIO.ogg"
   }
 }

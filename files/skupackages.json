@@ -4943,10 +4943,10 @@
 		"url": "https://ubistatic-a.akamaihd.net/0050/6ed1eec6-eb9e-42c5-8e09-bc6353b92351/pc/kids3_PC.zip",
 		"version": 1
 	},
-	"TheWayIAreRetake_mapContent": {
-		"md5": "32583e4727e1079d7f159e658d5dd9a7",
+	"TheWayIAre_mapContent": {
+		"md5": "dd2401607c00fb52af9b3d652dd9ecd1",
 		"storageType": 0,
-		"url": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTheWayIAreRetake_Main_Scene_PC.zip?v=1619107780297",
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/thewayiare_main_scene_pc.zip",
 		"version": 1
 	},
 	"GirlsLike_mapContent": {
@@ -5488,6 +5488,96 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/montero_main_scene_pc.zip",
 		"version": 1
+	},
+	"Koi_mapContent": {
+		"md5": "775ecf4a66945e763241bab79159ed0c",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/Koi/pc/Koi_MAIN_SCENE_PC.zip/775ecf4a66945e763241bab79159ed0c.zip",
+		"version": 10
+	},
+	"LevelUpVIP_mapContent": {
+		"md5": "8015e049a3005f0f3e4ff5d64b6cc599",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/LevelUpVIP/pc/LevelUpVIP_MAIN_SCENE_PC.zip/8015e049a3005f0f3e4ff5d64b6cc599.zip",
+		"version": 16
+	},
+	"FlyingStepVIP_mapContent": {
+		"md5": "30b933206a1acae183af263dae77bfc6",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/FlyingStepVIP/pc/FlyingStepVIP_MAIN_SCENE_PC.zip/30b933206a1acae183af263dae77bfc6.zip",
+		"version": 5
+	},
+	"ALaFolie_mapContent": {
+		"md5": "0722be2c6ae5b7c6a9bc268ce24665e1",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/ALaFolie/pc/ALaFolie_MAIN_SCENE_PC.zip/0722be2c6ae5b7c6a9bc268ce24665e1.zip",
+		"version": 23
+	},
+	"Langkawi_mapContent": {
+		"md5": "67598d050021481f699115c359ac296f",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/Langkawi/pc/Langkawi_MAIN_SCENE_PC.zip/67598d050021481f699115c359ac296f.zip",
+		"version": 6
+	},
+	"Princess_mapContent": {
+		"md5": "e46b971ff8532a089c3d9081647888a7",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/Princess/pc/Princess_MAIN_SCENE_PC.zip/e46b971ff8532a089c3d9081647888a7.zip",
+		"version": 7
+	},
+	"MoodALT_mapContent": {
+		"md5": "3978f93dd654f40e302840b79862ec94",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/MoodALT/pc/MoodALT_MAIN_SCENE_PC.zip/3978f93dd654f40e302840b79862ec94.zip",
+		"version": 3
+	},
+	"Jump_mapContent": {
+		"md5": "7838b7c4393084ac18e70c92918d503d",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/jump_main_scene_pc.zip",
+		"version": 7
+	},
+	"KissYou_mapContent": {
+		"md5": "b8790fb4c14853283ca209b79df2f03d",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/kissyou_main_scene_pc.zip",
+		"version": 3
+	},
+	"AllTheStars_mapContent": {
+		"md5": "d7c5f11276e224c1df5d0404817b3d29",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/allthestars_main_scene_pc.zip",
+		"version": 6
+	},
+	"OnTheFloor_mapContent": {
+		"md5": "5e56a87510f531bd6dc9bf8009afa643",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/onthefloor_main_scene_pc.zip",
+		"version": 10
+	},
+	"WhenIGrowUp_mapContent": {
+		"md5": "cc8ac5292ea8f5778fb7f097d6acbbe4",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/WhenIGrowUp/pc/WhenIGrowUp_MAIN_SCENE_PC.zip/cc8ac5292ea8f5778fb7f097d6acbbe4.zip",
+		"version": 13
+	},
+	"PumpIt_mapContent": {
+		"md5": "81eaa63a3c8930c3cdaff14c97d15a64",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/PumpIt/pc/PumpIt_MAIN_SCENE_PC.zip/81eaa63a3c8930c3cdaff14c97d15a64.zip",
+		"version": 58
+	},
+	"ComeBackHome_mapContent": {
+		"md5": "675c649e804e9ba98c4523cd7459f0e8",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/comebackhome_main_scene_pc.zip",
+		"version": 23
+	},
+	"CalypsoFAN_mapContent": {
+		"md5": "23b5f2393cb78e9fa97cd97f6e968fac",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/calypsofan_main_scene_pc.zip",
+		"version": 10
 	}
 	
 }
