@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/GokurakuJodo/GokurakuJodo_ULTRA.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/GokurakuJodo_ULTRA.webm",
+		"jmcs://jd-contents/GokurakuJodo/GokurakuJodo_MID.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/GokurakuJodo_MID.webm",
+		"jmcs://jd-contents/GokurakuJodo/GokurakuJodo_LOW.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/GokurakuJodo_LOW.webm",
+		"jmcs://jd-contents/GokurakuJodo/GokurakuJodo_HIGH.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/GokurakuJodo_HIGH.webm",
+		"jmcs://jd-contents/GokurakuJodo/GokurakuJodo.ogg" : "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/GokurakuJodo_AUDIO.ogg"
+	}
+}

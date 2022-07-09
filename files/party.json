@@ -2056,7 +2056,19 @@
 							"mapName": "GokurakuJodo"
 						}
 					],
-					"actionList": "wip_extreme"
+					"actionList": "extreme"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_unlimited",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "UglyBeautyALT"
+						}
+					],
+					"actionList": "hard"
 				}
 			]
 		}
