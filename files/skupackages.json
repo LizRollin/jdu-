@@ -5596,6 +5596,12 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/daisy_main_scene_pc.zip",
 		"version": 6
+	},
+	"Dance_mapContent": {
+		"md5": "ad532e17d8ffe5a7f8b731512b821b74",
+		"storageType": 0,
+		"url": "https://jd-s3.akamaized.net/public/map/Dance/pc/Dance_MAIN_SCENE_PC.zip/ad532e17d8ffe5a7f8b731512b821b74.zip",
+		"version": 10
 	}
 	
 }
