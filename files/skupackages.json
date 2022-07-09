@@ -5590,6 +5590,12 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/malibu_main_scene_pc.zip",
 		"version": 2
+	},
+	"Daisy_mapContent": {
+		"md5": "2a0f763cd4bdb79b0a6620ba95de0997",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/daisy_main_scene_pc.zip",
+		"version": 6
 	}
 	
 }
