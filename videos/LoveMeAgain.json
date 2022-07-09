@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/LoveMeAgain/LoveMeAgain_ULTRA.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/LoveMeAgain_ULTRA.webm",
+		"jmcs://jd-contents/LoveMeAgain/LoveMeAgain_MID.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/LoveMeAgain_MID.webm",
+		"jmcs://jd-contents/LoveMeAgain/LoveMeAgain_LOW.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/LoveMeAgain_LOW.webm",
+		"jmcs://jd-contents/LoveMeAgain/LoveMeAgain_HIGH.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/LoveMeAgain_HIGH.webm",
+		"jmcs://jd-contents/LoveMeAgain/LoveMeAgain.ogg" : "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/LoveMeAgain_AUDIO.ogg"
+	}
+}
