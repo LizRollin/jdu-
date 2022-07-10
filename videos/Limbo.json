@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Limbo/Limbo_ULTRA.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Limbo_ULTRA.webm",
+		"jmcs://jd-contents/Limbo/Limbo_MID.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Limbo_MID.webm",
+		"jmcs://jd-contents/Limbo/Limbo_LOW.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Limbo_LOW.webm",
+		"jmcs://jd-contents/Limbo/Limbo_HIGH.webm" : "https://cdn.glitch.me/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Limbo_ULTRA.webm",
+		"jmcs://jd-contents/Limbo/Limbo.ogg" : "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/Limbo_AUDIO.ogg"
+	}
+}
