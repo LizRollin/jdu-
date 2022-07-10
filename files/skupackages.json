@@ -5632,6 +5632,12 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/limbo_main_scene_pc.zip",
 		"version": 15
+	},
+	"JinGoLoBa_mapContent": {
+		"md5": "25d7bf997452ac4f0da120dbafa077e4",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/jingoloba_main_scene_pc.zip",
+		"version": 2
 	}
 	
 }
