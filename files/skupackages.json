@@ -5620,6 +5620,12 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/uglybeautyalt_main_scene_pc.zip",
 		"version": 1
+	},
+	"Alfonso_mapContent": {
+		"md5": "e1ec58c40aed6faa8ce33480a27d99b9",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/alfonso_main_scene_pc.zip",
+		"version": 9
 	}
 	
 }
