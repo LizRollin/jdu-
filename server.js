@@ -11,7 +11,6 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
 const prodwsurl = "https://jmcs-prod.just-dance.com"
-const room = "MainJD2021"
 const sessions = require("./files/sessions.json");
 const entities = require("./files/entities.json");
 const entitiesphone = require("./files/entities-phone.json");
@@ -223,49 +222,6 @@ app.get("/songdb/v1/songs", function(request, response) {
   }
 });
 
-app.get("/wdf/v1/rooms/" + room + "/*", (req, res) => {
-  var ticket = req.header("Authorization")
-  var xhr = new XMLHttpRequest();
-  var n = req.url.lastIndexOf('/');
-  var result = req.url.substr(0)
-  xhr.open('GET', prodwsurl + result, false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send();
-  res.send(xhr.responseText);
-});
-
-app.get("/wdf/v1/server-time", (req, res) => {
-  var ticket = req.header("Authorization")
-  var xhr = new XMLHttpRequest();
-  var n = req.url.lastIndexOf('/');
-  var result = req.url.substr(0)
-  xhr.open('GET', prodwsurl + result, false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send();
-  res.send(xhr.responseText);
-});
-
-app.get("/wdf/v1/online-bosses", (req, res) => {
-  res.send(bosses);
-});
-
-app.post("/wdf/v1/rooms/" + room + "/*", (req, res) => {
-  var ticket = req.header("Authorization")
-  var xhr = new XMLHttpRequest();
-  var n = req.url.lastIndexOf('/');
-  var result = req.url.substr(0)
-  xhr.open('POST', prodwsurl + result, false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send(JSON.stringify(req.body, null, 2));
-  res.send(xhr.responseText);
-});
-
 app.get("/leaderboard/v1/maps/*", (req, res) => {
   var ticket = req.header("Authorization")
   var contentlen = req.header("Content-Length")
@@ -317,18 +273,6 @@ app.get('/v3/users/*', (req, res) => {
 	"phone": null,
 	"accountType": "Ubisoft"
 });
-});
-
-app.delete("/wdf/v1/rooms/" + room + "/session", (req, res) => {
-  var ticket = req.header("Authorization")
-  var contentlen = req.header("Content-Length")
-  var xhr = new XMLHttpRequest();
-  xhr.open('DELETE', 'https://jmcs-prod.just-dance.com/wdf/v1/rooms/' + room + '/session', false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send();
-  res.send(xhr.responseText);
 });
 
 app.get('/content-authorization/v1/maps/*', (req, res) => {
