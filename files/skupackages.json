@@ -5620,5 +5620,17 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/uglybeautyalt_main_scene_pc.zip",
 		"version": 1
+	},
+	"BreakMyHeart_mapContent": {
+		"md5": "4f9503b1d0469d0c68977e1bc7aaee38",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/breakmyheart_main_scene_pc.zip",
+		"version": 5
+	},
+	"CantHoldDLC_mapContent": {
+		"md5": "578460d7cf15014185c34b3883a84a6e",
+		"storageType": 0,
+		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/cantholddlc_main_scene_pc.zip",
+		"version": 4
 	}
 }
