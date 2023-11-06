@@ -21,9 +21,12 @@ var blocks = require("./files/blocks.json");
 var mine = require("./files/mine.json");
 var skupackages = require("./files/skupackages.json");
 var profiles = require("./files/profiles.json");
-var quests = require("./files/quests.json");
 var songs = require("./files/songs.json");
 var news = require("./files/news.json");
+var sweat = require("./files/sweat.json");
+var onlinequest = require("./files/onlinequest.json");
+var playlist = require("./files/playlist.json");
+var coop = require("./files/coop.json");
 var bosses = require("./files/bosses.json");
 
 app.use(function(req, res, next) {
@@ -32,13 +35,11 @@ app.use(function(req, res, next) {
   next();
 });
 
+
 app.post("/carousel/v2/pages/partycoop", (req, res) => {
   res.send(coop);
 });
 
-app.post("/carousel/v2/pages/quests", (req, res) => {
-  res.send(onlinequest);
-});
 
 app.post("/carousel/v2/pages/create-playlist", (req, res) => {
   res.send(playlist);
@@ -132,6 +133,7 @@ app.get("/packages/v1/sku-packages", (req, res) => {
   res.send(skupackages);
 });
 
+
 app.get("/profile/v2/profiles", (req, res) => {
   var profileid = req.url.split('=').pop()
   var ticket = req.header("Authorization")
@@ -152,10 +154,6 @@ app.post("/profile/v2/profiles", (req, res) => {
   xhr.setRequestHeader('Content-Type', 'application/json');
   xhr.send(JSON.stringify(req.body, null, 2));
   res.send(xhr.responseText);
-});
-
-app.get("/questdb/v1/quests", (req, res) => {
-  res.send(quests);
 });
 
 app.get("/songdb/v1/songs", (req, res) => {
