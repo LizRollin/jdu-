@@ -28,7 +28,7 @@ const users = require("./files/users.json");
 
 // party
 
-app.get("/carousel/v2/pages/songs", (req, res) => {
+app.get("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
 });
 
