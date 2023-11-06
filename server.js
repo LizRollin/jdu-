@@ -18,16 +18,11 @@ const skuconstants = require("./files/skuconstants.json");
 const skupackages = require("./files/skupackages.json");
 const songs = require("./files/songs.json");
 const sweat = require("./files/sweat.json");
-const playlist = require("./files/playlist.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
   next();
-});
-
-app.post("/carousel/v2/pages/create-playlist", (req, res) => {
-  res.send(playlist);
 });
 
 app.post("/carousel/v2/pages/sweat", (req, res) => {
