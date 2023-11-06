@@ -4943,10 +4943,10 @@
 		"url": "https://ubistatic-a.akamaihd.net/0050/6ed1eec6-eb9e-42c5-8e09-bc6353b92351/pc/kids3_PC.zip",
 		"version": 1
 	},
-	"TheWayIAre_mapContent": {
-		"md5": "dd2401607c00fb52af9b3d652dd9ecd1",
+	"TheWayIAreRetake_mapContent": {
+		"md5": "32583e4727e1079d7f159e658d5dd9a7",
 		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/thewayiare_main_scene_pc.zip",
+		"url": "https://cdn.glitch.com/038fa3ae-8a76-4f32-bfa2-022c3ef3edb0%2FTheWayIAreRetake_Main_Scene_PC.zip?v=1619107780297",
 		"version": 1
 	},
 	"GirlsLike_mapContent": {
@@ -5459,178 +5459,10 @@
 		"url": "https://jd-s3.akamaized.net/public/map/ILoveIt/pc/ILoveIt_MAIN_SCENE_PC.zip/f5557984412171570c2ea75ce987e9e7.zip",
 		"version": 1
 	},
-	"ComeOn_mapContent": {
-		"md5": "be964e27f2ed61b231a6ac6ac0fd5c9f",
+  "DESPECHA_mapContent": {
+		"md5": "d24063a297486fd5d2c54a64ee065c27",
 		"storageType": 0,
-		"url": "https://cdn.glitch.global/fa44a54b-6e5b-46de-8760-0c98cdbe8b35/comeon_main_scene_pc.zip",
-		"version": 1
-	},
-	"KissMeMore_mapContent": {
-		"md5": "fd896588f6b015a4d079aa172d0ec31e",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/KissMeMore/pc/KissMeMore_MAIN_SCENE_PC.zip/fd896588f6b015a4d079aa172d0ec31e.zip",
-		"version": 5
-	},
-	"BadRomanceALT_mapContent": {
-		"md5": "b95f4775d58bae05fb071cf217de9088",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/BadRomanceALT/pc/BadRomanceALT_MAIN_SCENE_PC.zip/b95f4775d58bae05fb071cf217de9088.zip",
-		"version": 1
-	},
-	"Louie_mapContent": {
-		"md5": "c51aabfbd577fc7137fc1751d6a0e855",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/louie_main_scene_pc.zip",
-		"version": 1
-	},
-	"MONTERO_mapContent": {
-		"md5": "8cde12b041eed22d30505f0d2819f336",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/montero_main_scene_pc.zip",
-		"version": 1
-	},
-	"Koi_mapContent": {
-		"md5": "775ecf4a66945e763241bab79159ed0c",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/Koi/pc/Koi_MAIN_SCENE_PC.zip/775ecf4a66945e763241bab79159ed0c.zip",
+		"url": "https://cdn.glitch.global/9c6c1b61-3363-4b5f-9a48-31ad77e45b20/d24063a297486fd5d2c54a64ee065c27.zip",
 		"version": 10
-	},
-	"LevelUpVIP_mapContent": {
-		"md5": "8015e049a3005f0f3e4ff5d64b6cc599",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/LevelUpVIP/pc/LevelUpVIP_MAIN_SCENE_PC.zip/8015e049a3005f0f3e4ff5d64b6cc599.zip",
-		"version": 16
-	},
-	"FlyingStepVIP_mapContent": {
-		"md5": "30b933206a1acae183af263dae77bfc6",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/FlyingStepVIP/pc/FlyingStepVIP_MAIN_SCENE_PC.zip/30b933206a1acae183af263dae77bfc6.zip",
-		"version": 5
-	},
-	"ALaFolie_mapContent": {
-		"md5": "0722be2c6ae5b7c6a9bc268ce24665e1",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/ALaFolie/pc/ALaFolie_MAIN_SCENE_PC.zip/0722be2c6ae5b7c6a9bc268ce24665e1.zip",
-		"version": 23
-	},
-	"Langkawi_mapContent": {
-		"md5": "67598d050021481f699115c359ac296f",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/Langkawi/pc/Langkawi_MAIN_SCENE_PC.zip/67598d050021481f699115c359ac296f.zip",
-		"version": 6
-	},
-	"Princess_mapContent": {
-		"md5": "e46b971ff8532a089c3d9081647888a7",
-		"storageType": 0,
-		"url": "https://jd-s3.akamaized.net/public/map/Princess/pc/Princess_MAIN_SCENE_PC.zip/e46b971ff8532a089c3d9081647888a7.zip",
-		"version": 7
-	},
-	"MoodALT_mapContent": {
-		"md5": "7b3c2503689aa89ca54d86659dd412af",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/moodalt_main_scene_pc.zip",
-		"version": 3
-	},
-	"Jump_mapContent": {
-		"md5": "39be5fc77c4523c66d1c1ff4bcc1ee9c",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/jump_main_scene_pc.zip",
-		"version": 7
-	},
-	"KissYou_mapContent": {
-		"md5": "a7b03e4a5c98e1ce6e3b715fb9511790",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/kissyou_main_scene_pc.zip",
-		"version": 3
-	},
-	"AllTheStars_mapContent": {
-		"md5": "9083fedc48ed9904622732aa6be5cf6e",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/allthestars_main_scene_pc.zip",
-		"version": 6
-	},
-	"OnTheFloor_mapContent": {
-		"md5": "c04334cf3af1f634597d7977d2ace0b0",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/onthefloor_main_scene_pc.zip",
-		"version": 10
-	},
-	"WhenIGrowUp_mapContent": {
-		"md5": "43f39eac263da020f0f3361abc2882e7",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/whenigrowup_main_scene_pc.zip",
-		"version": 13
-	},
-	"PumpIt_mapContent": {
-		"md5": "40c9af20257e6d5aa7d4a8b3d3b58f55",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/pumpit_main_scene_pc.zip",
-		"version": 58
-	},
-	"ComeBackHome_mapContent": {
-		"md5": "675c649e804e9ba98c4523cd7459f0e8",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/comebackhome_main_scene_pc.zip",
-		"version": 23
-	},
-	"CalypsoFAN_mapContent": {
-		"md5": "23b5f2393cb78e9fa97cd97f6e968fac",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/calypsofan_main_scene_pc.zip",
-		"version": 10
-	},
-	"Pon_mapContent": {
-		"md5": "1171b3b72084bd0c158e48826defdfee",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/pon_main_scene_pc_v4.zip",
-		"version": 2
-	},
-	"Malibu_mapContent": {
-		"md5": "ed46bb6ccf77111bb0ab353a0c90b500",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/malibu_main_scene_pc.zip",
-		"version": 2
-	},
-	"Daisy_mapContent": {
-		"md5": "2a0f763cd4bdb79b0a6620ba95de0997",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/daisy_main_scene_pc.zip",
-		"version": 6
-	},
-	"Dance_mapContent": {
-		"md5": "4e82b310022b3748f40e19b428f14b43",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/dance_main_scene_pc.zip",
-		"version": 10
-	},
-	"LoveMeAgain_mapContent": {
-		"md5": "88958c6f9a4c3c3bb8656fcf6d60ed25",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/lovemeagain_main_scene_pc.zip",
-		"version": 4
-	},
-	"GokurakuJodo_mapContent": {
-		"md5": "6d24e1bb987666b0e548bbea1c2e51da",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/gokurakujodo_main_scene_pc.zip",
-		"version": 12
-	},
-	"UglyBeautyALT_mapContent": {
-		"md5": "3fbb0b052f44b1b6291e215a73097901",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/c2d0adf2-a302-446a-bd2d-11855a4f08a2/uglybeautyalt_main_scene_pc.zip",
-		"version": 1
-	},
-	"BreakMyHeart_mapContent": {
-		"md5": "4f9503b1d0469d0c68977e1bc7aaee38",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/breakmyheart_main_scene_pc.zip",
-		"version": 5
-	},
-	"CantHoldDLC_mapContent": {
-		"md5": "578460d7cf15014185c34b3883a84a6e",
-		"storageType": 0,
-		"url": "https://cdn.glitch.global/83d93f9b-c51b-4770-86ea-278f457fb7a4/cantholddlc_main_scene_pc.zip",
-		"version": 4
 	}
 }

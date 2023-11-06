@@ -3,1588 +3,153 @@
 	"categories": [
 		{
 			"__class": "Category",
-			"title": "[icon:SONGS]  Just Dance 2022",
+			"title": "Just Dance 2024 Edition",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Baiana"
+							"mapName": "Versailles"
 						}
 					],
-					"actionList": "easy"
+					"actionList": "default_m_1e_2c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Believer"
+							"mapName": "AQueda"
 						}
 					],
-					"actionList": "medium"
+					"actionList": "default_m_2e_1c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BlackMam"
+							"mapName": "AfterParty"
 						}
 					],
-					"actionList": "extreme"
+					"actionList": "default_m_2e_1c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_extreme",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BlackMamALT"
+							"mapName": "Butter"
 						}
 					],
-					"actionList": "medium"
+					"actionList": "default_ex_2e_4c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_easy",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Boombayah"
+							"mapName": "CalmDown"
 						}
 					],
-					"actionList": "extreme"
+					"actionList": "default_e_1e_2c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_hard",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BoombayahALT"
+							"mapName": "CantTameHer"
 						}
 					],
-					"actionList": "medium"
+					"actionList": "default_h_2e_1c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BossWitch"
+							"mapName": "CannedHeat"
 						}
 					],
-					"actionList": "medium"
+					"actionList": "default_m_3e_1c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BuildAB"
+							"mapName": "ChaiseLongue"
 						}
 					],
-					"actionList": "easy"
+					"actionList": "default_m_2e_2c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_hard",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Buttons"
+							"mapName": "Cradles"
 						}
 					],
-					"actionList": "medium"
+					"actionList": "default_h_2e_1c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ButtonsALT"
+							"mapName": "CureForMe"
 						}
 					],
-					"actionList": "medium"
+					"actionList": "default_m_2e_1c"
 				},
 				{
 					"__class": "Item",
-					"isc": "grp_cover",
+					"isc": "map_default_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Chacarron"
+							"mapName": "DESPECHA"
 						}
 					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Chandelier"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ChandelierALT"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "China"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ChinaALT"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "DontGoYet"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FlashPose"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FreedFromDesire"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Funk"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "GirlLikeMe"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "GirlLikeMeALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Good4U"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "HappierThanEver"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Human"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ImOuttaLove"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Jerusalema"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Jopping"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JoppingALT"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Judas"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TGIF"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "LevelUp"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Levitating"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "LevitatingALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "LoveStory"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Mood"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "MrBlueSky"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Reebok"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "NailsHips"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "NailsHipsJD"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "PopStars"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Siargo"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RockYourBody"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "WhoRun"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "WhoRunALTRETAKE"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SaveYourTears"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SmalltownBoy"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StopDropAndRoll"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SuaCara"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SuaCaraALT"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ThinkAboutThings"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "YouCanDance"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "grp_cover",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "MightyReal"
-						}
-					],
-					"actionList": "medium"
-				}
-			]
-		},
-		{	"__class": "Category",
-			"title": "[icon:SONGS]  Just Dance 2021",
-			"act": "ui_carousel",
-			"isc": "grp_row",
-			"items": [
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "AdoreYou"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Alexandrie"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "AllTheGoodGirls"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "AllTheStars"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Bailando1997"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BlindingLights"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BlindingLightsALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BoyYouCan"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Buscando"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BuscandoALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "CalypsoFAN"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ComeBackHome"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "DanceMonkey"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BalletKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "DansVanDeFarao"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "DibbyDibby"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "DontStart"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "DontStartALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "KDance"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FeelSpecial"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FeelSpecialALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Flash"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "CarpetKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Georgia"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "GetGetDown"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FiremenKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "GirlsLike"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "HeadAndHeart"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "HeatSeeker"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SpyKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Sorbet"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "InTheNavy"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Intoxicated"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JohnCena"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Joone"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Juice"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JuiceALT"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JuiceVIP"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "KickIt"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "KickItALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Kuliki"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Lacrimosa"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "EcoloKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Magenta"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Monster"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "PacaDance"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "QueTirePaLante"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RainOnMe"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RainbowRhythm"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Rare"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RareALT"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BadAssPrincessKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Runaway"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SambaDeJaneiro"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SambaDeJaneiroALT"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "SaySo"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Senorita"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ChasmonauteKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "StupidLove"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Temperature"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TemperatureALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BubblesKids"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "OtherSideSZA"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TheWayIAre"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TheWeekend"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TillTheWorldEnds"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TillTheWorldEndsALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Tusa"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "USA"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Uno"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Volar"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "WithoutMe"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "WithoutMeALTRETAKE"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "HabibiYaeni"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "HabibiYaeniALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "YoLeLlego"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FriendInMe"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Zenit"
-						}
-					],
-					"actionList": "easy"
+					"actionList": "default_e_1e_1c"
 				}
 			]
 		},
 		{
 			"__class": "Category",
-			"title": "[icon:SONGS]  Just Dance Unlimited",
+			"title": "Just Dance Plus",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
 				{
 					"__class": "Item",
-					"isc": "map_unlimited",
+					"isc": "map_plus_medium",
 					"act": "ui_component_base",
 					"components": [
 						{
@@ -1592,507 +157,7 @@
 							"mapName": "BadHabits"
 						}
 					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Alfonso"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Limbo"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JinGoLoBa"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Malibu"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Daisy"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Dance"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "LoveMeAgain"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Womanizer"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Pon"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FollowTheWhiteRabbit"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ILoveIt"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ComeOn"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "KissMeMore"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BadRomanceALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Louie"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "MONTERO"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Koi"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "LevelUpVIP"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "FlyingStepVIP"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ALaFolie"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Langkawi"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Princess"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "MoodALT"
-						}
-					],
-					"actionList": "extreme"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Jump"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "KissYou"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "AllTheStars"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "OnTheFloor"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "RainbowRhythm"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "WhenIGrowUp"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "HeadAndHeart"
-						}
-					],
-					"actionList": "easy"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Intoxicated"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "JohnCena"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BestSongEver"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Problem"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "Monster"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "BlackWidow"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TheWayIAre"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "PumpIt"
-						}
-					],
-					"actionList": "medium"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "ComeBackHome"
-						}
-					],
-					"actionList": "hard"
-				},
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "TheFox"
-						}
-					],
-					"actionList": "medium"
-				}
-			]
-		},
-		{
-			"__class": "Category",
-			"title": "[icon:SONGS]  Just Dance China",
-			"act": "ui_carousel",
-			"isc": "grp_row",
-			"items": [
-				{
-					"__class": "Item",
-					"isc": "map_unlimited",
-					"act": "ui_component_base",
-					"components": [
-						{
-							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "GokurakuJodo"
-						}
-					],
-					"actionList": "extreme"
+					"actionList": "plus_e_1e_1c"
 				},
 				{
 					"__class": "Item",
@@ -2104,7 +169,7 @@
 							"mapName": "UglyBeautyALT"
 						}
 					],
-					"actionList": "hard"
+					"actionList": "wip_hard"
 				}
 			]
 		}
@@ -2113,20 +178,20 @@
 		"search": {
 			"__class": "ActionList",
 			"actions": [
-			  {
-				"__class": "Action",
-				"bannerType": "search",
-				"title": "New search",
-				"type": "open-keyboard"
-			  },
-			  {
-				"__class": "Action",
-				"bannerContext": "default",
-				"bannerTheme": "default",
-				"bannerType": "search",
-				"title": "Previous search",
-				"type": "previous-search"
-			  }
+				{
+					"__class": "Action",
+					"bannerType": "search",
+					"title": "New search",
+					"type": "open-keyboard"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default",
+					"bannerType": "search",
+					"title": "Previous search",
+					"type": "previous-search"
+				}
 			],
 			"itemType": "search"
 		},
@@ -2202,57 +267,1345 @@
 			],
 			"itemType": "map"
 		},
-		"easy": {
+		"default_e_1e_1c": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "default_easy",
+					"bannerTheme": "default_e_1e_1c",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
+					"title": "",
 					"type": "play-song"
 				}
 			],
 			"itemType": "map"
 		},
-		"medium": {
+		"default_e_1e_2c": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "default_medium",
+					"bannerTheme": "default_e_1e_2c",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
+					"title": "",
 					"type": "play-song"
 				}
 			],
 			"itemType": "map"
 		},
-		"hard": {
+		"default_e_1e_3c": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "default_hard",
+					"bannerTheme": "default_e_1e_3c",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
+					"title": "",
 					"type": "play-song"
 				}
 			],
 			"itemType": "map"
 		},
-		"extreme": {
+		"default_e_1e_4c": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "default_extreme",
+					"bannerTheme": "default_e_1e_4c",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_4c",
+					"bannerType": "song",
+					"title": "",
 					"type": "play-song"
 				}
 			],
