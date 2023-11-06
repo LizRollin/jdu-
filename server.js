@@ -11,7 +11,6 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
 var prodwsurl = "https://jmcs-prod.just-dance.com"
-var room = "MainJD2021"
 var sessions = require("./files/sessions.json");
 var entities = require("./files/entities.json");
 var entitiesphone = require("./files/entities-phone.json");
@@ -193,12 +192,6 @@ app.get("/status/v1/ping", (req, res) => {
 
 app.post("/subscription/v1/refresh", (req, res) => {
   res.send([]);
-});
-
-app.post("/wdf/v1/assign-room", (req, res) => {
-  res.send({
-	"room": room
-});
 });
 
 
