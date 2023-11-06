@@ -11,6 +11,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
 var prodwsurl = "https://jmcs-prod.just-dance.com"
+var room = "MainJD2021"
 var sessions = require("./files/sessions.json");
 var entities = require("./files/entities.json");
 var entitiesphone = require("./files/entities-phone.json");
@@ -31,7 +32,6 @@ var onlinequest = require("./files/onlinequest.json");
 var playlist = require("./files/playlist.json");
 var coop = require("./files/coop.json");
 var bosses = require("./files/bosses.json");
-
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
