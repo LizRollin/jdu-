@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/AboutThatBassALT/AboutThatBassALT_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBassALT/AboutThatBassALT_ULTRA.webm/95ca27d8320abe4ed7726ac5bf3ea574.webm?auth=exp=16169662653600~acl=/private/map/AboutThatBassALT/*~hmac=6e1e313994ed453f335147103d8af8248f5ed5fc9ba7edb87dd502c415572b8b",
+        "jmcs://jd-contents/AboutThatBassALT/AboutThatBassALT_MID.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBassALT/AboutThatBassALT_MID.webm/4d113633e7fed37a1d7cfde7c7f06634.webm?auth=exp=16169662653600~acl=/private/map/AboutThatBassALT/*~hmac=6e1e313994ed453f335147103d8af8248f5ed5fc9ba7edb87dd502c415572b8b",
+        "jmcs://jd-contents/AboutThatBassALT/AboutThatBassALT_LOW.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBassALT/AboutThatBassALT_LOW.webm/1c3785110a75db795578ad7befe606b1.webm?auth=exp=16169662653600~acl=/private/map/AboutThatBassALT/*~hmac=6e1e313994ed453f335147103d8af8248f5ed5fc9ba7edb87dd502c415572b8b",
+        "jmcs://jd-contents/AboutThatBassALT/AboutThatBassALT_HIGH.webm": "https://jd-s3.akamaized.net/private/map/AboutThatBassALT/AboutThatBassALT_HIGH.webm/88680f83294c1fb84dbbd4beb87045fb.webm?auth=exp=16169662653600~acl=/private/map/AboutThatBassALT/*~hmac=6e1e313994ed453f335147103d8af8248f5ed5fc9ba7edb87dd502c415572b8b",
+        "jmcs://jd-contents/AboutThatBassALT/AboutThatBassALT.ogg": "https://jd-s3.akamaized.net/private/map/AboutThatBassALT/AboutThatBassALT.ogg/e39b7c9583af29f9ad8835f4254575ba.ogg?auth=exp=16169662653600~acl=/private/map/AboutThatBassALT/*~hmac=6e1e313994ed453f335147103d8af8248f5ed5fc9ba7edb87dd502c415572b8b"
+    }
+}

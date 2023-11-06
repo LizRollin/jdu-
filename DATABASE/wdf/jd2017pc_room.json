@@ -1,0 +1,74 @@
+{
+	"__class": "ScreenList",
+	"screens": [{
+		"__class": "Screen",
+		"type": "in-game",
+		"startTime": 161264556,
+		"endTime": 161264556,
+		"theme": "vote",
+		"mapName": "LittleSwing",
+		"schedule": {
+			"type": "probability",
+			"theme": "MapVote",
+			"occurance": {
+				"next": 161264556,
+				"prev": null
+			}
+		}
+	}, {
+		"__class": "Screen",
+		"type": "waiting-screen",
+		"startTime": 1565572358.6425061,
+		"endTime": 1565572378.6425061,
+		"theme": "vote",
+		"mapName": "HowDeep",
+		"waitingScreenInfo": {
+			"__class": "WaitingScreenInfo",
+			"getRecapTime": 1565572371.6425061
+		},
+		"schedule": {
+			"type": "probability",
+			"theme": "MapVote",
+			"occurance": {
+				"next": 1565572084150.506,
+				"prev": null
+			}
+		}
+	}, {
+		"__class": "Screen",
+		"type": "vote-recap",
+		"startTime": 1565572378.6425061,
+		"endTime": 1565572398.6425061,
+		"theme": "vote",
+		"mapName": "HowDeep",
+		"schedule": {
+			"type": "probability",
+			"theme": "MapVote",
+			"occurance": {
+				"next": 1565572084150.506,
+				"prev": null
+			}
+		}
+	}, {
+		"__class": "Screen",
+		"type": "vote",
+		"startTime": 1565572398.6425061,
+		"endTime": 1565572450.6425061,
+		"theme": "vote",
+		"voteInfo": {
+			"__class": "VoteScreenInfo",
+			"voteOptions": ["Moskau", "NoLimit"],
+			"voteStartTime": 1565572398.6425061,
+			"voteEndTime": 1565572420.6425061,
+			"voteResultFetchTime": 1565572430.6425061
+		},
+		"schedule": {
+			"type": "probability",
+			"theme": "MapVote",
+			"occurance": {
+				"next": 1565572398642.506,
+				"prev": null
+			}
+		}
+	}]
+}

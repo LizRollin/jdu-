@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_high.webm?v=1609949362395",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_high.webm?v=1609949362395",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_mid.webm?v=1609949323304",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_mid.webm?v=1609949323304",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_low.webm?v=1609949282401",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_low.webm?v=1609949282401",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_high.webm?v=1609949362395",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper_high.webm?v=1609949362395",
+        "jmcs://jd-contents/ABBASuperTrooper/ABBASuperTrooper.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBASuperTrooper.ogg?v=1609949272849"
+    }
+}

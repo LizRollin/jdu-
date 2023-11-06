@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/CosmicGirl/CosmicGirl_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/CosmicGirl/CosmicGirl_ULTRA.webm/9e74b97b9f94395cded6e2c21d9d5263.webm?auth=exp=16136574053600~acl=/private/map/CosmicGirl/*~hmac=81adba352b380d66577ba45e3d1c46bb6f0ed5dba9a6b44f6722c6298046c868",
+        "jmcs://jd-contents/CosmicGirl/CosmicGirl_MID.webm": "https://jd-s3.akamaized.net/private/map/CosmicGirl/CosmicGirl_MID.webm/c0e3ff3be7b99168520d0c09dbaf16c3.webm?auth=exp=16136574053600~acl=/private/map/CosmicGirl/*~hmac=81adba352b380d66577ba45e3d1c46bb6f0ed5dba9a6b44f6722c6298046c868",
+        "jmcs://jd-contents/CosmicGirl/CosmicGirl_LOW.webm": "https://jd-s3.akamaized.net/private/map/CosmicGirl/CosmicGirl_LOW.webm/053386a4ddac4c596aa5c738b8951e4b.webm?auth=exp=16136574053600~acl=/private/map/CosmicGirl/*~hmac=81adba352b380d66577ba45e3d1c46bb6f0ed5dba9a6b44f6722c6298046c868",
+        "jmcs://jd-contents/CosmicGirl/CosmicGirl_HIGH.webm": "https://jd-s3.akamaized.net/private/map/CosmicGirl/CosmicGirl_HIGH.webm/1f19e086418436c8b9dad4ce86c67a94.webm?auth=exp=16136574053600~acl=/private/map/CosmicGirl/*~hmac=81adba352b380d66577ba45e3d1c46bb6f0ed5dba9a6b44f6722c6298046c868",
+        "jmcs://jd-contents/CosmicGirl/CosmicGirl.ogg": "https://jd-s3.akamaized.net/private/map/CosmicGirl/CosmicGirl.ogg/b950c5c4936072b48c3c81bf63fa8e43.ogg?auth=exp=16136574053600~acl=/private/map/CosmicGirl/*~hmac=81adba352b380d66577ba45e3d1c46bb6f0ed5dba9a6b44f6722c6298046c868"
+    }
+}

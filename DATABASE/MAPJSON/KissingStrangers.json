@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KissingStrangers/KissingStrangers_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKissingStrangers_high.webm?v=1612046343826",
+        "jmcs://jd-contents/KissingStrangers/KissingStrangers_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKissingStranger_mid.webm?v=1612046266848",
+        "jmcs://jd-contents/KissingStrangers/KissingStrangers_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKissingStrangers_low.webm?v=1612046212590",
+        "jmcs://jd-contents/KissingStrangers/KissingStrangers_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKissingStrangers_high.webm?v=1612046343826",
+        "jmcs://jd-contents/KissingStrangers/KissingStrangers.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKissingStrangers.ogg?v=1612046205317"
+    }
+}

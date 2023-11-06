@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/ThatPowerOSCDLC/ThatPowerOSCDLC_ULTRA.webm/820ddef23eb8f43f09e580d8ea52a8f9.webm?auth=exp=16144119883600~acl=/private/map/ThatPowerOSCDLC/*~hmac=855dae82e48756fed1ac050e976f7208dedc993f4366eb330ce32e1367b890cb",
+        "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_MID.webm": "https://jd-s3.akamaized.net/private/map/ThatPowerOSCDLC/ThatPowerOSCDLC_MID.webm/564184843528018f534eb68c0d4b1f31.webm?auth=exp=16144119883600~acl=/private/map/ThatPowerOSCDLC/*~hmac=855dae82e48756fed1ac050e976f7208dedc993f4366eb330ce32e1367b890cb",
+        "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_LOW.webm": "https://jd-s3.akamaized.net/private/map/ThatPowerOSCDLC/ThatPowerOSCDLC_LOW.webm/f8bac3c3e71b6057174774eed62136ff.webm?auth=exp=16144119883600~acl=/private/map/ThatPowerOSCDLC/*~hmac=855dae82e48756fed1ac050e976f7208dedc993f4366eb330ce32e1367b890cb",
+        "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC_HIGH.webm": "https://jd-s3.akamaized.net/private/map/ThatPowerOSCDLC/ThatPowerOSCDLC_HIGH.webm/61fab7b3c32ebc064dde173a84e3b398.webm?auth=exp=16144119883600~acl=/private/map/ThatPowerOSCDLC/*~hmac=855dae82e48756fed1ac050e976f7208dedc993f4366eb330ce32e1367b890cb",
+        "jmcs://jd-contents/ThatPowerOSCDLC/ThatPowerOSCDLC.ogg": "https://jd-s3.akamaized.net/private/map/ThatPowerOSCDLC/ThatPowerOSCDLC.ogg/ea39719657cdd874c41772330fbf0767.ogg?auth=exp=16144119883600~acl=/private/map/ThatPowerOSCDLC/*~hmac=855dae82e48756fed1ac050e976f7208dedc993f4366eb330ce32e1367b890cb"
+    }
+}

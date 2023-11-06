@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/LevanPolkka/LevanPolkka_ULTRA.webm" : "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2Fclean.levanpolkka_ULTRA.webm?v=1615951641319",
+		"jmcs://jd-contents/LevanPolkka/LevanPolkka_MID.webm" : "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2Fclean.levanpolkka_MID.webm?v=1615951549339",
+		"jmcs://jd-contents/LevanPolkka/LevanPolkka_LOW.webm" : "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2Fclean.levanpolkka_LOW.webm?v=1615951386552",
+		"jmcs://jd-contents/LevanPolkka/LevanPolkka_HIGH.webm" : "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2Fclean.levanpolkka_ULTRA.webm?v=1615951641319",
+		"jmcs://jd-contents/LevanPolkka/LevanPolkka.ogg" : "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2Flevanpolkka.ogg?v=1615951897693"
+	}
+}

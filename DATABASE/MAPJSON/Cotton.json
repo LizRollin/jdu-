@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Cotton/Cotton_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/Cotton/Cotton_ULTRA.webm/3adbcaddb59dccae52a99f344aa4c631.webm?auth=exp=16167919383600~acl=/private/map/Cotton/*~hmac=f8d75c6e50f8ef908de9692a64af3eb091441ab1e88d797b37209629a373ad73",
+        "jmcs://jd-contents/Cotton/Cotton_MID.webm": "https://jd-s3.akamaized.net/private/map/Cotton/Cotton_MID.webm/0c661dfeacab9a067780f2d15e768e9f.webm?auth=exp=16167919383600~acl=/private/map/Cotton/*~hmac=f8d75c6e50f8ef908de9692a64af3eb091441ab1e88d797b37209629a373ad73",
+        "jmcs://jd-contents/Cotton/Cotton_LOW.webm": "https://jd-s3.akamaized.net/private/map/Cotton/Cotton_LOW.webm/a91186871a6f49193b35c94d2162cdf9.webm?auth=exp=16167919383600~acl=/private/map/Cotton/*~hmac=f8d75c6e50f8ef908de9692a64af3eb091441ab1e88d797b37209629a373ad73",
+        "jmcs://jd-contents/Cotton/Cotton_HIGH.webm": "https://jd-s3.akamaized.net/private/map/Cotton/Cotton_HIGH.webm/fe0a5675a06556adaa877cb179383d49.webm?auth=exp=16167919383600~acl=/private/map/Cotton/*~hmac=f8d75c6e50f8ef908de9692a64af3eb091441ab1e88d797b37209629a373ad73",
+        "jmcs://jd-contents/Cotton/Cotton.ogg": "https://jd-s3.akamaized.net/private/map/Cotton/Cotton.ogg/0d3ab12293d163aa406102e0a92ac936.ogg?auth=exp=16167919383600~acl=/private/map/Cotton/*~hmac=f8d75c6e50f8ef908de9692a64af3eb091441ab1e88d797b37209629a373ad73"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Sirtaki/Sirtaki_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/Sirtaki/Sirtaki_ULTRA.webm/8a87ae4b1551d42c4fdebc10c0354490.webm?auth=exp=16146156053600~acl=/private/map/Sirtaki/*~hmac=42caee7f650d34d6413e690e63bc7506b2cd11a926f20334d05dc85e9c1246f2",
+        "jmcs://jd-contents/Sirtaki/Sirtaki_MID.webm": "https://jd-s3.akamaized.net/private/map/Sirtaki/Sirtaki_MID.webm/286fa6a0a6e9b6f302f879d4d6e6f01b.webm?auth=exp=16146156053600~acl=/private/map/Sirtaki/*~hmac=42caee7f650d34d6413e690e63bc7506b2cd11a926f20334d05dc85e9c1246f2",
+        "jmcs://jd-contents/Sirtaki/Sirtaki_LOW.webm": "https://jd-s3.akamaized.net/private/map/Sirtaki/Sirtaki_LOW.webm/e4028394754b53c7411e3a77b2471c1c.webm?auth=exp=16146156053600~acl=/private/map/Sirtaki/*~hmac=42caee7f650d34d6413e690e63bc7506b2cd11a926f20334d05dc85e9c1246f2",
+        "jmcs://jd-contents/Sirtaki/Sirtaki_HIGH.webm": "https://jd-s3.akamaized.net/private/map/Sirtaki/Sirtaki_HIGH.webm/92c63562b938dbde88aa4894df1ec8b6.webm?auth=exp=16146156053600~acl=/private/map/Sirtaki/*~hmac=42caee7f650d34d6413e690e63bc7506b2cd11a926f20334d05dc85e9c1246f2",
+        "jmcs://jd-contents/Sirtaki/Sirtaki.ogg": "https://jd-s3.akamaized.net/private/map/Sirtaki/Sirtaki.ogg/5ef2c7f062d4388784d7d5f97c91144a.ogg?auth=exp=16146156053600~acl=/private/map/Sirtaki/*~hmac=42caee7f650d34d6413e690e63bc7506b2cd11a926f20334d05dc85e9c1246f2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/UptownFunkCMU/UptownFunkCMU_ULTRA.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2Fclean.UptownFunkCMU_ULTRA.webm?v=1613670235956",
+		"jmcs://jd-contents/UptownFunkCMU/UptownFunkCMU_MID.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2Fclean.UptownFunkCMU_MID.webm?v=1613670184284",
+		"jmcs://jd-contents/UptownFunkCMU/UptownFunkCMU_LOW.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2Fclean.UptownFunkCMU_LOW.webm?v=1613670130280",
+		"jmcs://jd-contents/UptownFunkCMU/UptownFunkCMU_HIGH.webm" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2Fclean.UptownFunkCMU_ULTRA.webm?v=1613670235956",
+		"jmcs://jd-contents/UptownFunkCMU/UptownFunkCMU.ogg" : "https://cdn.glitch.com/363023d0-90ae-4a33-a4cd-cebdccb8b5f2%2Fe7f9e11084b59c8741c8db1131c0e67a.ogg?v=1613670116519"
+	}
+}

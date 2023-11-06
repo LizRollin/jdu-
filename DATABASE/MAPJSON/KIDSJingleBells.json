@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_high.webm?v=1609890614532",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_high.webm?v=1609890614532",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_mid.webm?v=1609890593569",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_mid.webm?v=1609890593569",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_low.webm?v=1609890551433",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_low.webm?v=1609890551433",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_high.webm?v=1609890614532",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells_high.webm?v=1609890614532",
+        "jmcs://jd-contents/KIDSJingleBells/KIDSJingleBells.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSJingleBells.ogg?v=1609890541043"
+    }
+}

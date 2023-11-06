@@ -1,0 +1,540 @@
+{
+  "__class": "JD_CarouselContent",
+  "categories": [
+    {
+      "__class": "Category",
+      "title": "Just Dance Epic",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Epic"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2021",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["main_21"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2020",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_20"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2019",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_19"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2018",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_18"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2017",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2016",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_16"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2015",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_15"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2014",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_14"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 4",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_4"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 3",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_3"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 2",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main_2"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance 1",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance Connect A-E",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance Connect F-J",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance Connect K-R",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Just Dance Connect S-Z",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Kids",
+      "act": "ui_carousel",
+      "isc": "grp_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselMapRequest",
+            "actionListName": "partyMap",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["kids"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }
+        }
+      ]
+    }
+  ],
+  "actionLists": {
+    "search": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "SEARCH",
+          "title": "Search",
+          "type": "open-keyboard"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "default",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "SEARCH",
+          "title": "Previous Search",
+          "type": "previous-search"
+        }
+      ],
+      "itemType": "search"
+    },
+    "sweatMap": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "CONTEXT_SWEAT",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Dance",
+          "type": "play-song"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "CONTEXT_SWEAT",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_leaderboard",
+          "title": "Leaderboard",
+          "type": "leaderboard"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "CONTEXT_SWEAT",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_licensing",
+          "title": "Credits",
+          "type": "credits"
+        }
+      ],
+      "itemType": "map"
+    },
+    "create-challenge": {
+      "__class": "ActionList",
+      "actions": [],
+      "itemType": "challengeV2"
+    },
+    "create-playlist": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "title": "Add Song",
+          "type": "add-song"
+        }
+      ],
+      "itemType": "map"
+    },
+    "searchPreset": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "SEARCH",
+          "title": "Search Preset",
+          "type": "search-preset"
+        }
+      ],
+      "itemType": "search"
+    },
+    "NonStop": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "SHUFFLE",
+          "title": "Dance!",
+          "type": "start-rowPlaylist"
+        }
+      ],
+      "itemType": "map"
+    },
+    "partyMap": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "CONTEXT_SWEAT",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Dance",
+          "type": "play-song"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "CONTEXT_SWEAT",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_favorites",
+          "title": "Add To Favorites",
+          "type": "favorites"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "CONTEXT_SWEAT",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_leaderboard",
+          "title": "Leaderboard",
+          "type": "leaderboard"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "CONTEXT_SWEAT",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_licensing",
+          "title": "Credits",
+          "type": "credits"
+        }
+      ],
+      "itemType": "map"
+    },
+    "partyMapCoop": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_coop",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Dance",
+          "type": "play-song"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_coop",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Add to favorites",
+          "type": "set-favorite"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_coop",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_licensing",
+          "title": "Credits",
+          "type": "credits"
+        }
+      ],
+      "itemType": "map"
+    },
+    "comingSoon": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Coming Soon!",
+          "type": "credits"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    },
+    "partyMapCMUSR": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Dance!",
+          "type": "play-song"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_favorites",
+          "title": "Add To Favorites",
+          "type": "favorites"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_leaderboard",
+          "title": "Leaderboard",
+          "type": "leaderboard"
+        },
+        {
+          "__class": "Action",
+          "bannerContext": "family_rival",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song_licensing",
+          "title": "Credits",
+          "type": "credits"
+        }
+      ],
+      "itemType": "map"
+    }
+  },
+  "songItemLists": {}
+}

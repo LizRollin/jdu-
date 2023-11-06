@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/MarioNX/MarioNX_ULTRA.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FMarioNX_ULTRA.webm?v=1610539938269",
+        "jmcs://jd-contents/MarioNX/MarioNX_MID.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FMarioNX_MID.webm?v=1610539879759",
+        "jmcs://jd-contents/MarioNX/MarioNX_LOW.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FMarioNX_LOW.webm?v=1610539808725",
+        "jmcs://jd-contents/MarioNX/MarioNX_HIGH.webm": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FMarioNX_HIGH.webm?v=1610539900775",
+        "jmcs://jd-contents/MarioNX/MarioNX.ogg": "https://cdn.glitch.com/1e470643-7e14-406d-9c5e-20609896fa11%2FMarioNX_audio.ogg?v=1610539794761"
+    }
+}

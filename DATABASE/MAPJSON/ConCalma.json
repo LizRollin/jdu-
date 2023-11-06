@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/ConCalma/ConCalma_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FConCalma_high.webm?v=1611956884584",
+        "jmcs://jd-contents/ConCalma/ConCalma_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FConCalma_mid.webm?v=1611956860166",
+        "jmcs://jd-contents/ConCalma/ConCalma_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FConCalma_low.webm?v=1611956790904",
+        "jmcs://jd-contents/ConCalma/ConCalma_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FConCalma_high.webm?v=1611956884584",
+        "jmcs://jd-contents/ConCalma/ConCalma.ogg": "https://cdn.discordapp.com/attachments/800500695069098028/804830533187797032/ConCalma.ogg"
+    }
+}

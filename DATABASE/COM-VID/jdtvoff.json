@@ -1,0 +1,891 @@
+{
+  "__class": "JD_CarouselContent",
+  "categories": [
+    {
+      "__class": "Category",
+      "title": "Just Dance Official",
+      "act": "ui_carousel",
+      "isc": "grp_row_wide",
+      "order": "ugc-time",
+      "items": [
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "14553292-1e54-4296-a449-63814152eb28",
+              "title": "Dance Lesson: Bailar by Deorro ft. Elvis Crespo",
+              "description": "We’re back with another Dance Lesson. Learn the choreo from fan-favorite Bailar!",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance.mp4/9a1d20098bd04dfafa3f6e22d3c229ab.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance.webm/d371e6bdc0bfd611085b964cfde899d3.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance_t0_m1.jpg/3b7914b0009220c914574eab32250c0e.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance_t0_m2.jpg/3b7914b0009220c914574eab32250c0e.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 87500,
+              "time": 1502359200,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f",
+              "title": "A Just Dance Story: Avery",
+              "description": "Join fan Avery Price as she takes us through her Just Dance journey.",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance.mp4/1e21158a528a6c3aa7f3a854b666a697.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance.webm/164ee856b99326b8d4f885c1899fb1d8.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance_t0_m1.jpg/bc532b3abc8b52925cb416bcf03a36f9.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance_t0_m2.jpg/bc532b3abc8b52925cb416bcf03a36f9.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 52160,
+              "time": 1502164800,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "859672f0-8b21-4f12-b0ba-61a3d1643ba9",
+              "title": "Top Autodance: Kids Edition",
+              "description": "Kids take the spotlight in this Autodance!",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance.mp4/34a10131afa9db0d2f8fd71e749c33cb.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance.webm/88a5c6112ba51937a8864f6553bc53e9.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance_t0_m1.jpg/44ef18b126726d2b2e5eacedae6d95e3.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance_t0_m2.jpg/44ef18b126726d2b2e5eacedae6d95e3.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 31531,
+              "time": 1499155200,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "eceb5823-449d-4ede-8df2-5059b4639e1b",
+              "title": "A Just Dance Story: Manu",
+              "description": "Join fan Manu Rodriguez as he takes\nus through his Just Dance journey.",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance.mp4/974f346bec4339e0209393cc4afb1971.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance.webm/2c5d610450458d4c1faefa5202d4f622.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance_t0_m1.jpg/bbf51c305d46d6d8db127477986a5973.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance_t0_m2.jpg/bbf51c305d46d6d8db127477986a5973.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 30275,
+              "time": 1498653000,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "dd4f54eb-ffc9-447f-a2ed-c77daec9fe13",
+              "title": "Making of a Dancer #5 – Real Life to Gameplay [US]",
+              "description": "The dancers watch the final results of their hard work in this last episode of Making of a Dancer.\n",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance.mp4/1e8b6421c982893447693af6c8a2b94d.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance.webm/3d1884202f2db9c4f6cbc444c5d97914.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance_t0_m1.jpg/04d124c363731561792830df42c0c07b.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance_t0_m2.jpg/04d124c363731561792830df42c0c07b.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 30804,
+              "time": 1498642200,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "9e7196bf-2b38-4371-b2be-60b6f8864089",
+              "title": "Making of a Dancer #4 – Video Shoots [US]",
+              "description": "Find out what it takes to make it into Just Dance 2017.It’s time for the video shoots they have been rehearsing for!",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance.mp4/8f4c955fac45b8f974c280d1b698b564.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance.webm/14d6febdb8d9194db241bb3509233689.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance_t0_m1.jpg/90d7ebef47ebba70c8ca139b0e5afef5.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance_t0_m2.jpg/90d7ebef47ebba70c8ca139b0e5afef5.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 20070,
+              "time": 1498640400,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "4c05909c-54cc-4395-9e05-6ae24c232609",
+              "title": "Top Autodance: Fathers Edition",
+              "description": "Let’s take a moment to appreciate our fathers with this special Top Autodance!",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance.mp4/3cfc153fee4c0fb4c8f80771e90859a7.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance.webm/a86e8511d0661b2478f0b1ef11e370ea.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance_t0_m1.jpg/b9acf3dc674a63786f2a97df0230b1a8.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance_t0_m2.jpg/b9acf3dc674a63786f2a97df0230b1a8.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 15989,
+              "time": 1497249000,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "36c16cca-baf9-47d2-9609-08ac2282c89e",
+              "title": "Just Dance 2018 Song List",
+              "description": "Take a sneak peak at what hot songs you'll find in Just Dance 2018!",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance.mp4/68d003d3e396022af57065f1fdfe4cd3.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance.webm/0b908ef2c20d441f9c27dd384831ec67.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance_t0_m1.jpg/9e2d8fbeef9cb6ee0e263338c2dacf69.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance_t0_m2.jpg/9e2d8fbeef9cb6ee0e263338c2dacf69.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 49560,
+              "time": 1496896200,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "bc79d5b8-8b57-4002-ba6d-50c242eff2cf",
+              "title": "Top Autodances: Pets Edition",
+              "description": "Some of our favorite autodances featuring your pets!",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance.mp4/b5d0662f01daad23e5709f7bbb9e79f1.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance.webm/c9c8f6b9ea746a2067faba5cd90359cd.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance_t0_m1.jpg/82b746ad8250828803059a72996968dd.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance_t0_m2.jpg/1c74d51f00068d279aab526fe26e7c7d.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 14634,
+              "time": 1495420200,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "b5340f74-248e-4471-b485-bc816a724b62",
+              "title": "Making of a Dancer #3 – Video Rehearsals [US]",
+              "description": "Find out what it takes to make it into Just Dance 2017. The dancers practice during video rehearsals and talk about their experiences.",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance.mp4/d6ab84bc8b509e3f24274702ed0887e1.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance.webm/8b70d8115ec1b86c79e24bc46e164dbf.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance_t0_m1.jpg/5e522c3e65b39243f681b4847dd4545c.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance_t0_m2.jpg/5e522c3e65b39243f681b4847dd4545c.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 13981,
+              "time": 1494430200,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "a5237c02-ef95-4d09-b026-ffb432b4e362",
+              "title": "Making of a Dancer #2 – Callbacks [US]",
+              "description": "Find out what it takes to make it into Just Dance. This time in callbacks, the dancers \nhave to show off their skills with \nsome choreography of their own.",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance.mp4/b8a4b0d100e79cc4650021efd7445887.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance.webm/9874d120713c88bb9fca0a4f192e1779.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance_t0_m1.jpg/b1dcb3c44287ea6c2bd24e8c69a02173.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance_t0_m2.jpg/b1dcb3c44287ea6c2bd24e8c69a02173.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 10444,
+              "time": 1494424800,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "16a426bb-86bd-4001-ba7f-f51b6ab176b5",
+              "title": "Just Dance Class: Scream & Shout",
+              "description": "Set the dancefloor on fire by learning this \nhot routine from the Scream & Shout map.",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance.mp4/081b416a97b40084056a7cb35db7ebc5.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance.webm/ebfe16573886d065771b8eedb2ddf607.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance_t0_m1.jpg/5209eb9311c0a782e02300f003640148.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance_t0_m2.jpg/5209eb9311c0a782e02300f003640148.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 6311,
+              "time": 1493370000,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "4d0fd29e-1a85-41bf-92ac-6a759fe98df3",
+              "title": "Just Dance Minute - What Kind of Just Dancer Are You?",
+              "description": "UbiMouss presents four types of Just Dancers! Do you recognize yourself in any of them?",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance.mp4/9c4ce78e05bfd550c5cd5c02a76c90bf.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance.webm/b63502b4792cf562555eec48cc613ead.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance_t0_m1.jpg/93e241156a3ffa476d3467e582626597.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance_t0_m2.jpg/93e241156a3ffa476d3467e582626597.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 13499,
+              "time": 1491829200,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "b1dd8050-16a0-406b-a6b2-4074065d5387",
+              "title": "Making of a Dancer #1 – Casting Calls [US]",
+              "description": "See what it takes to be in the game and hear what the judges have to say. Stay tuned for more episodes as we follow their journeys through callbacks and rehearsals.",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance.mp4/4134a8f2a7e1926e54f307e12de1763f.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance.webm/188bae44385288164157e8d179164d2b.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance_t0_m1.jpg/01f7ec3fca9373362608843a1aed1804.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance_t0_m2.jpg/01f7ec3fca9373362608843a1aed1804.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 14784,
+              "time": 1491310800,
+              "comVideo": true,
+              "subtitles": "\n\n",
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed",
+              "title": "Just Dance Minute - Just Dance 2017 Cosplays",
+              "description": "Just Dance Ambassador UbiMouss gives a shoutout to the best Just Dance 2017 cosplays so far!",
+              "content": {
+                "autodance.mp4": {
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance.mp4/a41dccbe86972f1493efa12134c60968.mp4",
+                  "__class": "UGCContent"
+                },
+                "autodance.webm": {
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance.webm/7162e2a1eeaeba01c1ec9fd559bc1674.webm",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m1.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance_t0_m1.jpg/beebf25082130217873103cb3c147316.jpg",
+                  "__class": "UGCContent"
+                },
+                "autodance_t0_m2.jpg": {
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance_t0_m2.jpg/beebf25082130217873103cb3c147316.jpg",
+                  "__class": "UGCContent"
+                }
+              },
+              "likes": 18046,
+              "time": 1488895200,
+              "comVideo": true,
+              "subtitles": "1\n00:00:06,230 --> 00:00:07,470\nHey Just Dancers !\n\n2\n00:00:07,470 --> 00:00:10,360\nI’m UbiMouss and this is Just Dance Minute !\n\n3\n00:00:10,360 --> 00:00:12,250\nOh, that?\n\n4\n00:00:12,250 --> 00:00:15,600\nThis is just something that I picked out of\nmy wardrobe\n\n5\n00:00:15,600 --> 00:00:21,240\nBecause yeah: a special Just Dance Minute\ndeserves a special outfit…\n\n6\n00:00:21,240 --> 00:00:26,410\nJust Dance 2017 has been out for less than\na month but I am already proclaiming that\n\n7\n00:00:26,410 --> 00:00:27,410\nwe’ve had the\n\n8\n00:00:27,410 --> 00:00:28,410\nBEST.\n\n9\n00:00:28,410 --> 00:00:29,410\nCOSPLAYS.\n\n10\n00:00:29,410 --> 00:00:30,410\nEVER.\n\n11\n00:00:30,410 --> 00:00:33,670\nYou guys have been so creative in the last\nmonths that I felt the need to give a huge\n\n12\n00:00:33,670 --> 00:00:39,570\nshoutout to all of you great cosplayers who\nare making so many amazing Just Dance 2017\n\n13\n00:00:39,570 --> 00:00:40,570\ncostumes.\n\n14\n00:00:40,570 --> 00:00:45,149\nFirst one: Luis from Brazil, who I think was\nthe first one to share photos of the making\n\n15\n00:00:45,149 --> 00:00:49,199\nof his costume for one of the coaches of Lean\nOn last July.\n\n16\n00:00:49,199 --> 00:00:51,430\nSo bravo to him!\n\n17\n00:00:51,430 --> 00:00:57,620\nThen comes a new Just Dancer in the family:\nJakov Petrowsky from France with the same\n\n18\n00:00:57,620 --> 00:00:58,899\ncoach of Lean On.\n\n19\n00:00:58,899 --> 00:01:01,129\nYeah this coach is pretty cool.\n\n20\n00:01:01,129 --> 00:01:06,800\nHe spent a lot of time working on the hair\ntoo and for that deserves a 10/10.\n\n21\n00:01:06,800 --> 00:01:11,830\nNext up: Melissa Salvatore from Russia, who\nalready blew our minds last year with her\n\n22\n00:01:11,830 --> 00:01:13,380\ncosplay of Albatraoz.\n\n23\n00:01:13,380 --> 00:01:19,500\nShe’s back this year with her cosplay of\nWorth It, and hopefully this is not the last\n\n24\n00:01:19,500 --> 00:01:20,500\none!\n\n25\n00:01:20,500 --> 00:01:24,380\nAnother Worth It cosplay but from Nijishoujo\nfrom New-York this time.\n\n26\n00:01:24,380 --> 00:01:29,770\nAn amazing rendition of the costume, that\nshe have been dancing with during her streams\n\n27\n00:01:29,770 --> 00:01:30,770\non Twitch.\n\n28\n00:01:30,770 --> 00:01:33,940\nYou can follow her: link in the description.\n\n29\n00:01:33,940 --> 00:01:39,320\nShe also created her own version of the “Run\nThe Night” coach and we just love it.\n\n30\n00:01:39,320 --> 00:01:44,990\nAnd last but not least today: Nikita from\nRussia, and his own version of the “Don’t\n\n31\n00:01:44,990 --> 00:01:46,700\nStop Me Now” coach.\n\n32\n00:01:46,700 --> 00:01:49,610\nAlmost identical to the in-game version.\n\n33\n00:01:49,610 --> 00:01:54,200\nMany thanks to all of you guys for these amazing\ncreations and keep sharing those with us!\n\n34\n00:01:54,200 --> 00:01:57,550\nIt’ll be my pleasure to send goodies to\nthe best ones.\n\n35\n00:01:57,550 --> 00:02:01,590\nThis Just Dance Minute is over so see you\nsoon and until then: Just Dance!\n\n",
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "9375624c-1013-40e2-8ca7-7bd9eba44462",
+              "title": "Top Autodances: Super Hero Edition",
+              "description": "Check out our favorite Super Hero Autodances!",
+              "content": {
+                "autodance.mp4": {
+                  "__class": "UGCContent",
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance.mp4/00e73c5ec1eb99ae3c269d7acb9de386.mp4"
+                },
+                "autodance.webm": {
+                  "__class": "UGCContent",
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance.webm/5639aabbdfedded83ef9b9cb47c6d5cb.webm"
+                },
+                "autodance_t0_m1.jpg": {
+                  "__class": "UGCContent",
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance_t0_m1.jpg/702daef5dacb6da7377c2cb02c93ca25.jpg"
+                },
+                "autodance_t0_m2.jpg": {
+                  "__class": "UGCContent",
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance_t0_m2.jpg/702daef5dacb6da7377c2cb02c93ca25.jpg"
+                }
+              },
+              "likes": 10883,
+              "time": 1473840000,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        },
+        {
+          "__class": "Item",
+          "isc": "autodance_item",
+          "act": "ui_component_base",
+          "components": [
+            {
+              "__class": "JD_CarouselContentComponent_Autodance",
+              "ugcId": "0be3ba1c-2f8e-4cfb-a95f-c30c69739a81",
+              "title": "Top Autodances: Crazy Costumes Edition",
+              "description": "Check out our favorite Crazy Costumes Autodances!",
+              "content": {
+                "autodance.mp4": {
+                  "__class": "UGCContent",
+                  "mimetype": "video/mp4",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance.mp4/0afb53bbf557b7cdf282f9219a9577ff.mp4"
+                },
+                "autodance.webm": {
+                  "__class": "UGCContent",
+                  "mimetype": "video/webm",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance.webm/5b0f1eb7e13e745833e9c6ce3a6db835.webm"
+                },
+                "autodance_t0_m1.jpg": {
+                  "__class": "UGCContent",
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance_t0_m1.jpg/fb0f92284d393bdf6772acbf1a36c577.jpg"
+                },
+                "autodance_t0_m2.jpg": {
+                  "__class": "UGCContent",
+                  "mimetype": "image/jpeg",
+                  "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance_t0_m2.jpg/fb0f92284d393bdf6772acbf1a36c577.jpg"
+                }
+              },
+              "likes": 14317,
+              "time": 1469430000,
+              "comVideo": true,
+              "like": false
+            }
+          ],
+          "actionList": "ubisoftVideos"
+        }
+      ]
+    },
+    {
+      "__class": "Category",
+      "title": "Most Recent Autodances",
+      "act": "ui_carousel",
+      "isc": "grp_row_wide",
+      "order": "ugc-time",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Most recent Just Dance Machine videos",
+      "act": "ui_carousel",
+      "isc": "grp_row_wide",
+      "order": "ugc-time",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Most Popular Autodances",
+      "act": "ui_carousel",
+      "isc": "grp_row_wide",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "Most popular Just Dance Machine videos",
+      "act": "ui_carousel",
+      "isc": "grp_row_wide",
+      "items": []
+    },
+    {
+      "__class": "Category",
+      "title": "My Videos",
+      "act": "ui_carousel",
+      "isc": "grp_row_wide",
+      "order": "ugc-time",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselUgcRequest",
+            "actionListName": "localautodance",
+            "actionListNameSelf": "localautodance",
+            "actionListNameUpsell": "upsell",
+            "display": "ugc",
+            "maxCount": 30,
+            "offline": true,
+            "playerPid": true,
+            "type": "ad",
+            "uuid": "3063e93b-1eb6-41d1-ad82-6ecd33e805c6"
+          }
+        },
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselUgcRequest",
+            "actionListName": "localdancemachine",
+            "actionListNameSelf": "localdancemachine",
+            "actionListNameUpsell": "upsell",
+            "display": "ugc",
+            "filters": [
+              { "__class": "JD_CarouselSkuFilter", "gameVersion": ["jd2017"] }
+            ],
+            "maxCount": 30,
+            "offline": true,
+            "playerPid": true,
+            "type": "dm",
+            "uuid": "a9b7e950-8f2a-42d6-ae4b-b2fbbe71d1eb"
+          }
+        }
+      ]
+    }
+  ],
+  "actionLists": {
+    "ubisoftVideos": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "ubivideo",
+          "title": "Like",
+          "type": "like-autodance"
+        }
+      ],
+      "itemType": "comvideo"
+    },
+    "localautodance": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "AUTODANCE_LOCAL",
+          "title": "Share to Video Galleries",
+          "type": "share-autodance-jdtv"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "AUTODANCE_LOCAL",
+          "title": "Share to Facebook & JDTV",
+          "type": "share-autodance-jdtv-facebook"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "AUTODANCE_LOCAL",
+          "title": "Delete",
+          "type": "delete-autodance"
+        }
+      ],
+      "itemType": "autodance"
+    },
+    "localdancemachine": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "autodance_jdm_local",
+          "title": "Share to Video Galleries",
+          "type": "share-autodance-jdtv"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance_jdm_local",
+          "title": "Share to Facebook & JDTV",
+          "type": "share-autodance-jdtv-facebook"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance_jdm_local",
+          "title": "Delete",
+          "type": "delete-autodance"
+        }
+      ],
+      "itemType": "dancemachine"
+    },
+    "dancemachine": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "autodance_jdm",
+          "title": "Like",
+          "type": "like-autodance"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance_jdm",
+          "title": "Share to Facebook",
+          "type": "share-autodance-facebook"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance_jdm",
+          "title": "Report",
+          "type": "report-autodance"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance_jdm",
+          "title": "Open Profile",
+          "type": "open-friend"
+        }
+      ],
+      "itemType": "dancemachine"
+    },
+    "autodance": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerType": "autodance",
+          "title": "Like",
+          "type": "like-autodance"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance",
+          "title": "Share to Facebook",
+          "type": "share-autodance-facebook"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance",
+          "title": "Report",
+          "type": "report-autodance"
+        },
+        {
+          "__class": "Action",
+          "bannerType": "autodance",
+          "title": "Open Profile",
+          "type": "open-friend"
+        }
+      ],
+      "itemType": "autodance"
+    }
+  },
+  "songItemLists": {}
+}

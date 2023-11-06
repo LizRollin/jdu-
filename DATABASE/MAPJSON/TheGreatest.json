@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/TheGreatest/TheGreatest_ULTRA.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fthegreastestultra.webm?v=1612193020443",
+        "jmcs://jd-contents/TheGreatest/TheGreatest_MID.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fthegrasetmeduim.webm?v=1612192661381",
+        "jmcs://jd-contents/TheGreatest/TheGreatest_LOW.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fthegreasetlow.webm?v=1612192578454",
+        "jmcs://jd-contents/TheGreatest/TheGreatest_HIGH.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fthegrasetmeduim.webm?v=1612192661381",
+        "jmcs://jd-contents/TheGreatest/TheGreatest.ogg": "https://cdn.glitch.com/9f987805-51e9-400c-88d2-cba974ed2d57%2Fthegraset.ogg?v=1612192398339"
+    }
+}

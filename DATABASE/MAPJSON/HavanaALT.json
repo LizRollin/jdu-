@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/HavanaALT/HavanaALT_ULTRA.webm": "https://cdn.glitch.com/a26ba0ac-032e-4eda-a9f6-6db88289ff87%2FHavanaALT_ULTRA.webm?v=1616012816989",
+    "jmcs://jd-contents/HavanaALT/HavanaALT_HIGH.webm": "https://cdn.glitch.com/a26ba0ac-032e-4eda-a9f6-6db88289ff87%2FHavanaALT_HIGH.webm?v=1616012188073",
+    "jmcs://jd-contents/HavanaALT/HavanaALT_MID.webm": "https://cdn.glitch.com/a26ba0ac-032e-4eda-a9f6-6db88289ff87%2FHavanaALT_MID.webm?v=1616011509867",
+    "jmcs://jd-contents/HavanaALT/HavanaALT_LOW.webm": "https://cdn.glitch.com/a26ba0ac-032e-4eda-a9f6-6db88289ff87%2FHavanaALT_LOW.webm?v=1616011150331",
+    "jmcs://jd-contents/HavanaALT/HavanaALT.ogg": "https://cdn.glitch.com/a26ba0ac-032e-4eda-a9f6-6db88289ff87%2FHavanaALT.ogg?v=1616010919319"
+  }
+}

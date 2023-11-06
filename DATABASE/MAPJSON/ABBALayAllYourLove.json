@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_high.webm?v=1609948187401",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_high.webm?v=1609948187401",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_mid.webm?v=1609948170411",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_mid.webm?v=1609948170411",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_low.webm?v=1609948153459",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_low.webm?v=1609948153459",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_high.webm?v=1609948187401",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove_high.webm?v=1609948187401",
+        "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FABBALayAllYourLove.ogg?v=1609948143418"
+    }
+}

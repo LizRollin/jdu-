@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/TikTok/TikTok_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/TikTok/TikTok_ULTRA.webm/b40b5346b3348cfcc44ae4e8672a0a36.webm?auth=exp=16169747243600~acl=/private/map/TikTok/*~hmac=cb3c1698578f23e9c2a80c6c30589c630dafc4c7bb4dbdd40d6350bec17ac9ce",
+        "jmcs://jd-contents/TikTok/TikTok_MID.webm": "https://jd-s3.akamaized.net/private/map/TikTok/TikTok_MID.webm/6802f8169e1d043cf320f420a947a648.webm?auth=exp=16169747243600~acl=/private/map/TikTok/*~hmac=cb3c1698578f23e9c2a80c6c30589c630dafc4c7bb4dbdd40d6350bec17ac9ce",
+        "jmcs://jd-contents/TikTok/TikTok_LOW.webm": "https://jd-s3.akamaized.net/private/map/TikTok/TikTok_LOW.webm/1e6ea393cbd79d35edde80c70b57269c.webm?auth=exp=16169747243600~acl=/private/map/TikTok/*~hmac=cb3c1698578f23e9c2a80c6c30589c630dafc4c7bb4dbdd40d6350bec17ac9ce",
+        "jmcs://jd-contents/TikTok/TikTok_HIGH.webm": "https://jd-s3.akamaized.net/private/map/TikTok/TikTok_HIGH.webm/708b9bfccc59d519314783b9c2e1c9ff.webm?auth=exp=16169747243600~acl=/private/map/TikTok/*~hmac=cb3c1698578f23e9c2a80c6c30589c630dafc4c7bb4dbdd40d6350bec17ac9ce",
+        "jmcs://jd-contents/TikTok/TikTok.ogg": "https://jd-s3.akamaized.net/private/map/TikTok/TikTok.ogg/1563729e0f95f303eadff7ddfc98566d.ogg?auth=exp=16169747243600~acl=/private/map/TikTok/*~hmac=cb3c1698578f23e9c2a80c6c30589c630dafc4c7bb4dbdd40d6350bec17ac9ce"
+    }
+}

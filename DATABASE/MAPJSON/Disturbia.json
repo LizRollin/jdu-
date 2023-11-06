@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/Disturbia/Disturbia_ULTRA.webm": "http://jdp-assets.justdanceposes.tk/disturbia/Disturbia_ULTRA.webm",
+        "jmcs://jd-contents/Disturbia/Disturbia_MID.webm": "http://jdp-assets.justdanceposes.tk/disturbia/Disturbia_MID.webm",
+        "jmcs://jd-contents/Disturbia/Disturbia_LOW.webm": "http://jdp-assets.justdanceposes.tk/disturbia/Disturbia_LOW.webm",
+        "jmcs://jd-contents/Disturbia/Disturbia_HIGH.webm": "http://jdp-assets.justdanceposes.tk/disturbia/Disturbia_HIGH.webm",
+        "jmcs://jd-contents/Disturbia/Disturbia.ogg": "http://jdp-assets.justdanceposes.tk/disturbia/Disturbia.ogg"
+    }
+}

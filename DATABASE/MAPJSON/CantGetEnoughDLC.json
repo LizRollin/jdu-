@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/CantGetEnoughDLC/CantGetEnoughDLC_ULTRA.webm/383049b9b242fd96673e9f5baeebf152.webm?auth=exp=16155777653600~acl=/private/map/CantGetEnoughDLC/*~hmac=55a6f3f7631ce1630d6173d7fe13e1ae0e77ad169f503ad09ff687c0766db36a",
+        "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_MID.webm": "https://jd-s3.akamaized.net/private/map/CantGetEnoughDLC/CantGetEnoughDLC_MID.webm/047aef0b679c3e9e5baaae998fdc7cc3.webm?auth=exp=16155777653600~acl=/private/map/CantGetEnoughDLC/*~hmac=55a6f3f7631ce1630d6173d7fe13e1ae0e77ad169f503ad09ff687c0766db36a",
+        "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_LOW.webm": "https://jd-s3.akamaized.net/private/map/CantGetEnoughDLC/CantGetEnoughDLC_LOW.webm/0a58fe78828aeb2f14c7d3d8db318308.webm?auth=exp=16155777653600~acl=/private/map/CantGetEnoughDLC/*~hmac=55a6f3f7631ce1630d6173d7fe13e1ae0e77ad169f503ad09ff687c0766db36a",
+        "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_HIGH.webm": "https://jd-s3.akamaized.net/private/map/CantGetEnoughDLC/CantGetEnoughDLC_HIGH.webm/169417269236595f57423e36d635790b.webm?auth=exp=16155777653600~acl=/private/map/CantGetEnoughDLC/*~hmac=55a6f3f7631ce1630d6173d7fe13e1ae0e77ad169f503ad09ff687c0766db36a",
+        "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC.ogg": "https://jd-s3.akamaized.net/private/map/CantGetEnoughDLC/CantGetEnoughDLC.ogg/d5aeb0588c4e355a639d49610722a404.ogg?auth=exp=16155777653600~acl=/private/map/CantGetEnoughDLC/*~hmac=55a6f3f7631ce1630d6173d7fe13e1ae0e77ad169f503ad09ff687c0766db36a"
+    }
+}

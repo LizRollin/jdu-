@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BabyGirl/BabyGirl_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BabyGirl/BabyGirl_ULTRA.webm/9191899164377dbcde6e33ebc6c0850e.webm?auth=exp=16169802743600~acl=/private/map/BabyGirl/*~hmac=f4d54ed143637d97208fe6bea37fe94c7b5daf59eae6225c1bb7d7045725c15a",
+        "jmcs://jd-contents/BabyGirl/BabyGirl_MID.webm": "https://jd-s3.akamaized.net/private/map/BabyGirl/BabyGirl_MID.webm/e0e56764e43a0c61565abbca2c2facfd.webm?auth=exp=16169802743600~acl=/private/map/BabyGirl/*~hmac=f4d54ed143637d97208fe6bea37fe94c7b5daf59eae6225c1bb7d7045725c15a",
+        "jmcs://jd-contents/BabyGirl/BabyGirl_LOW.webm": "https://jd-s3.akamaized.net/private/map/BabyGirl/BabyGirl_LOW.webm/ae85cf3cc5cb75eba9c2cb413a8cb028.webm?auth=exp=16169802743600~acl=/private/map/BabyGirl/*~hmac=f4d54ed143637d97208fe6bea37fe94c7b5daf59eae6225c1bb7d7045725c15a",
+        "jmcs://jd-contents/BabyGirl/BabyGirl_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BabyGirl/BabyGirl_HIGH.webm/e05be0a5a50aadad688ce1a4fd47f4ad.webm?auth=exp=16169802743600~acl=/private/map/BabyGirl/*~hmac=f4d54ed143637d97208fe6bea37fe94c7b5daf59eae6225c1bb7d7045725c15a",
+        "jmcs://jd-contents/BabyGirl/BabyGirl.ogg": "https://jd-s3.akamaized.net/private/map/BabyGirl/BabyGirl.ogg/2aee771a20623f9d39ccc187b3eb5504.ogg?auth=exp=16169802743600~acl=/private/map/BabyGirl/*~hmac=f4d54ed143637d97208fe6bea37fe94c7b5daf59eae6225c1bb7d7045725c15a"
+    }
+}

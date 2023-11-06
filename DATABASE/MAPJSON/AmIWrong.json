@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/AmIWrong/AmIWrong_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/AmIWrong/AmIWrong_ULTRA.webm/42c4ceb4ff000b7390694a8bf63736d0.webm?auth=exp=16169797563600~acl=/private/map/AmIWrong/*~hmac=69ef7a5370b86fee9e84c0ee79ef70f045401d103b4ec19e3f8cf11194629b6b",
+        "jmcs://jd-contents/AmIWrong/AmIWrong_MID.webm": "https://jd-s3.akamaized.net/private/map/AmIWrong/AmIWrong_MID.webm/3dd1e46ed2d2e6e7a03f32dcc81610ab.webm?auth=exp=16169797563600~acl=/private/map/AmIWrong/*~hmac=69ef7a5370b86fee9e84c0ee79ef70f045401d103b4ec19e3f8cf11194629b6b",
+        "jmcs://jd-contents/AmIWrong/AmIWrong_LOW.webm": "https://jd-s3.akamaized.net/private/map/AmIWrong/AmIWrong_LOW.webm/4cfe6f96fd9f6ba5588c9203ecc4503e.webm?auth=exp=16169797563600~acl=/private/map/AmIWrong/*~hmac=69ef7a5370b86fee9e84c0ee79ef70f045401d103b4ec19e3f8cf11194629b6b",
+        "jmcs://jd-contents/AmIWrong/AmIWrong_HIGH.webm": "https://jd-s3.akamaized.net/private/map/AmIWrong/AmIWrong_HIGH.webm/227300b979a966c5c0db02fae0e5dd46.webm?auth=exp=16169797563600~acl=/private/map/AmIWrong/*~hmac=69ef7a5370b86fee9e84c0ee79ef70f045401d103b4ec19e3f8cf11194629b6b",
+        "jmcs://jd-contents/AmIWrong/AmIWrong.ogg": "https://jd-s3.akamaized.net/private/map/AmIWrong/AmIWrong.ogg/91387f34a06238bc739924242b0b953a.ogg?auth=exp=16169797563600~acl=/private/map/AmIWrong/*~hmac=69ef7a5370b86fee9e84c0ee79ef70f045401d103b4ec19e3f8cf11194629b6b"
+    }
+}

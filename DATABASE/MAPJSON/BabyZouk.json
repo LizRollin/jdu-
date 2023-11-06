@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BabyZouk/BabyZouk_ULTRA.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/c9b5797eac261af3bbcf4780c99ba836.babyzouk_unlimited.webm?v=1600832764291",
+        "jmcs://jd-contents/BabyZouk/BabyZouk_MID.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/c9b5797eac261af3bbcf4780c99ba836.babyzouk_unlimited.webm?v=1600832764291",
+        "jmcs://jd-contents/BabyZouk/BabyZouk_LOW.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/c9b5797eac261af3bbcf4780c99ba836.babyzouk_unlimited.webm?v=1600832764291",
+        "jmcs://jd-contents/BabyZouk/BabyZouk_HIGH.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/c9b5797eac261af3bbcf4780c99ba836.babyzouk_unlimited.webm?v=1600832764291",
+        "jmcs://jd-contents/BabyZouk/BabyZouk.ogg": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/babyzouk_audio.ogg?v=1600832659858"
+    }
+}

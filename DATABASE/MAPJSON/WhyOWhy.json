@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/WhyOWhy/WhyOWhy_ULTRA.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/a2718b6f366bd9bdb0c9d9f59fe334ab.whyohwhy_unlimited.webm?v=1600834072219",
+        "jmcs://jd-contents/WhyOWhy/WhyOWhy_MID.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/a2718b6f366bd9bdb0c9d9f59fe334ab.whyohwhy_unlimited.webm?v=1600834072219",
+        "jmcs://jd-contents/WhyOWhy/WhyOWhy_LOW.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/a2718b6f366bd9bdb0c9d9f59fe334ab.whyohwhy_unlimited.webm?v=1600834072219",
+        "jmcs://jd-contents/WhyOWhy/WhyOWhy_HIGH.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/a2718b6f366bd9bdb0c9d9f59fe334ab.whyohwhy_unlimited.webm?v=1600834072219",
+        "jmcs://jd-contents/WhyOWhy/WhyOWhy.ogg": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/whyohwhy_audio.ogg?v=1600832818647"
+    }
+}

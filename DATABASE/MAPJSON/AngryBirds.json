@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/AngryBirds/AngryBirds_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/AngryBirds/AngryBirds_ULTRA.webm/6efe83a362830d1010530cb8508d8fdb.webm?auth=exp=16169802223600~acl=/private/map/AngryBirds/*~hmac=81f67a902543e2b31beef9be93bce622b0dd78fbf9b4f29cc709ba9116e8990f",
+        "jmcs://jd-contents/AngryBirds/AngryBirds_MID.webm": "https://jd-s3.akamaized.net/private/map/AngryBirds/AngryBirds_MID.webm/6f2e52a6871acf677f1f6a6a2d4ad4c0.webm?auth=exp=16169802223600~acl=/private/map/AngryBirds/*~hmac=81f67a902543e2b31beef9be93bce622b0dd78fbf9b4f29cc709ba9116e8990f",
+        "jmcs://jd-contents/AngryBirds/AngryBirds_LOW.webm": "https://jd-s3.akamaized.net/private/map/AngryBirds/AngryBirds_LOW.webm/c871441d357533f13947954674657f15.webm?auth=exp=16169802223600~acl=/private/map/AngryBirds/*~hmac=81f67a902543e2b31beef9be93bce622b0dd78fbf9b4f29cc709ba9116e8990f",
+        "jmcs://jd-contents/AngryBirds/AngryBirds_HIGH.webm": "https://jd-s3.akamaized.net/private/map/AngryBirds/AngryBirds_HIGH.webm/2d2c9ef27aae7f7c81c3ca4f534da768.webm?auth=exp=16169802223600~acl=/private/map/AngryBirds/*~hmac=81f67a902543e2b31beef9be93bce622b0dd78fbf9b4f29cc709ba9116e8990f",
+        "jmcs://jd-contents/AngryBirds/AngryBirds.ogg": "https://jd-s3.akamaized.net/private/map/AngryBirds/AngryBirds.ogg/a47a0f5a89f3ef4d55ff4a2b44eda870.ogg?auth=exp=16169802223600~acl=/private/map/AngryBirds/*~hmac=81f67a902543e2b31beef9be93bce622b0dd78fbf9b4f29cc709ba9116e8990f"
+    }
+}

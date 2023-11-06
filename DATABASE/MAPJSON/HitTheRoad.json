@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/HitTheRoad/HitTheRoad_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FHitTheRoad_ULTRA.webm?v=1612637621608",
+		"jmcs://jd-contents/HitTheRoad/HitTheRoad_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FHitTheRoad_MID.webm?v=1612637269397",
+		"jmcs://jd-contents/HitTheRoad/HitTheRoad_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FHitTheRoad_LOW.webm?v=1612637321949",
+		"jmcs://jd-contents/HitTheRoad/HitTheRoad_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FHitTheRoad_HIGH.webm?v=1612637354088",
+		"jmcs://jd-contents/HitTheRoad/HitTheRoad.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FHitTheRoad.ogg?v=1612637160669"
+	}
+}

@@ -1,0 +1,46 @@
+{
+  "__class": "JD_CarouselContent",
+  "categories": [
+    {
+      "__class": "Category",
+      "title": "Just Dance",
+      "act": "quest_carousel",
+      "isc": "quest_row",
+      "items": [
+        {
+          "__class": "Item",
+          "offlineRequest": {
+            "__class": "JD_CarouselQuestRequest",
+            "actionListName": "questUnlocked",
+            "actionListNameUpsell": "_None",
+            "includedTags": ["Main"],
+            "offline": true,
+            "order": "title",
+            "originalJDVersion": 2017,
+            "uuid": "5f3d837c-54d1-46e4-88f7-327b7ff6fff0"
+          }}
+      ]
+    }
+  ],
+  "actionLists": {
+    "questUnlocked": {
+      "__class": "ActionList",
+      "actions": [
+        { "__class": "Action", "title": "Dance", "type": "start-quest" }
+      ],
+      "itemType": "quest"
+    },
+    "questLocked": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "title": "Dance",
+          "type": "display-upsell-quest"
+        }
+      ],
+      "itemType": "quest"
+    }
+  },
+  "songItemLists": {}
+}

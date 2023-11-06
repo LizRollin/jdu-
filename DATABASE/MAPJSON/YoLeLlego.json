@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 564656,
+  "urls": {
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_ULTRA.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.YoLeLlego_ULTRA.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_MID.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.YoLeLlego_MID.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_LOW.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.YoLeLlego_LOW.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego_HIGH.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613/clean.YoLeLlego_HIGH.webm",
+    "jmcs://jd-contents/YoLeLlego/YoLeLlego.ogg": "https://cdn.glitch.com/9f987805-51e9-400c-88d2-cba974ed2d57/YoLeLlego_AUDIO.ogg"
+  }
+}

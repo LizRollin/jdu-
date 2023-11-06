@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BoysBoys/BoysBoys_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BoysBoys/BoysBoys_ULTRA.webm/da55849e9376bb84cf16ab94575f376e.webm?auth=exp=16152552823600~acl=/private/map/BoysBoys/*~hmac=83def2e61875f158864f6be94dc40b61a4d5fbe7debe059181c7eab7b2c6195c",
+        "jmcs://jd-contents/BoysBoys/BoysBoys_MID.webm": "https://jd-s3.akamaized.net/private/map/BoysBoys/BoysBoys_MID.webm/c48b670558da814dd5eb12ce49e45e49.webm?auth=exp=16152552823600~acl=/private/map/BoysBoys/*~hmac=83def2e61875f158864f6be94dc40b61a4d5fbe7debe059181c7eab7b2c6195c",
+        "jmcs://jd-contents/BoysBoys/BoysBoys_LOW.webm": "https://jd-s3.akamaized.net/private/map/BoysBoys/BoysBoys_LOW.webm/fe5b3e711a33916bdc9bee1db9a4226a.webm?auth=exp=16152552823600~acl=/private/map/BoysBoys/*~hmac=83def2e61875f158864f6be94dc40b61a4d5fbe7debe059181c7eab7b2c6195c",
+        "jmcs://jd-contents/BoysBoys/BoysBoys_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BoysBoys/BoysBoys_HIGH.webm/a5a5cd0bcd652c13fe2bfaf9de092f8e.webm?auth=exp=16152552823600~acl=/private/map/BoysBoys/*~hmac=83def2e61875f158864f6be94dc40b61a4d5fbe7debe059181c7eab7b2c6195c",
+        "jmcs://jd-contents/BoysBoys/BoysBoys.ogg": "https://jd-s3.akamaized.net/private/map/BoysBoys/BoysBoys.ogg/692ca0a399d3cc7bc32355bb0bebb95a.ogg?auth=exp=16152552823600~acl=/private/map/BoysBoys/*~hmac=83def2e61875f158864f6be94dc40b61a4d5fbe7debe059181c7eab7b2c6195c"
+    }
+}

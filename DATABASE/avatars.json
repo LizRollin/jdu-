@@ -1,0 +1,142 @@
+{
+	"__class": "JD_CarouselContent",
+	"categories": [{
+		"__class": "Category",
+		"title": "Just Dance",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"items": [{
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": 2017,
+				"lockType": 20,
+				"sortBy": 0,
+				"uuid": "c1712549-8b73-44d6-9c17-e3cac56d5590"
+			}
+		}, {
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": 2017,
+				"lockType": 3,
+				"sortBy": 0,
+				"uuid": "9e08e558-206a-4d7b-999c-3a9404b59f96"
+			}
+		}, {
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": -1,
+				"lockType": 11,
+				"sortBy": 0,
+				"uuid": "53cb74d3-1718-4a58-a4a3-44cd0f23f47a"
+			}
+		}]
+	}, {
+		"__class": "Category",
+		"title": "Just Dance Connect",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"items": [{
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": 2019,
+				"lockType": 0,
+				"sortBy": 0,
+				"uuid": "mega-mix"
+			}
+		}]
+	}, {
+		"__class": "Category",
+		"title": "Mojo",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"items": [{
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": -1,
+				"lockType": 1,
+				"sortBy": 1,
+				"uuid": "657232bf-d5f2-4553-b9d0-c1cf070c8e90"
+			}
+		}]
+	}, {
+		"__class": "Category",
+		"title": "Dance Quest",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"items": [{
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": 2019,
+				"lockType": 9,
+				"sortBy": 0,
+				"uuid": "9a3885fa-b5aa-4362-a6a9-3f0b5b7e9769"
+			}
+		}, {
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": 9999,
+				"lockType": 9,
+				"sortBy": 0,
+				"uuid": "04942341-ee4a-4681-a583-9fecf7e2670f"
+			}
+		}]
+	}, {
+		"__class": "Category",
+		"title": "Game mode progression",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"items": [{
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": -1,
+				"lockType": 10,
+				"sortBy": 0,
+				"uuid": "ae334024-badd-47f1-8b3d-3a2af9607eb6"
+			}
+		}]
+	}, {
+		"__class": "Category",
+		"title": "Ubisoft Club",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"items": [{
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": 2017,
+				"lockType": 6,
+				"sortBy": 0,
+				"uuid": "8ef22b56-d864-40e4-b061-001c3cdee05d"
+			}
+		}, {
+			"__class": "Item",
+			"offlineRequest": {
+				"__class": "JD_CarouselCustomizableItemRequest",
+				"itemType": 0,
+				"jdVersion": 2017,
+				"lockType": 16,
+				"sortBy": 0,
+				"uuid": "9071654f-c131-418c-b785-5bc809d1403e"
+			}
+		}]
+	}],
+	"actionLists": {},
+	"songItemLists": {}
+}

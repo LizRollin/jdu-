@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/AnimalsALT/AnimalsALT_ULTRA.webm": "",
+        "jmcs://jd-contents/AnimalsALT/AnimalsALT_MID.webm": "",
+        "jmcs://jd-contents/AnimalsALT/AnimalsALT_LOW.webm": "",
+        "jmcs://jd-contents/AnimalsALT/AnimalsALT_HIGH.webm": "",
+        "jmcs://jd-contents/AnimalsALT/AnimalsALT.ogg": ""
+    }
+}

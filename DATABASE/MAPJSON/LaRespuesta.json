@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/LaRespuesta/LaRespuesta_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FLaRespuesta_High.webm?v=1609877648407",
+        "jmcs://jd-contents/LaRespuesta/LaRespuesta_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FLaRespuesta_Mid.webm?v=1609525582380",
+        "jmcs://jd-contents/LaRespuesta/LaRespuesta_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FLaRespuesta_Low.webm?v=1609525549403",
+        "jmcs://jd-contents/LaRespuesta/LaRespuesta_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FLaRespuesta_High.webm?v=1609877648407",
+        "jmcs://jd-contents/LaRespuesta/LaRespuesta.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FLaRespuesta.ogg?v=1609525538824"
+    }
+}

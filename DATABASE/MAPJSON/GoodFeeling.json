@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/GoodFeeling/GoodFeeling_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/GoodFeeling/GoodFeeling_ULTRA.webm/67a97fde0d495e846bc161db34a655de.webm?auth=exp=16169676723600~acl=/private/map/GoodFeeling/*~hmac=9bb6e4d9f131eff6cdc4adc886b0260181ed38f69a26db607b5f4a98b1ab9bf6",
+        "jmcs://jd-contents/GoodFeeling/GoodFeeling_MID.webm": "https://jd-s3.akamaized.net/private/map/GoodFeeling/GoodFeeling_MID.webm/c0442ce44242db9b5861e6288453ba4b.webm?auth=exp=16169676723600~acl=/private/map/GoodFeeling/*~hmac=9bb6e4d9f131eff6cdc4adc886b0260181ed38f69a26db607b5f4a98b1ab9bf6",
+        "jmcs://jd-contents/GoodFeeling/GoodFeeling_LOW.webm": "https://jd-s3.akamaized.net/private/map/GoodFeeling/GoodFeeling_LOW.webm/2ed29a5bf2e8d67b446ac01f679e5b99.webm?auth=exp=16169676723600~acl=/private/map/GoodFeeling/*~hmac=9bb6e4d9f131eff6cdc4adc886b0260181ed38f69a26db607b5f4a98b1ab9bf6",
+        "jmcs://jd-contents/GoodFeeling/GoodFeeling_HIGH.webm": "https://jd-s3.akamaized.net/private/map/GoodFeeling/GoodFeeling_HIGH.webm/e5ad087588eee27e140daaae66b13971.webm?auth=exp=16169676723600~acl=/private/map/GoodFeeling/*~hmac=9bb6e4d9f131eff6cdc4adc886b0260181ed38f69a26db607b5f4a98b1ab9bf6",
+        "jmcs://jd-contents/GoodFeeling/GoodFeeling.ogg": "https://jd-s3.akamaized.net/private/map/GoodFeeling/GoodFeeling.ogg/ee8de328effdcd5bbe136d4d0e2454a3.ogg?auth=exp=16169676723600~acl=/private/map/GoodFeeling/*~hmac=9bb6e4d9f131eff6cdc4adc886b0260181ed38f69a26db607b5f4a98b1ab9bf6"
+    }
+}

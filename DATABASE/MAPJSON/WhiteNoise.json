@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/WhiteNoise/WhiteNoise_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FWhiteNoise_high.webm?v=1610047163444",
+        "jmcs://jd-contents/WhiteNoise/WhiteNoise_MID.webm": "https://cdn.discordapp.com/attachments/796548854395961344/796820522641784862/WhiteNoise_mid.webm",
+        "jmcs://jd-contents/WhiteNoise/WhiteNoise_LOW.webm": "https://cdn.discordapp.com/attachments/796548854395961344/796820380383445012/WhiteNoise_low.webm",
+        "jmcs://jd-contents/WhiteNoise/WhiteNoise_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FWhiteNoise_high.webm?v=1610047163444",
+        "jmcs://jd-contents/WhiteNoise/WhiteNoise.ogg": "https://cdn.discordapp.com/attachments/796548854395961344/796820294864994334/WhiteNoise.ogg"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/ABBADancingQueen/ABBADancingQueen_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/ABBADancingQueen/ABBADancingQueen_ULTRA.webm/dffb9e0f2ed21a004356a8979ce1505c.webm?auth=exp=16169840483600~acl=/private/map/ABBADancingQueen/*~hmac=84e38b3e8849606b5d8448ebada07aa4b1f81a415bdc2690095b6dd81df1ef6d",
+        "jmcs://jd-contents/ABBADancingQueen/ABBADancingQueen_MID.webm": "https://jd-s3.akamaized.net/private/map/ABBADancingQueen/ABBADancingQueen_MID.webm/09bfa106fdd83cf91ed0d74687946ece.webm?auth=exp=16169840483600~acl=/private/map/ABBADancingQueen/*~hmac=84e38b3e8849606b5d8448ebada07aa4b1f81a415bdc2690095b6dd81df1ef6d",
+        "jmcs://jd-contents/ABBADancingQueen/ABBADancingQueen_LOW.webm": "https://jd-s3.akamaized.net/private/map/ABBADancingQueen/ABBADancingQueen_LOW.webm/c80d6eadbb6cfd0c2e11df797770c351.webm?auth=exp=16169840483600~acl=/private/map/ABBADancingQueen/*~hmac=84e38b3e8849606b5d8448ebada07aa4b1f81a415bdc2690095b6dd81df1ef6d",
+        "jmcs://jd-contents/ABBADancingQueen/ABBADancingQueen_HIGH.webm": "https://jd-s3.akamaized.net/private/map/ABBADancingQueen/ABBADancingQueen_HIGH.webm/d7a30179bfa52688bef3b57cb0041dd9.webm?auth=exp=16169840483600~acl=/private/map/ABBADancingQueen/*~hmac=84e38b3e8849606b5d8448ebada07aa4b1f81a415bdc2690095b6dd81df1ef6d",
+        "jmcs://jd-contents/ABBADancingQueen/ABBADancingQueen.ogg": "https://jd-s3.akamaized.net/private/map/ABBADancingQueen/ABBADancingQueen.ogg/33b7944d4f110d75a13eadfb1c3fba48.ogg?auth=exp=16169840483600~acl=/private/map/ABBADancingQueen/*~hmac=84e38b3e8849606b5d8448ebada07aa4b1f81a415bdc2690095b6dd81df1ef6d"
+    }
+}

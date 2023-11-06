@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BadRomance/BadRomance_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BadRomance/BadRomance_ULTRA.webm/3affda90a7c1047eee093fe3018f7840.webm?auth=exp=16159682363600~acl=/private/map/BadRomance/*~hmac=724240ec13def1508c2624ce35008dbdbf83b5e3c2afe3dc76fa9007dd230aac",
+        "jmcs://jd-contents/BadRomance/BadRomance_MID.webm": "https://jd-s3.akamaized.net/private/map/BadRomance/BadRomance_MID.webm/073a39d42ed5f0a96ac11af5096611d3.webm?auth=exp=16159682363600~acl=/private/map/BadRomance/*~hmac=724240ec13def1508c2624ce35008dbdbf83b5e3c2afe3dc76fa9007dd230aac",
+        "jmcs://jd-contents/BadRomance/BadRomance_LOW.webm": "https://jd-s3.akamaized.net/private/map/BadRomance/BadRomance_LOW.webm/660bfc3981add95db4b2055e26a96bdf.webm?auth=exp=16159682363600~acl=/private/map/BadRomance/*~hmac=724240ec13def1508c2624ce35008dbdbf83b5e3c2afe3dc76fa9007dd230aac",
+        "jmcs://jd-contents/BadRomance/BadRomance_HIGH.webm": "https://jd-s3.akamaized.net/private/map/BadRomance/BadRomance_HIGH.webm/3223a7638fb7b6a98378f9ef0e7f214f.webm?auth=exp=16159682363600~acl=/private/map/BadRomance/*~hmac=724240ec13def1508c2624ce35008dbdbf83b5e3c2afe3dc76fa9007dd230aac",
+        "jmcs://jd-contents/BadRomance/BadRomance.ogg": "https://jd-s3.akamaized.net/private/map/BadRomance/BadRomance.ogg/eb6cfa651b6cc08640ce2181b15ff014.ogg?auth=exp=16159682363600~acl=/private/map/BadRomance/*~hmac=724240ec13def1508c2624ce35008dbdbf83b5e3c2afe3dc76fa9007dd230aac"
+    }
+}

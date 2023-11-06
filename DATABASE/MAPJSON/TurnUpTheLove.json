@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/TurnUpTheLove/TurnUpTheLove_ULTRA.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FTurnUpTheLove_ULTRA.webm?v=1608480174747",
+    "jmcs://jd-contents/TurnUpTheLove/TurnUpTheLove_MID.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FTurnUpTheLove_MID.webm?v=1608480013591",
+    "jmcs://jd-contents/TurnUpTheLove/TurnUpTheLove_LOW.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FTurnUpTheLove_LOW.webm?v=1608479961322",
+    "jmcs://jd-contents/TurnUpTheLove/TurnUpTheLove_HIGH.webm": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FTurnUpTheLove_HIGH.webm?v=1608480066509",
+    "jmcs://jd-contents/TurnUpTheLove/TurnUpTheLove.ogg": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FTurnUpTheLove.ogg?v=1608479947483"
+  }
+}

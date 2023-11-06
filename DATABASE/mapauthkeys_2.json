@@ -1,0 +1,675 @@
+{
+  "Cotton": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2Fcotton_ultrahd.webm?v=1612536230731",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2Fcotton_high.webm?v=1612536031413",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2Fcotton_med.webm?v=1612535894541",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2Fcotton_low.webm?v=1612535792508",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2Fcotton_ogg.ogg?v=1612535746354"
+  },
+  "EyeOfTheTiger": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FEyeOfTheTiger_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FEyeOfTheTiger_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FEyeOfTheTiger_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FEyeOfTheTiger_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FEyeOfTheTiger.ogg"
+  },
+  "Fame": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame.ogg"
+  },
+  "HeartOfGlass": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFame.ogg"
+  },
+  "HotNCold": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FHotNCold_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FHotNCold_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FHotNCold_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FHotNCold_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FHotNCold.ogg"
+  },
+  "GetAround": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FGetAround_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FGetAround_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FGetAround_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FGetAround_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FGetAround.ogg"
+  },
+  "StepByStep": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FStepByStep_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FStepByStep_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FStepByStep_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FStepByStep_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FStepByStep.ogg"
+  },
+  "ThatsTheWay": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FThatsTheWay_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FThatsTheWay_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FThatsTheWay_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FThatsTheWay_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FThatsTheWay.ogg"
+  },
+  "CantTouchThis": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FCantTouchThis_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FCantTouchThis_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FCantTouchThis_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FCantTouchThis_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FCantTouchThis.ogg"
+  },
+  "DogsOut": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FDogsOut_ULTRA.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FDogsOut_HIGH.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FDogsOut_MID.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FDogsOut_LOW.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FDogsOut.ogg"
+  },
+  "Toxic": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FToxic_ALL.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FToxic_ALL.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FToxic_ALL.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FToxic_ALL.webm",
+    "ogg": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FToxic.ogg"
+  },
+  "JaiHo": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJaiHo_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJaiHo_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJaiHo_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJaiHo_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJaiHo.ogg"
+  },
+  "TikTok": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FTikTok_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FTikTok_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FTikTok_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FTikTok_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FTikTok.ogg"
+  },
+  "Idealistic": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIdealistic_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIdealistic_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIdealistic_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIdealistic_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIdealistic.ogg"
+  },
+  "BabyGirl": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyGirl_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyGirl_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyGirl_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyGirl_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyGirl.ogg"
+  },
+  "BigGirl": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBigGirl_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBigGirl_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBigGirl_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBigGirl_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBigGirl.ogg"
+  },
+  "GirlsJustWant": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlsJustWant_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlsJustWant_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlsJustWant_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlsJustWant_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlsJustWant.ogg"
+  },
+  "Potato": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPotato_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPotato_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPotato_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPotato_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPotato.ogg"
+  },
+  "LeFreak": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLeFreak_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLeFreak_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLeFreak_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLeFreak_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLeFreak.ogg"
+  },
+  "Acceptable": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAcceptable_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAcceptable_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAcceptable_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAcceptable_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAcceptable.ogg"
+  },
+  "Lump": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLump_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLump_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLump_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLump_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLump.ogg"
+  },
+  "BornToBeWild": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBornToBeWild_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBornToBeWild_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBornToBeWild_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBornToBeWild_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBornToBeWild.ogg"
+  },
+  "BarbieGirl": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbieGirl_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbieGirl_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbieGirl_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbieGirl_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbieGirl.ogg"
+  },
+  "CosmicGirl": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCosmicGirl_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCosmicGirl_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCosmicGirl_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCosmicGirl_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCosmicGirl.ogg"
+  },
+  "CryingBlood": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCryingBlood_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCryingBlood_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCryingBlood_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCryingBlood_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCryingBlood.ogg"
+  },
+  "Xmas": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FXmas_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FXmas_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FXmas_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FXmas_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FXmas.ogg"
+  },
+  "ChickenPayback": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FChickenPayback_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FChickenPayback_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FChickenPayback_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FChickenPayback_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FChickenPayback.ogg"
+  },
+  "RiverSide": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRiverSide_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRiverSide_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRiverSide_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRiverSide_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRiverSide.ogg"
+  },
+  "ElectroTribalDLC": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FElectroTribalDLC_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FElectroTribalDLC_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FElectroTribalDLC_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FElectroTribalDLC_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FElectroTribalDLC.ogg"
+  },
+  "Firework": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFirework_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFirework_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFirework_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFirework_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFirework.ogg"
+  },
+  "FunkyTown": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFunkyTown_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFunkyTown_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFunkyTown_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFunkyTown_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFunkyTown.ogg"
+  },
+  "Futebol": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFutebol_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFutebol_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFutebol_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFutebol_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFutebol.ogg"
+  },
+  "Girlfriend": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlfriend_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlfriend_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlfriend_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlfriend_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGirlfriend.ogg"
+  },
+  "HeyYa": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHeyYa_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHeyYa_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHeyYa_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHeyYa_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHeyYa.ogg"
+  },
+  "Holiday": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHoliday_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHoliday_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHoliday_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHoliday_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHoliday.ogg"
+  },
+  "HotStuff": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStuff_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStuff_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStuff_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStuff_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStuff.ogg"
+  },
+  "IWantYouBack": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWantYouBack_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWantYouBack_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWantYouBack_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWantYouBack_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWantYouBack.ogg"
+  },
+  "ItsRainingMen": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FItsRainingMen_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FItsRainingMen_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FItsRainingMen_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FItsRainingMen_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FItsRainingMen.ogg"
+  },
+  "MarioNX": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMarioNX_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMarioNX_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMarioNX_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMarioNX_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMarioNX.ogg"
+  },
+  "AmericanBoy": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAmericanBoy_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAmericanBoy_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAmericanBoy_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAmericanBoy_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAmericanBoy.ogg"
+  },
+  "JungleBoogie": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJungleBoogie_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJungleBoogie_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJungleBoogie_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJungleBoogie_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJungleBoogie.ogg"
+  },
+  "HotStep": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStep_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStep_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStep_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStep_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHotStep.ogg"
+  },
+  "PartOfMeDLC": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartOfMeDLC_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartOfMeDLC_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartOfMeDLC_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartOfMeDLC_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartOfMeDLC.ogg"
+  },
+  "KattiKalandal": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKattiKalandal_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKattiKalandal_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKattiKalandal_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKattiKalandal_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKattiKalandal.ogg"
+  },
+  "KungFu": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKungFu_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKungFu_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKungFu_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKungFu_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKungFu.ogg"
+  },
+  "Mambo5": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMambo5_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMambo5_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMambo5_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMambo5_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMambo5.ogg"
+  },
+  "MonsterMash": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMonsterMash_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMonsterMash_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMonsterMash_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMonsterMash_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMonsterMash.ogg"
+  },
+  "MoveYourFeet": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMoveYourFeet_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMoveYourFeet_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMoveYourFeet_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMoveYourFeet_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMoveYourFeet.ogg"
+  },
+  "MugsyBaloney": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMugsyBaloney_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMugsyBaloney_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMugsyBaloney_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMugsyBaloney_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMugsyBaloney.ogg"
+  },
+  "Song2": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSong2_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSong2_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSong2_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSong2_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSong2.ogg"
+  },
+  "NineAfternoon": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNineAfternoon_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNineAfternoon_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNineAfternoon_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNineAfternoon_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNineAfternoon.ogg"
+  },
+  "ProfesseurDLC": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProfesseurDLC_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProfesseurDLC_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProfesseurDLC_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProfesseurDLC_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProfesseurDLC.ogg"
+  },
+  "PumpUp": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPumpUp_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPumpUp_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPumpUp_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPumpUp_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPumpUp.ogg"
+  },
+  "ProudMary": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProudMary_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProudMary_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProudMary_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProudMary_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FProudMary.ogg"
+  },
+  "Rasputin": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRasputin_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRasputin_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRasputin_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRasputin_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRasputin.ogg"
+  },
+  "Rockafeller": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRockafeller_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRockafeller_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRockafeller_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRockafeller_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FRockafeller.ogg"
+  },
+  "Sway": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSway_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSway_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSway_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSway_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSway.ogg"
+  },
+  "SoulBossaNova": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSoulBossaNova_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSoulBossaNova_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSoulBossaNova_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSoulBossaNova_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FSoulBossaNova.ogg"
+  },
+  "ThatsNotMyName": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FThatsNotMyName_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FThatsNotMyName_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FThatsNotMyName_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FThatsNotMyName_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FThatsNotMyName.ogg"
+  },
+  "WalkLike": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWalkLike_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWalkLike_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWalkLike_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWalkLike_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWalkLike.ogg"
+  },
+  "WakeMeUp": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWakeMeUp_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWakeMeUp_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWakeMeUp_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWakeMeUp_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FWakeMeUp.ogg"
+  },
+  "CantHurryLove": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCantHurryLove_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCantHurryLove_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCantHurryLove_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCantHurryLove_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCantHurryLove.ogg"
+  },
+  "Airplanes": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAirplanes_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAirplanes_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAirplanes_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAirplanes_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAirplanes.ogg"
+  },
+  "Apache": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FApache_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FApache_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FApache_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FApache_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FApache.ogg"
+  },
+  "LoveMe": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLoveMe_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLoveMe_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLoveMe_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLoveMe_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLoveMe.ogg"
+  },
+  "BabyOneMoreQUAT": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyOneMoreQUAT_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyOneMoreQUAT_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyOneMoreQUAT_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyOneMoreQUAT_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBabyOneMoreQUAT.ogg"
+  },
+  "BarbraStreisand": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbraStreisand_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbraStreisand_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbraStreisand_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbraStreisand_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBarbraStreisand.ogg"
+  },
+  "BoogieWonderQUAT": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoogieWonderQUAT_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoogieWonderQUAT_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoogieWonderQUAT_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoogieWonderQUAT_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoogieWonderQUAT.ogg"
+   },
+  "BoomDLC": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoomDLC_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoomDLC_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoomDLC_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoomDLC_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FBoomDLC.ogg"
+   },
+  "CaliforniaGurls": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCaliforniaGurls_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCaliforniaGurls_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCaliforniaGurls_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCaliforniaGurls_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCaliforniaGurls.ogg"
+  },
+  "CrazyLittle": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCrazyLittle_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCrazyLittle_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCrazyLittle_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCrazyLittle_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FCrazyLittle.ogg"
+  },
+  "Dynamite": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FDynamite_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FDynamite_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FDynamite_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FDynamite_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FDynamite.ogg"
+  },
+  "GiveMeMore": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiveMeMore_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiveMeMore_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiveMeMore_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiveMeMore_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiveMeMore.ogg"
+  },
+  "ET": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FET_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FET_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FET_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FET_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FET.ogg"
+  },
+  "ForgetYou": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FForgetYou_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FForgetYou_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FForgetYou_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FForgetYou_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FForgetYou.ogg"
+  },
+  "GiddyOnUp": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiddyOnUp_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiddyOnUp_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiddyOnUp_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiddyOnUp_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FGiddyOnUp.ogg"
+  },
+  "HungarianDance": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHungarianDance_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHungarianDance_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHungarianDance_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHungarianDance_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FHungarianDance.ogg"
+  },
+  "FeelLikeDancing": {
+    "ultra": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFeelLikeDancing_ALL.webm",
+    "high": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFeelLikeDancing_ALL.webm",
+    "mid": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFeelLikeDancing_ALL.webm",
+    "low": "https://cdn.glitch.com/e1a342ac-9899-4c56-814e-d84ea579e279%2FFeelLikeDancing_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FFeelLikeDancing.ogg"
+  },
+  "IFeelLove": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIFeelLove_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIFeelLove_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIFeelLove_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIFeelLove_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIFeelLove.ogg"
+  },
+  "IWasMadeQUAT": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWasMadeQUAT_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWasMadeQUAT_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWasMadeQUAT_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWasMadeQUAT_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIWasMadeQUAT.ogg"
+  },
+  "JamboMambo": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJamboMambo_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJamboMambo_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJamboMambo_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJamboMambo_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJamboMambo.ogg"
+  },
+  "JumpGA": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJumpGA_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJumpGA_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJumpGA_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJumpGA_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FJumpGA.ogg"
+  },
+  "Kurio": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKurio_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKurio_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKurio_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKurio_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FKurio.ogg"
+  },
+  "AThousandDances": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAThousandDances_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAThousandDances_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAThousandDances_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAThousandDances_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FAThousandDancest.ogg"
+  },
+  "Lollipop": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLollipop_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLollipop_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLollipop_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLollipop_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FLollipop.ogg"
+  },
+  "Mamasita": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMamasita_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMamasita_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMamasita_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMamasita_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FMamasita.ogg"
+  },
+  "NoLimit": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNoLimit_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNoLimit_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNoLimit_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNoLimit_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FNoLimit.ogg"
+  },
+  "PartyRock": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartyRock_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartyRock_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartyRock_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartyRock_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPartyRock.ogg"
+  },
+  "PriceTag": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPriceTag_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPriceTag_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPriceTag_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPriceTag_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPriceTag.ogg"
+  },
+  "Promiscuous": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPromiscuous_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPromiscuous_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPromiscuous_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPromiscuous_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FPromiscuous.ogg"
+  },
+  "IDidItAgainQUAT": {
+    "ultra": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIDidItAgainQUAT_ALL.webm",
+    "high": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIDidItAgainQUAT_ALL.webm",
+    "mid": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIDidItAgainQUAT_ALL.webm",
+    "low": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIDidItAgainQUAT_ALL.webm",
+    "ogg": "https://cdn.glitch.com/0e315a13-cae6-4bbb-ade3-e90125b3e6c4%2FIDidItAgainQUAT.ogg"
+ },
+  "Princess": {
+    "ultra": "http://jdp-assets.justdanceposes.tk/Princess/Princess_ALL.webm",
+    "high": "http://jdp-assets.justdanceposes.tk/Princess/Princess_ALL.webm",
+    "mid": "http://jdp-assets.justdanceposes.tk/Princess/Princess_ALL.webm",
+    "low": "http://jdp-assets.justdanceposes.tk/Princess/Princess_ALL.webm",
+    "ogg": "http://jdp-assets.justdanceposes.tk/Princess/Princess.ogg"
+ },
+  "AllYouGottaCHN": {
+    "ultra": "http://jdp-assets.justdanceposes.tk/AllYouGottaCHN/AllYouGotta_ALL.webm",
+    "high": "http://jdp-assets.justdanceposes.tk/AllYouGottaCHN/AllYouGotta_ALL.webm",
+    "mid": "http://jdp-assets.justdanceposes.tk/AllYouGottaCHN/AllYouGotta_ALL.webm",
+    "low": "http://jdp-assets.justdanceposes.tk/AllYouGottaCHN/AllYouGotta_ALL.webm",
+    "ogg": "http://jdp-assets.justdanceposes.tk/AllYouGottaCHN/AllYouGottaCHN.ogg"
+},
+  "RainbowRhythm": {
+    "ultra": "http://jdp-assets.justdanceposes.tk/RainbowRhythm/RainbowRhythm_ALL.webm",
+    "high": "http://jdp-assets.justdanceposes.tk/RainbowRhythm/RainbowRhythm_ALL.webm",
+    "mid": "http://jdp-assets.justdanceposes.tk/RainbowRhythm/RainbowRhythm_ALL.webm",
+    "low": "http://jdp-assets.justdanceposes.tk/RainbowRhythm/RainbowRhythm_ALL.webm",
+    "ogg": "http://jdp-assets.justdanceposes.tk/RainbowRhythm/RainbowRhythm.ogg"
+},
+  "JDCHotPot": {
+    "ultra": "http://jdp-assets.justdanceposes.tk/JDCHotPot/JDCHotPot_ALL.webm",
+    "high": "http://jdp-assets.justdanceposes.tk/JDCHotPot/JDCHotPot_ALL.webm",
+    "mid": "http://jdp-assets.justdanceposes.tk/JDCHotPot/JDCHotPot_ALL.webm",
+    "low": "http://jdp-assets.justdanceposes.tk/JDCHotPot/JDCHotPot_ALL.webm",
+    "ogg": "http://jdp-assets.justdanceposes.tk/JDCHotPot/JDCHotPot.ogg"
+},
+  "SOS": {
+    "ultra": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Fclean.sos_HIGH.webm?v=1610034805154",
+    "high": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Fclean.sos_HIGH.webm?v=1610034805154",
+    "mid": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Fclean.sos_MID.webm?v=1610034783362",
+    "low": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Fclean.sos_LOW.webm?v=1610034624540",
+    "ogg": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Fsoss.ogg?v=1610034423217"
+
+  }
+}

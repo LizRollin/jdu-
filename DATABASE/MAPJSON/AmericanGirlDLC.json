@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/AmericanGirlDLC/AmericanGirlDLC_ULTRA.webm/967163596872a442f4419f38a15a5f23.webm?auth=exp=16143535623600~acl=/private/map/AmericanGirlDLC/*~hmac=3bd00204d8e064e30a22112962801cd573996fcf6d92f1785d9c6a8e26fa43d0",
+        "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MID.webm": "https://jd-s3.akamaized.net/private/map/AmericanGirlDLC/AmericanGirlDLC_MID.webm/c192dfef30fe5c5d07b4d0c298f47c50.webm?auth=exp=16143535623600~acl=/private/map/AmericanGirlDLC/*~hmac=3bd00204d8e064e30a22112962801cd573996fcf6d92f1785d9c6a8e26fa43d0",
+        "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_LOW.webm": "https://jd-s3.akamaized.net/private/map/AmericanGirlDLC/AmericanGirlDLC_LOW.webm/8103e731826e7e6948b68d5e0c2c07cc.webm?auth=exp=16143535623600~acl=/private/map/AmericanGirlDLC/*~hmac=3bd00204d8e064e30a22112962801cd573996fcf6d92f1785d9c6a8e26fa43d0",
+        "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_HIGH.webm": "https://jd-s3.akamaized.net/private/map/AmericanGirlDLC/AmericanGirlDLC_HIGH.webm/ffa02461cc1835689a3897826580c11e.webm?auth=exp=16143535623600~acl=/private/map/AmericanGirlDLC/*~hmac=3bd00204d8e064e30a22112962801cd573996fcf6d92f1785d9c6a8e26fa43d0",
+        "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC.ogg": "https://jd-s3.akamaized.net/private/map/AmericanGirlDLC/AmericanGirlDLC.ogg/5093445173ece1112602b421b5c1f68b.ogg?auth=exp=16143535623600~acl=/private/map/AmericanGirlDLC/*~hmac=3bd00204d8e064e30a22112962801cd573996fcf6d92f1785d9c6a8e26fa43d0"
+    }
+}

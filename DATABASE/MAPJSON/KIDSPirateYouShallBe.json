@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSPirateYouShallBe/KIDSPirateYouShallBe_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/KIDSPirateYouShallBe/KIDSPirateYouShallBe_ULTRA.webm/de3c4f354cc03b2ca45d2cb3537da872.webm?auth=exp=16159922143600~acl=/private/map/KIDSPirateYouShallBe/*~hmac=79dcc407bc2f7ab164db09916250db57a13573b5302054066609667d9a0fe60c",
+        "jmcs://jd-contents/KIDSPirateYouShallBe/KIDSPirateYouShallBe_MID.webm": "https://jd-s3.akamaized.net/private/map/KIDSPirateYouShallBe/KIDSPirateYouShallBe_MID.webm/abbf3b1b6a844c8fdbbee766b63e5da5.webm?auth=exp=16159922143600~acl=/private/map/KIDSPirateYouShallBe/*~hmac=79dcc407bc2f7ab164db09916250db57a13573b5302054066609667d9a0fe60c",
+        "jmcs://jd-contents/KIDSPirateYouShallBe/KIDSPirateYouShallBe_LOW.webm": "https://jd-s3.akamaized.net/private/map/KIDSPirateYouShallBe/KIDSPirateYouShallBe_LOW.webm/9c0540774975b28ff7d379853f331790.webm?auth=exp=16159922143600~acl=/private/map/KIDSPirateYouShallBe/*~hmac=79dcc407bc2f7ab164db09916250db57a13573b5302054066609667d9a0fe60c",
+        "jmcs://jd-contents/KIDSPirateYouShallBe/KIDSPirateYouShallBe_HIGH.webm": "https://jd-s3.akamaized.net/private/map/KIDSPirateYouShallBe/KIDSPirateYouShallBe_HIGH.webm/16fe571344d17b49c8709f6074ab6289.webm?auth=exp=16159922143600~acl=/private/map/KIDSPirateYouShallBe/*~hmac=79dcc407bc2f7ab164db09916250db57a13573b5302054066609667d9a0fe60c",
+        "jmcs://jd-contents/KIDSPirateYouShallBe/KIDSPirateYouShallBe.ogg": "https://jd-s3.akamaized.net/private/map/KIDSPirateYouShallBe/KIDSPirateYouShallBe.ogg/69669a2c0951805ed66a4f8cf3b20798.ogg?auth=exp=16159922143600~acl=/private/map/KIDSPirateYouShallBe/*~hmac=79dcc407bc2f7ab164db09916250db57a13573b5302054066609667d9a0fe60c"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 535312,
+    "urls": {
+        "jmcs://jd-contents/TokyoTiktok/TokyoTiktok_ULTRA.webm": "https://cdn.glitch.com/e58baf7e-8def-4328-8814-95a38b762a2e%2FTokyoTiktok_ULTRA.webm?v=1615291394387",
+        "jmcs://jd-contents/TokyoTiktok/TokyoTiktok_MID.webm": "https://cdn.glitch.com/e58baf7e-8def-4328-8814-95a38b762a2e%2FTokyoTiktok_MID.webm?v=1615291391016",
+        "jmcs://jd-contents/TokyoTiktok/TokyoTiktok_LOW.webm": "https://cdn.glitch.com/e58baf7e-8def-4328-8814-95a38b762a2e%2FTokyoTiktok_LOW.webm?v=1615291384674",
+        "jmcs://jd-contents/TokyoTiktok/TokyoTiktok_HIGH.webm": "https://cdn.glitch.com/e58baf7e-8def-4328-8814-95a38b762a2e%2FTokyoTiktok_HIGH.webm?v=1615291394989",
+        "jmcs://jd-contents/TokyoTiktok/TokyoTiktok.ogg": "https://cdn.glitch.com/e58baf7e-8def-4328-8814-95a38b762a2e%2Ftokyotiktok.ogg?v=1615291707184"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/CryingBlood/CryingBlood_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/CryingBlood/CryingBlood_ULTRA.webm/2db63b59e14c7672406139c9bab8fa53.webm?auth=exp=16165474633600~acl=/private/map/CryingBlood/*~hmac=b1c8e99ebb93d07aea4a0e04b8b023a153aff995c897022663fe4d82008057a2",
+        "jmcs://jd-contents/CryingBlood/CryingBlood_MID.webm": "https://jd-s3.akamaized.net/private/map/CryingBlood/CryingBlood_MID.webm/362964b0feb7b90f06d0850222599e8c.webm?auth=exp=16165474633600~acl=/private/map/CryingBlood/*~hmac=b1c8e99ebb93d07aea4a0e04b8b023a153aff995c897022663fe4d82008057a2",
+        "jmcs://jd-contents/CryingBlood/CryingBlood_LOW.webm": "https://jd-s3.akamaized.net/private/map/CryingBlood/CryingBlood_LOW.webm/68cecbae6e8f1385efda743895d38487.webm?auth=exp=16165474633600~acl=/private/map/CryingBlood/*~hmac=b1c8e99ebb93d07aea4a0e04b8b023a153aff995c897022663fe4d82008057a2",
+        "jmcs://jd-contents/CryingBlood/CryingBlood_HIGH.webm": "https://jd-s3.akamaized.net/private/map/CryingBlood/CryingBlood_HIGH.webm/84780d7f2858e060b7ec0cbcdb4ab27e.webm?auth=exp=16165474633600~acl=/private/map/CryingBlood/*~hmac=b1c8e99ebb93d07aea4a0e04b8b023a153aff995c897022663fe4d82008057a2",
+        "jmcs://jd-contents/CryingBlood/CryingBlood.ogg": "https://jd-s3.akamaized.net/private/map/CryingBlood/CryingBlood.ogg/6fd6a77ac3e351e98f18321856bd8973.ogg?auth=exp=16165474633600~acl=/private/map/CryingBlood/*~hmac=b1c8e99ebb93d07aea4a0e04b8b023a153aff995c897022663fe4d82008057a2"
+    }
+}
