@@ -133,10 +133,6 @@ app.get("/constant-provider/v1/sku-constants", (req, res) => {
   res.send(skuconstants);
 });
 
-app.get("/customizable-itemdb/v1/items", (req, res) => {
-  res.send(items);
-});
-
 app.get("/dance-machine/v1/blocks", (req, res) => {
   res.send(blocks);
 });
