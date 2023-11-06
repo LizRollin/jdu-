@@ -3,10 +3,162 @@
 	"categories": [
 		{
 			"__class": "Category",
-			"title": "[icon:SONGS]  Test",
+			"title": "Just Dance 2024 Edition",
 			"act": "ui_carousel",
 			"isc": "grp_row",
 			"items": [
+				{
+					"__class": "Item",
+					"isc": "map_default_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Versailles"
+						}
+					],
+					"actionList": "default_m_1e_2c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "AQueda"
+						}
+					],
+					"actionList": "default_m_2e_1c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "AfterParty"
+						}
+					],
+					"actionList": "default_m_2e_1c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_extreme",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Butter"
+						}
+					],
+					"actionList": "default_ex_2e_4c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_easy",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "CalmDown"
+						}
+					],
+					"actionList": "default_e_1e_2c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_hard",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "CantTameHer"
+						}
+					],
+					"actionList": "default_h_2e_1c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "CannedHeat"
+						}
+					],
+					"actionList": "default_m_3e_1c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "ChaiseLongue"
+						}
+					],
+					"actionList": "default_m_2e_2c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_hard",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "Cradles"
+						}
+					],
+					"actionList": "default_h_2e_1c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "CureForMe"
+						}
+					],
+					"actionList": "default_m_2e_1c"
+				},
+				{
+					"__class": "Item",
+					"isc": "map_default_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "DESPECHA"
+						}
+					],
+					"actionList": "default_e_1e_1c"
+				}
+			]
+		},
+		{
+			"__class": "Category",
+			"title": "Just Dance Plus",
+			"act": "ui_carousel",
+			"isc": "grp_row",
+			"items": [
+				{
+					"__class": "Item",
+					"isc": "map_plus_medium",
+					"act": "ui_component_base",
+					"components": [
+						{
+							"__class": "JD_CarouselContentComponent_Song",
+							"mapName": "BadHabits"
+						}
+					],
+					"actionList": "plus_e_1e_1c"
+				},
 				{
 					"__class": "Item",
 					"isc": "map_unlimited",
@@ -14,15 +166,65 @@
 					"components": [
 						{
 							"__class": "JD_CarouselContentComponent_Song",
-							"mapName": "UglyBeauty"
+							"mapName": "UglyBeautyALT"
 						}
 					],
-					"actionList": "easy"
+					"actionList": "wip_hard"
 				}
 			]
 		}
 	],
 	"actionLists": {
+		"search": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerType": "search",
+					"title": "New search",
+					"type": "open-keyboard"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default",
+					"bannerType": "search",
+					"title": "Previous search",
+					"type": "previous-search"
+				}
+			],
+			"itemType": "search"
+		},
+		"partyMap": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "family_rival",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song",
+					"title": "Dance",
+					"type": "play-song"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "family_rival",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song",
+					"title": "Add to favorites",
+					"type": "set-favorite"
+				},
+				{
+					"__class": "Action",
+					"bannerContext": "family_rival",
+					"bannerTheme": "DEFAULT",
+					"bannerType": "song_leaderboard",
+					"title": "Leaderboard",
+					"type": "leaderboard"
+				}
+			],
+			"itemType": "leaderboard"
+		},
 		"article_default": {
 			"__class": "ActionList",
 			"actions": [
@@ -65,49 +267,1351 @@
 			],
 			"itemType": "map"
 		},
-		"easy": {
+		"default_e_1e_1c": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "default_easy",
+					"bannerTheme": "default_e_1e_1c",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
+					"title": "",
 					"type": "play-song"
 				}
 			],
 			"itemType": "map"
 		},
-		"medium": {
+		"default_e_1e_2c": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "default_medium",
+					"bannerTheme": "default_e_1e_2c",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
+					"title": "",
 					"type": "play-song"
 				}
 			],
 			"itemType": "map"
 		},
-		"hard": {
+		"default_e_1e_3c": {
 			"__class": "ActionList",
 			"actions": [
 				{
 					"__class": "Action",
 					"bannerContext": "default",
-					"bannerTheme": "default_hard",
+					"bannerTheme": "default_e_1e_3c",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
+					"title": "",
 					"type": "play-song"
 				}
 			],
 			"itemType": "map"
 		},
-		"extreme": {
+		"default_e_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_e_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_e_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_m_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_m_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_h_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_h_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"default_ex_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "default_ex_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_e_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_e_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_m_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_m_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_h_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_h_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_1e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_1e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_2e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_2e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_1c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_1c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_2c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_2c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_3c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_3c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"plus_ex_3e_4c": {
+			"__class": "ActionList",
+			"actions": [
+				{
+					"__class": "Action",
+					"bannerContext": "default",
+					"bannerTheme": "plus_ex_3e_4c",
+					"bannerType": "song",
+					"title": "",
+					"type": "play-song"
+				}
+			],
+			"itemType": "map"
+		},
+		"wip_extreme": {
 			"__class": "ActionList",
 			"actions": [
 				{
@@ -115,35 +1619,7 @@
 					"bannerContext": "default",
 					"bannerTheme": "default_extreme",
 					"bannerType": "song",
-					"title": "[icon:GEN-VALIDATE] Dance",
-					"type": "play-song"
-				}
-			],
-			"itemType": "map"
-		},
-		"wip_easy": {
-			"__class": "ActionList",
-			"actions": [
-				{
-					"__class": "Action",
-					"bannerContext": "default",
-					"bannerTheme": "default_easy",
-					"bannerType": "song",
-					"title": "Soon!",
-					"type": ""
-				}
-			],
-			"itemType": "map"
-		},
-		"wip_medium": {
-			"__class": "ActionList",
-			"actions": [
-				{
-					"__class": "Action",
-					"bannerContext": "default",
-					"bannerTheme": "default_medium",
-					"bannerType": "song",
-					"title": "Soon!",
+					"title": "This song will be available soon!",
 					"type": ""
 				}
 			],
@@ -157,21 +1633,7 @@
 					"bannerContext": "default",
 					"bannerTheme": "default_hard",
 					"bannerType": "song",
-					"title": "Soon!",
-					"type": ""
-				}
-			],
-			"itemType": "map"
-		},
-		"wip_extreme": {
-			"__class": "ActionList",
-			"actions": [
-				{
-					"__class": "Action",
-					"bannerContext": "default",
-					"bannerTheme": "default_extreme",
-					"bannerType": "song",
-					"title": "Soon!",
+					"title": "This song will be available soon!",
 					"type": ""
 				}
 			],

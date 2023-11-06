@@ -1,89 +1,588 @@
 {
-	"UglyBeauty": {
-		"artist": "Jolin Tsai",
+	"Versailles": {
+		"artist": "The Just Dance Orchestra",
 		"assets": {
-			"map_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_banner_bkg.tga.ckd/d236303be25b04990e4e01c3ef27e7e9.ckd",
-			"coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_Coach_1.tga.ckd/9b6cb882b39bfd13b2a1e7d3f390193f.ckd",
-			"coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_Coach_2.tga.ckd/f3d34198f582c4439d519ed1a3297580.ckd",
-			"coach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_Coach_3.tga.ckd/b3e5e299af1f9bc8cc3c9d73adf7b789.ckd",
-			"coverImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_Cover_Generic.tga.ckd/4bc12555888a8506387b7f9d1637a2b2.ckd",
-			"cover_1024ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Cover_1024.png/928c6839c6ac9e94ac882ba6a8fec433.png",
-			"cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_Cover_Online.tga.ckd/a808facd4f0fd3856164ab82cde33cbb.ckd",
-			"expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_Cover_AlbumBkg.tga.ckd/18e965757d3234652c0fbf23264fa983.ckd",
-			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_Cover_AlbumCoach.tga.ckd/fa262590b408c570e7154b6052da5ba1.ckd",
-			"phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_1_Phone.png/be9a7a7442e45982c28cca9c2cad5d20.png",
-			"phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_2_Phone.png/8bf8ab07c462097b97ffcd855324d98f.png",
-			"phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Coach_3_Phone.png/d8b491ce4a4631b68cf5aa80b1ffdc52.png",
-			"phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_Cover_Phone.jpg/2f782b96e2e07c82a807bab321ece4a2.jpg",
-			"banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/UglyBeauty/x1/UglyBeauty_map_bkg.tga.ckd/930196f95a892423c0c006e5f64d30ea.ckd"
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996253632307200/Versailles_Coach_1.png",
+			"coach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996254437625968/Versailles_Coach_2.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996254030762138/Versailles_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996254030762138/Versailles_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996254798323842/Versailles_Title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/365/x1/365_Cover_AlbumCoach.tga.ckd/db1095ee7e883af0c8ca6ba7422a9fa3.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996253632307200/Versailles_Coach_1.png",
+			"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996254437625968/Versailles_Coach_2.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168996254030762138/Versailles_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168997198109884536/Versailles_mapbkg.png"
 		},
-		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29388,58775,88163,117551,146939,176326,205714,235102,264490,293877,323265,352653,382041,411428,440816,470204,499592,528979,558367,587755,617143,646530,675918,705306,734694,764081,793469,822857,852245,881632,911020,940408,969796,999183,1028571,1057959,1087347,1116734,1146122,1175510,1204898,1234285,1263673,1293061,1322449,1351836,1381224,1410612],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":3},{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-4,\"endBeat\":296,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/uglybeauty/uglybeauty_AudioPreview.ogg\"}",
-		"coachCount": 3,
-		"credits": "Composed by Qing-Feng Wu, Hong Yun Hui, Rhys Fletcher, Zhen-Yu Wang aka Stan Dubb, Richard Craker, Yi Lin Jolin Tsai and Xi Han Chen. Published by Universal Music Publishing Canada on behalf of Universal Music Publishing Ltd. Taiwan. / Stand Dubb Music (NS). All rights reserved. Used with permission. Courtesy of 2018 Eternal Music Production Company Ltd exclusively licensed to Sony Music Entertainment Taiwan Ltd. By arrangement with Sony Music Licensing.",
-		"difficulty": 1,
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,29387,58775,88163,117551,146938,176326,205714,235102,264489,293877,323265,352653,382040,411428,440816,470204,499591,528979,558367,587755,617142,646530,675918,705306,734693,764081,793469,822857,852244,881632,911020,940408,969795,999183,1028571,1057959,1087346,1116734,1146122,1175510,1204897,1234285,1263673,1293061,1322449,1351836,1381224,1410612],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Versailles/Versailles_AudioPreview.ogg\"}",
+		"coachCount": 2,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
 		"jdmAttributes": [],
-		"lyricsColor": "00D8DEFF",
+		"lyricsColor": "FF0465FF",
 		"lyricsType": 0,
 		"mainCoach": -1,
-		"mapLength": 183.67399999999999,
-		"mapName": "UglyBeauty",
-		"mapPreviewMpd": {
-			"videoEncoding": {
-				"vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"493417\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"604-1093\">\r\n\t\t\t\t\t<Initialization range=\"0-604\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1480793\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2928220\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3441000\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
-				"vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"661637\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"605-1095\">\r\n\t\t\t\t\t<Initialization range=\"0-605\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1498294\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2985812\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1091\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5938166\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"601-1098\">\r\n\t\t\t\t\t<Initialization range=\"0-601\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
-			}
-		},
+		"mapLength": 184.898,
+		"mapName": "Versailles",
 		"mode": 6,
-		"originalJDVersion": 2020,
+		"originalJDVersion": 2024,
 		"packages": {
-			"mapContent": "UglyBeauty_mapContent"
+			"mapContent": "Versailles_mapContent"
 		},
-		"parentMapName": "UglyBeauty",
-		"skuIds": [
-			"jd2020-ps4-scea",
-			"jd2020-nx-all",
-			"jd2020-xone-all",
-			"jd2020-ps4-scee",
-			"jd2020-demo-ps4-scee",
-			"jd2020-demo-xone-all",
-			"jd2020-ggp-all",
-			"jd2020-demo-nx-all",
-			"jd2020-demo-ps4-scea"
-		],
+		"parentMapName": "Versailles",
 		"songColors": {
-			"songColor_1A": "FF5C11FF",
-			"songColor_1B": "FFA952FF",
-			"songColor_2A": "271E96FF",
-			"songColor_2B": "2D00BBFF"
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
 		},
 		"status": 3,
 		"sweatDifficulty": 1,
 		"tags": [
-			"Main",
-			"subscribedSong",
-			"ExcludedFromWDF",
-			"JustDance2020",
-			"Trio",
-			"Easy",
-			"Sweat Low",
-			"Asian",
-			"Fresh",
-			"Girls",
-			"Historical",
-			"Princess"
+			"main",
+			"subscribedSong"
 		],
-		"title": "Ugly Beauty (怪美的)",
+		"title": "A Night in the château de Versailles",
 		"urls": {
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_AudioPreview.ogg/a937a1f95fad264bd5a02e15e4ea8592.ogg",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp8.webm/10b705db7e70bee69d4aece449aa3d43.webm",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_HIGH.vp9.webm/96fad8d3cbb29c55f5fe2daa5ba3f3ad.webm",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp8.webm/6836f419f8d931d8e6495a17a904d2ca.webm",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_LOW.vp9.webm/945221efeaa4e60907b3a925c74a5220.webm",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp8.webm/118b0eceddb099fc4d646a56ca769a20.webm",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_MID.vp9.webm/4fa66c6ad2ec5bb816a47770c5b95cbe.webm",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp8.webm/73bf53f78343271d871c2009937cdb25.webm",
-			"jmcs://jd-contents/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jd-s3.akamaized.net/public/map/UglyBeauty/UglyBeauty_MapPreviewNoSoundCrop_ULTRA.vp9.webm/5d8db42f4fffd9458159e401847f64aa.webm"
+			"jmcs://jd-contents/Versailles/Versailles_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1167289464939352156/1168995345154445402/versailles_audiopreview.ogg"
 		},
-		"serverChangelist": 540562
+		"serverChangelist": 540229
+	},
+	"AQueda": {
+		"artist": "Gloria Groove",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168998451409846293/AQueda_Coach_1.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168998451766370435/AQueda_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168998451766370435/AQueda_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168998452173226025/AQueda_Title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/1999/x1/1999_Cover_AlbumCoach.tga.ckd/a76b2dfcdd206e1902f3e939a33aa042.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168998451409846293/AQueda_Coach_1.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168998451766370435/AQueda_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1168998452705886269/AQueda_Map_BKG.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23226,46452,69678,92904,116129,139355,162581,185807,209033,232258,255484,278710,301936,325162,348388,371613,394839,418065,441291,464517,487742,510968,534194,557420,580646,603871,627097,650323,673549,696775,720000,743226,766452,789678,812904,836129,859355,882581,905807,929033,952258,975484,998710,1021936,1045162,1068388,1091613,1114839,1138065,1161291,1184517,1207742,1230968,1254194,1277420,1300646,1323871,1347097,1370323,1393549,1416775],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/AQueda/AQueda_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
+		"jdmAttributes": [],
+		"lyricsColor": "FF78C4FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 194.516,
+		"mapName": "AQueda",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "AQueda_mapContent"
+		},
+		"parentMapName": "AQueda",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"main",
+			"subscribedSong"
+		],
+		"title": "A QUEDA",
+		"urls": {
+			"jmcs://jd-contents/AQueda/AQueda_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1168999429131481199/AQueda_audiopreview.ogg"
+		},
+		"serverChangelist": 544216
+	},
+	"AfterParty": {
+		"artist": "Banx and Ranx ft. Zach Zoya",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003348331077632/Afterparty_coach_1.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003348683403365/AfterParty_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003348683403365/AfterParty_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003347626438766/Afterparty_title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/1999/x1/1999_Cover_AlbumCoach.tga.ckd/a76b2dfcdd206e1902f3e939a33aa042.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003348331077632/Afterparty_coach_1.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003348683403365/AfterParty_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003347227975802/Afterparty_map_bkg.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23226,46452,69678,92904,116129,139355,162581,185807,209033,232258,255484,278710,301936,325162,348388,371613,394839,418065,441291,464517,487742,510968,534194,557420,580646,603871,627097,650323,673549,696775,720000,743226,766452,789678,812904,836129,859355,882581,905807,929033,952258,975484,998710,1021936,1045162,1068388,1091613,1114839,1138065,1161291,1184517,1207742,1230968,1254194,1277420,1300646,1323871,1347097,1370323,1393549,1416775],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/AfterParty/AfterParty_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
+		"jdmAttributes": [],
+		"lyricsColor": "FF78C4FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 194.516,
+		"mapName": "AfterParty",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "AfterParty_mapContent"
+		},
+		"parentMapName": "AfterParty",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"main",
+			"subscribedSong"
+		],
+		"title": "After Party",
+		"urls": {
+			"jmcs://jd-contents/AfterParty/AfterParty_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169003347873894411/afterparty_audiopreview.ogg"
+		},
+		"serverChangelist": 544216
+	},
+	"Butter": {
+		"artist": "BTS",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005094436601968/Butter_Coach_1.png",
+			"coach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005094805704864/Butter_Coach_2.png",
+			"coach3ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005095158042706/Butter_Coach_3.png",
+			"coach4ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005095527120977/Butter_Coach_4.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005095858475169/Butter_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005095858475169/Butter_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005096797995058/Butter_Title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Uno/x1/Uno_Cover_AlbumCoach.tga.ckd/bab663c1eb4d78bfb8e13b2f918c12ca.ckd",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005096437305446/Butter_Map_BKG.png",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005094436601968/Butter_Coach_1.png",
+			"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005094805704864/Butter_Coach_2.png",
+			"phoneCoach3ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005095158042706/Butter_Coach_3.png",
+			"phoneCoach4ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005095527120977/Butter_Coach_4.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005095858475169/Butter_cover.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,20282,40564,60845,81127,101409,121690,141972,162254,182536,202817,223099,243381,263662,283944,304226,324507,344789,365071,385352,405634,425916,446198,466479,486761,507043,527324,547606,567888,588169,608451,628733,649014,669296,689578,709860,730141,750423,770705,790986,811268,831550,851831,872113,892395,912676,932958,953240,973521,993803,1014085,1034367,1054648,1074930,1095212,1115493,1135775,1156057,1176338,1196620,1216902,1237183,1257465,1277747,1298029,1318310,1338592,1358874,1379155,1399437,1419719],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":378,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":70,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Butter/Butter_AudioPreview.ogg\"}",
+		"coachCount": 4,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
+		"jdmAttributes": [],
+		"lyricsColor": "FF832FFF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 160.986,
+		"mapName": "Butter",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "Butter_mapContent"
+		},
+		"parentMapName": "Butter",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"main",
+			"subscribedSong"
+		],
+		"title": "Butter",
+		"urls": {
+			"jmcs://jd-contents/Butter/Butter_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169005097016119326/Butter_audiopreview.ogg"
+		},
+		"serverChangelist": 556465
+	},
+	"CalmDown": {
+		"artist": "Rema",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007873049759814/Calmdown_coach_1.png",
+			"coach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007870201827360/Calmdown_coach_2.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007870860341350/CalmDown_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007870860341350/CalmDown_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007871736942682/Calmdown_title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TwistShakeIt/x1/TwistShakeIt_Cover_AlbumCoach.tga.ckd/ee16a2d29edce888fb1e7227ef56eff4.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007873049759814/Calmdown_coach_1.png",
+			"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007870201827360/Calmdown_coach_2.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007870860341350/CalmDown_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007871338496100/Calmdown_map_bkg.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21336,42672,64008,85344,106680,128016,149352,170688,192024,213360,234696,256032,277368,298704,320040,341376,362712,384048,405384,426720,448056,469392,490728,512064,533400,554736,576072,597408,618744,640080,661416,682752,704088,725424,746760,768096,789432,810768,832104,853440,874776,896112,917448,938784,960120,981456,1002792,1024128,1045464,1066800,1088136,1109472,1130808,1152144,1173480,1194816,1216152,1237488,1258824,1280160,1301496,1322832,1344168,1365504,1386840,1408176,1429512],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":323,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CalmDown/CalmDown_AudioPreview.ogg\"}",
+		"coachCount": 2,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 1,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "02D8AAFF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 144.003,
+		"mapName": "CalmDown",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "CalmDown_mapContent"
+		},
+		"parentMapName": "CalmDown",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 1,
+		"tags": [
+			"main",
+			"subscribedSong"
+		],
+		"title": "Calm Down",
+		"urls": {
+			"jmcs://jd-contents/CalmDown/CalmDown_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169007871992807574/calmdown_audiopreview.ogg"
+		},
+		"serverChangelist": 544216
+	},
+	"CantTameHer": {
+		"artist": "Jain",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993199132722/Canttameher_coach_1.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993513697341/canttameher_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993513697341/canttameher_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1167289464939352156/1169807204250046554/image.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Tusa/x1/Tusa_Cover_AlbumCoach.tga.ckd/3c580c14bdbfe1cbe7298b5a69aa0dcf.ckd",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009994071556256/Canttameher_map_bkg.png",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993199132722/Canttameher_coach_1.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993513697341/canttameher_cover.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28515,57029,85544,114059,142574,171089,199604,228119,256633,285148,313663,342178,370693,399208,427723,456237,484752,513267,541782,570297,598812,627327,655841,684356,712871,741386,769901,798416,826930,855445,883960,912475,940990,969505,998020,1026534,1055049,1083564,1112079,1140594,1169109,1197624,1226138,1254653,1283168,1311683,1340198,1368713,1397228,1425742],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CantTameHer/CantTameHer_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 3,
+		"jdmAttributes": [],
+		"lyricsColor": "0F91FFFF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 191.881,
+		"mapName": "CantTameHer",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "CantTameHer_mapContent"
+		},
+		"parentMapName": "CantTameHer",
+		"skuIds": [],
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"Main",
+			"subscribedSong"
+		],
+		"title": "Makeba",
+		"urls": {
+			"jmcs://jd-contents/CantTameHer/CantTameHer_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169010002535649421/canttameher_audiopreview.ogg"
+		},
+		"serverChangelist": 574438
+	},
+	"CannedHeat": {
+		"artist": "Jamiroquai",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012357264048148/CannedHeat_Coach_1.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012359038251109/CannedHeat_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012359038251109/CannedHeat_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012357540884480/CannedHeat_Title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Titanium/x1/Titanium_Cover_AlbumCoach.tga.ckd/13d12febcb7f5eb221297e86e6e9a828.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012357264048148/CannedHeat_Coach_1.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012359038251109/CannedHeat_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012358149046342/Cannedheat_map_bkg.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22896,45744,68592,91439,114287,137183,160031,182879,205727,228575,251471,274319,297167,320015,342863,365759,388607,411455,434303,457151,479999,502895,525743,548591,571438,594286,617182,640030,662878,685726,708574,731470,754318,777166,800014,822862,845758,868606,891454,914302,937150,959998,982894,1005742,1028589,1051437,1074285,1097181,1120029,1142877,1165725,1188573,1211469,1234317,1257165,1280013,1302861,1325757,1348605,1371453,1394301,1417149,1439997],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":447,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CannedHeat/CannedHeat_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "F144F2FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 216.667,
+		"mapName": "CannedHeat",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "CannedHeat_mapContent"
+		},
+		"parentMapName": "CannedHeat",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 3,
+		"tags": [
+			"Main",
+			"subscribedSong"
+		],
+		"title": "Canned Heat",
+		"urls": {
+			"jmcs://jd-contents/CannedHeat/CannedHeat_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169012358451040356/cannedheat_audiopreview.ogg"
+		},
+		"serverChangelist": 544216
+	},
+	"ChaiseLongue": {
+		"artist": "Wet Leg",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014357351473194/ChaiseLongue_Coach_1.png",
+			"coach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014357707993158/ChaiseLongue_Coach_2.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014358207107113/ChaiseLongue_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014358207107113/ChaiseLongue_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014359175991346/ChaiseLongue_Title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TicoTico/x1/TicoTico_Cover_AlbumCoach.tga.ckd/8b3288db9bf94d2032dcdde5db268493.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014357351473194/ChaiseLongue_Coach_1.png",
+			"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014357707993158/ChaiseLongue_Coach_2.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014358207107113/ChaiseLongue_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014358723014666/ChaiseLongue_Map_BKG.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69119,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645119,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313279,1336320,1359360,1382399,1405440,1428480],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":338,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ChaiseLongue/ChaiseLongue_AudioPreview.ogg\"}",
+		"coachCount": 2,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "FF0000FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 172.702,
+		"mapName": "ChaiseLongue",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "ChaiseLongue_mapContent"
+		},
+		"parentMapName": "ChaiseLongue",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"Main",
+			"subscribedSong"
+		],
+		"title": "Chaise Longue",
+		"urls": {
+			"jmcs://jd-contents/ChaiseLongue/ChaiseLongue_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169014356797821018/ChaiseLongue_audiopreview.ogg"
+		},
+		"serverChangelist": 544216
+	},
+	"Cradles": {
+		"artist": "Sub Urban",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015284829520082/Cradles_coach_1.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015284460433609/Cradles_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015284460433609/Cradles_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015285160878110/Cradles_title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Thumbs/x1/Thumbs_Cover_AlbumCoach.tga.ckd/0ef2bcb34bc3de9053fd6ffd990a85f5.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015284829520082/Cradles_coach_1.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015284460433609/Cradles_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015285878108170/Cradles_map_bkg.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21311,42671,63983,85295,106655,127967,149327,170639,191999,213311,234671,255983,277295,298655,319967,341327,362639,383999,405311,426671,447983,469295,490655,511967,533327,554639,575999,597311,618671,639983,661295,682655,703967,725327,746639,767999,789311,810671,831983,853295,874655,895967,917327,938639,959999,981311,1002671,1023983,1045294,1066654,1087966,1109326,1130638,1151998,1173310,1194670,1215982,1237294,1258654,1279966,1301326,1322638,1343998,1365310,1386670,1407982,1429294],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":486,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Cradles/Cradles_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 3,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "A80B3DFF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 220.891,
+		"mapName": "Cradles",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "Cradles_mapContent"
+		},
+		"parentMapName": "Cradles",
+		"skuIds": [],
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 5,
+		"sweatDifficulty": 2,
+		"tags": [
+			"Main",
+			"subscribedSong"
+		],
+		"title": "Cradles",
+		"urls": {
+			"jmcs://jd-contents/Cradles/Cradles_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169015286389801080/Cradles_audiopreview.ogg"
+		},
+		"serverChangelist": 544216
+	},
+	"CureForMe": {
+		"artist": "AURORA",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169016448308482109/Cureforme_coach_1.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169016449663246418/CureForMe_cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169016449663246418/CureForMe_cover.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169016448593698856/Cureforme_title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/x1/TheGreatest_Cover_AlbumCoach.tga.ckd/0288fb7bde48a24f154a5ab4cb4f4187.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169016448308482109/Cureforme_coach_1.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169016449663246418/CureForMe_cover.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169016449017335869/Cureforme_map_bkg.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30000,60000,90000,120000,150000,180000,210000,240000,270000,300000,330000,360000,390000,420000,450000,480000,510000,540000,570000,600000,630000,660000,690000,720000,750000,780000,810000,839999,870000,900000,930000,960000,990000,1020000,1050000,1080000,1110000,1140000,1170000,1200000,1230000,1260000,1290000,1320000,1350000,1379999,1410000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CureForMe/CureForMe_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "5BCCF1FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 197.5,
+		"mapName": "CureForMe",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "CureForMe_mapContent"
+		},
+		"parentMapName": "CureForMe",
+		"skuIds": [],
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"Main",
+			"subscribedSong"
+		],
+		"title": "Cure For Me - Paper version",
+		"urls": {
+			"jmcs://jd-contents/CureForMe/CureForMe_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169017266277466122/CureForMe_audiopreview.ogg"
+		},
+		"serverChangelist": 550935
+	},
+	"DESPECHA": {
+		"artist": "ROSALÍA",
+		"assets": {
+			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1170239261828722688/Despecha_coach_1.png",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1170239262986350603/cover_despecha.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1170239262986350603/cover_despecha.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1170239262680154162/Despecha_title.png",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/TheGreatest/x1/TheGreatest_Cover_AlbumCoach.tga.ckd/0288fb7bde48a24f154a5ab4cb4f4187.ckd",
+			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1170239261828722688/Despecha_coach_1.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1170239262986350603/cover_despecha.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1170242503526596658/despecha_banner.tga.ckd"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22154,44308,66462,88615,110769,132923,155077,177231,199385,221538,243692,265846,288000,310154,332308,354462,376615,398769,420923,443077,465231,487385,509538,531692,553846,576000,598154,620308,642462,664615,686769,708923,731077,753231,775385,797538,819692,841846,864000,886154,908308,930462,952615,974769,996923,1019077,1041231,1063385,1085538,1107692,1129846,1152000,1174154,1196308,1218462,1240615,1262769,1284923,1307077,1329231,1351385,1373538,1395692,1417846,1440000,1462154,1484308,1506462,1528615,1550769],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/DESPECHA/DESPECHA_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "CREDITS TO BE STRING",
+		"difficulty": 2,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "62E2FDFF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 197.5,
+		"mapName": "DESPECHA",
+		"mode": 6,
+		"originalJDVersion": 2024,
+		"packages": {
+			"mapContent": "DESPECHA_mapContent"
+		},
+		"parentMapName": "DESPECHA",
+		"skuIds": [],
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"Main",
+			"subscribedSong"
+		],
+		"title": "DESPECHÀ",
+		"urls": {
+			"jmcs://jd-contents/DESPECHA/DESPECHA_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1170243031459434516/Despecha_Audiopreview.ogg"
+		},
+		"serverChangelist": 550935
+	},
+	"BadHabits": {
+		"artist": "Scarlett Klaw",
+		"assets": {
+			"coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadHabits/x1/BadHabits_Coach_1.tga.ckd/28105ab7c1d36e43e06145f8334ecfff.ckd",
+			"coverImageUrl": "https://cdn.discordapp.com/attachments/1167289464939352156/1167593995313090670/cover.png",
+			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1167289464939352156/1167593995313090670/cover.png",
+			"expandBkgImageUrl": "https://jd-s3.akamaized.net/public/map/BadHabits/x1/BadHabits_Cover_AlbumBkg.tga.ckd/51283424fe99aad0640def1af6925fb2.ckd",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BadHabits/x1/BadHabits_Cover_AlbumCoach.tga.ckd/4ab2ab4d03473e3ff27f008a90db0836.ckd",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1167289464939352156/1167475906982461590/badhabits_map_bkg.tga.ckd",
+			"phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BadHabits/BadHabits_Coach_1_Phone.png/9cc95a97654691c731c694745c7432a9.png",
+			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1167289464939352156/1167593995313090670/cover.png"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22857,45715,68572,91429,114286,137143,160000,182857,205715,228572,251429,274286,297143,320000,342857,365715,388572,411429,434286,457143,480000,502857,525715,548572,571429,594286,617143,640000,662857,685715,708572,731429,754286,777143,800000,822857,845715,868572,891429,914286,937143,960000,982857,1005715,1028572,1051429,1074286,1097143,1120000,1142857,1165715,1188572,1211429,1234286,1257143,1280000,1302857,1325715,1348572,1371429,1394286,1417143],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":487,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/badhabits/badhabits_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "Written by Fred Gibson, Johnny McDaid and Ed Sheeran. Published by Sony/ATV Songs LLC (BMI) / Ed Sheeran Limited (PRS) / Sony/ATV Music Publishing (UK) Limited (PRS). / Universal Music Publishing Ltd. All rights reserved. Used with permission. Courtesy of Asylum Records UK. By arrangement with Warner Music Group Film & TV Licensing.",
+		"difficulty": 2,
+		"jdmAttributes": [],
+		"lyricsColor": "5DFFF4FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 234.76299999999999,
+		"mapName": "BadHabits",
+		"mode": 6,
+		"originalJDVersion": 2022,
+		"packages": {
+			"mapContent": "BadHabits_mapContent"
+		},
+		"parentMapName": "BadHabits",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 3,
+		"tags": [
+			"Main",
+			"freeSong",
+			"ExcluJD21_Quickplay ",
+			"Exclusive",
+			"JustDance2022",
+			"Solo",
+			"Medium",
+			"Sweat Hard",
+			"Artsy",
+			"Boys",
+			"City",
+			"Drama",
+			"Pop",
+			"Regrets"
+		],
+		"title": "Boss Witch (Ubisoft clean cover)",
+		"urls": {
+			"jmcs://jd-contents/BadHabits/BadHabits_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BadHabits/BadHabits_AudioPreview.ogg/40f936f591372aeb8b8901b978ef6f6f.ogg"
+		},
+		"serverChangelist": 622286
 	}
 }
