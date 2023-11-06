@@ -11,16 +11,19 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
 var prodwsurl = "https://jmcs-prod.just-dance.com"
+var sessions = require("./files/sessions.json");
 var entities = require("./files/entities.json");
 var entitiesphone = require("./files/entities-phone.json");
 var configuration = require("./files/configuration.json");
 var party = require("./files/party.json");
+var upsellvideos = require("./files/upsellvideos.json");
 var skuconstants = require("./files/skuconstants.json");
 var items = require("./files/items.json");
 var blocks = require("./files/blocks.json");
 var mine = require("./files/mine.json");
 var skupackages = require("./files/skupackages.json");
 var profiles = require("./files/profiles.json");
+var quests = require("./files/quests.json");
 var songs = require("./files/songs.json");
 var news = require("./files/news.json");
 var sweat = require("./files/sweat.json");
@@ -40,6 +43,9 @@ app.post("/carousel/v2/pages/partycoop", (req, res) => {
   res.send(coop);
 });
 
+app.post("/carousel/v2/pages/quests", (req, res) => {
+  res.send(onlinequest);
+});
 
 app.post("/carousel/v2/pages/create-playlist", (req, res) => {
   res.send(playlist);
@@ -117,6 +123,10 @@ app.post("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
 });
 
+app.post("/carousel/v2/pages/upsell-videos", (req, res) => {
+  res.send(upsellvideos);
+});
+
 app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
   res.send([]);
 });
@@ -127,6 +137,18 @@ app.get("/community-remix/v1/active-contest", (req, res) => {
 
 app.get("/constant-provider/v1/sku-constants", (req, res) => {
   res.send(skuconstants);
+});
+
+app.get("/customizable-itemdb/v1/items", (req, res) => {
+  res.send(items);
+});
+
+app.get("/dance-machine/v1/blocks", (req, res) => {
+  res.send(blocks);
+});
+
+app.get("/leaderboard/v1/coop_points/mine", (req, res) => {
+  res.send(mine);
 });
 
 app.get("/packages/v1/sku-packages", (req, res) => {
@@ -154,6 +176,10 @@ app.post("/profile/v2/profiles", (req, res) => {
   xhr.setRequestHeader('Content-Type', 'application/json');
   xhr.send(JSON.stringify(req.body, null, 2));
   res.send(xhr.responseText);
+});
+
+app.get("/questdb/v1/quests", (req, res) => {
+  res.send(quests);
 });
 
 app.get("/songdb/v1/songs", (req, res) => {
@@ -219,6 +245,18 @@ app.get('/v3/users/*', (req, res) => {
 	"phone": null,
 	"accountType": "Ubisoft"
 });
+});
+
+app.delete("/wdf/v1/rooms/" + room + "/session", (req, res) => {
+  var ticket = req.header("Authorization")
+  var contentlen = req.header("Content-Length")
+  var xhr = new XMLHttpRequest();
+  xhr.open('DELETE', 'https://jmcs-prod.just-dance.com/wdf/v1/rooms/' + room + '/session', false);
+  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send();
+  res.send(xhr.responseText);
 });
 
 app.get('/content-authorization/v1/maps/*', (req, res) => {
