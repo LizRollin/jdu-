@@ -156,6 +156,63 @@ app.post("/subscription/v1/refresh", (req, res) => {
   res.send([]);
 });
 
+app.get("/wdf/v1/rooms/" + room + "/*", (req, res) => {
+  var ticket = req.header("Authorization")
+  var xhr = new XMLHttpRequest();
+  var n = req.url.lastIndexOf('/');
+  var result = req.url.substr(0)
+  xhr.open('GET', prodwsurl + result, false);
+  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send();
+  res.send(xhr.responseText);
+});
+
+app.get("/wdf/v1/server-time", (req, res) => {
+  var ticket = req.header("Authorization")
+  var xhr = new XMLHttpRequest();
+  var n = req.url.lastIndexOf('/');
+  var result = req.url.substr(0)
+  xhr.open('GET', prodwsurl + result, false);
+  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send();
+  res.send(xhr.responseText);
+});
+
+app.get("/wdf/v1/online-bosses", (req, res) => {
+  res.send(bosses);
+});
+
+app.post("/wdf/v1/rooms/" + room + "/*", (req, res) => {
+  var ticket = req.header("Authorization")
+  var xhr = new XMLHttpRequest();
+  var n = req.url.lastIndexOf('/');
+  var result = req.url.substr(0)
+  xhr.open('POST', prodwsurl + result, false);
+  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send(JSON.stringify(req.body, null, 2));
+  res.send(xhr.responseText);
+});
+
+app.get("/leaderboard/v1/maps/*", (req, res) => {
+  var ticket = req.header("Authorization")
+  var contentlen = req.header("Content-Length")
+  var xhr = new XMLHttpRequest();
+  var n = req.url.lastIndexOf('/');
+  var result = req.url.substr(0)
+  xhr.open('GET', prodwsurl + result, false);
+  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send();
+  res.send(xhr.responseText);
+});
+
 app.get('/v3/users/*', (req, res) => {
   res.send({
 	"userId": "e94b3197-cde3-476e-905e-527110f47c89",
@@ -193,6 +250,18 @@ app.get('/v3/users/*', (req, res) => {
 	"phone": null,
 	"accountType": "Ubisoft"
 });
+});
+
+app.delete("/wdf/v1/rooms/" + room + "/session", (req, res) => {
+  var ticket = req.header("Authorization")
+  var contentlen = req.header("Content-Length")
+  var xhr = new XMLHttpRequest();
+  xhr.open('DELETE', 'https://jmcs-prod.just-dance.com/wdf/v1/rooms/' + room + '/session', false);
+  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send();
+  res.send(xhr.responseText);
 });
 
 app.get('/content-authorization/v1/maps/*', (req, res) => {
@@ -233,14 +302,12 @@ function checkHttps(req, res, next) {
 app.all("*", checkHttps);
 app.use(express.static("public"));
 
-// routing
-
+// http://expressjs.com/en/starter/basic-routing.html
 app.get("/", function(request, response) {
   response.sendFile(__dirname + "/views/index.html");
 });
 
 // listen for requests :)
-
 const listener = app.listen(process.env.PORT, function() {
   console.log("Your app is listening on port " + listener.address().port);
 });
