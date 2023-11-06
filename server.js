@@ -133,14 +133,6 @@ app.get("/constant-provider/v1/sku-constants", (req, res) => {
   res.send(skuconstants);
 });
 
-app.get("/dance-machine/v1/blocks", (req, res) => {
-  res.send(blocks);
-});
-
-app.get("/leaderboard/v1/coop_points/mine", (req, res) => {
-  res.send(mine);
-});
-
 app.get("/packages/v1/sku-packages", (req, res) => {
   res.send(skupackages);
 });
