@@ -26,8 +26,10 @@
   },
   "JDVersion": {
     "Override": {
-      "123": "Kids",
-      "4884": "ABBA : You Can Dance"
+      "Kids": "Kids",
+      "ABBA": "ABBA : You Can Dance",
+      "2023": "2023 Edition",
+      "2024": "2024 Edition"
     }
   },
   "Quest": {

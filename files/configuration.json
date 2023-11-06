@@ -219,7 +219,7 @@
       },
       {
         "name": "all_spaces/entities",
-        "url": "https://{env}sv-justdance24.onrender.com/{version}/spaces/entities",
+        "url": "https://{env}sv-justdance24.onrender.com//{version}/spaces/entities",
         "version": 2
       },
       {
