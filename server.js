@@ -16,19 +16,13 @@ var entitiesphone = require("./files/entities-phone.json");
 var configuration = require("./files/configuration.json");
 var party = require("./files/party.json");
 var skuconstants = require("./files/skuconstants.json");
-var items = require("./files/items.json");
-var blocks = require("./files/blocks.json");
-var mine = require("./files/mine.json");
 var skupackages = require("./files/skupackages.json");
-var profiles = require("./files/profiles.json");
 var quests = require("./files/quests.json");
 var songs = require("./files/songs.json");
-var news = require("./files/news.json");
 var sweat = require("./files/sweat.json");
 var onlinequest = require("./files/onlinequest.json");
 var playlist = require("./files/playlist.json");
 var coop = require("./files/coop.json");
-var bosses = require("./files/bosses.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -125,24 +119,8 @@ app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
   res.send([]);
 });
 
-app.get("/community-remix/v1/active-contest", (req, res) => {
-  res.send([]);
-});
-
 app.get("/constant-provider/v1/sku-constants", (req, res) => {
   res.send(skuconstants);
-});
-
-app.get("/customizable-itemdb/v1/items", (req, res) => {
-  res.send(items);
-});
-
-app.get("/dance-machine/v1/blocks", (req, res) => {
-  res.send(blocks);
-});
-
-app.get("/leaderboard/v1/coop_points/mine", (req, res) => {
-  res.send(mine);
 });
 
 app.get("/packages/v1/sku-packages", (req, res) => {
@@ -186,20 +164,6 @@ app.get("/status/v1/ping", (req, res) => {
 
 app.post("/subscription/v1/refresh", (req, res) => {
   res.send([]);
-});
-
-app.get("/leaderboard/v1/maps/*", (req, res) => {
-  var ticket = req.header("Authorization")
-  var contentlen = req.header("Content-Length")
-  var xhr = new XMLHttpRequest();
-  var n = req.url.lastIndexOf('/');
-  var result = req.url.substr(0)
-  xhr.open('GET', prodwsurl + result, false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send();
-  res.send(xhr.responseText);
 });
 
 app.get('/v3/users/*', (req, res) => {
