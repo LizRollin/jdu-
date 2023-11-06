@@ -32,6 +32,7 @@ var onlinequest = require("./files/onlinequest.json");
 var playlist = require("./files/playlist.json");
 var coop = require("./files/coop.json");
 var bosses = require("./files/bosses.json");
+
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
@@ -199,6 +200,7 @@ app.post("/wdf/v1/assign-room", (req, res) => {
 	"room": room
 });
 });
+
 
 app.get("/leaderboard/v1/maps/*", (req, res) => {
   var ticket = req.header("Authorization")
