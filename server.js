@@ -15,7 +15,6 @@ var entities = require("./files/entities.json");
 var entitiesphone = require("./files/entities-phone.json");
 var configuration = require("./files/configuration.json");
 var party = require("./files/party.json");
-var upsellvideos = require("./files/upsellvideos.json");
 var skuconstants = require("./files/skuconstants.json");
 var items = require("./files/items.json");
 var blocks = require("./files/blocks.json");
@@ -120,10 +119,6 @@ app.post("/subscription/v1/refresh", (req, res) => {
 
 app.post("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
-});
-
-app.post("/carousel/v2/pages/upsell-videos", (req, res) => {
-  res.send(upsellvideos);
 });
 
 app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
