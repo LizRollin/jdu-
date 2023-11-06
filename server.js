@@ -17,16 +17,11 @@ const party = require("./files/party.json");
 const skuconstants = require("./files/skuconstants.json");
 const skupackages = require("./files/skupackages.json");
 const songs = require("./files/songs.json");
-const sweat = require("./files/sweat.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
   next();
-});
-
-app.post("/carousel/v2/pages/sweat", (req, res) => {
-  res.send(sweat);
 });
 
 app.post('/v3/profiles/sessions', (req, res) => {
