@@ -247,18 +247,6 @@ app.get('/v3/users/*', (req, res) => {
 });
 });
 
-app.delete("/wdf/v1/rooms/" + room + "/session", (req, res) => {
-  var ticket = req.header("Authorization")
-  var contentlen = req.header("Content-Length")
-  var xhr = new XMLHttpRequest();
-  xhr.open('DELETE', 'https://jmcs-prod.just-dance.com/wdf/v1/rooms/' + room + '/session', false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send();
-  res.send(xhr.responseText);
-});
-
 app.get('/content-authorization/v1/maps/*', (req, res) => {
   var ss = req.url.split("/").pop();
   const path = './videos/' + ss + '.json'
