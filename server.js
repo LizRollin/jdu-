@@ -17,7 +17,12 @@ var configuration = require("./files/configuration.json");
 var party = require("./files/party.json");
 var skuconstants = require("./files/skuconstants.json");
 var skupackages = require("./files/skupackages.json");
+var quests = require("./files/quests.json");
 var songs = require("./files/songs.json");
+var sweat = require("./files/sweat.json");
+var onlinequest = require("./files/onlinequest.json");
+var playlist = require("./files/playlist.json");
+var coop = require("./files/coop.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -126,6 +131,10 @@ app.post("/profile/v2/profiles", (req, res) => {
   xhr.setRequestHeader('Content-Type', 'application/json');
   xhr.send(JSON.stringify(req.body, null, 2));
   res.send(xhr.responseText);
+});
+
+app.get("/questdb/v1/quests", (req, res) => {
+  res.send(quests);
 });
 
 app.get("/songdb/v1/songs", (req, res) => {
