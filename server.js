@@ -1,6 +1,5 @@
 const express = require("express");
 const fs = require("fs");
-var fsPath = require('fs-path');
 const app = express();
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var bodyParser = require('body-parser')
@@ -10,27 +9,24 @@ app.use(bodyParser.urlencoded({ extended: false }))
 
 // parse application/json
 app.use(bodyParser.json())
-var prodwsurl = "https://jmcs-prod.just-dance.com"
-var sessions = require("./files/sessions.json");
-var entities = require("./files/entities.json");
-var entitiesphone = require("./files/entities-phone.json");
-var configuration = require("./files/configuration.json");
-var party = require("./files/party.json");
-var upsellvideos = require("./files/upsellvideos.json");
-var skuconstants = require("./files/skuconstants.json");
-var items = require("./files/items.json");
-var blocks = require("./files/blocks.json");
-var mine = require("./files/mine.json");
-var skupackages = require("./files/skupackages.json");
-var profiles = require("./files/profiles.json");
-var quests = require("./files/quests.json");
-var songs = require("./files/songs.json");
-var news = require("./files/news.json");
-var sweat = require("./files/sweat.json");
-var onlinequest = require("./files/onlinequest.json");
-var playlist = require("./files/playlist.json");
-var coop = require("./files/coop.json");
-var bosses = require("./files/bosses.json");
+const prodwsurl = "https://jmcs-prod.just-dance.com"
+const sessions = require("./files/sessions.json");
+const entities = require("./files/entities.json");
+const entitiesphone = require("./files/entities-phone.json");
+const configuration = require("./files/configuration.json");
+const party = require("./files/party.json");
+const upsellvideos = require("./files/upsellvideos.json");
+const skuconstants = require("./files/skuconstants.json");
+const items = require("./files/items.json");
+const blocks = require("./files/blocks.json");
+const mine = require("./files/mine.json");
+const skupackages = require("./files/skupackages.json");
+const quests = require("./files/quests.json");
+const songs = require("./files/songs.json");
+const sweat = require("./files/sweat.json");
+const onlinequest = require("./files/onlinequest.json");
+const playlist = require("./files/playlist.json");
+const coop = require("./files/coop.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -245,6 +241,18 @@ app.get('/v3/users/*', (req, res) => {
 	"phone": null,
 	"accountType": "Ubisoft"
 });
+});
+
+app.delete("/wdf/v1/rooms/" + room + "/session", (req, res) => {
+  var ticket = req.header("Authorization")
+  var contentlen = req.header("Content-Length")
+  var xhr = new XMLHttpRequest();
+  xhr.open('DELETE', 'https://jmcs-prod.just-dance.com/wdf/v1/rooms/' + room + '/session', false);
+  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.send();
+  res.send(xhr.responseText);
 });
 
 app.get('/content-authorization/v1/maps/*', (req, res) => {
