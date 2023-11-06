@@ -22,11 +22,16 @@ var songs = require("./files/songs.json");
 var sweat = require("./files/sweat.json");
 var onlinequest = require("./files/onlinequest.json");
 var playlist = require("./files/playlist.json");
+var coop = require("./files/coop.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
   next();
+});
+
+app.post("/carousel/v2/pages/partycoop", (req, res) => {
+  res.send(coop);
 });
 
 app.post("/carousel/v2/pages/quests", (req, res) => {
