@@ -32,6 +32,22 @@ app.use(function(req, res, next) {
   next();
 });
 
+app.post("/carousel/v2/pages/partycoop", (req, res) => {
+  res.send(coop);
+});
+
+app.post("/carousel/v2/pages/quests", (req, res) => {
+  res.send(onlinequest);
+});
+
+app.post("/carousel/v2/pages/create-playlist", (req, res) => {
+  res.send(playlist);
+});
+
+app.post("/carousel/v2/pages/sweat", (req, res) => {
+  res.send(sweat);
+});
+
 app.post('/v3/profiles/sessions', (req, res) => {
     var xhr = new XMLHttpRequest();
     var ticket = req.header("Authorization")
