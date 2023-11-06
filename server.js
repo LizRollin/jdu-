@@ -17,6 +17,7 @@ var configuration = require("./files/configuration.json");
 var party = require("./files/party.json");
 var skuconstants = require("./files/skuconstants.json");
 var skupackages = require("./files/skupackages.json");
+var profiles = require("./files/profiles.json");
 var quests = require("./files/quests.json");
 var songs = require("./files/songs.json");
 var sweat = require("./files/sweat.json");
@@ -29,6 +30,7 @@ app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Headers", "*");
   next();
 });
+
 
 app.post("/carousel/v2/pages/partycoop", (req, res) => {
   res.send(coop);
