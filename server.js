@@ -20,9 +20,9 @@ const configuration = require("./files/configuration.json");
 const entities = require("./files/entities.json");
 const entitiesphone = require("./files/entities-phone.json");
 const party = require("./files/party.json");
-const sku = require("./files/sku.json");
+const skupackages = require("./files/skupackages.json");
 const skuconstants = require("./files/skuconstants.json");
-const songinfo = require("./files/songinfo.json");
+const songs = require("./files/songs.json");
 const subscription = require("./files/subscription.json");
 const users = require("./files/users.json");
 
@@ -112,7 +112,7 @@ app.post("/carousel/v2/packages", (req, res) => {
 });
 
 app.get("/packages/v1/sku-packages", (req, res) => {
-  res.send(sku);
+  res.send(skupackages);
 });
 
 app.get("/constant-provider/v1/sku-constants", (req, res) => {
@@ -124,7 +124,7 @@ app.post("/carousel/v2/pages/party", (req, res) => {
 });
 
 app.get("/songdb/v1/songs", (req, res) => {
-  res.send(songinfo);
+  res.send(songs);
 });
 
 app.get("/status/v1/ping", (req, res) => {
