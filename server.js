@@ -113,10 +113,6 @@ app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
   res.send([]);
 });
 
-app.get("/community-remix/v1/active-contest", (req, res) => {
-  res.send([]);
-});
-
 app.get("/constant-provider/v1/sku-constants", (req, res) => {
   res.send(skuconstants);
 });
