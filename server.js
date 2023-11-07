@@ -175,6 +175,10 @@ app.get('/v3/users/*', (req, res) => {
   res.send(users);
 });
 
+app.get("/community-remix/v1/active-contest", (req, res) => {
+  res.send([]);
+});
+
 app.delete("/wdf/v1/rooms/" + room + "/session", (req, res) => {
   var ticket = req.header("Authorization")
   var contentlen = req.header("Content-Length")
