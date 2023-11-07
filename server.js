@@ -12,7 +12,6 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 var prodwsurl = "https://jmcs-prod.just-dance.com"
 var room = "MainJD2021"
-var sessions = require("./files/sessions.json");
 var entities = require("./files/entities.json");
 var entitiesphone = require("./files/entities-phone.json");
 var configuration = require("./files/configuration.json");
@@ -23,10 +22,8 @@ var items = require("./files/items.json");
 var blocks = require("./files/blocks.json");
 var mine = require("./files/mine.json");
 var skupackages = require("./files/skupackages.json");
-var profiles = require("./files/profiles.json");
 var quests = require("./files/quests.json");
 var songs = require("./files/songs.json");
-var news = require("./files/news.json");
 var sweat = require("./files/sweat.json");
 var onlinequest = require("./files/onlinequest.json");
 var playlist = require("./files/playlist.json");
