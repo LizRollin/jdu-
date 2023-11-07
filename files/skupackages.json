@@ -4,5 +4,11 @@
 		"storageType": 0,
 		"url": "https://cdn.glitch.global/9c6c1b61-3363-4b5f-9a48-31ad77e45b20/d24063a297486fd5d2c54a64ee065c27.zip",
 		"version": 10
+	},
+	"Versailles_mapContent": {
+		"md5": "756712bf2956e1f52c3bd5c38d60b98c",
+		"storageType": 0,
+		"url": "https://cdn.discordapp.com/attachments/1168996180542357554/1171543721154711694/versailles_main_scene_pc.zip",
+		"version": 10
 	}
 }
