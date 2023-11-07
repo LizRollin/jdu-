@@ -26,6 +26,8 @@ const songs = require("./files/songs.json");
 const subscription = require("./files/subscription.json");
 const users = require("./files/users.json");
 
+// get and post
+
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
@@ -175,12 +177,14 @@ function checkHttps(req, res, next) {
 app.all("*", checkHttps);
 app.use(express.static("public"));
 
-// http://expressjs.com/en/starter/basic-routing.html
+// routing
+
 app.get("/", function(request, response) {
   response.sendFile(__dirname + "/views/index.html");
 });
 
 // listen for requests :)
+
 const listener = app.listen(process.env.PORT, function() {
   console.log("Your app is listening on port " + listener.address().port);
 });
