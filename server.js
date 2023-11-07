@@ -15,17 +15,22 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
 const prodwsurl = "https://jmcs-prod.just-dance.com"
-const room = "mainjd2024"
+const room = "MainJD2024"
 
-const configuration = require("./files/configuration.json");
 const entities = require("./files/entities.json");
 const entitiesphone = require("./files/entities-phone.json");
+const configuration = require("./files/configuration.json");
+const onlinequest = require("./files/onlinequest.json");
 const party = require("./files/party.json");
+const quests = require("./files/quests.json");
+const songs = require("./files/songs.json");
 const skuconstants = require("./files/skuconstants.json");
 const skupackages = require("./files/skupackages.json");
-const songs = require("./files/songs.json");
 const subscription = require("./files/subscription.json");
+const sweat = require("./files/sweat.json");
 const users = require("./files/users.json");
+const playlist = require("./files/playlist.json");
+const coop = require("./files/coop.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -65,45 +70,7 @@ app.get(
   }
 );
 
-// sessions
-
-app.post('/v3/profiles/sessions', (req, res) => {
-  var xhr = new XMLHttpRequest();
-  var ticket = req.header("Authorization")
-  var appid = req.header("Ubi-AppId")
-  xhr.open('POST', 'https://public-ubiservices.ubi.com/v3/profiles/sessions', false);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.setRequestHeader('Ubi-AppId', appid);
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.send();
-  res.send(xhr.responseText);
-});
-
-// profiles get and post
-
-app.get("/profile/v2/profiles", (req, res) => {
-  var profileid = req.url.split('=').pop()
-  var ticket = req.header("Authorization")
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', prodwsurl + '/profile/v2/profiles?profileIds=' + profileid, false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.send();
-  res.send(xhr.responseText);
-});
-
-app.post("/profile/v2/profiles", (req, res) => {
-  var ticket = req.header("Authorization")
-  var xhr = new XMLHttpRequest();
-  xhr.open('POST', prodwsurl + '/profile/v2/profiles', true);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send(JSON.stringify(req.body, null, 2));
-  res.send(xhr.responseText);
-});
-
-// sku, carousel and subscription
+// sku, party and subscription
 
 app.post("/carousel/v2/packages", (req, res) => {
   res.send({
@@ -112,28 +79,28 @@ app.post("/carousel/v2/packages", (req, res) => {
   });
 });
 
-app.get("/packages/v1/sku-packages", (req, res) => {
-  res.send(skupackages);
-});
-
-app.get("/constant-provider/v1/sku-constants", (req, res) => {
-  res.send(skuconstants);
+app.post("/subscription/v1/refresh", (req, res) => {
+  res.send(subscription);
 });
 
 app.post("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
 });
 
-app.get("/songdb/v1/songs", (req, res) => {
-  res.send(songs);
-});
-
-app.get("/status/v1/ping", (req, res) => {
+app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
   res.send([]);
 });
 
-app.post("/subscription/v1/refresh", (req, res) => {
-  res.send(subscription);
+app.get("/community-remix/v1/active-contest", (req, res) => {
+  res.send([]);
+});
+
+app.get("/constant-provider/v1/sku-constants", (req, res) => {
+  res.send(skuconstants);
+});
+
+app.get("/packages/v1/sku-packages", (req, res) => {
+  res.send(skupackages);
 });
 
 // content-authorization
@@ -165,37 +132,75 @@ app.get('/content-authorization/v1/maps/*', (req, res) => {
 }
 });
 
-// others
-
-app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
-  res.send([]);
-});
-
-app.get('/v3/users/*', (req, res) => {
-  res.send(users);
-});
-
-app.get("/community-remix/v1/active-contest", (req, res) => {
-  res.send([]);
-});
-
-app.get("/questdb/v1/quests", (req, res) => {
-  res.send([]);
-});
+// playlists, coop and sweat
 
 app.post("/carousel/v2/pages/partycoop", (req, res) => {
-  res.send([]);
+  res.send(coop);
 });
 
 app.post("/carousel/v2/pages/quests", (req, res) => {
-  res.send([]);
+  res.send(onlinequest);
 });
 
 app.post("/carousel/v2/pages/create-playlist", (req, res) => {
-  res.send([]);
+  res.send(playlist);
 });
 
 app.post("/carousel/v2/pages/sweat", (req, res) => {
+  res.send(sweat);
+});
+
+// sessions
+
+app.post('/v3/profiles/sessions', (req, res) => {
+  var xhr = new XMLHttpRequest();
+  var ticket = req.header("Authorization")
+  var appid = req.header("Ubi-AppId")
+  xhr.open('POST', 'https://public-ubiservices.ubi.com/v3/profiles/sessions', false);
+  xhr.setRequestHeader('Content-Type', 'application/json');
+  xhr.setRequestHeader('Ubi-AppId', appid);
+  xhr.setRequestHeader('Authorization', ticket);
+  xhr.send();
+  res.send(xhr.responseText);
+});
+
+app.get('/v3/users/*', (req, res) => {
+res.send(users);
+});
+
+app.get("/profile/v2/profiles", (req, res) => {
+var profileid = req.url.split('=').pop()
+var ticket = req.header("Authorization")
+var xhr = new XMLHttpRequest();
+xhr.open('GET', prodwsurl + '/profile/v2/profiles?profileIds=' + profileid, false);
+xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+xhr.setRequestHeader('Authorization', ticket);
+xhr.send();
+res.send(xhr.responseText);
+});
+
+app.post("/profile/v2/profiles", (req, res) => {
+var ticket = req.header("Authorization")
+var xhr = new XMLHttpRequest();
+xhr.open('POST', prodwsurl + '/profile/v2/profiles', true);
+xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
+xhr.setRequestHeader('Authorization', ticket);
+xhr.setRequestHeader('Content-Type', 'application/json');
+xhr.send(JSON.stringify(req.body, null, 2));
+res.send(xhr.responseText);
+});
+
+// others
+
+app.get("/questdb/v1/quests", (req, res) => {
+  res.send(quests);
+});
+
+app.get("/songdb/v1/songs", (req, res) => {
+  res.send(songs);
+});
+
+app.get("/status/v1/ping", (req, res) => {
   res.send([]);
 });
 
