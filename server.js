@@ -17,11 +17,8 @@ var entities = require("./files/entities.json");
 var entitiesphone = require("./files/entities-phone.json");
 var configuration = require("./files/configuration.json");
 var party = require("./files/party.json");
-var upsellvideos = require("./files/upsellvideos.json");
 var skuconstants = require("./files/skuconstants.json");
 var items = require("./files/items.json");
-var blocks = require("./files/blocks.json");
-var mine = require("./files/mine.json");
 var skupackages = require("./files/skupackages.json");
 var profiles = require("./files/profiles.json");
 var quests = require("./files/quests.json");
@@ -31,7 +28,6 @@ var sweat = require("./files/sweat.json");
 var onlinequest = require("./files/onlinequest.json");
 var playlist = require("./files/playlist.json");
 var coop = require("./files/coop.json");
-var bosses = require("./files/bosses.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -124,15 +120,7 @@ app.post("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
 });
 
-app.post("/carousel/v2/pages/upsell-videos", (req, res) => {
-  res.send(upsellvideos);
-});
-
 app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
-  res.send([]);
-});
-
-app.get("/community-remix/v1/active-contest", (req, res) => {
   res.send([]);
 });
 
@@ -142,14 +130,6 @@ app.get("/constant-provider/v1/sku-constants", (req, res) => {
 
 app.get("/customizable-itemdb/v1/items", (req, res) => {
   res.send(items);
-});
-
-app.get("/dance-machine/v1/blocks", (req, res) => {
-  res.send(blocks);
-});
-
-app.get("/leaderboard/v1/coop_points/mine", (req, res) => {
-  res.send(mine);
 });
 
 app.get("/packages/v1/sku-packages", (req, res) => {
@@ -200,28 +180,6 @@ app.post("/wdf/v1/assign-room", (req, res) => {
 	"room": room
 });
 });
-//Database
-app.get("/songdb/v1/songs", function(request, response) {
-  const skuId = request.header("X-SkuId");
-  switch (skuId) {
-    case "jd2015-pc-cmos":
-      // Set the variables to SongDB and Carousel
-      var OnlineDB = require("./files/songs.json");
-
-      for (var song in OnlineDB) {
-        var obj = OnlineDB[song];
-        obj.assets["banner_bkgImageUrl"] = obj.assets["expandBkgImageUrl"];
-      }
-      return response.send(OnlineDB);
-    break;
-    case "jd2017-pc-ww":
-      response.send(SongDB);
-    break;
-    default:
-      response.send("Hey there!" + "\n" + "Cosmos's SongDB are currently unavaliable through a browser");
-    break;
-  }
-});
 
 app.get("/wdf/v1/rooms/" + room + "/*", (req, res) => {
   var ticket = req.header("Authorization")
@@ -247,10 +205,6 @@ app.get("/wdf/v1/server-time", (req, res) => {
   xhr.setRequestHeader('Content-Type', 'application/json');
   xhr.send();
   res.send(xhr.responseText);
-});
-
-app.get("/wdf/v1/online-bosses", (req, res) => {
-  res.send(bosses);
 });
 
 app.post("/wdf/v1/rooms/" + room + "/*", (req, res) => {
