@@ -35,7 +35,6 @@ app.use(function(req, res, next) {
   next();
 });
 
-
 app.post("/carousel/v2/pages/partycoop", (req, res) => {
   res.send(coop);
 });
@@ -184,10 +183,6 @@ app.get("/songdb/v1/songs", (req, res) => {
 });
 
 app.get("/status/v1/ping", (req, res) => {
-  res.send([]);
-});
-
-app.post("/subscription/v1/refresh", (req, res) => {
   res.send([]);
 });
 
