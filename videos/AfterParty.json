@@ -1,0 +1,12 @@
+{
+	"__class": "ContentAuthorizationEntry",
+	"duration": 300,
+	"changelist": 564656,
+	"urls": {
+		"jmcs://jd-contents/AfterParty/AfterParty_ULTRA.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1171568926967214130/AfterParty_ULTRA.webm",
+		"jmcs://jd-contents/AfterParty/AfterParty_MID.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1171568926967214130/AfterParty_ULTRA.webm",
+		"jmcs://jd-contents/AfterParty/AfterParty_LOW.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1171568926967214130/AfterParty_ULTRA.webm",
+		"jmcs://jd-contents/AfterParty/AfterParty_HIGH.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1171568926967214130/AfterParty_ULTRA.webm",
+		"jmcs://jd-contents/AfterParty/AfterParty.ogg": "https://cdn.discordapp.com/attachments/1171538087667564636/1171569457219518545/AfterParty.ogg"
+	}
+}
