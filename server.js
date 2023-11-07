@@ -15,7 +15,6 @@ const entities = require("./files/entities.json");
 const entitiesphone = require("./files/entities-phone.json");
 const configuration = require("./files/configuration.json");
 const party = require("./files/party.json");
-const upsellvideos = require("./files/upsellvideos.json");
 const skuconstants = require("./files/skuconstants.json");
 const items = require("./files/items.json");
 const blocks = require("./files/blocks.json");
@@ -117,10 +116,6 @@ app.post("/subscription/v1/refresh", (req, res) => {
 
 app.post("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
-});
-
-app.post("/carousel/v2/pages/upsell-videos", (req, res) => {
-  res.send(upsellvideos);
 });
 
 app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
