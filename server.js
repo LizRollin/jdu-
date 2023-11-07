@@ -180,7 +180,23 @@ app.get("/community-remix/v1/active-contest", (req, res) => {
 });
 
 app.get("/questdb/v1/quests", (req, res) => {
-  res.send(quests);
+  res.send([]);
+});
+
+app.post("/carousel/v2/pages/partycoop", (req, res) => {
+  res.send([]);
+});
+
+app.post("/carousel/v2/pages/quests", (req, res) => {
+  res.send([]);
+});
+
+app.post("/carousel/v2/pages/create-playlist", (req, res) => {
+  res.send([]);
+});
+
+app.post("/carousel/v2/pages/sweat", (req, res) => {
+  res.send([]);
 });
 
 app.get("/leaderboard/v1/maps/*", (req, res) => {
