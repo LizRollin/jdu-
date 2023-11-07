@@ -16,7 +16,7 @@ const entitiesphone = require("./files/entities-phone.json");
 const configuration = require("./files/configuration.json");
 const party = require("./files/party.json");
 const skuconstants = require("./files/skuconstants.json");
-const blocks = require("./files/blocks.json");
+const items = require("./files/items.json");
 const mine = require("./files/mine.json");
 const skupackages = require("./files/skupackages.json");
 const quests = require("./files/quests.json");
@@ -129,8 +129,8 @@ app.get("/constant-provider/v1/sku-constants", (req, res) => {
   res.send(skuconstants);
 });
 
-app.get("/dance-machine/v1/blocks", (req, res) => {
-  res.send(blocks);
+app.get("/customizable-itemdb/v1/items", (req, res) => {
+  res.send(items);
 });
 
 app.get("/leaderboard/v1/coop_points/mine", (req, res) => {
