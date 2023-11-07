@@ -166,20 +166,6 @@ app.get('/content-authorization/v1/maps/*', (req, res) => {
 
 // others
 
-app.get("/leaderboard/v1/maps/*", (req, res) => {
-  var ticket = req.header("Authorization")
-  var contentlen = req.header("Content-Length")
-  var xhr = new XMLHttpRequest();
-  var n = req.url.lastIndexOf('/');
-  var result = req.url.substr(0)
-  xhr.open('GET', prodwsurl + result, false);
-  xhr.setRequestHeader('X-SkuId', 'jd2017-pc-ww');
-  xhr.setRequestHeader('Authorization', ticket);
-  xhr.setRequestHeader('Content-Type', 'application/json');
-  xhr.send();
-  res.send(xhr.responseText);
-});
-
 app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
   res.send([]);
 });
