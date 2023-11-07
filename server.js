@@ -15,7 +15,11 @@ const entities = require("./files/entities.json");
 const entitiesphone = require("./files/entities-phone.json");
 const configuration = require("./files/configuration.json");
 const party = require("./files/party.json");
+const upsellvideos = require("./files/upsellvideos.json");
 const skuconstants = require("./files/skuconstants.json");
+const items = require("./files/items.json");
+const blocks = require("./files/blocks.json");
+const mine = require("./files/mine.json");
 const skupackages = require("./files/skupackages.json");
 const quests = require("./files/quests.json");
 const songs = require("./files/songs.json");
@@ -23,6 +27,7 @@ const sweat = require("./files/sweat.json");
 const onlinequest = require("./files/onlinequest.json");
 const playlist = require("./files/playlist.json");
 const coop = require("./files/coop.json");
+const bosses = require("./files/bosses.json");
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -114,6 +119,10 @@ app.post("/carousel/v2/pages/party", (req, res) => {
   res.send(party);
 });
 
+app.post("/carousel/v2/pages/upsell-videos", (req, res) => {
+  res.send(upsellvideos);
+});
+
 app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
   res.send([]);
 });
@@ -124,6 +133,18 @@ app.get("/community-remix/v1/active-contest", (req, res) => {
 
 app.get("/constant-provider/v1/sku-constants", (req, res) => {
   res.send(skuconstants);
+});
+
+app.get("/customizable-itemdb/v1/items", (req, res) => {
+  res.send(items);
+});
+
+app.get("/dance-machine/v1/blocks", (req, res) => {
+  res.send(blocks);
+});
+
+app.get("/leaderboard/v1/coop_points/mine", (req, res) => {
+  res.send(mine);
 });
 
 app.get("/packages/v1/sku-packages", (req, res) => {
