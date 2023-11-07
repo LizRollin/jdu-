@@ -180,10 +180,6 @@ app.get("/leaderboard/v1/maps/*", (req, res) => {
   res.send(xhr.responseText);
 });
 
-app.get("/community-remix/v1/active-contest", (req, res) => {
-  res.send([]);
-});
-
 app.get("/com-video/v1/com-videos-fullscreen", (req, res) => {
   res.send([]);
 });
