@@ -2,7 +2,7 @@
 
 const express = require("express");
 const fs = require("fs");
-const fsPath = require('fs-path');
+var fsPath = require('fs-path');
 const app = express();
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var bodyParser = require('body-parser')
@@ -14,18 +14,18 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // json
 
 app.use(bodyParser.json())
-const prodwsurl = "https://jmcs-prod.just-dance.com"
+var prodwsurl = "https://jmcs-prod.just-dance.com"
 
-const entities = require("./files/entities.json");
-const entitiesphone = require("./files/entities-phone.json");
-const configuration = require("./files/configuration.json");
-const party = require("./files/party.json");
-const skuconstants = require("./files/skuconstants.json");
-const items = require("./files/items.json");
-const skupackages = require("./files/skupackages.json");
-const songs = require("./files/songs.json");
-const subscription = require("./files/subscription.json");
-const users = require("./files/users.json");
+var entities = require("./files/entities.json");
+var entitiesphone = require("./files/entities-phone.json");
+var configuration = require("./files/configuration.json");
+var party = require("./files/party.json");
+var skuconstants = require("./files/skuconstants.json");
+var items = require("./files/items.json");
+var skupackages = require("./files/skupackages.json");
+var songs = require("./files/songs.json");
+var subscription = require("./files/subscription.json");
+var users = require("./files/users.json");
 
 // get and post
 
