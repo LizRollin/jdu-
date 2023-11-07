@@ -135,10 +135,6 @@ app.post("/subscription/v1/refresh", (req, res) => {
   res.send(subscription);
 });
 
-app.post("/subscription/v1/refresh", (req, res) => {
-  res.send([]);
-});
-
 // content-authorization
 
 app.get('/content-authorization/v1/maps/*', (req, res) => {
