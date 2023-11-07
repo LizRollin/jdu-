@@ -1,0 +1,43 @@
+{
+  "entities": [
+    {
+      "entityId": "022f70e3-fe8b-473e-9ef3-15b80525b997",
+      "spaceId": "e9116be2-587b-4c95-8eb7-ef8a1908b8fc",
+      "type": "server",
+      "name": "default",
+      "tags": [],
+      "obj": {
+        "name": "jmcs-default",
+        "url": "https://jmcs-prod.just-dance.com"
+      },
+      "lastModified": "2018-08-06T10:56:28.077Z",
+      "revision": 3
+    },
+    {
+      "entityId": "16087b62-4412-4811-b046-4153dd63f2f4",
+      "spaceId": "e9116be2-587b-4c95-8eb7-ef8a1908b8fc",
+      "type": "server",
+      "name": "staging",
+      "tags": [],
+      "obj": {
+        "name": "jmcs-staging",
+        "url": "https://staging-ws.just-dance.com"
+      },
+      "lastModified": "2018-08-06T10:56:28.092Z",
+      "revision": 2
+    },
+    {
+      "entityId": "4ec14082-0b48-4785-85a0-ba05bff926d0",
+      "spaceId": "e9116be2-587b-4c95-8eb7-ef8a1908b8fc",
+      "type": "server",
+      "name": "e3",
+      "tags": [],
+      "obj": {
+        "name": "jmcs-e3",
+        "url": "https://justdance-demo-e3-ws.ubi.com"
+      },
+      "lastModified": "2016-10-13T09:23:49.241Z",
+      "revision": 1
+    }
+  ]
+}

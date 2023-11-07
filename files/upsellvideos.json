@@ -1,0 +1,45 @@
+{
+  "__class": "JD_CarouselContent",
+  "categories": [],
+  "actionLists": {
+    "kidsMap": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerContext": "kids",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Dance",
+          "type": "play-song"
+        }
+      ],
+      "itemType": "map"
+    },
+    "_None": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "title": "None",
+          "type": "do-nothing"
+        }
+      ],
+      "itemType": "map"
+    },
+    "upsell": {
+      "__class": "ActionList",
+      "actions": [
+        {
+          "__class": "Action",
+          "bannerTheme": "DEFAULT",
+          "bannerType": "song",
+          "title": "Subscribe",
+          "type": "display-upsell"
+        }
+      ],
+      "itemType": "map"
+    }
+  },
+  "songItemLists": {}
+}

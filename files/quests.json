@@ -1,0 +1,174 @@
+{
+  "__class": "OnlineQuestDb",
+  "quests": [
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/quest_placeholder/placeholder_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/quest_placeholder/JDPlaceholder.png",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD1_LOGO.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD1_logo_shaded_result.png"
+      },
+      "id": "30",
+      "locked": 1,
+      "playlist": ["ElectroMambo", "CheapThrills", "Leila"],
+      "title": "Test Maps - Тестовая Карта"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD1_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD1.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD1_LOGO.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD2_logo_shaded_result.png"
+      },
+      "id": "29",
+      "locked": 1,
+      "playlist": ["Acceptable", "HotNCold", "Lump"],
+      "title": "Just Dance 1"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD2_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD2.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD2_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD2_logo_shaded_result.png"
+      },
+      "id": "28",
+      "locked": 1,
+      "playlist": ["BarbieGirl", "Rasputin", "Rockafeller"],
+      "title": "Just Dance 2"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD3_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/locked/JD3_locked.png",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD3_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD3_logo_shaded_result.png"
+      },
+      "id": "27",
+      "locked": 1,
+      "playlist": ["ProudMary", "Samba", "VenusB"],
+      "title": "Just Dance 3"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD4_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD4.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD4_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD4_logo_shaded_result.png"
+      },
+      "id": "26",
+      "locked": 1,
+      "playlist": ["MrSaxobeat", "YouReTheFirst", "LoveYouLike"],
+      "title": "Just Dance 4"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD14_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD14.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD14_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD14_logo_shaded_result.png"
+      },
+      "id": "25",
+      "locked": 1,
+      "playlist": ["JustDance", "Starships", "LimaGolf1"],
+      "title": "Just Dance 2014"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD15_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD15.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD15_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD15_logo_shaded_result.png"
+      },
+      "id": "24",
+      "locked": 1,
+      "playlist": ["BrokenHeart", "BuiltForThis", "Mad"],
+      "title": "Just Dance 2015"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD16_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD16.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD16_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD16_logo_shaded_result.png"
+      },
+      "id": "23",
+      "locked": 1,
+      "playlist": ["Cheerleader", "Chiwawa", "BoysBoys"],
+      "title": "Just Dance 2016"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD17_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD17.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD17_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD17_logo_shaded_result.png"
+      },
+      "id": "21",
+      "locked": 1,
+      "playlist": ["SingleLadies", "LeanOn", "IntoYou"],
+      "title": "Just Dance 2017"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD18_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD18.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD18_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD18_logo_shaded_result.png"
+      },
+      "id": "20",
+      "locked": 1,
+      "playlist": ["SlumberParty", "SwishSwish", "Sun"],
+      "title": "Just Dance 2018"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD19_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/v1/JD19.tga.ckd",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD19_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD19_logo_shaded_result.png"
+      },
+      "id": "19",
+      "locked": 1,
+      "playlist": ["Medicina", "Bang2019", "Mayores"],
+      "title": "Just Dance 2019"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD2020_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/locked/JD20_locked.png",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JD20_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JD20_logo_shaded_result.png"
+      },
+      "id": "18",
+      "locked": 0,
+      "playlist": ["none", "none", "none"],
+      "title": "Just Dance 2020 ( Sooooon...)"
+    },
+    {
+      "__class": "OnlineQuest",
+      "assetUrls": {
+        "phoneImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/phone/JD2020_phone.png",
+        "coverImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/locked/JDVS_locked.png",
+        "logoImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/logo/JDVS_logo.png",
+        "logoShadedImageURL": "https://justdancefreerat.hb.bizmrg.com/quests/shaded/JDVS_logo_shaded_result.png"
+      },
+      "id": "17",
+      "locked": 0,
+      "playlist": ["PoPiPo", "JDMRussian", "JDMSaloon"],
+      "title": "Just Dance Vitality School"
+    }
+  ]
+}

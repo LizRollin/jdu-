@@ -1,0 +1,3588 @@
+{
+  "avatar": 374,
+  "skin": 15,
+  "jdPoints": 33333,
+  "progression": {
+    "CONTEXT_UPLAY_2017": 1,
+    "CONTEXT_FAMILY_2017": 11.8125,
+    "CONTEXT_ADVENTURE_2017": 1.2,
+    "CONTEXT_ONLINE_2017": 1,
+    "CONTEXT_DANCE_MACHINE_2017": 1,
+    "CONTEXT_WDF_2017": 1,
+    "CONTEXT_SWEAT_2017": 1,
+    "CONTEXT_JDTV_2017": 1
+  },
+  "history": {
+    "HowDeep": 2126,
+    "AintMy": 1924,
+    "Groove": 1476,
+    "DontLet": 2136,
+    "ILoveRock": 1622,
+    "RunTheNight": 1585,
+    "KIDSTheLionSleepsTonight": 1246,
+    "Natoo": 2038,
+    "WhatAFeeling": 177,
+    "YouMakeMeFeelDLC": 2062,
+    "ProfesseurDLC": 137,
+    "Maneater": 1751,
+    "Leila": 1658,
+    "ElTiki": 1607,
+    "ScreamNShoutALT": 1620,
+    "WhereverIGo": 1544,
+    "DragosteaDinTei": 1615,
+    "JuntoATi": 1964,
+    "Circus": 1545,
+    "IntoYou": 1537,
+    "Bicicleta": 1507,
+    "Diggin": 2035,
+    "September": 1477,
+    "LeanOn": 1648,
+    "HeyMama": 2124,
+    "Mambo5": 1870,
+    "Oishii": 1606,
+    "TicoTico": 1437,
+    "CryingBlood": 2006,
+    "GhostbustersSWT": 57,
+    "TheGreatest": 2001,
+    "LeFreak": 858,
+    "TurnUpTheLoveFAN": 1896,
+    "KIDSWeGoWellTogether": 1252,
+    "BornThisWay": 2123,
+    "CheapThrillsALT": 1609,
+    "AThousandDances": 1167,
+    "AboutThatBass": 2053,
+    "AboutThatBassALT": 1570,
+    "Acceptable": 1250,
+    "Airplanes": 3,
+    "Albatraoz": 1197,
+    "AllAboutUs": 1466,
+    "AmIWrong": 2029,
+    "AmericanGirlDLC": 5,
+    "Americano": 2008,
+    "AmericanoFAN": 1886,
+    "Amore": 8,
+    "AngryBirds": 1473,
+    "Animals": 2059,
+    "AnimalsALT": 1991,
+    "Apache": 9,
+    "Aquarius": 1306,
+    "BabyGirl": 10,
+    "BabyOneMoreQUAT": 11,
+    "BadRomance": 1900,
+    "Bailar": 1488,
+    "BailarCMU": 1460,
+    "Balance": 723,
+    "Bang": 1536,
+    "Barbie": 1772,
+    "BeautyAndABeatDLC": 541,
+    "BetterWhen": 1912,
+    "BewareOf": 14,
+    "BigGirl": 2116,
+    "Birthday": 1700,
+    "BlackMamba": 2068,
+    "Blame": 2015,
+    "BlurredLines": 17,
+    "BlurredLinesALTDLC": 1718,
+    "Bonbon": 2021,
+    "BoogieWonderQUAT": 1166,
+    "BoomClapDLC": 1724,
+    "BoomDLC": 1726,
+    "BornThisWayALT": 1909,
+    "BoysBoys": 1950,
+    "BreakFreeDLC": 2043,
+    "BuiltForThis": 1136,
+    "CakeByTheOcean": 1586,
+    "CakeByTheOceanALT": 1548,
+    "CaliforniaGurls": 1872,
+    "CantFeelMyFace": 1584,
+    "CantGetEnoughDLC": 1892,
+    "CantHurryLove": 2098,
+    "CantTakeMyEyes": 1769,
+    "CantTakeMyEyesALT": 1883,
+    "CantTouchThis": 1257,
+    "CheapThrills": 1571,
+    "CheapThrillsMU": 954,
+    "Cheerleader": 1853,
+    "Chiwawa": 2037,
+    "CircusALT": 1901,
+    "Cmon": 756,
+    "ColaSong": 1616,
+    "ColaSongALT": 1652,
+    "Coolos": 1315,
+    "CopaCabana": 1393,
+    "CosmicGirl": 32,
+    "CrazyLittle": 1871,
+    "CrucifiedQUAT": 2042,
+    "DaddyALT": 1231,
+    "DaddyMU": 1355,
+    "Danse": 36,
+    "DieYoungDLC": 739,
+    "DogsOut": 39,
+    "Domino": 1885,
+    "DontStopMe": 1617,
+    "DontStopMeALT": 1552,
+    "DontWorry": 1479,
+    "DontWorryMadcon": 1291,
+    "DontYouWorryDLC": 41,
+    "DynamiteQUAT": 42,
+    "ET": 1169,
+    "ElTikiALT": 1493,
+    "ElectroMambo": 1508,
+    "EyeOfTheTiger": 1863,
+    "Fame": 270,
+    "Fancy": 1528,
+    "FancyALT": 2044,
+    "FindYou": 1259,
+    "FindYourMove": 1898,
+    "Firework": 698,
+    "Fun": 2016,
+    "FunkyTown": 50,
+    "Futebol": 462,
+    "GangnamStyleDLC": 1378,
+    "Gentleman": 1894,
+    "GetAround": 1859,
+    "GetUgly": 1477,
+    "GhostInTheKeysMU": 387,
+    "Ghostbusters": 1441,
+    "Gibberish": 1504,
+    "Gigolo": 58,
+    "GimmeGimme": 404,
+    "GimmeGimmeOSC": 59,
+    "Girlfriend": 1212,
+    "GirlsJustWant": 1018,
+    "GlamorousCusto": 1977,
+    "GoodFeeling": 1972,
+    "GoodFeelingALT": 64,
+    "GotMeDancing": 2041,
+    "HalloweenQUAT": 1016,
+    "HandClap": 1713,
+    "Hangover": 1902,
+    "Happy": 1899,
+    "HappyALT": 862,
+    "HeartOfGlass": 1992,
+    "Heartbeat": 1968,
+    "HeavyCross": 70,
+    "HeyMamaALT": 1514,
+    "HeyYa": 1868,
+    "HipsALT": 1542,
+    "HipsMU": 326,
+    "HitEmUp": 1017,
+    "HitTheLights": 1354,
+    "HitTheRoad": 1489,
+    "HitTheRoadALT": 2018,
+    "HoldMyHand": 1949,
+    "HoldingOut": 1999,
+    "Holiday": 1866,
+    "HotNCold": 1753,
+    "HotStuff": 1168,
+    "HungarianDance": 79,
+    "IDidItAgainQUAT": 2025,
+    "IFeelLove": 81,
+    "IGotAFeelingALT": 1574,
+    "IKissedOSC": 797,
+    "IKissedSWT": 2107,
+    "ILikeItLike": 84,
+    "INeedYourLoveDLC": 1074,
+    "IWantYouBack": 1738,
+    "IWasMadeQUAT": 87,
+    "IWillSurvive": 88,
+    "IWillSurviveOSC": 1480,
+    "Idealistic": 90,
+    "Imya505": 1710,
+    "IndiaWaale": 2012,
+    "IstanbulQUAT": 699,
+    "ItsRainingMen": 856,
+    "ItsYou": 94,
+    "ItsYouSWT": 95,
+    "JaiHo": 1379,
+    "JailHouseALT": 1877,
+    "Juju": 1745,
+    "JumpGA": 970,
+    "JustDance": 1750,
+    "JustDanceOSC": 101,
+    "JustDanceSWTDLC": 1889,
+    "JustMaxBL": 1330,
+    "KIDSABC": 2099,
+    "KIDSHickoryDickoryDock": 1712,
+    "KIDSILikeToMoveIt": 937,
+    "KIDSJingleBells": 1887,
+    "KIDSMaryHadALittleLamb": 1770,
+    "KIDSPirateYouShallBe": 1082,
+    "KaboomPow": 1963,
+    "KattiKalandal": 2085,
+    "KetchupSong": 859,
+    "KungFu": 2086,
+    "KungFunk": 1608,
+    "Kurio": 1976,
+    "LastChristmas": 1568,
+    "LeanOnALT": 1587,
+    "LeanOnMU": 1367,
+    "LetItGo": 1219,
+    "LetItGoDLC": 1957,
+    "LetsGroove": 1966,
+    "Lights": 1915,
+    "LikeIWould": 1588,
+    "LimaGolf1": 1982,
+    "LittleSwing": 1610,
+    "Lollipop": 112,
+    "LoveIsAll": 2065,
+    "LoveYouLike": 1942,
+    "Luftballons": 755,
+    "Macarena": 1755,
+    "Mad": 115,
+    "MainGirlDLC": 1009,
+    "Mamasita": 1381,
+    "MasterBlaster": 1301,
+    "MeToo": 2127,
+    "MoveYourFeet": 2039,
+    "MovesLikeDLC": 796,
+    "MrSaxobeat": 2007,
+    "MugsyBaloney": 1865,
+    "NaeNae": 1557,
+    "NaeNaeALT": 1599,
+    "NeverCanSay": 123,
+    "NineAfternoon": 1867,
+    "NoControl": 1499,
+    "NoLimit": 125,
+    "Oath": 1821,
+    "OhNo": 1258,
+    "OnaTanczyDlaMnie": 2133,
+    "OneWayDLC": 1947,
+    "OtherSide": 1956,
+    "PartOfMeDLC": 2052,
+    "PartyRock": 1561,
+    "PoPiPo": 1650,
+    "Potato": 132,
+    "PoundTheAlarm": 1891,
+    "PoundTheAlarmALTDLC": 1732,
+    "PrimaDonna": 2010,
+    "PrinceAli": 1532,
+    "Promiscuous": 138,
+    "Rabiosa": 1903,
+    "RabiosaALT": 1908,
+    "Radical": 1603,
+    "RadicalALT": 1539,
+    "Rasputin": 1869,
+    "RedMangoose": 1590,
+    "RiverSide": 304,
+    "RobotRock": 1209,
+    "RockNRoll": 1996,
+    "RockNRollDLC": 1955,
+    "SafeAndSound": 2064,
+    "SaintPatrick": 1971,
+    "Samba": 1655,
+    "ScreamNShout": 2092,
+    "ScreamNShoutMU": 1433,
+    "SeptemberALT": 1619,
+    "SeptemberMU": 1341,
+    "SexyAndIKnowItDLC": 2121,
+    "ShutUp": 1911,
+    "SingleLadies": 1583,
+    "SingleLadiesCMU": 831,
+    "SomethinStupid": 1874,
+    "Sorry": 1624,
+    "SorryALT": 1530,
+    "SoulSearch": 724,
+    "StadiumFlow": 1509,
+    "Starships": 2011,
+    "StarshipsALT": 2036,
+    "StepByStep": 149,
+    "StuckOnAFeeling": 2017,
+    "SummerALT": 1449,
+    "SuperBass": 1735,
+    "Superstition": 152,
+    "Sway": 928,
+    "TakeMeOut": 919,
+    "TakeOnMe": 1873,
+    "TasteTheFeeling": 1329,
+    "TasteTheFeelingALT": 157,
+    "TeDominar": 1567,
+    "Teacher": 2013,
+    "TeacherALT": 1591,
+    "TeenageDream": 1875,
+    "Tetris": 159,
+    "ThatPower": 1893,
+    "ThatPowerALT": 161,
+    "ThatPowerOSCDLC": 162,
+    "TheChoice": 2014,
+    "TheWay": 163,
+    "TheWorldDLC": 1895,
+    "TheseBoots": 1578,
+    "ThisIsHow": 1904,
+    "ThisIsHowALT": 1510,
+    "TikTok": 2040,
+    "TimeWarpQUAT": 1711,
+    "Titanium": 1605,
+    "TribalDance": 1879,
+    "TribalDanceALT": 1455,
+    "TurnUpTheLove": 857,
+    "TurnUpTheLoveALT": 168,
+    "TwistShakeIt": 170,
+    "Ulibayssia": 1993,
+    "UnderTheSea": 1202,
+    "UptownFunk": 1938,
+    "UptownFunkALT": 1456,
+    "WakeMeUpDLC": 758,
+    "WakingUp": 1939,
+    "WalkLike": 174,
+    "WalkThisWayALT": 1897,
+    "WantToWantMe": 2000,
+    "WantToWantMeALT": 1913,
+    "WantUBack": 2051,
+    "WeRWhoWeRDLC": 855,
+    "WhatAboutLoveDLC": 1890,
+    "WhatIsLove": 1592,
+    "WhatIsLoveALT": 1598,
+    "WhatIsLoveMU": 1005,
+    "WhenTheRain": 2066,
+    "Wild": 1948,
+    "WilliamTell": 1521,
+    "WorthIt": 1570,
+    "WorthItALT": 1591,
+    "WorthItMU": 543,
+    "Xmas": 2115,
+    "YouNeverCan": 1590,
+    "YouReTheFirst": 1880,
+    "YoureTheOne": 1400,
+    "Youth": 1975,
+    "Cotton": 2114,
+    "IGotAFeeling": 1994,
+    "Summer": 324,
+    "YMCA": 379,
+    "WakeMeUpALT": 1717,
+    "CheapThrillsCMU": 1699,
+    "WakeMeUp": 1809,
+    "IntoYouCMU": 1727,
+    "HandClapFAN": 1918,
+    "BollywoodXmas": 1926,
+    "ElectroTribalDLC": 2140,
+    "FeelSoRight": 1929,
+    "LoveBoat": 2120,
+    "Moskau": 1932,
+    "Sirtaki": 2122,
+    "SpectronizerQUAT": 1934,
+    "Zagreb": 1935,
+    "Hips": 1649,
+    "FeelIt": 1981,
+    "KIDSFiveLittleMonkeys": 1930,
+    "MiGente": 2022,
+    "IKissed": 1961,
+    "ABBAHoneyHoney": 1983,
+    "ABBALayAllYourLove": 1990,
+    "ABBASuperTrooper": 1377,
+    "ABBATheWinner": 1988,
+    "ABBAWaterloo": 1995,
+    "Sax": 2048,
+    "ABBAGimmeGimme": 2023,
+    "KIDSAccidentallyInLove": 2106,
+    "JamboMambo": 2117,
+    "KIDSWheelsOnTheBus": 2119,
+    "TheFinalCountdown": 2063,
+    "WhatLoversDo": 2069,
+    "GhostInTheKeys": 1654,
+    "KIDSDayO": 2118,
+    "Daddy": 2091,
+    "ABBADancingQueen": 2139,
+    "ABBAFernando": 2072,
+    "ABBAKnowingMe": 2100,
+    "ABBAMammaMia": 2094,
+    "ABBAMoneyMoney": 2089,
+    "ABBASOS": 2097,
+    "ABBATakeAChance": 2088,
+    "ABBAVoulezVous": 2093,
+    "KIDSIfYoureHappy": 2084,
+    "SpinMeRound": 2090,
+    "ThatsNotMyName": 2095,
+    "DameTu": 2138,
+    "DancingQueen": 2105,
+    "KIDSWorkingOnTheRailroad": 605,
+    "KIDSFraggleRock": 2108,
+    "JDMRapper": 1593,
+    "JDMRaveParty": 1597,
+    "JDMRunningMan": 1596,
+    "JDMRussian": 1594,
+    "JDMSaloon": 1595
+  },
+  "favorites": [
+    "LikeIWould",
+    "Leila",
+    "LastChristmas",
+    "ColaSong",
+    "ABBASuperTrooper"
+  ],
+  "unlockedAvatars": [
+    23,
+    33,
+    51,
+    52,
+    67,
+    72,
+    73,
+    77,
+    78,
+    80,
+    90,
+    97,
+    99,
+    115,
+    118,
+    127,
+    131,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    239,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    345,
+    346,
+    347,
+    353,
+    357,
+    360,
+    362,
+    364,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    378,
+    380,
+    381,
+    387,
+    388,
+    389,
+    478,
+    479,
+    480,
+    481,
+    498,
+    499,
+    500,
+    504,
+    505,
+    506,
+    507,
+    516,
+    517,
+    518,
+    519,
+    520,
+    522,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    539,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902,
+    903,
+    904,
+    905,
+    906,
+    907,
+    908,
+    909,
+    910,
+    911,
+    912,
+    913,
+    914,
+    916,
+    917,
+    918,
+    919,
+    920,
+    921,
+    922,
+    923,
+    924,
+    925,
+    926,
+    927,
+    928,
+    929,
+    930,
+    931,
+    932,
+    933,
+    934,
+    935,
+    936,
+    937,
+    938,
+    939,
+    940,
+    941,
+    942,
+    943,
+    944,
+    945,
+    946,
+    948,
+    949,
+    950,
+    951,
+    952,
+    953,
+    954,
+    955,
+    956,
+    959,
+    961,
+    962,
+    963,
+    964,
+    965,
+    966,
+    967,
+    968,
+    969,
+    982,
+    983,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998,
+    999,
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    24,
+    449,
+    615,
+    682,
+    704,
+    742,
+    815,
+    817,
+    838,
+    1050,
+    1052,
+    1088,
+    618,
+    717,
+    743,
+    775,
+    816,
+    1049,
+    1053,
+    281,
+    614,
+    741,
+    812,
+    1089,
+    700,
+    827,
+    1047,
+    616,
+    617,
+    400,
+    491,
+    247,
+    622,
+    189,
+    151,
+    5,
+    445,
+    401,
+    358,
+    647,
+    630,
+    636,
+    634,
+    635,
+    501,
+    601,
+    531,
+    403,
+    625,
+    633,
+    632,
+    624,
+    218,
+    441,
+    643,
+    645,
+    45,
+    620,
+    411,
+    166,
+    656,
+    651,
+    475,
+    432,
+    36,
+    74,
+    398,
+    443,
+    649,
+    457,
+    232,
+    650,
+    350,
+    395,
+    254,
+    348,
+    471,
+    367,
+    661,
+    102,
+    382,
+    383,
+    385,
+    655,
+    188,
+    164,
+    660,
+    55,
+    497,
+    458,
+    652,
+    295,
+    654,
+    406,
+    440,
+    107,
+    402,
+    536,
+    653,
+    138,
+    148,
+    344,
+    450,
+    159,
+    417,
+    431,
+    451,
+    513,
+    117,
+    256,
+    255,
+    307,
+    238,
+    681,
+    30,
+    275,
+    394,
+    290,
+    665,
+    424,
+    429,
+    533,
+    274,
+    306,
+    18,
+    98,
+    285,
+    269,
+    430,
+    693,
+    167,
+    237,
+    88,
+    585,
+    267,
+    272,
+    468,
+    198,
+    583,
+    354,
+    153,
+    263,
+    293,
+    301,
+    297,
+    292,
+    253,
+    289,
+    304,
+    341,
+    287,
+    86,
+    485,
+    210,
+    257,
+    447,
+    707,
+    355,
+    58,
+    291,
+    299,
+    284,
+    282,
+    268,
+    303,
+    300,
+    199,
+    266,
+    712,
+    646,
+    49,
+    684,
+    92,
+    220,
+    840,
+    84,
+    242,
+    95,
+    421,
+    273,
+    422,
+    396,
+    69,
+    399,
+    252,
+    133,
+    4,
+    427,
+    691,
+    698,
+    699,
+    708,
+    715,
+    721,
+    731,
+    753,
+    778,
+    788,
+    789,
+    790,
+    791,
+    792,
+    793,
+    794,
+    795,
+    796,
+    797,
+    798,
+    799,
+    800,
+    802,
+    803,
+    804,
+    805,
+    697,
+    833,
+    725,
+    714,
+    694,
+    844,
+    785,
+    834,
+    732,
+    713,
+    711,
+    729,
+    810,
+    836,
+    809,
+    830,
+    813,
+    726,
+    820,
+    828,
+    730,
+    829,
+    748,
+    750,
+    843,
+    738,
+    710,
+    723,
+    722,
+    826,
+    835,
+    814,
+    749,
+    782,
+    705,
+    739,
+    824,
+    808,
+    716,
+    823,
+    706,
+    724,
+    780,
+    832,
+    845,
+    720,
+    818,
+    821,
+    811,
+    786,
+    727,
+    837,
+    822,
+    825,
+    718,
+    695,
+    709,
+    776,
+    781,
+    831,
+    110,
+    276,
+    28,
+    701,
+    702,
+    703,
+    849,
+    848,
+    850,
+    872,
+    858,
+    857,
+    264,
+    154,
+    868,
+    296,
+    869,
+    855,
+    854,
+    856,
+    851,
+    874,
+    875,
+    876,
+    114
+  ],
+  "unlockedSkins": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    65,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    141,
+    142,
+    143,
+    144,
+    148,
+    150,
+    49,
+    48,
+    87,
+    50,
+    90,
+    119,
+    149,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    169
+  ],
+  "wdfRank": 1,
+  "stars": 0,
+  "unlocks": 14,
+  "songsPlayed": 0,
+  "name": "Ubisoft",
+  "nickname": "Ubisoft",
+  "platformId": "",
+  "country": 8503,
+  "scores": {
+    "Leila": {
+      "highest": 12818,
+      "timesPlayed": 1,
+      "isCoopHighscore": false
+    },
+    "AThousandDances": {
+      "highest": 12921,
+      "isCoopHighscore": false
+    },
+    "AboutThatBass": {
+      "highest": 12914,
+      "isCoopHighscore": false
+    },
+    "AboutThatBassALT": {
+      "highest": 11190,
+      "isCoopHighscore": false
+    },
+    "Acceptable": {
+      "highest": 13030,
+      "isCoopHighscore": false
+    },
+    "AintMy": {
+      "highest": 13251,
+      "isCoopHighscore": false
+    },
+    "Airplanes": {
+      "highest": 13204,
+      "isCoopHighscore": false
+    },
+    "Albatraoz": {
+      "highest": 12173,
+      "isCoopHighscore": false
+    },
+    "AllAboutUs": {
+      "highest": 12790,
+      "isCoopHighscore": false
+    },
+    "AmIWrong": {
+      "highest": 13293,
+      "isCoopHighscore": false
+    },
+    "AmericanGirlDLC": {
+      "highest": 13260,
+      "isCoopHighscore": false
+    },
+    "Americano": {
+      "highest": 11688,
+      "isCoopHighscore": false
+    },
+    "AmericanoFAN": {
+      "highest": 12803,
+      "isCoopHighscore": false
+    },
+    "Amore": {
+      "highest": 13322,
+      "isCoopHighscore": false
+    },
+    "AngryBirds": {
+      "highest": 12833,
+      "isCoopHighscore": false
+    },
+    "Animals": {
+      "highest": 12349,
+      "isCoopHighscore": false
+    },
+    "AnimalsALT": {
+      "highest": 13088,
+      "isCoopHighscore": false
+    },
+    "Apache": {
+      "highest": 12106,
+      "isCoopHighscore": false
+    },
+    "Aquarius": {
+      "highest": 12045,
+      "isCoopHighscore": false
+    },
+    "BabyGirl": {
+      "highest": 12737,
+      "isCoopHighscore": false
+    },
+    "BabyOneMoreQUAT": {
+      "highest": 12804,
+      "isCoopHighscore": false
+    },
+    "BadRomance": {
+      "highest": 12631,
+      "isCoopHighscore": false
+    },
+    "Bailar": {
+      "highest": 13332,
+      "isCoopHighscore": false
+    },
+    "BailarCMU": {
+      "highest": 781,
+      "isCoopHighscore": false
+    },
+    "Balance": {
+      "highest": 12391,
+      "isCoopHighscore": false
+    },
+    "Bang": {
+      "highest": 13129,
+      "isCoopHighscore": false
+    },
+    "Barbie": {
+      "highest": 13126,
+      "isCoopHighscore": false
+    },
+    "BeautyAndABeatDLC": {
+      "highest": 12762,
+      "isCoopHighscore": false
+    },
+    "BetterWhen": {
+      "highest": 12312,
+      "isCoopHighscore": false
+    },
+    "BewareOf": {
+      "highest": 13316,
+      "isCoopHighscore": false
+    },
+    "Bicicleta": {
+      "highest": 13204,
+      "isCoopHighscore": false
+    },
+    "BigGirl": {
+      "highest": 13134,
+      "isCoopHighscore": false
+    },
+    "Birthday": {
+      "highest": 12977,
+      "isCoopHighscore": false
+    },
+    "BlackMamba": {
+      "highest": 12368,
+      "isCoopHighscore": false
+    },
+    "Blame": {
+      "highest": 13249,
+      "isCoopHighscore": false
+    },
+    "BlurredLines": {
+      "highest": 11851,
+      "isCoopHighscore": false
+    },
+    "BlurredLinesALTDLC": {
+      "highest": 12641,
+      "isCoopHighscore": false
+    },
+    "Bonbon": {
+      "highest": 13311,
+      "isCoopHighscore": false
+    },
+    "BoogieWonderQUAT": {
+      "highest": 13317,
+      "isCoopHighscore": false
+    },
+    "BoomClapDLC": {
+      "highest": 13145,
+      "isCoopHighscore": false
+    },
+    "BoomDLC": {
+      "highest": 13333,
+      "isCoopHighscore": false
+    },
+    "BornThisWay": {
+      "highest": 13055,
+      "isCoopHighscore": false
+    },
+    "BornThisWayALT": {
+      "highest": 12946,
+      "isCoopHighscore": false
+    },
+    "BoysBoys": {
+      "highest": 12931,
+      "isCoopHighscore": false
+    },
+    "BreakFreeDLC": {
+      "highest": 13205,
+      "isCoopHighscore": false
+    },
+    "BuiltForThis": {
+      "highest": 13159,
+      "isCoopHighscore": false
+    },
+    "CakeByTheOcean": {
+      "highest": 12905,
+      "isCoopHighscore": false
+    },
+    "CakeByTheOceanALT": {
+      "highest": 13045,
+      "isCoopHighscore": false
+    },
+    "CaliforniaGurls": {
+      "highest": 13241,
+      "isCoopHighscore": false
+    },
+    "CantFeelMyFace": {
+      "highest": 13128,
+      "isCoopHighscore": false
+    },
+    "CantGetEnoughDLC": {
+      "highest": 13271,
+      "isCoopHighscore": false
+    },
+    "CantHurryLove": {
+      "highest": 12804,
+      "isCoopHighscore": false
+    },
+    "CantTakeMyEyes": {
+      "highest": 11437,
+      "isCoopHighscore": false
+    },
+    "CantTakeMyEyesALT": {
+      "highest": 12268,
+      "isCoopHighscore": false
+    },
+    "CantTouchThis": {
+      "highest": 13281,
+      "isCoopHighscore": false
+    },
+    "CheapThrills": {
+      "highest": 13039,
+      "isCoopHighscore": false
+    },
+    "CheapThrillsALT": {
+      "highest": 13046,
+      "isCoopHighscore": false
+    },
+    "CheapThrillsMU": {
+      "highest": 13325,
+      "isCoopHighscore": false
+    },
+    "Cheerleader": {
+      "highest": 12705,
+      "isCoopHighscore": false
+    },
+    "Chiwawa": {
+      "highest": 12928,
+      "isCoopHighscore": false
+    },
+    "Circus": {
+      "highest": 12398,
+      "isCoopHighscore": false
+    },
+    "CircusALT": {
+      "highest": 12704,
+      "isCoopHighscore": false
+    },
+    "Cmon": {
+      "highest": 7694,
+      "isCoopHighscore": false
+    },
+    "ColaSong": {
+      "highest": 13141,
+      "isCoopHighscore": false
+    },
+    "ColaSongALT": {
+      "highest": 12735,
+      "isCoopHighscore": false
+    },
+    "Coolos": {
+      "highest": 12992,
+      "isCoopHighscore": false
+    },
+    "CopaCabana": {
+      "highest": 12411,
+      "isCoopHighscore": false
+    },
+    "CosmicGirl": {
+      "highest": 12367,
+      "isCoopHighscore": false
+    },
+    "Cotton": {
+      "highest": 12635,
+      "isCoopHighscore": false
+    },
+    "CrazyLittle": {
+      "highest": 13013,
+      "isCoopHighscore": false
+    },
+    "CrucifiedQUAT": {
+      "highest": 13095,
+      "isCoopHighscore": false
+    },
+    "CryingBlood": {
+      "highest": 12824,
+      "isCoopHighscore": false
+    },
+    "Daddy": {
+      "highest": 12584,
+      "isCoopHighscore": false
+    },
+    "DaddyALT": {
+      "highest": 12393,
+      "isCoopHighscore": false
+    },
+    "DaddyMU": {
+      "highest": 13051,
+      "isCoopHighscore": false
+    },
+    "Danse": {
+      "highest": 12195,
+      "isCoopHighscore": false
+    },
+    "DieYoungDLC": {
+      "highest": 11171,
+      "isCoopHighscore": false
+    },
+    "Diggin": {
+      "highest": 12712,
+      "isCoopHighscore": false
+    },
+    "DogsOut": {
+      "highest": 12949,
+      "isCoopHighscore": false
+    },
+    "Domino": {
+      "highest": 13317,
+      "isCoopHighscore": false
+    },
+    "DontLet": {
+      "highest": 13308,
+      "isCoopHighscore": false
+    },
+    "DontStopMe": {
+      "highest": 12339,
+      "isCoopHighscore": false
+    },
+    "DontStopMeALT": {
+      "highest": 13174,
+      "isCoopHighscore": false
+    },
+    "DontWorry": {
+      "highest": 12689,
+      "isCoopHighscore": false
+    },
+    "DontWorryMadcon": {
+      "highest": 12471,
+      "isCoopHighscore": false
+    },
+    "DontYouWorryDLC": {
+      "highest": 12530,
+      "isCoopHighscore": false
+    },
+    "DragosteaDinTei": {
+      "highest": 12600,
+      "isCoopHighscore": false
+    },
+    "DynamiteQUAT": {
+      "highest": 12579,
+      "isCoopHighscore": false
+    },
+    "ET": {
+      "highest": 13209,
+      "isCoopHighscore": false
+    },
+    "ElTiki": {
+      "highest": 12544,
+      "isCoopHighscore": false
+    },
+    "ElTikiALT": {
+      "highest": 12848,
+      "isCoopHighscore": false
+    },
+    "ElectroMambo": {
+      "highest": 13209,
+      "isCoopHighscore": false
+    },
+    "EyeOfTheTiger": {
+      "highest": 13166,
+      "isCoopHighscore": false
+    },
+    "Fame": {
+      "highest": 13328,
+      "isCoopHighscore": false
+    },
+    "Fancy": {
+      "highest": 12479,
+      "isCoopHighscore": false
+    },
+    "FancyALT": {
+      "highest": 12125,
+      "isCoopHighscore": false
+    },
+    "FindYou": {
+      "highest": 13128,
+      "isCoopHighscore": false
+    },
+    "FindYourMove": {
+      "highest": 13325,
+      "isCoopHighscore": false
+    },
+    "Firework": {
+      "highest": 12620,
+      "isCoopHighscore": false
+    },
+    "Fun": {
+      "highest": 13000,
+      "isCoopHighscore": false
+    },
+    "FunkyTown": {
+      "highest": 11480,
+      "isCoopHighscore": false
+    },
+    "Futebol": {
+      "highest": 12580,
+      "isCoopHighscore": false
+    },
+    "GangnamStyleDLC": {
+      "highest": 12033,
+      "isCoopHighscore": false
+    },
+    "Gentleman": {
+      "highest": 12243,
+      "isCoopHighscore": false
+    },
+    "GetAround": {
+      "highest": 13074,
+      "isCoopHighscore": false
+    },
+    "GetUgly": {
+      "highest": 12560,
+      "isCoopHighscore": false
+    },
+    "GhostInTheKeys": {
+      "highest": 13262,
+      "isCoopHighscore": false
+    },
+    "GhostInTheKeysMU": {
+      "highest": 13055,
+      "isCoopHighscore": false
+    },
+    "Ghostbusters": {
+      "highest": 12470,
+      "isCoopHighscore": false
+    },
+    "GhostbustersSWT": {
+      "highest": 11614,
+      "isCoopHighscore": false
+    },
+    "Gibberish": {
+      "highest": 13062,
+      "isCoopHighscore": false
+    },
+    "Gigolo": {
+      "highest": 12765,
+      "isCoopHighscore": false
+    },
+    "GimmeGimme": {
+      "highest": 12123,
+      "isCoopHighscore": false
+    },
+    "GimmeGimmeOSC": {
+      "highest": 12704,
+      "isCoopHighscore": false
+    },
+    "Girlfriend": {
+      "highest": 12036,
+      "isCoopHighscore": false
+    },
+    "GirlsJustWant": {
+      "highest": 12251,
+      "isCoopHighscore": false
+    },
+    "GlamorousCusto": {
+      "highest": 13017,
+      "isCoopHighscore": false
+    },
+    "GoodFeeling": {
+      "highest": 13005,
+      "isCoopHighscore": false
+    },
+    "GoodFeelingALT": {
+      "highest": 12815,
+      "isCoopHighscore": false
+    },
+    "GotMeDancing": {
+      "highest": 12960,
+      "isCoopHighscore": false
+    },
+    "Groove": {
+      "highest": 12367,
+      "isCoopHighscore": false
+    },
+    "HalloweenQUAT": {
+      "highest": 12412,
+      "isCoopHighscore": false
+    },
+    "HandClap": {
+      "highest": 12926,
+      "isCoopHighscore": false
+    },
+    "Hangover": {
+      "highest": 12739,
+      "isCoopHighscore": false
+    },
+    "Happy": {
+      "highest": 13333,
+      "isCoopHighscore": false
+    },
+    "HappyALT": {
+      "highest": 13021,
+      "isCoopHighscore": false
+    },
+    "HeartOfGlass": {
+      "highest": 13276,
+      "isCoopHighscore": false
+    },
+    "Heartbeat": {
+      "highest": 12050,
+      "isCoopHighscore": false
+    },
+    "HeavyCross": {
+      "highest": 13276,
+      "isCoopHighscore": false
+    },
+    "HeyMama": {
+      "highest": 12771,
+      "isCoopHighscore": false
+    },
+    "HeyMamaALT": {
+      "highest": 12798,
+      "isCoopHighscore": false
+    },
+    "HeyYa": {
+      "highest": 12975,
+      "isCoopHighscore": false
+    },
+    "Hips": {
+      "highest": 13092,
+      "isCoopHighscore": false
+    },
+    "HipsALT": {
+      "highest": 12711,
+      "isCoopHighscore": false
+    },
+    "HipsMU": {
+      "highest": 12756,
+      "isCoopHighscore": false
+    },
+    "HitEmUp": {
+      "highest": 13020,
+      "isCoopHighscore": false
+    },
+    "HitTheLights": {
+      "highest": 13301,
+      "isCoopHighscore": false
+    },
+    "HitTheRoad": {
+      "highest": 12517,
+      "isCoopHighscore": false
+    },
+    "HitTheRoadALT": {
+      "highest": 12522,
+      "isCoopHighscore": false
+    },
+    "HoldMyHand": {
+      "highest": 13203,
+      "isCoopHighscore": false
+    },
+    "HoldingOut": {
+      "highest": 12951,
+      "isCoopHighscore": false
+    },
+    "Holiday": {
+      "highest": 12151,
+      "isCoopHighscore": false
+    },
+    "HotNCold": {
+      "highest": 13332,
+      "isCoopHighscore": false
+    },
+    "HotStuff": {
+      "highest": 12939,
+      "isCoopHighscore": false
+    },
+    "HungarianDance": {
+      "highest": 12089,
+      "isCoopHighscore": false
+    },
+    "IDidItAgainQUAT": {
+      "highest": 12744,
+      "isCoopHighscore": false
+    },
+    "IFeelLove": {
+      "highest": 12981,
+      "isCoopHighscore": false
+    },
+    "IGotAFeeling": {
+      "highest": 13168,
+      "isCoopHighscore": false
+    },
+    "IGotAFeelingALT": {
+      "highest": 12191,
+      "isCoopHighscore": false
+    },
+    "IKissedOSC": {
+      "highest": 12861,
+      "isCoopHighscore": false
+    },
+    "IKissedSWT": {
+      "highest": 12847,
+      "isCoopHighscore": false
+    },
+    "ILikeItLike": {
+      "highest": 12985,
+      "isCoopHighscore": false
+    },
+    "ILoveRock": {
+      "highest": 12891,
+      "isCoopHighscore": false
+    },
+    "INeedYourLoveDLC": {
+      "highest": 11607,
+      "isCoopHighscore": false
+    },
+    "IWantYouBack": {
+      "highest": 12874,
+      "isCoopHighscore": false
+    },
+    "IWasMadeQUAT": {
+      "highest": 12528,
+      "isCoopHighscore": false
+    },
+    "IWillSurvive": {
+      "highest": 10727,
+      "isCoopHighscore": false
+    },
+    "IWillSurviveOSC": {
+      "highest": 12807,
+      "isCoopHighscore": false
+    },
+    "Idealistic": {
+      "highest": 12217,
+      "isCoopHighscore": false
+    },
+    "Imya505": {
+      "highest": 12909,
+      "isCoopHighscore": false
+    },
+    "IndiaWaale": {
+      "highest": 12656,
+      "isCoopHighscore": false
+    },
+    "IntoYou": {
+      "highest": 13229,
+      "isCoopHighscore": false
+    },
+    "IstanbulQUAT": {
+      "highest": 12835,
+      "isCoopHighscore": false
+    },
+    "ItsRainingMen": {
+      "highest": 13058,
+      "isCoopHighscore": false
+    },
+    "ItsYou": {
+      "highest": 13041,
+      "isCoopHighscore": false
+    },
+    "ItsYouSWT": {
+      "highest": 12951,
+      "isCoopHighscore": false
+    },
+    "JaiHo": {
+      "highest": 12685,
+      "isCoopHighscore": false
+    },
+    "JailHouseALT": {
+      "highest": 13241,
+      "isCoopHighscore": false
+    },
+    "JamboMambo": {
+      "highest": 12617,
+      "isCoopHighscore": false
+    },
+    "Juju": {
+      "highest": 12991,
+      "isCoopHighscore": false
+    },
+    "JumpGA": {
+      "highest": 13044,
+      "isCoopHighscore": false
+    },
+    "JuntoATi": {
+      "highest": 12556,
+      "isCoopHighscore": false
+    },
+    "JustDance": {
+      "highest": 12521,
+      "isCoopHighscore": false
+    },
+    "JustDanceOSC": {
+      "highest": 11850,
+      "isCoopHighscore": false
+    },
+    "JustDanceSWTDLC": {
+      "highest": 13214,
+      "isCoopHighscore": false
+    },
+    "JustMaxBL": {
+      "highest": 12756,
+      "isCoopHighscore": false
+    },
+    "KIDSABC": {
+      "highest": 13224,
+      "isCoopHighscore": false
+    },
+    "KIDSHickoryDickoryDock": {
+      "highest": 13320,
+      "isCoopHighscore": false
+    },
+    "KIDSILikeToMoveIt": {
+      "highest": 13329,
+      "isCoopHighscore": false
+    },
+    "KIDSJingleBells": {
+      "highest": 13242,
+      "isCoopHighscore": false
+    },
+    "KIDSMaryHadALittleLamb": {
+      "highest": 13288,
+      "isCoopHighscore": false
+    },
+    "KIDSPirateYouShallBe": {
+      "highest": 12982,
+      "isCoopHighscore": false
+    },
+    "KIDSTheLionSleepsTonight": {
+      "highest": 13333,
+      "isCoopHighscore": false
+    },
+    "KIDSWeGoWellTogether": {
+      "highest": 13193,
+      "isCoopHighscore": false
+    },
+    "KaboomPow": {
+      "highest": 11606,
+      "isCoopHighscore": false
+    },
+    "KattiKalandal": {
+      "highest": 13132,
+      "isCoopHighscore": false
+    },
+    "KetchupSong": {
+      "highest": 13239,
+      "isCoopHighscore": false
+    },
+    "KungFu": {
+      "highest": 13096,
+      "isCoopHighscore": false
+    },
+    "KungFunk": {
+      "highest": 12687,
+      "isCoopHighscore": false
+    },
+    "Kurio": {
+      "highest": 13159,
+      "isCoopHighscore": false
+    },
+    "LastChristmas": {
+      "highest": 13107,
+      "isCoopHighscore": false
+    },
+    "LeFreak": {
+      "highest": 12112,
+      "isCoopHighscore": false
+    },
+    "LeanOn": {
+      "highest": 13190,
+      "isCoopHighscore": false
+    },
+    "LeanOnALT": {
+      "highest": 11906,
+      "isCoopHighscore": false
+    },
+    "LeanOnMU": {
+      "highest": 13228,
+      "isCoopHighscore": false
+    },
+    "LetItGo": {
+      "highest": 13231,
+      "isCoopHighscore": false
+    },
+    "LetItGoDLC": {
+      "highest": 13019,
+      "isCoopHighscore": false
+    },
+    "LetsGroove": {
+      "highest": 12621,
+      "isCoopHighscore": false
+    },
+    "Lights": {
+      "highest": 13008,
+      "isCoopHighscore": false
+    },
+    "LikeIWould": {
+      "highest": 12725,
+      "isCoopHighscore": false
+    },
+    "LimaGolf1": {
+      "highest": 11558,
+      "isCoopHighscore": false
+    },
+    "LittleSwing": {
+      "highest": 13105,
+      "isCoopHighscore": false
+    },
+    "Lollipop": {
+      "highest": 10075,
+      "isCoopHighscore": false
+    },
+    "LoveIsAll": {
+      "highest": 12752,
+      "isCoopHighscore": false
+    },
+    "LoveYouLike": {
+      "highest": 12937,
+      "isCoopHighscore": false
+    },
+    "Luftballons": {
+      "highest": 12300,
+      "isCoopHighscore": false
+    },
+    "Macarena": {
+      "highest": 13030,
+      "isCoopHighscore": false
+    },
+    "Mad": {
+      "highest": 12833,
+      "isCoopHighscore": false
+    },
+    "MainGirlDLC": {
+      "highest": 11208,
+      "isCoopHighscore": false
+    },
+    "Mamasita": {
+      "highest": 12368,
+      "isCoopHighscore": false
+    },
+    "Mambo5": {
+      "highest": 12704,
+      "isCoopHighscore": false
+    },
+    "Maneater": {
+      "highest": 12144,
+      "isCoopHighscore": false
+    },
+    "MasterBlaster": {
+      "highest": 12783,
+      "isCoopHighscore": false
+    },
+    "MeToo": {
+      "highest": 12931,
+      "isCoopHighscore": false
+    },
+    "MoveYourFeet": {
+      "highest": 12332,
+      "isCoopHighscore": false
+    },
+    "MovesLikeDLC": {
+      "highest": 12912,
+      "isCoopHighscore": false
+    },
+    "MrSaxobeat": {
+      "highest": 13125,
+      "isCoopHighscore": false
+    },
+    "MugsyBaloney": {
+      "highest": 13326,
+      "isCoopHighscore": false
+    },
+    "NaeNae": {
+      "highest": 12586,
+      "isCoopHighscore": false
+    },
+    "NaeNaeALT": {
+      "highest": 12139,
+      "isCoopHighscore": false
+    },
+    "Natoo": {
+      "highest": 12965,
+      "isCoopHighscore": false
+    },
+    "NeverCanSay": {
+      "highest": 13273,
+      "isCoopHighscore": false
+    },
+    "NineAfternoon": {
+      "highest": 12074,
+      "isCoopHighscore": false
+    },
+    "NoControl": {
+      "highest": 13117,
+      "isCoopHighscore": false
+    },
+    "NoLimit": {
+      "highest": 13198,
+      "isCoopHighscore": false
+    },
+    "Oath": {
+      "highest": 13072,
+      "isCoopHighscore": false
+    },
+    "OhNo": {
+      "highest": 12974,
+      "isCoopHighscore": false
+    },
+    "Oishii": {
+      "highest": 13030,
+      "isCoopHighscore": false
+    },
+    "OnaTanczyDlaMnie": {
+      "highest": 12707,
+      "isCoopHighscore": false
+    },
+    "OneWayDLC": {
+      "highest": 13069,
+      "isCoopHighscore": false
+    },
+    "OtherSide": {
+      "highest": 12544,
+      "isCoopHighscore": false
+    },
+    "PartOfMeDLC": {
+      "highest": 12270,
+      "isCoopHighscore": false
+    },
+    "PartyRock": {
+      "highest": 12574,
+      "isCoopHighscore": false
+    },
+    "PoPiPo": {
+      "highest": 13239,
+      "isCoopHighscore": false
+    },
+    "Potato": {
+      "highest": 12274,
+      "isCoopHighscore": false
+    },
+    "PoundTheAlarm": {
+      "highest": 12771,
+      "isCoopHighscore": false
+    },
+    "PoundTheAlarmALTDLC": {
+      "highest": 12991,
+      "isCoopHighscore": false
+    },
+    "PrimaDonna": {
+      "highest": 11815,
+      "isCoopHighscore": false
+    },
+    "PrinceAli": {
+      "highest": 11700,
+      "isCoopHighscore": false
+    },
+    "ProfesseurDLC": {
+      "highest": 11417,
+      "isCoopHighscore": false
+    },
+    "Promiscuous": {
+      "highest": 12492,
+      "isCoopHighscore": false
+    },
+    "Rabiosa": {
+      "highest": 11470,
+      "isCoopHighscore": false
+    },
+    "RabiosaALT": {
+      "highest": 13097,
+      "isCoopHighscore": false
+    },
+    "Radical": {
+      "highest": 12891,
+      "isCoopHighscore": false
+    },
+    "RadicalALT": {
+      "highest": 11363,
+      "isCoopHighscore": false
+    },
+    "Rasputin": {
+      "highest": 13324,
+      "isCoopHighscore": false
+    },
+    "RedMangoose": {
+      "highest": 12719,
+      "isCoopHighscore": false
+    },
+    "RiverSide": {
+      "highest": 13239,
+      "isCoopHighscore": false
+    },
+    "RobotRock": {
+      "highest": 10133,
+      "isCoopHighscore": false
+    },
+    "RockNRoll": {
+      "highest": 12982,
+      "isCoopHighscore": false
+    },
+    "RockNRollDLC": {
+      "highest": 13181,
+      "isCoopHighscore": false
+    },
+    "RunTheNight": {
+      "highest": 13159,
+      "isCoopHighscore": false
+    },
+    "SafeAndSound": {
+      "highest": 12207,
+      "isCoopHighscore": false
+    },
+    "SaintPatrick": {
+      "highest": 12021,
+      "isCoopHighscore": false
+    },
+    "Samba": {
+      "highest": 12680,
+      "isCoopHighscore": false
+    },
+    "ScreamNShout": {
+      "highest": 13167,
+      "isCoopHighscore": false
+    },
+    "ScreamNShoutALT": {
+      "highest": 12424,
+      "isCoopHighscore": false
+    },
+    "ScreamNShoutMU": {
+      "highest": 12692,
+      "isCoopHighscore": false
+    },
+    "September": {
+      "highest": 12769,
+      "isCoopHighscore": false
+    },
+    "SeptemberALT": {
+      "highest": 13205,
+      "isCoopHighscore": false
+    },
+    "SeptemberMU": {
+      "highest": 12436,
+      "isCoopHighscore": false
+    },
+    "SexyAndIKnowItDLC": {
+      "highest": 12991,
+      "isCoopHighscore": false
+    },
+    "ShutUp": {
+      "highest": 12855,
+      "isCoopHighscore": false
+    },
+    "SingleLadies": {
+      "highest": 13306,
+      "isCoopHighscore": false
+    },
+    "SingleLadiesCMU": {
+      "highest": 13236,
+      "isCoopHighscore": false
+    },
+    "SomethinStupid": {
+      "highest": 12277,
+      "isCoopHighscore": false
+    },
+    "Sorry": {
+      "highest": 13211,
+      "isCoopHighscore": false
+    },
+    "SorryALT": {
+      "highest": 12778,
+      "isCoopHighscore": false
+    },
+    "SoulSearch": {
+      "highest": 13106,
+      "isCoopHighscore": false
+    },
+    "StadiumFlow": {
+      "highest": 12819,
+      "isCoopHighscore": false
+    },
+    "Starships": {
+      "highest": 12506,
+      "isCoopHighscore": false
+    },
+    "StarshipsALT": {
+      "highest": 12195,
+      "isCoopHighscore": false
+    },
+    "StepByStep": {
+      "highest": 10905,
+      "isCoopHighscore": false
+    },
+    "StuckOnAFeeling": {
+      "highest": 13223,
+      "isCoopHighscore": false
+    },
+    "Summer": {
+      "highest": 12896,
+      "isCoopHighscore": false
+    },
+    "SummerALT": {
+      "highest": 12670,
+      "isCoopHighscore": false
+    },
+    "SuperBass": {
+      "highest": 12277,
+      "isCoopHighscore": false
+    },
+    "Superstition": {
+      "highest": 12253,
+      "isCoopHighscore": false
+    },
+    "Sway": {
+      "highest": 12697,
+      "isCoopHighscore": false
+    },
+    "TakeMeOut": {
+      "highest": 13094,
+      "isCoopHighscore": false
+    },
+    "TakeOnMe": {
+      "highest": 12886,
+      "isCoopHighscore": false
+    },
+    "TasteTheFeeling": {
+      "highest": 13234,
+      "isCoopHighscore": false
+    },
+    "TasteTheFeelingALT": {
+      "highest": 11466,
+      "isCoopHighscore": false
+    },
+    "TeDominar": {
+      "highest": 13298,
+      "isCoopHighscore": false
+    },
+    "Teacher": {
+      "highest": 12625,
+      "isCoopHighscore": false
+    },
+    "TeacherALT": {
+      "highest": 11336,
+      "isCoopHighscore": false
+    },
+    "TeenageDream": {
+      "highest": 13066,
+      "isCoopHighscore": false
+    },
+    "Tetris": {
+      "highest": 10244,
+      "isCoopHighscore": false
+    },
+    "ThatPower": {
+      "highest": 12484,
+      "isCoopHighscore": false
+    },
+    "ThatPowerALT": {
+      "highest": 11860,
+      "isCoopHighscore": false
+    },
+    "ThatPowerOSCDLC": {
+      "highest": 12629,
+      "isCoopHighscore": false
+    },
+    "TheChoice": {
+      "highest": 13164,
+      "isCoopHighscore": false
+    },
+    "TheGreatest": {
+      "highest": 13085,
+      "isCoopHighscore": false
+    },
+    "TheWay": {
+      "highest": 12369,
+      "isCoopHighscore": false
+    },
+    "TheWorldDLC": {
+      "highest": 12929,
+      "isCoopHighscore": false
+    },
+    "TheseBoots": {
+      "highest": 12657,
+      "isCoopHighscore": false
+    },
+    "ThisIsHow": {
+      "highest": 12507,
+      "isCoopHighscore": false
+    },
+    "ThisIsHowALT": {
+      "highest": 12129,
+      "isCoopHighscore": false
+    },
+    "TicoTico": {
+      "highest": 13113,
+      "isCoopHighscore": false
+    },
+    "TikTok": {
+      "highest": 13231,
+      "isCoopHighscore": false
+    },
+    "TimeWarpQUAT": {
+      "highest": 11189,
+      "isCoopHighscore": false
+    },
+    "Titanium": {
+      "highest": 12659,
+      "isCoopHighscore": false
+    },
+    "TribalDance": {
+      "highest": 13086,
+      "isCoopHighscore": false
+    },
+    "TribalDanceALT": {
+      "highest": 10681,
+      "isCoopHighscore": false
+    },
+    "TurnUpTheLove": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "TurnUpTheLoveALT": {
+      "highest": 12670,
+      "isCoopHighscore": false
+    },
+    "TurnUpTheLoveFAN": {
+      "highest": 13263,
+      "isCoopHighscore": false
+    },
+    "TwistShakeIt": {
+      "highest": 13333,
+      "isCoopHighscore": false
+    },
+    "Ulibayssia": {
+      "highest": 12268,
+      "isCoopHighscore": false
+    },
+    "UnderTheSea": {
+      "highest": 12766,
+      "isCoopHighscore": false
+    },
+    "UptownFunk": {
+      "highest": 12885,
+      "isCoopHighscore": false
+    },
+    "UptownFunkALT": {
+      "highest": 12477,
+      "isCoopHighscore": false
+    },
+    "WakeMeUpDLC": {
+      "highest": 11490,
+      "isCoopHighscore": false
+    },
+    "WakingUp": {
+      "highest": 12727,
+      "isCoopHighscore": false
+    },
+    "WalkLike": {
+      "highest": 10647,
+      "isCoopHighscore": false
+    },
+    "WalkThisWayALT": {
+      "highest": 12979,
+      "isCoopHighscore": false
+    },
+    "WantToWantMe": {
+      "highest": 12575,
+      "isCoopHighscore": false
+    },
+    "WantToWantMeALT": {
+      "highest": 12718,
+      "isCoopHighscore": false
+    },
+    "WantUBack": {
+      "highest": 13079,
+      "isCoopHighscore": false
+    },
+    "WeRWhoWeRDLC": {
+      "highest": 11868,
+      "isCoopHighscore": false
+    },
+    "WhatAFeeling": {
+      "highest": 12041,
+      "isCoopHighscore": false
+    },
+    "WhatAboutLoveDLC": {
+      "highest": 12698,
+      "isCoopHighscore": false
+    },
+    "WhatIsLove": {
+      "highest": 12027,
+      "isCoopHighscore": false
+    },
+    "WhatIsLoveALT": {
+      "highest": 12371,
+      "isCoopHighscore": false
+    },
+    "WhatIsLoveMU": {
+      "highest": 12903,
+      "isCoopHighscore": false
+    },
+    "WhenTheRain": {
+      "highest": 12164,
+      "isCoopHighscore": false
+    },
+    "WhereverIGo": {
+      "highest": 12637,
+      "isCoopHighscore": false
+    },
+    "Wild": {
+      "highest": 12288,
+      "isCoopHighscore": false
+    },
+    "WilliamTell": {
+      "highest": 12466,
+      "isCoopHighscore": false
+    },
+    "WorthIt": {
+      "highest": 13034,
+      "isCoopHighscore": false
+    },
+    "WorthItALT": {
+      "highest": 13034,
+      "isCoopHighscore": false
+    },
+    "WorthItMU": {
+      "highest": 12140,
+      "isCoopHighscore": false
+    },
+    "Xmas": {
+      "highest": 12819,
+      "isCoopHighscore": false
+    },
+    "YMCA": {
+      "highest": 11904,
+      "isCoopHighscore": false
+    },
+    "YouMakeMeFeelDLC": {
+      "highest": 11739,
+      "isCoopHighscore": false
+    },
+    "YouNeverCan": {
+      "highest": 12788,
+      "isCoopHighscore": false
+    },
+    "YouReTheFirst": {
+      "highest": 12493,
+      "isCoopHighscore": false
+    },
+    "YoureTheOne": {
+      "highest": 11540,
+      "isCoopHighscore": false
+    },
+    "Youth": {
+      "highest": 12989,
+      "isCoopHighscore": false
+    },
+    "AboutThatBassMU": {
+      "highest": 12360,
+      "isCoopHighscore": false
+    },
+    "AlbatraozMU": {
+      "highest": 11988,
+      "isCoopHighscore": false
+    },
+    "AngryBirdsMU": {
+      "highest": 13077,
+      "isCoopHighscore": false
+    },
+    "AnimalsMU": {
+      "highest": 11930,
+      "isCoopHighscore": false
+    },
+    "BabyZouk": {
+      "highest": 11748,
+      "isCoopHighscore": false
+    },
+    "BollywoodXmas": {
+      "highest": 13217,
+      "isCoopHighscore": false
+    },
+    "BornThisWayMU": {
+      "highest": 11352,
+      "isCoopHighscore": false
+    },
+    "BoysBoysMU": {
+      "highest": 13018,
+      "isCoopHighscore": false
+    },
+    "ChiwawaMU": {
+      "highest": 12257,
+      "isCoopHighscore": false
+    },
+    "CircusMU": {
+      "highest": 12131,
+      "isCoopHighscore": false
+    },
+    "CopaCabanaMU": {
+      "highest": 12752,
+      "isCoopHighscore": false
+    },
+    "ElectroMamboMU": {
+      "highest": 11787,
+      "isCoopHighscore": false
+    },
+    "ElectroTribalDLC": {
+      "highest": 13145,
+      "isCoopHighscore": false
+    },
+    "FeelSoRight": {
+      "highest": 12533,
+      "isCoopHighscore": false
+    },
+    "FunMU": {
+      "highest": 10925,
+      "isCoopHighscore": false
+    },
+    "HangoverMU": {
+      "highest": 12024,
+      "isCoopHighscore": false
+    },
+    "IGotAFeelingMU": {
+      "highest": 11688,
+      "isCoopHighscore": false
+    },
+    "JailHouseQUAT": {
+      "highest": 11290,
+      "isCoopHighscore": false
+    },
+    "LetsGrooveMU": {
+      "highest": 12036,
+      "isCoopHighscore": false
+    },
+    "LevanPolkka": {
+      "highest": 13030,
+      "isCoopHighscore": false
+    },
+    "LevanPolkkaMU": {
+      "highest": 10428,
+      "isCoopHighscore": false
+    },
+    "LightsMU": {
+      "highest": 13052,
+      "isCoopHighscore": false
+    },
+    "NoControlMU": {
+      "highest": 12203,
+      "isCoopHighscore": false
+    },
+    "OnMyMind": {
+      "highest": 12467,
+      "isCoopHighscore": false
+    },
+    "RabiosaMU": {
+      "highest": 11801,
+      "isCoopHighscore": false
+    },
+    "SaintPatrickMU": {
+      "highest": 12667,
+      "isCoopHighscore": false
+    },
+    "Sirtaki": {
+      "highest": 12770,
+      "isCoopHighscore": false
+    },
+    "SpectronizerQUAT": {
+      "highest": 12625,
+      "isCoopHighscore": false
+    },
+    "StadiumFlowFAN": {
+      "highest": 12713,
+      "isCoopHighscore": false
+    },
+    "StadiumFlowMU": {
+      "highest": 11482,
+      "isCoopHighscore": false
+    },
+    "Stargate": {
+      "highest": 13154,
+      "isCoopHighscore": false
+    },
+    "StargateMU": {
+      "highest": 12436,
+      "isCoopHighscore": false
+    },
+    "ThisIsHowFAN": {
+      "highest": 12262,
+      "isCoopHighscore": false
+    },
+    "ThisIsHowMU": {
+      "highest": 13237,
+      "isCoopHighscore": false
+    },
+    "UptownFunkMU": {
+      "highest": 12096,
+      "isCoopHighscore": false
+    },
+    "WantToWantMeMU": {
+      "highest": 12601,
+      "isCoopHighscore": false
+    },
+    "WhyOWhy": {
+      "highest": 13217,
+      "isCoopHighscore": false
+    },
+    "Zagreb": {
+      "highest": 11843,
+      "isCoopHighscore": false
+    },
+    "CakeByTheOceanVIP": {
+      "highest": 11998,
+      "isCoopHighscore": false
+    },
+    "HowDeep": {
+      "highest": 13058,
+      "isCoopHighscore": false
+    },
+    "WakeMeUpALT": {
+      "highest": 13289,
+      "isCoopHighscore": false
+    },
+    "CheapThrillsCMU": {
+      "highest": 13211,
+      "isCoopHighscore": false
+    },
+    "WakeMeUp": {
+      "highest": 13137,
+      "isCoopHighscore": false
+    },
+    "IntoYouCMU": {
+      "highest": 2489,
+      "isCoopHighscore": false
+    },
+    "HandClapFAN": {
+      "highest": 12983,
+      "isCoopHighscore": false
+    },
+    "BubblePop": {
+      "highest": 13182,
+      "isCoopHighscore": false
+    },
+    "TumBum": {
+      "highest": 13322,
+      "isCoopHighscore": false
+    },
+    "SlumberParty": {
+      "highest": 13306,
+      "isCoopHighscore": false
+    },
+    "BadLiar": {
+      "highest": 13215,
+      "isCoopHighscore": false
+    },
+    "Sidewinder": {
+      "highest": 13206,
+      "isCoopHighscore": false
+    },
+    "SayonaraRetake": {
+      "highest": 13228,
+      "isCoopHighscore": false
+    },
+    "KeepOn": {
+      "highest": 13323,
+      "isCoopHighscore": false
+    },
+    "Instruction": {
+      "highest": 13318,
+      "isCoopHighscore": false
+    },
+    "AnotherOne": {
+      "highest": 13234,
+      "isCoopHighscore": false
+    },
+    "Copperhead": {
+      "highest": 13275,
+      "isCoopHighscore": false
+    },
+    "8BitRetake": {
+      "highest": 13199,
+      "isCoopHighscore": false
+    },
+    "GotThat": {
+      "highest": 13327,
+      "isCoopHighscore": false
+    },
+    "Diggy": {
+      "highest": 13326,
+      "isCoopHighscore": false
+    },
+    "Chantaje": {
+      "highest": 13324,
+      "isCoopHighscore": false
+    },
+    "BeepBeep": {
+      "highest": 13265,
+      "isCoopHighscore": false
+    },
+    "Cottonmouth": {
+      "highest": 13249,
+      "isCoopHighscore": false
+    },
+    "NewFace": {
+      "highest": 13277,
+      "isCoopHighscore": false
+    },
+    "Automaton": {
+      "highest": 13276,
+      "isCoopHighscore": false
+    },
+    "WakaWaka": {
+      "highest": 13137,
+      "isCoopHighscore": false
+    },
+    "NaughtyGirl": {
+      "highest": 13314,
+      "isCoopHighscore": false
+    },
+    "MakeItJingle": {
+      "highest": 13295,
+      "isCoopHighscore": false
+    },
+    "ShapeOfYou": {
+      "highest": 13316,
+      "isCoopHighscore": false
+    },
+    "KissingStrangers": {
+      "highest": 13195,
+      "isCoopHighscore": false
+    },
+    "ItsyBitsyRetake": {
+      "highest": 13310,
+      "isCoopHighscore": false
+    },
+    "JohnW": {
+      "highest": 13117,
+      "isCoopHighscore": false
+    },
+    "Blue": {
+      "highest": 13241,
+      "isCoopHighscore": false
+    },
+    "Carmen": {
+      "highest": 12939,
+      "isCoopHighscore": false
+    },
+    "SwishSwish": {
+      "highest": 13157,
+      "isCoopHighscore": false
+    },
+    "LoveWard": {
+      "highest": 13234,
+      "isCoopHighscore": false
+    },
+    "BlowYourMind": {
+      "highest": 13148,
+      "isCoopHighscore": false
+    },
+    "Rockabye": {
+      "highest": 13325,
+      "isCoopHighscore": false
+    },
+    "RiskyBusiness": {
+      "highest": 13113,
+      "isCoopHighscore": false
+    },
+    "MagicHalloweenKids": {
+      "highest": 13159,
+      "isCoopHighscore": false
+    },
+    "DaddyCool": {
+      "highest": 13160,
+      "isCoopHighscore": false
+    },
+    "SideTo": {
+      "highest": 13333,
+      "isCoopHighscore": false
+    },
+    "Despacito": {
+      "highest": 13268,
+      "isCoopHighscore": false
+    },
+    "Dharma": {
+      "highest": 13146,
+      "isCoopHighscore": false
+    },
+    "24K": {
+      "highest": 13186,
+      "isCoopHighscore": false
+    },
+    "AllYouGotta": {
+      "highest": 13308,
+      "isCoopHighscore": false
+    },
+    "Footloose": {
+      "highest": 13130,
+      "isCoopHighscore": false
+    },
+    "HowFar": {
+      "highest": 12983,
+      "isCoopHighscore": false
+    },
+    "MissAmazingKids": {
+      "highest": 12852,
+      "isCoopHighscore": false
+    },
+    "HappyFarmKids": {
+      "highest": 13292,
+      "isCoopHighscore": false
+    },
+    "FearlessPirateKids": {
+      "highest": 13298,
+      "isCoopHighscore": false
+    },
+    "FunkyRobotKids": {
+      "highest": 13222,
+      "isCoopHighscore": false
+    },
+    "PixieLandKids": {
+      "highest": 12731,
+      "isCoopHighscore": false
+    },
+    "WakaWakaKids": {
+      "highest": 13212,
+      "isCoopHighscore": false
+    },
+    "FootlooseKids": {
+      "highest": 13141,
+      "isCoopHighscore": false
+    },
+    "AutomatonALT": {
+      "highest": 13092,
+      "isCoopHighscore": false
+    },
+    "JohnWALT": {
+      "highest": 13083,
+      "isCoopHighscore": false
+    },
+    "DespacitoALT": {
+      "highest": 13272,
+      "isCoopHighscore": false
+    },
+    "TumBumALT": {
+      "highest": 13184,
+      "isCoopHighscore": false
+    },
+    "ChantajeALT": {
+      "highest": 13266,
+      "isCoopHighscore": false
+    },
+    "24KALT": {
+      "highest": 13140,
+      "isCoopHighscore": false
+    },
+    "KissingStrangersALT": {
+      "highest": 13257,
+      "isCoopHighscore": false
+    },
+    "SideToALT": {
+      "highest": 12724,
+      "isCoopHighscore": false
+    },
+    "BubblePopALT": {
+      "highest": 13222,
+      "isCoopHighscore": false
+    },
+    "Thumbs": {
+      "highest": 13278,
+      "isCoopHighscore": false
+    },
+    "AnotherOneALT": {
+      "highest": 13001,
+      "isCoopHighscore": false
+    },
+    "SugarDance": {
+      "highest": 13248,
+      "isCoopHighscore": false
+    },
+    "SwitchHandyman": {
+      "highest": 12760,
+      "isCoopHighscore": false
+    },
+    "SwitchMariachi": {
+      "highest": 12682,
+      "isCoopHighscore": false
+    },
+    "SwitchChef": {
+      "highest": 13155,
+      "isCoopHighscore": false
+    },
+    "Sun": {
+      "highest": 13196,
+      "isCoopHighscore": false
+    },
+    "DharmaALT": {
+      "highest": 12685,
+      "isCoopHighscore": false
+    },
+    "Andy": {
+      "highest": 12914,
+      "isCoopHighscore": false
+    },
+    "WakaWakaALT": {
+      "highest": 13159,
+      "isCoopHighscore": false
+    },
+    "MarioNX": {
+      "highest": 11921,
+      "isCoopHighscore": false
+    },
+    "Error": {
+      "highest": 13285,
+      "isCoopHighscore": false
+    },
+    "Moskau": {
+      "highest": 1066,
+      "isCoopHighscore": false
+    },
+    "AllYouGottaVIP": {
+      "highest": 12456,
+      "isCoopHighscore": false
+    },
+    "SwitchWitch": {
+      "highest": 12196,
+      "isCoopHighscore": false
+    },
+    "LoveBoat": {
+      "highest": 11264,
+      "isCoopHighscore": false
+    },
+    "SwitchSport": {
+      "highest": 12433,
+      "isCoopHighscore": false
+    },
+    "FeelIt": {
+      "highest": 13245,
+      "isCoopHighscore": false
+    },
+    "KIDSFiveLittleMonkeys": {
+      "highest": 13333,
+      "isCoopHighscore": false
+    },
+    "MiGente": {
+      "highest": 13291,
+      "isCoopHighscore": false
+    },
+    "IKissed": {
+      "highest": 4232,
+      "isCoopHighscore": false
+    },
+    "ABBAHoneyHoney": {
+      "highest": 13286,
+      "isCoopHighscore": false
+    },
+    "ABBATheWinner": {
+      "highest": 13182,
+      "isCoopHighscore": false
+    },
+    "ABBALayAllYourLove": {
+      "highest": 13108,
+      "isCoopHighscore": false
+    },
+    "ABBASuperTrooper": {
+      "highest": 13054,
+      "isCoopHighscore": false
+    },
+    "ABBAWaterloo": {
+      "highest": 13313,
+      "isCoopHighscore": false
+    },
+    "NaughtyGirlALT": {
+      "highest": 12071,
+      "isCoopHighscore": false
+    },
+    "Sax": {
+      "highest": 13238,
+      "isCoopHighscore": false
+    },
+    "ABBAGimmeGimme": {
+      "highest": 13300,
+      "isCoopHighscore": false
+    },
+    "KIDSAccidentallyInLove": {
+      "highest": 13152,
+      "isCoopHighscore": false
+    },
+    "KIDSWheelsOnTheBus": {
+      "highest": 13122,
+      "isCoopHighscore": false
+    },
+    "TheFinalCountdown": {
+      "highest": 11382,
+      "isCoopHighscore": false
+    },
+    "WhatLoversDo": {
+      "highest": 13216,
+      "isCoopHighscore": false
+    },
+    "KIDSDayO": {
+      "highest": 12992,
+      "isCoopHighscore": false
+    },
+    "ABBAMammaMia": {
+      "highest": 13117,
+      "isCoopHighscore": false
+    },
+    "ABBAMoneyMoney": {
+      "highest": 12668,
+      "isCoopHighscore": false
+    },
+    "ABBAKnowingMe": {
+      "highest": 13068,
+      "isCoopHighscore": false
+    },
+    "ABBASOS": {
+      "highest": 12791,
+      "isCoopHighscore": false
+    },
+    "ABBAFernando": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "ABBATakeAChance": {
+      "highest": 13122,
+      "isCoopHighscore": false
+    },
+    "ABBAVoulezVous": {
+      "highest": 13189,
+      "isCoopHighscore": false
+    },
+    "ABBADancingQueen": {
+      "highest": 12583,
+      "isCoopHighscore": false
+    },
+    "KIDSIfYoureHappy": {
+      "highest": 13198,
+      "isCoopHighscore": false
+    },
+    "SpinMeRound": {
+      "highest": 2243,
+      "isCoopHighscore": false
+    },
+    "ThatsNotMyName": {
+      "highest": 13175,
+      "isCoopHighscore": false
+    },
+    "DameTu": {
+      "highest": 12998,
+      "isCoopHighscore": false
+    },
+    "KIDSWorkingOnTheRailroad": {
+      "highest": 12399,
+      "isCoopHighscore": false
+    },
+    "Havana": {
+      "highest": 13286,
+      "isCoopHighscore": false
+    },
+    "NewReality": {
+      "highest": 13218,
+      "isCoopHighscore": false
+    },
+    "DancingQueen": {
+      "highest": 13243,
+      "isCoopHighscore": false
+    },
+    "Bang2019": {
+      "highest": 13252,
+      "isCoopHighscore": false
+    },
+    "Rhythm": {
+      "highest": 13285,
+      "isCoopHighscore": false
+    },
+    "WorkWork": {
+      "highest": 13315,
+      "isCoopHighscore": false
+    },
+    "IFeelItComing": {
+      "highest": 13231,
+      "isCoopHighscore": false
+    },
+    "Finesse": {
+      "highest": 13225,
+      "isCoopHighscore": false
+    },
+    "NewWorld": {
+      "highest": 13257,
+      "isCoopHighscore": false
+    },
+    "WorkWorkALT": {
+      "highest": 12840,
+      "isCoopHighscore": false
+    },
+    "KIDSFraggleRock": {
+      "highest": 13276,
+      "isCoopHighscore": false
+    },
+    "NoLie": {
+      "highest": 13225,
+      "isCoopHighscore": false
+    },
+    "BlameMU": {
+      "highest": 12172,
+      "isCoopHighscore": false
+    },
+    "NoTearsLeft": {
+      "highest": 13265,
+      "isCoopHighscore": false
+    },
+    "OMG": {
+      "highest": 13260,
+      "isCoopHighscore": false
+    },
+    "DDUDU": {
+      "highest": 13226,
+      "isCoopHighscore": false
+    },
+    "NiceForWhat": {
+      "highest": 12975,
+      "isCoopHighscore": false
+    },
+    "SangriaWine": {
+      "highest": 13122,
+      "isCoopHighscore": false
+    },
+    "Familiar": {
+      "highest": 13121,
+      "isCoopHighscore": false
+    },
+    "NotYourOrdinary": {
+      "highest": 13150,
+      "isCoopHighscore": false
+    },
+    "Calypso": {
+      "highest": 13261,
+      "isCoopHighscore": false
+    },
+    "NewRules": {
+      "highest": 13147,
+      "isCoopHighscore": false
+    },
+    "TOY": {
+      "highest": 13251,
+      "isCoopHighscore": false
+    },
+    "MiMiMi": {
+      "highest": 13237,
+      "isCoopHighscore": false
+    },
+    "LittleParty": {
+      "highest": 13333,
+      "isCoopHighscore": false
+    },
+    "LittlePartyALT": {
+      "highest": 13048,
+      "isCoopHighscore": false
+    },
+    "FireOnTheDancefloor": {
+      "highest": 13284,
+      "isCoopHighscore": false
+    },
+    "Adeyyo": {
+      "highest": 13296,
+      "isCoopHighscore": false
+    },
+    "ImStillStanding": {
+      "highest": 13095,
+      "isCoopHighscore": false
+    },
+    "RaveIn": {
+      "highest": 13105,
+      "isCoopHighscore": false
+    },
+    "PacMan": {
+      "highest": 13000,
+      "isCoopHighscore": false
+    },
+    "MadLoveALT": {
+      "highest": 13021,
+      "isCoopHighscore": false
+    },
+    "Fire": {
+      "highest": 13265,
+      "isCoopHighscore": false
+    },
+    "WhereAreYou": {
+      "highest": 13249,
+      "isCoopHighscore": false
+    },
+    "MadLove": {
+      "highest": 13305,
+      "isCoopHighscore": false
+    },
+    "OneKiss": {
+      "highest": 13139,
+      "isCoopHighscore": false
+    },
+    "HalaBel": {
+      "highest": 13197,
+      "isCoopHighscore": false
+    },
+    "SweetLittle": {
+      "highest": 13070,
+      "isCoopHighscore": false
+    },
+    "BumBumTamTam": {
+      "highest": 13082,
+      "isCoopHighscore": false
+    },
+    "Shaky": {
+      "highest": 13124,
+      "isCoopHighscore": false
+    },
+    "FinesseALT": {
+      "highest": 12593,
+      "isCoopHighscore": false
+    },
+    "CaPlane": {
+      "highest": 13019,
+      "isCoopHighscore": false
+    },
+    "MamaMia": {
+      "highest": 13194,
+      "isCoopHighscore": false
+    },
+    "Narco": {
+      "highest": 13197,
+      "isCoopHighscore": false
+    },
+    "ObsessionRetake": {
+      "highest": 13125,
+      "isCoopHighscore": false
+    },
+    "SweetSensation": {
+      "highest": 13089,
+      "isCoopHighscore": false
+    },
+    "Sugar": {
+      "highest": 12957,
+      "isCoopHighscore": false
+    },
+    "PocoLoco": {
+      "highest": 12989,
+      "isCoopHighscore": false
+    },
+    "HavanaALT": {
+      "highest": 13180,
+      "isCoopHighscore": false
+    },
+    "WaterMe": {
+      "highest": 13261,
+      "isCoopHighscore": false
+    },
+    "MiloscW": {
+      "highest": 13061,
+      "isCoopHighscore": false
+    },
+    "BumBumTamTamALT": {
+      "highest": 12724,
+      "isCoopHighscore": false
+    },
+    "NewRulesALT": {
+      "highest": 12773,
+      "isCoopHighscore": false
+    },
+    "WaterMeALT": {
+      "highest": 12560,
+      "isCoopHighscore": false
+    },
+    "WhereAreYouALT": {
+      "highest": 13058,
+      "isCoopHighscore": false
+    },
+    "NinjaKids": {
+      "highest": 11872,
+      "isCoopHighscore": false
+    },
+    "GhostKids": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "JurassicKids": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "MerryChristmasKids": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "MonstersAcademyKids": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "OMGALT": {
+      "highest": 12932,
+      "isCoopHighscore": false
+    },
+    "MakeMeFeel": {
+      "highest": 13297,
+      "isCoopHighscore": false
+    },
+    "MiMiMiALT": {
+      "highest": 13166,
+      "isCoopHighscore": false
+    },
+    "AmericanBoy": {
+      "highest": 11371,
+      "isCoopHighscore": false
+    },
+    "SpaceGirlKids": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "TheExplorerKids": {
+      "highest": 0,
+      "isCoopHighscore": false
+    },
+    "Bang2019ALT": {
+      "highest": 13258,
+      "isCoopHighscore": false
+    },
+    "TheTimeOfMyLife": {
+      "highest": 12339,
+      "isCoopHighscore": false
+    },
+    "copperhead": {
+      "highest": 13275,
+      "isCoopHighscore": false
+    },
+    "24k": {
+      "highest": 13186,
+      "isCoopHighscore": false
+    },
+    "SideWinder": {
+      "highest": 13206,
+      "isCoopHighscore": false
+    },
+    "Bang2019VIP": {
+      "highest": 13084,
+      "isCoopHighscore": false
+    },
+    "OnNePortePas": {
+      "highest": 13150,
+      "isCoopHighscore": false
+    },
+    "Bremen": {
+      "highest": 13131,
+      "isCoopHighscore": false
+    },
+    "DoneForMe": {
+      "highest": 13283,
+      "isCoopHighscore": false
+    },
+    "HavanaAlt": {
+      "highest": 13180,
+      "isCoopHighscore": false
+    },
+    "ddudu": {
+      "highest": 13207,
+      "isCoopHighscore": false
+    },
+    "omg": {
+      "highest": 13260,
+      "isCoopHighscore": false
+    },
+    "workwork": {
+      "highest": 13315,
+      "isCoopHighscore": false
+    },
+    "NewRealityVIP": {
+      "highest": 13077,
+      "isCoopHighscore": false
+    },
+    "SwishSwishALT": {
+      "highest": 12646,
+      "isCoopHighscore": false
+    },
+    "LegSongCHN": {
+      "highest": 13032,
+      "isCoopHighscore": false
+    },
+    "KaraokeForeverCHN": {
+      "highest": 13142,
+      "isCoopHighscore": false
+    },
+    "Medicina": {
+      "highest": 13328,
+      "isCoopHighscore": false
+    },
+    "BarbieGirl": {
+      "highest": 13040,
+      "isCoopHighscore": false
+    },
+    "Lush": {
+      "highest": 13012,
+      "isCoopHighscore": false
+    },
+    "Criminal": {
+      "highest": 13297,
+      "isCoopHighscore": false
+    },
+    "Rockafeller": {
+      "highest": 13082,
+      "isCoopHighscore": false
+    },
+    "Tumbum": {
+      "highest": 13322,
+      "isCoopHighscore": false
+    },
+    "Johnw": {
+      "highest": 13117,
+      "isCoopHighscore": false
+    },
+    "JDMFlamingoClassic": {
+      "highest": 12650,
+      "isCoopHighscore": false
+    },
+    "JDMFlamingoRock": {
+      "highest": 12849,
+      "isCoopHighscore": false
+    },
+    "JDMGreekGym": {
+      "highest": 12605,
+      "isCoopHighscore": false
+    },
+    "JDMJellyfish": {
+      "highest": 12897,
+      "isCoopHighscore": false
+    },
+    "JDMKazachok": {
+      "highest": 12817,
+      "isCoopHighscore": false
+    },
+    "JDMNinja": {
+      "highest": 8966,
+      "isCoopHighscore": false
+    },
+    "JDMPianoPlayerCrazy": {
+      "highest": 12706,
+      "isCoopHighscore": false
+    },
+    "JDMPopDiscoStar": {
+      "highest": 11394,
+      "isCoopHighscore": false
+    },
+    "JDMVahine": {
+      "highest": 8331,
+      "isCoopHighscore": false
+    },
+    "JDMVogue": {
+      "highest": 11641,
+      "isCoopHighscore": false
+    },
+    "LuhYaPapiDLC": {
+      "highest": 11294,
+      "isCoopHighscore": false
+    },
+    "4x4": {
+      "highest": 12350,
+      "isCoopHighscore": false
+    }
+  },
+  "language": "en",
+  "syncVersions": {
+    "jd2017": {
+      "pc": {
+        "version": 99,
+        "timestamp": 1569852920128
+      },
+      "x1": {
+        "version": 4632,
+        "timestamp": 1556968515083
+      },
+      "nx": {
+        "version": 279,
+        "timestamp": 1547320725613
+      },
+      "ps4": {
+        "version": 743,
+        "timestamp": 1545245781231
+      },
+      "wiiu": {
+        "version": 3,
+        "timestamp": 1527701770494
+      }
+    },
+    "jd2019": {
+      "nx": {
+        "version": 623,
+        "timestamp": 1560441950228
+      },
+      "x1": {
+        "version": 2173,
+        "timestamp": 1558893509038
+      },
+      "wiiu": {
+        "version": 136,
+        "timestamp": 1555699663303
+      },
+      "ps4": {
+        "version": 134,
+        "timestamp": 1542665891097
+      }
+    },
+    "jd2016": {
+      "x1": {
+        "version": 0,
+        "timestamp": 1556968581022
+      }
+    },
+    "jd2020": {
+      "nx": {
+        "version": 0,
+        "timestamp": 1555166340115
+      }
+    },
+    "jdcompanion": {
+      "ios": {
+        "version": 39,
+        "timestamp": 1553348389382
+      },
+      "android": {
+        "version": 1,
+        "timestamp": 1549806385885
+      }
+    },
+    "jd2018": {
+      "nx": {
+        "version": 7417,
+        "timestamp": 1558804849463
+      },
+      "x1": {
+        "version": 10922,
+        "timestamp": 1553725570648
+      },
+      "ps4": {
+        "version": 1209,
+        "timestamp": 1551562737692
+      },
+      "wiiu": {
+        "version": 230,
+        "timestamp": 1534429180559
+      }
+    }
+  },
+  "otherPids": [],
+  "stats": {},
+  "profileId": "eba79f49-64e7-468a-9d15-d34ffe68e1ff",
+  "diamondPoints": 764,
+  "unlockedPortraitBorders": []
+}
