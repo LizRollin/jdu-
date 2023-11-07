@@ -191,28 +191,6 @@ app.post("/wdf/v1/assign-room", (req, res) => {
 	"room": room
 });
 });
-//Database
-app.get("/songdb/v1/songs", function(request, response) {
-  const skuId = request.header("X-SkuId");
-  switch (skuId) {
-    case "jd2015-pc-cmos":
-      // Set the variables to SongDB and Carousel
-      var OnlineDB = require("./files/songs.json");
-
-      for (var song in OnlineDB) {
-        var obj = OnlineDB[song];
-        obj.assets["banner_bkgImageUrl"] = obj.assets["expandBkgImageUrl"];
-      }
-      return response.send(OnlineDB);
-    break;
-    case "jd2017-pc-ww":
-      response.send(SongDB);
-    break;
-    default:
-      response.send("Hey there!" + "\n" + "Cosmos's SongDB are currently unavaliable through a browser");
-    break;
-  }
-});
 
 app.get("/wdf/v1/rooms/" + room + "/*", (req, res) => {
   var ticket = req.header("Authorization")
