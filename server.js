@@ -5,7 +5,7 @@ const fs = require("fs");
 const app = express();
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var bodyParser = require('body-parser')
-sku
+
 // x-www-form-urlencoded
 
 app.use(bodyParser.urlencoded({ extended: false }))
@@ -20,8 +20,8 @@ const configuration = require("./files/configuration.json");
 const entities = require("./files/entities.json");
 const entitiesphone = require("./files/entities-phone.json");
 const party = require("./files/party.json");
-const skupackages = require("./files/skupackages.json");
 const skuconstants = require("./files/skuconstants.json");
+const skupackages = require("./files/skupackages.json");
 const songs = require("./files/songs.json");
 const subscription = require("./files/subscription.json");
 const users = require("./files/users.json");
