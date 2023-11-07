@@ -26,7 +26,6 @@ var skupackages = require("./files/skupackages.json");
 var profiles = require("./files/profiles.json");
 var quests = require("./files/quests.json");
 var songs = require("./files/songs.json");
-var news = require("./files/news.json");
 var sweat = require("./files/sweat.json");
 var onlinequest = require("./files/onlinequest.json");
 var playlist = require("./files/playlist.json");
