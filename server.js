@@ -15,6 +15,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
 const prodwsurl = "https://jmcs-prod.just-dance.com"
+const room = "mainjd2024"
 
 const configuration = require("./files/configuration.json");
 const entities = require("./files/entities.json");
