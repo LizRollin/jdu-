@@ -14,6 +14,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // json
 
 app.use(bodyParser.json())
+
 var prodwsurl = "https://jmcs-prod.just-dance.com"
 
 var entities = require("./files/entities.json");
