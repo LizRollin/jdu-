@@ -179,6 +179,10 @@ app.get("/community-remix/v1/active-contest", (req, res) => {
   res.send([]);
 });
 
+app.get("/questdb/v1/quests", (req, res) => {
+  res.send(quests);
+});
+
 app.get("/leaderboard/v1/maps/*", (req, res) => {
   var ticket = req.header("Authorization")
   var contentlen = req.header("Content-Length")
