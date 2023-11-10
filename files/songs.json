@@ -241,23 +241,23 @@
 		"serverChangelist": 544216
 	},
 	"CantTameHer": {
-		"artist": "Jain",
+		"artist": "Zara Larsson",
 		"assets": {
 			"coach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993199132722/Canttameher_coach_1.png",
 			"coverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993513697341/canttameher_cover.png",
 			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993513697341/canttameher_cover.png",
-			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1167289464939352156/1169807204250046554/image.png",
+			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009994423869450/Canttameher_title.png",
 			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Tusa/x1/Tusa_Cover_AlbumCoach.tga.ckd/3c580c14bdbfe1cbe7298b5a69aa0dcf.ckd",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009994071556256/Canttameher_map_bkg.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1172661790455373865/canttameher_banner_coach.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993199132722/Canttameher_coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1168996180542357554/1169009993513697341/canttameher_cover.png"
 		},
-		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28515,57029,85544,114059,142574,171089,199604,228119,256633,285148,313663,342178,370693,399208,427723,456237,484752,513267,541782,570297,598812,627327,655841,684356,712871,741386,769901,798416,826930,855445,883960,912475,940990,969505,998020,1026534,1055049,1083564,1112079,1140594,1169109,1197624,1226138,1254653,1283168,1311683,1340198,1368713,1397228,1425742],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CantTameHer/CantTameHer_AudioPreview.ogg\"}",
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,15824,31648,47473,63297,79121,94945,110769,126593,142418,158242,174066,189890,205714,221538,237363,253187,269011,284835,300659,316484,332308,348132,363956,379780,395604,411429,427253,443077,458901,474725,490549,506374,522198,538022,553846,569670,585495,601319,617143,632967,648791,664615,680440,696264,712088,727912,743736,759560,775385,791209,807033,822857,838681,854505,870330,886154,901978,917802,933626,949451,965275,981099,996923,1012747,1028571,1044396,1060220,1076044,1091868,1107692,1123516,1139341,1155165,1170989,1186813,1202637,1218462,1234286,1250110,1265934,1281758,1297582,1313407,1329231,1345055,1360879,1376703,1392527,1408352,1424176,1440000,1455824,1471648,1487473,1503297,1519121,1534945,1550769,1566593,1582418,1598242,1614066,1629890,1645714,1661538,1677363,1693187,1709011,1724835],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-6,\"endBeat\":317,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":50,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CantTameHer/CantTameHer_AudioPreview.ogg\"}",
 		"coachCount": 1,
-		"credits": "CREDITS TO BE STRING",
+		"credits": "Clementine",
 		"difficulty": 3,
 		"jdmAttributes": [],
-		"lyricsColor": "0F91FFFF",
+		"lyricsColor": "4BF7E9FF",
 		"lyricsType": 0,
 		"mainCoach": -1,
 		"mapLength": 191.881,
@@ -281,7 +281,7 @@
 			"Main",
 			"subscribedSong"
 		],
-		"title": "Makeba",
+		"title": "Can't Tame Her",
 		"urls": {
 			"jmcs://jd-contents/CantTameHer/CantTameHer_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/1168996180542357554/1169010002535649421/canttameher_audiopreview.ogg"
 		},

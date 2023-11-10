@@ -1,0 +1,12 @@
+{
+	"__class": "ContentAuthorizationEntry",
+	"duration": 300,
+	"changelist": 564656,
+	"urls": {
+		"jmcs://jd-contents/CantTameHer/CantTameHer_ULTRA.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1172663274077179944/canttameher.vp9.720_ULTRA.webm",
+		"jmcs://jd-contents/CantTameHer/CantTameHer_MID.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1172663274077179944/canttameher.vp9.720_ULTRA.webm",
+		"jmcs://jd-contents/CantTameHer/CantTameHer_LOW.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1172663274077179944/canttameher.vp9.720_ULTRA.webm",
+		"jmcs://jd-contents/CantTameHer/CantTameHer_HIGH.webm": "https://cdn.discordapp.com/attachments/1171538087667564636/1172663274077179944/canttameher.vp9.720_ULTRA.webm",
+		"jmcs://jd-contents/CantTameHer/CantTameHer.ogg": "https://cdn.discordapp.com/attachments/1171538087667564636/1172663565572902983/canttameher.ogg"
+	}
+}
