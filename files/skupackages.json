@@ -34,5 +34,11 @@
 		"storageType": 0,
 		"url": "https://cdn.discordapp.com/attachments/1171538087667564636/1172348999991296160/calmdown_main_scene_pc.zip",
 		"version": 1
+	},
+	"CannedHeat_mapContent": {
+		"md5": "43ccceca959a1be95760e77079373ffc",
+		"storageType": 0,
+		"url": "https://cdn.discordapp.com/attachments/1168996180542357554/1172651581095821402/cannedheat_main_scene_pc.zip",
+		"version": 1
 	}
 }
