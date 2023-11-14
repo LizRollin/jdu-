@@ -57,7 +57,7 @@
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604530345226290/AQueda_Map_BKG.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469704455737404/AQueda_Coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465173294592091/AQueda_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795471010050088/AQueda_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805901887574106/AQueda_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22154,44308,66462,88615,110769,132923,155077,177231,199385,221538,243692,265846,288000,310154,332308,354462,376615,398769,420923,443077,465231,487385,509538,531692,553846,576000,598154,620308,642462],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/AQueda/AQueda_AudioPreview.ogg\"}",
 		"coachCount": 1,
@@ -103,7 +103,7 @@
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604529619607562/Afterparty_map_bkg.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469704107589682/Afterparty_coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465173009367181/AfterParty_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795470645153892/AfterParty_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805901233258578/AfterParty_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24828,49655,74483,99310,124138,148966,173793,198621,223448,248276,273103,297931,322759,347586,372414,397241,422069,446897,471724,496552,521379,546207,571034,595862,620690,645517,670345,695172,720000,744828,769655,794483,819310,844138,868966,893793,918621,943448,968276,993103,1017931],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":394,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":61,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/AfterParty/AfterParty_AudioPreview.ogg\"}",
 		"coachCount": 1,
@@ -150,7 +150,7 @@
 			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465173546254418/Butter_cover.png",
 			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1173477350122455100/1173477408318439495/Butter_Title.png",
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604530890494043/Butter_Map_BKG.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795471362367518/Butter_banner.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805902621573201/Butter_banner.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469704799649813/Butter_Coach_1.png",
 			"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469705122615436/Butter_Coach_2.png",
 			"phoneCoach3ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469705693057025/Butter_Coach_3.png",
@@ -203,7 +203,7 @@
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469706766778450/Calmdown_coach_1.png",
 			"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469707135881308/Calmdown_coach_2.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465174204756059/CalmDown_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795472100569118/CalmDown_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805908401344573/CalmDown_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 26916, 53832, 80748, 107664, 134579, 161495, 188411, 215327, 242243, 269159, 296075, 322991, 349907, 376822, 403738, 430654, 457570, 484486, 511402, 538318, 565234, 592150, 619065, 645981, 672897, 699813, 726729, 753645, 780561, 807477, 834393, 861308, 888224, 915140, 942056, 968972, 995888, 1022804, 1049720, 1076636, 1103551, 1130467, 1157383, 1184299, 1211215, 1238131, 1265047, 1291963, 1318879, 1345794, 1372710, 1399626, 1426542, 1453458, 1480374, 1507290, 1534206, 1561121, 1588037, 1614953, 1641869, 1668785, 1695701, 1722617, 1749533, 1776449, 1803364, 1830280, 1857196, 1884112, 1911028, 1937944, 1964860, 1991776, 2018692, 2045607, 2072523, 2099439, 2126355, 2153271, 2180187, 2207103, 2234019, 2260935, 2287850, 2314766, 2341682, 2368598, 2395514, 2422430, 2449346, 2476262, 2503178, 2530093, 2557009, 2583925, 2610841],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":395,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":-15.0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CalmDown/CalmDown_AudioPreview.ogg\"}",
 		"coachCount": 2,
@@ -248,7 +248,7 @@
 			"cover_smallImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465174741614622/CantTameHer_cover.png",
 			"expandBkgImageUrl": "https://cdn.discordapp.com/attachments/1173477350122455100/1173477409694163105/Canttameher_title.png",
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604533054746634/Canttameher_map_bkg.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795472784248902/CantTameHer_banner.png",
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805909642858506/CantTameHer_banner.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469738530246686/Canttameher_coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465174741614622/CantTameHer_cover.png"
 		},
@@ -297,7 +297,7 @@
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604532639506432/Cannedheat_map_bkg.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469707471441950/CannedHeat_Coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465174485778462/CannedHeat_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795472423526491/CannedHeat_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805909017886810/CannedHeat_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22500,45000,67500,90000,112500,135000,157500,180000,202500,225000,247500,270000,292500,315000,337500,360000,382500,405000,427500,450000,472500,495000,517500,540000,561801,583602,605403,628278,651152,673554,695956,718358,740760,763162,785563,807965,830523,853080,875637,898194,920751,943309,965866,988423,1011138,1033853,1056567,1079282,1101531,1123779,1146028,1168277,1190991,1213706,1236421,1258670,1280918,1303167],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-8,\"endBeat\":447,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":63,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CannedHeat/CannedHeat_AudioPreview.ogg\"}",
 		"coachCount": 1,
@@ -346,7 +346,7 @@
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469738882580551/ChaiseLongue_Coach_1.png",
 			"phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469739251662848/ChaiseLongue_Coach_2.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465175286886460/ChaiseLongue_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795473094619249/ChaiseLongue_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805910309732382/ChaiseLongue_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 18000, 36000, 54000, 72000, 90000, 108000, 126000, 144000, 162000, 180000, 198000, 216000, 234000, 252000, 270000, 288000, 306000, 324000, 342000, 360000, 378000, 396000, 414000, 432000, 450000, 468000, 486000, 504000, 522000, 540000, 558000, 576000, 594000, 612000, 630000, 648000, 666000, 684000, 702000, 720000, 738000, 756000, 774000, 792000, 810000, 828000, 846000, 864000, 882000, 900000, 918000, 936000, 954000, 972000, 990000, 1008000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":338,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":62,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/ChaiseLongue/ChaiseLongue_AudioPreview.ogg\"}",
 		"coachCount": 2,
@@ -393,7 +393,7 @@
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604534321422407/Cradles_map_bkg.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469739725635644/Cradles_coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465175517577236/Cradles_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795473434353664/Cradles_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805910867595385/Cradles_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,21311,42671,63983,85295,106655,127967,149327,170639,191999,213311,234671,255983,277295,298655,319967,341327,362639,383999,405311,426671,447983,469295,490655,511967,533327,554639,575999,597311,618671,639983,661295,682655,703967,725327,746639,767999,789311,810671,831983,853295,874655,895967,917327,938639,959999,981311,1002671,1023983,1045294,1066654,1087966,1109326,1130638,1151998,1173310,1194670,1215982,1237294,1258654,1279966,1301326,1322638,1343998,1365310,1386670,1407982,1429294],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-11,\"endBeat\":486,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":67,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Cradles/Cradles_AudioPreview.ogg\"}",
 		"coachCount": 1,
@@ -441,7 +441,7 @@
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604534963154974/Cureforme_map_bkg.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469740124078090/Cureforme_coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465175785996328/CureForMe_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795473769910384/CureForMe_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805911421227020/CureForMe_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,30000,60000,90000,120000,150000,180000,210000,240000,270000,300000,330000,360000,390000,420000,450000,480000,510000,540000,570000,600000,630000,660000,690000,720000,750000,780000,810000,839999,870000,900000,930000,960000,990000,1020000,1050000,1080000,1110000,1140000,1170000,1200000,1230000,1260000,1290000,1320000,1350000,1379999,1410000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/CureForMe/CureForMe_AudioPreview.ogg\"}",
 		"coachCount": 1,
@@ -489,7 +489,7 @@
 			"expandCoachImageUrl": "https://cdn.discordapp.com/attachments/1173477938809815042/1173604597911273544/Despecha_map_bkg.png",
 			"phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/1173469633693630474/1173469740879069184/Despecha_coach_1.png",
 			"phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/1173465049390661662/1173465231159214180/DESPECHA_cover.png",
-			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173477901639888987/1173795634885689374/DESPECHA_banner.png"
+			"banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/1173805837156876409/1173805925866414110/DESPECHA_banner.png"
 		},
 		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,22154,44308,66462,88615,110769,132923,155077,177231,199385,221538,243692,265846,288000,310154,332308,354462,376615,398769,420923,443077,465231,487385,509538,531692,553846,576000,598154,620308,642462,664615,686769,708923,731077,753231,775385,797538,819692,841846,864000,886154,908308,930462,952615,974769,996923,1019077,1041231,1063385,1085538,1107692,1129846,1152000,1174154,1196308,1218462,1240615,1262769,1284923,1307077,1329231,1351385,1373538,1395692,1417846,1440000,1462154,1484308,1506462,1528615,1550769],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-3,\"endBeat\":313,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":47,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/DESPECHA/DESPECHA_AudioPreview.ogg\"}",
 		"coachCount": 1,
