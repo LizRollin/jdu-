@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/CopaCabana/CopaCabana_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCopaCabana_ULTRA.webm?v=1617293059359",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCopaCabana_HIGH.webm?v=1617292276357",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCopaCabana_MID.webm?v=1617291632375",
+    "jmcs://jd-contents/CopaCabana/CopaCabana_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCopaCabana_LOW.webm?v=1617290835364",
+    "jmcs://jd-contents/CopaCabana/CopaCabana.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCopaCabana.ogg?v=1617290724902"
+  }
+}

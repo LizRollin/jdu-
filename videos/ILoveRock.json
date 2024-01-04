@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/ILoveRock/ILoveRock_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FILoveRock_ULTRA.webm?v=1628452200641",
+		"jmcs://jd-contents/ILoveRock/ILoveRock_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FILoveRock_MID.webm?v=1628452218849",
+		"jmcs://jd-contents/ILoveRock/ILoveRock_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FILoveRock_LOW.webm?v=1628452221808",
+		"jmcs://jd-contents/ILoveRock/ILoveRock_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FILoveRock_HIGH.webm?v=1628452211527",
+		"jmcs://jd-contents/ILoveRock/ILoveRock.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FILoveRock.ogg?v=1628452224559"
+	}
+}

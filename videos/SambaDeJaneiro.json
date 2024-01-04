@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 509807,
+  "urls": {
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSambaDeJaneiro_ULTRA.webm?v=1614090663281",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSambaDeJaneiro_HIGH.webm?v=1614090464338",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSambaDeJaneiro_MID.webm?v=1614090367326",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSambaDeJaneiro_LOW.webm?v=1614090307368",
+    "jmcs://jd-contents/SambaDeJaneiro/SambaDeJaneiro.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FSambaDeJaneiro.ogg?v=1614090289380"
+  }
+}

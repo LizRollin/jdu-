@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/KissMeMore/KissMeMore_ULTRA.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/KissMeMore_ULTRA.webm",
+		"jmcs://jd-contents/KissMeMore/KissMeMore_MID.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/KissMeMore_MID.webm",
+		"jmcs://jd-contents/KissMeMore/KissMeMore_LOW.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/KissMeMore_LOW.webm",
+		"jmcs://jd-contents/KissMeMore/KissMeMore_HIGH.webm" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/KissMeMore_HIGH.webm",
+		"jmcs://jd-contents/KissMeMore/KissMeMore.ogg" : "https://cdn.glitch.me/83d93f9b-c51b-4770-86ea-278f457fb7a4/KissMeMore_AUDIO.ogg"
+	}
+}

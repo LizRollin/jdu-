@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/MeToo/MeToo_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMeToo_ULTRA.webm?v=1628462516827",
+		"jmcs://jd-contents/MeToo/MeToo_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMeToo_MID.webm?v=1628462511592",
+		"jmcs://jd-contents/MeToo/MeToo_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMeToo_LOW.webm?v=1628462507281",
+		"jmcs://jd-contents/MeToo/MeToo_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMeToo_HIGH.webm?v=1628462512291",
+		"jmcs://jd-contents/MeToo/MeToo.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FMeToo.ogg?v=1628462492863"
+	}
+}

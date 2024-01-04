@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTillTheWorldEnds_ULTRA.webm?v=1614094066309",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTillTheWorldEnds_HIGH.webm?v=1614093861308",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTillTheWorldEnds_MID.webm?v=1614093724752",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTillTheWorldEnds_LOW.webm?v=1614093641264",
+    "jmcs://jd-contents/TillTheWorldEnds/TillTheWorldEnds.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FTillTheWorldEnds.ogg?v=1614093617339"
+  }
+}

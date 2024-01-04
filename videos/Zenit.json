@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Zenit/Zenit_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FZenit_ULTRA.webm?v=1611049575014",
+    "jmcs://jd-contents/Zenit/Zenit_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FZenit_HIGH.webm?v=1611049564067",
+    "jmcs://jd-contents/Zenit/Zenit_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FZenit_MID.webm?v=1611049543227",
+    "jmcs://jd-contents/Zenit/Zenit_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FZenit_LOW.webm?v=1611049540507",
+    "jmcs://jd-contents/Zenit/Zenit.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FZenit.ogg?v=1611091585249"
+  }
+}

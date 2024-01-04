@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BetterWhen/BetterWhen_ULTRA.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.BetterWhen_ULTRA.webm?v=1612194079649",
+        "jmcs://jd-contents/BetterWhen/BetterWhen_MID.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.BetterWhen_MID.webm?v=1612193604161",
+        "jmcs://jd-contents/BetterWhen/BetterWhen_LOW.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.BetterWhen_LOW.webm?v=1612193532653",
+        "jmcs://jd-contents/BetterWhen/BetterWhen_HIGH.webm": "https://cdn.glitch.com/c79885f9-42cc-4227-bcc7-ca8ae201a613%2Fclean.BetterWhen_HIGH.webm?v=1612193751366",
+        "jmcs://jd-contents/BetterWhen/BetterWhen.ogg": "https://cdn.glitch.com/9f987805-51e9-400c-88d2-cba974ed2d57%2FBetterWhen.ogg?v=1612193295634"
+    }
+}

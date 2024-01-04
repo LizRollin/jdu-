@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Superstition/Superstition_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperstition_ULTRA.webm?v=1628909080116",
+		"jmcs://jd-contents/Superstition/Superstition_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperstition_MID.webm?v=1628909020955",
+		"jmcs://jd-contents/Superstition/Superstition_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperstition_LOW.webm?v=1628908964125",
+		"jmcs://jd-contents/Superstition/Superstition_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperstition_HIGH.webm?v=1628909032933",
+		"jmcs://jd-contents/Superstition/Superstition.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FSuperstition.ogg?v=1628908963934"
+	}
+}

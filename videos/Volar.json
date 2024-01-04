@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Volar/Volar_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FVolar_ULTRA.webm?v=1613064496539",
+    "jmcs://jd-contents/Volar/Volar_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FVolar_HIGH.webm?v=1613064471806",
+    "jmcs://jd-contents/Volar/Volar_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FVolar_MID.webm?v=1613064475675",
+    "jmcs://jd-contents/Volar/Volar_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FVolar_LOW.webm?v=1613064450408",
+    "jmcs://jd-contents/Volar/Volar.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b%2FVolar.ogg?v=1613064448016"
+  }
+}

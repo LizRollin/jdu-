@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/LastChristmas/LastChristmas_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLastChristmas_ULTRA.webm?v=1628453098710",
+		"jmcs://jd-contents/LastChristmas/LastChristmas_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLastChristmas_MID.webm?v=1628453091588",
+		"jmcs://jd-contents/LastChristmas/LastChristmas_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLastChristmas_LOW.webm?v=1628453085565",
+		"jmcs://jd-contents/LastChristmas/LastChristmas_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLastChristmas_HIGH.webm?v=1628453091310",
+		"jmcs://jd-contents/LastChristmas/LastChristmas.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FLastChristmas.ogg?v=1628453084362"
+	}
+}

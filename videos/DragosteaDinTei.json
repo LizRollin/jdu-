@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDragosteaDinTei_ULTRA.webm?v=1628450769033",
+		"jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDragosteaDinTei_MID.webm?v=1628450808016",
+		"jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDragosteaDinTei_LOW.webm?v=1628450810045",
+		"jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDragosteaDinTei_HIGH.webm?v=1628450795688",
+		"jmcs://jd-contents/DragosteaDinTei/DragosteaDinTei.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FDragosteaDinTei.ogg?v=1628450812132"
+	}
+}

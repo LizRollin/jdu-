@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Magenta/Magenta_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMagenta_HIGH.webm?v=1614074570270",
+    "jmcs://jd-contents/Magenta/Magenta_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMagenta_HIGH.webm?v=1614074570270",
+    "jmcs://jd-contents/Magenta/Magenta_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMagenta_MID.webm?v=1614074523276",
+    "jmcs://jd-contents/Magenta/Magenta_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMagenta_LOW.webm?v=1614074469265",
+    "jmcs://jd-contents/Magenta/Magenta.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FMagenta.ogg?v=1614072629208"
+  }
+}

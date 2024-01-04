@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_ULTRA.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FOldTownRoadALT_ULTRA.webm?v=1629252409569",
+		"jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_MID.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FOldTownRoadALT_MID.webm?v=1629252379025",
+		"jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_LOW.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FOldTownRoadALT_LOW.webm?v=1629252381199",
+		"jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT_HIGH.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FOldTownRoadALT_HIGH.webm?v=1629252387572",
+		"jmcs://jd-contents/OldTownRoadALT/OldTownRoadALT.ogg" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FOldTownRoadALT.ogg?v=1629252377645"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/PacaDance/PacaDance_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FPacaDance_ULTRA.webm?v=1614072918455",
+    "jmcs://jd-contents/PacaDance/PacaDance_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FPacaDance_HIGH.webm?v=1614072693240",
+    "jmcs://jd-contents/PacaDance/PacaDance_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FPacaDance_MID.webm?v=1614072625416",
+    "jmcs://jd-contents/PacaDance/PacaDance_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FPacaDance_LOW.webm?v=1614072545282",
+    "jmcs://jd-contents/PacaDance/PacaDance.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FPacaDance.ogg?v=1614072518255"
+  }
+}

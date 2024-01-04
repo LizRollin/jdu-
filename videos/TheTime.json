@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/TheTime/TheTime_ULTRA.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTheTime_ULTRA.webm?v=1629251228555",
+		"jmcs://jd-contents/TheTime/TheTime_MID.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTheTime_MID.webm?v=1629251200690",
+		"jmcs://jd-contents/TheTime/TheTime_LOW.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTheTime_LOW.webm?v=1629251190165",
+		"jmcs://jd-contents/TheTime/TheTime_HIGH.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTheTime_HIGH.webm?v=1629251218956",
+		"jmcs://jd-contents/TheTime/TheTime.ogg" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTheTime.ogg?v=1629251194041"
+	}
+}

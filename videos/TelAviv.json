@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/TelAviv/TelAviv_ULTRA.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTelAviv_ULTRA.webm?v=1629251102186",
+		"jmcs://jd-contents/TelAviv/TelAviv_MID.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTelAviv_MID.webm?v=1629251046550",
+		"jmcs://jd-contents/TelAviv/TelAviv_LOW.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTelAviv_LOW.webm?v=1629251051127",
+		"jmcs://jd-contents/TelAviv/TelAviv_HIGH.webm" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTelAviv_HIGH.webm?v=1629251058564",
+		"jmcs://jd-contents/TelAviv/TelAviv.ogg" : "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FTelAviv.ogg?v=1629251037016"
+	}
+}

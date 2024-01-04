@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/Bicicleta/Bicicleta_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBicicleta_ULTRA.webm?v=1628452849832",
+		"jmcs://jd-contents/Bicicleta/Bicicleta_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBicicleta_MID.webm?v=1628452852776",
+		"jmcs://jd-contents/Bicicleta/Bicicleta_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBicicleta_LOW.webm?v=1628452846597",
+		"jmcs://jd-contents/Bicicleta/Bicicleta_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBicicleta_HIGH.webm?v=1628452845979",
+		"jmcs://jd-contents/Bicicleta/Bicicleta.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FBicicleta.ogg?v=1628452844270"
+	}
+}

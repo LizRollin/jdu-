@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/NewWorld/NewWorld_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNewWorld_ULTRA.webm?v=1628900277664",
+		"jmcs://jd-contents/NewWorld/NewWorld_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNewWorld_MID.webm?v=1628900263459",
+		"jmcs://jd-contents/NewWorld/NewWorld_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNewWorld_LOW.webm?v=1628900264329",
+		"jmcs://jd-contents/NewWorld/NewWorld_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNewWorld_HIGH.webm?v=1628900263459",
+		"jmcs://jd-contents/NewWorld/NewWorld.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FNewWorld.ogg?v=1628900254538"
+	}
+}

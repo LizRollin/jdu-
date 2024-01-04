@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/CheapThrillsALT/CheapThrillsALT_ULTRA.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCheapThrillsALT_ULTRA.webm?v=1628458585149",
+		"jmcs://jd-contents/CheapThrillsALT/CheapThrillsALT_MID.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCheapThrillsALT_MID.webm?v=1628458560939",
+		"jmcs://jd-contents/CheapThrillsALT/CheapThrillsALT_LOW.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCheapThrillsALT_LOW.webm?v=1628458560801",
+		"jmcs://jd-contents/CheapThrillsALT/CheapThrillsALT_HIGH.webm" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCheapThrillsALT_HIGH.webm?v=1628458568648",
+		"jmcs://jd-contents/CheapThrillsALT/CheapThrillsALT.ogg" : "https://cdn.glitch.com/da420b31-7737-45a1-b1e4-809473a2fcd0%2FCheapThrillsALT.ogg?v=1628458558206"
+	}
+}
